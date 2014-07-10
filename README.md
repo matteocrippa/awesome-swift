@@ -15,7 +15,7 @@ Feel free to contribute!
 
 *Interesting snippets related to color management and utilty.*
 
-[hex to uicolor](https://github.com/yeahdongcn/UIColor-Hex-Swift) - an hex to uicolor converter
+* [hex to uicolor](https://github.com/yeahdongcn/UIColor-Hex-Swift) - an hex to uicolor converter
 
 
 ## Dependency Manager
@@ -39,7 +39,7 @@ Feel free to contribute!
 * [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition
 * [pinterest transition](https://github.com/demon1105/PinterestSwift) - Pinterest style transition
 * [ripple button](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation
-* 
+ 
 
 ## Utility
 

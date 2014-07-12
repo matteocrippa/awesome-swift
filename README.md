@@ -10,6 +10,7 @@ Feel free to contribute!
     - [Dependency Manager](#dependency-manager)
     - [Fonts](#fonts)
     - [Framework](#framework)
+    - [JSON](#json)
     - [Transitions](#transitions)
     - [Utility](#utility)
     - [Testing](#testing)
@@ -47,6 +48,11 @@ Feel free to contribute!
 
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for swift
 
+## JSON
+*Struggling using json data? Here you are some interesting way to handle it*
+
+* [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in swift
+* [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in swift with error handling
 
 ## Transitions
 

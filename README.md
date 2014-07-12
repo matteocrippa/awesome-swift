@@ -6,6 +6,9 @@ Feel free to contribute!
 
 - [Awesome Swift](#awesome-swift)
     - [Colors](#colors)
+    - [Data Management](#data-management)
+        - [Core Data](#core-data)
+        - [SQLite](#sqlite)
     - [Demo App](#demo-app)
     - [Dependency Manager](#dependency-manager)
     - [Fonts](#fonts)
@@ -20,6 +23,19 @@ Feel free to contribute!
 *Interesting snippets related to color management and utilty.*
 
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - an hex to uicolor converter
+
+## Data Management
+
+## Core Data
+*No more pain with Core Data, here listed some interesting lib to handle data management*
+
+* [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your swift projects
+
+## SQLite
+*Are you interested in storing your app data using SQLite? Here some interesting resources*
+
+* [SQLiteDB](https://github.com/FahimF/SQLiteDB) - sqlite wrapper for swift
+
 
 ## Demo App
 *Some interesting demo/poc apps written in swift.*

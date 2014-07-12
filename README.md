@@ -12,6 +12,7 @@ Feel free to contribute!
     - [Framework](#framework)
     - [Transitions](#transitions)
     - [Utility](#utility)
+    - [Testing](#testing)
 
 ## Colors
 
@@ -57,8 +58,6 @@ Feel free to contribute!
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation
 
 
- 
-
 ## Utility
 
 *Some interesting utility that help you in your projects*
@@ -67,3 +66,9 @@ Feel free to contribute!
 * [agent](https://github.com/hallas/agent) - Http request agent
 * [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler
 
+
+## Testing
+*A collection of testing frameworks.*
+
+* [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift
+* [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C

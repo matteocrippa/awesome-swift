@@ -8,12 +8,12 @@ Feel free to contribute!
     - [Colors](#colors)
     - [Data Management](#data-management)
         - [Core Data](#core-data)
+        - [JSON](#json)
         - [SQLite](#sqlite)
     - [Demo App](#demo-app)
     - [Dependency Manager](#dependency-manager)
     - [Fonts](#fonts)
     - [Framework](#framework)
-    - [JSON](#json)
     - [Transitions](#transitions)
     - [Utility](#utility)
     - [Testing](#testing)
@@ -26,12 +26,18 @@ Feel free to contribute!
 
 ## Data Management
 
-## Core Data
+### Core Data
 *No more pain with Core Data, here listed some interesting lib to handle data management*
 
 * [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your swift projects
 
-## SQLite
+### JSON
+*Struggling using json data? Here you are some interesting way to handle it*
+
+* [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in swift
+* [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in swift with error handling
+
+### SQLite
 *Are you interested in storing your app data using SQLite? Here some interesting resources*
 
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - sqlite wrapper for swift
@@ -64,11 +70,6 @@ Feel free to contribute!
 
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for swift
 
-## JSON
-*Struggling using json data? Here you are some interesting way to handle it*
-
-* [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in swift
-* [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in swift with error handling
 
 ## Transitions
 

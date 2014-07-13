@@ -24,7 +24,6 @@ Feel free to contribute!
         - [Webserver](#webserver)
 
 
-https://github.com/ksm/SwiftInFlux
 
 ## Demo App
 *Some interesting demo/poc apps written in swift.*
@@ -50,6 +49,7 @@ https://github.com/ksm/SwiftInFlux
 *An awesome list of swift related guides*
 
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for swift.
+* [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for swift
 
 
 

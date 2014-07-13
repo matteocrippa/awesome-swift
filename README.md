@@ -69,6 +69,7 @@ https://github.com/ksm/SwiftInFlux
 
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in swift
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in swift with error handling
+* [SwiftMapper](https://github.com/kam800/SwiftMapper) - JSON Mapper
 
 #### SQLite
 *Are you interested in storing your app data using SQLite? Here some interesting resources*

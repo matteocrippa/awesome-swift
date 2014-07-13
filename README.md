@@ -17,6 +17,7 @@ Feel free to contribute!
         - [Fonts](#fonts)
         - [Framework](#framework)
         - [Http Request](#http-request)
+        - [iBeacon](#ibeacon)
         - [Images](#images)
         - [Testing](#testing)
         - [Transitions](#transitions)
@@ -46,15 +47,16 @@ Feel free to contribute!
 
 
 ## Guides
-*An awesome list of swift related guides*
+*An awesome list of swift related guides.*
 
+* [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for swift.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for swift
 
 
 
 ## Libs
-*Here you can find a list of snippets and libs for your swift projects*
+*Here you can find a list of snippets and libs for your swift projects.*
 
 ### Colors
 
@@ -65,19 +67,19 @@ Feel free to contribute!
 
 ### Data Management
 #### Core Data
-*No more pain with Core Data, here listed some interesting lib to handle data management*
+*No more pain with Core Data, here listed some interesting lib to handle data management.*
 
 * [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your swift projects.
 
 #### JSON
-*Struggling using json data? Here you are some interesting way to handle it*
+*Struggling using json data? Here you are some interesting way to handle it.*
 
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in swift.
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in swift with error handling.
 * [SwiftMapper](https://github.com/kam800/SwiftMapper) - JSON Mapper.
 
 #### SQLite
-*Are you interested in storing your app data using SQLite? Here some interesting resources*
+*Are you interested in storing your app data using SQLite? Here some interesting resources.*
 
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - sqlite wrapper for swift.
 
@@ -96,13 +98,19 @@ Feel free to contribute!
 
 
 ### Http Requests
-*A list of libs that allow you to decrease the amount of time spent to deal with http requests*
+*A list of libs that allow you to decrease the amount of time spent to deal with http requests.*
 
 * [agent](https://github.com/hallas/agent) - http request agent.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 
+
+### iBeacon
+*Interested in using iBeacon in your swift project? Here some interesting resources.*
+
+* [iBeacon](https://github.com/gemtot/iBeacon) - iBeacon implementation in swift.
+
 ### Images
-*An interesting list of image related libs*
+*An interesting list of image related libs..*
 
 * [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
 * [PASImageView](https://github.com/abiaad/PASImageView) - async remote download your image and round them. automatically.

@@ -17,6 +17,7 @@ Feel free to contribute!
         - [Fonts](#fonts)
         - [Framework](#framework)
         - [Http Request](#http-request)
+        - [Images](#images)
         - [Testing](#testing)
         - [Transitions](#transitions)
         - [Utility](#utility)
@@ -29,8 +30,11 @@ https://github.com/ksm/SwiftInFlux
 *Some interesting demo/poc apps written in swift.*
 
 * [2048](https://github.com/austinzheng/swift-2048) - 2048 demo game in swift.
+* [Chat](https://github.com/acani/Chats) - chat like app implementation in swift.
+* [DeckRocket](https://github.com/jpsim/DeckRocket) - deckrocket porting in swift.
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in swift.
 * [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in swift.
+* [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp) - flickr app written in swift.
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - a nice weather app written in swift.
 * [Valio](https://github.com/soffes/valio) - event time table app in swift.
 
@@ -56,52 +60,60 @@ https://github.com/ksm/SwiftInFlux
 
 *Interesting snippets related to color management and utilty.*
 
-* [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - an hex to uicolor converter
+* [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - an hex to uicolor converter.
 
 
 ### Data Management
 #### Core Data
 *No more pain with Core Data, here listed some interesting lib to handle data management*
 
-* [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your swift projects
+* [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your swift projects.
 
 #### JSON
 *Struggling using json data? Here you are some interesting way to handle it*
 
-* [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in swift
-* [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in swift with error handling
-* [SwiftMapper](https://github.com/kam800/SwiftMapper) - JSON Mapper
+* [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in swift.
+* [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in swift with error handling.
+* [SwiftMapper](https://github.com/kam800/SwiftMapper) - JSON Mapper.
 
 #### SQLite
 *Are you interested in storing your app data using SQLite? Here some interesting resources*
 
-* [SQLiteDB](https://github.com/FahimF/SQLiteDB) - sqlite wrapper for swift
+* [SQLiteDB](https://github.com/FahimF/SQLiteDB) - sqlite wrapper for swift.
 
 
 ### Fonts
 
 *A collection of font related snippets.*
 
-* [MCFontAwesome](https://github.com/matteocrippa/MCFontAwesome) - fontawesome porting for swift
-* [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in swift
+* [MCFontAwesome](https://github.com/matteocrippa/MCFontAwesome) - fontawesome porting for swift.
+* [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in swift.
 
 ### Framework
 *Do you need any framework?*
 
-* [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for swift
+* [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for swift.
 
 
 ### Http Requests
 *A list of libs that allow you to decrease the amount of time spent to deal with http requests*
 
-* [agent](https://github.com/hallas/agent) - Http request agent
+* [agent](https://github.com/hallas/agent) - http request agent.
+* [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
+
+### Images
+*An interesting list of image related libs*
+
+* [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
+* [PASImageView](https://github.com/abiaad/PASImageView) - async remote download your image and round them. automatically.
+* [UIImageView-BetterFace-Swift](https://github.com/croath/UIImageView-BetterFace-Swift) - autoresize images and if any face discovered refine the position of the image.
 
 
 ### Testing
 *A collection of testing frameworks.*
 
-* [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift
-* [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C
+* [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
+* [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C.
 
 
 ### Transitions

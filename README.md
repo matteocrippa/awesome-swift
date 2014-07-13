@@ -28,10 +28,11 @@ https://github.com/ksm/SwiftInFlux
 ## Demo App
 *Some interesting demo/poc apps written in swift.*
 
-* [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in swift
-* [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in swift
-* [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - a nice weather app written in swift
-* [Valio](https://github.com/soffes/valio) - event time table app in swift
+* [2048](https://github.com/austinzheng/swift-2048) - 2048 demo game in swift.
+* [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in swift.
+* [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in swift.
+* [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - a nice weather app written in swift.
+* [Valio](https://github.com/soffes/valio) - event time table app in swift.
 
 
 ## Dependency Manager
@@ -44,7 +45,7 @@ https://github.com/ksm/SwiftInFlux
 ## Guides
 *An awesome list of swift related guides*
 
-* [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for swift
+* [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for swift.
 
 
 
@@ -107,22 +108,24 @@ https://github.com/ksm/SwiftInFlux
 
 *A collection of pre-packaged transitions.*
 
-* [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition
-* [pinterest transition](https://github.com/demon1105/PinterestSwift) - Pinterest style transition
-* [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view
-* [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation
+* [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
+* [pinterest transition](https://github.com/demon1105/PinterestSwift) - Pinterest style transition.
+* [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
+* [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
 
 
 ### Utility
 
 *Some interesting utility that help you in your projects*
 
-* [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects
+* [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects.
 * [Dollar](https://github.com/ankurp/Dollar.swift) - a lib similar to Lo-Dash or Underscore in Javascript.
+* [PromiseKit](https://github.com/mxcl/PromiseKit) - async programming lib.
+* [Swiftz](https://github.com/maxpow4h/swiftz) - a lib for functional programming.
 
 
 ### Webserver
 *Do you wanna host a webserver in your device? Here you can find some tricks to do it.*
 
-* [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler
+* [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
 

@@ -64,7 +64,8 @@ Feel free to contribute!
 ### Auto Layout
 *Bored of using storyboard? Give a try to declarative auto layout libs.*
 
-* [Cartography](https://github.com/robb/Cartography) - declarative auto layout lib for your project
+* [Cartography](https://github.com/robb/Cartography) - declarative auto layout lib for your project.
+* [SwiftAutoLayout](https://github.com/indragiek/SwiftAutoLayout) - a small DSL for autolayout.
 
 ### Colors
 

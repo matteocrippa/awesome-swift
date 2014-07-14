@@ -35,6 +35,8 @@ Feel free to contribute!
 * [DeckRocket](https://github.com/jpsim/DeckRocket) - deckrocket porting in swift.
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in swift.
 * [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in swift.
+* [HausClock](https://github.com/nottombrown/HausClock) - chess stile clock app in swift.
+* [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) - checklist app in swift.
 * [SwiftDemo](https://github.com/Lax/iOS-Swift-Demos) - a collection of demo for swift.
 * [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp) - flickr app written in swift.
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - a nice weather app written in swift.
@@ -150,12 +152,13 @@ Feel free to contribute!
 *Some interesting utility that help you in your projects*
 
 * [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects.
+* [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your swift project.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - promise and future lib for swift.
 * [CLKit](https://github.com/kylef/CLIKit) - a way to create cli with swift.
 * [Dollar](https://github.com/ankurp/Dollar.swift) - a lib similar to Lo-Dash or Underscore in Javascript.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [Swiftz](https://github.com/maxpow4h/swiftz) - a lib for functional programming.
-
+* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - a lib that help you handling better debug logging.
 
 ### Webserver
 *Do you wanna host a webserver in your device? Here you can find some tricks to do it.*

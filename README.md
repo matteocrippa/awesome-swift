@@ -136,6 +136,7 @@ Feel free to contribute!
 *A collection of testing frameworks.*
 
 * [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
+* [Swiftest](https://github.com/Swiftest/Swiftest) - experimental BDD-style framework.
 * [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C.
 
 
@@ -144,6 +145,7 @@ Feel free to contribute!
 *A collection of pre-packaged transitions.*
 
 * [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
+* [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [pinterest transition](https://github.com/demon1105/PinterestSwift) - Pinterest style transition.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.

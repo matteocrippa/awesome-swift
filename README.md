@@ -8,6 +8,7 @@ Feel free to contribute!
 - [Awesome Swift](#awesome-swift)
     - [Demo App](#demo-app)
     - [Dependency Manager](#dependency-manager)
+    - [Extra](#extra)
     - [Guides](#guides)
     - [Libs](#libs)
         - [Auto Layout](#auto-layout)  
@@ -19,10 +20,11 @@ Feel free to contribute!
         - [Fonts](#fonts)
         - [Framework](#framework)
         - [Http Request](#http-request)
+        - [Keyboard](#keyboard)
         - [iBeacon](#ibeacon)
         - [Images](#images)
         - [Testing](#testing)
-        - [Transitions](#transitions)
+        - [UI](#ui)
         - [Utility](#utility)
         - [Webserver](#webserver)
 
@@ -32,6 +34,7 @@ Feel free to contribute!
 *Some interesting demo/poc apps written in swift.*
 
 * [2048](https://github.com/austinzheng/swift-2048) - 2048 demo game in swift.
+* [Alarm](https://github.com/ChrisChares/swift-alarm) - an alarm app in swift.
 * [Chat](https://github.com/acani/Chats) - chat like app implementation in swift.
 * [DeckRocket](https://github.com/jpsim/DeckRocket) - deckrocket porting in swift.
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in swift.
@@ -50,6 +53,11 @@ Feel free to contribute!
 
 * [cocoapods](https://github.com/CocoaPods/CocoaPods) - the most used dependency manager for Objective-C and now Swift projects.
 
+
+## Extra
+*Some extra stuffs and goodies for swift*
+
+* [Vim Swift](https://github.com/Keithbsmiley/swift.vim) - play swift with vim editor.
 
 ## Guides
 *An awesome list of swift related guides.*
@@ -118,6 +126,10 @@ Feel free to contribute!
 * [GRequest](https://github.com/lingoer/GRequest) - http request handler.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 
+### Keyboard
+*Do you want to create your own customized keyboard? Here some interesting resources*
+
+*[Hodor Keyboard](https://github.com/jonomuller/Hodor-Keyboard) - poc for custom keyboard implementation.
 
 ### iBeacon
 *Interested in using iBeacon in your swift project? Here some interesting resources.*
@@ -140,7 +152,7 @@ Feel free to contribute!
 * [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C.
 
 
-### Transitions
+### UI
 
 *A collection of pre-packaged transitions.*
 
@@ -148,6 +160,7 @@ Feel free to contribute!
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [pinterest transition](https://github.com/demon1105/PinterestSwift) - Pinterest style transition.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
+* [JTToast](https://github.com/devxoul/JLToast) - Toast for swift.
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
 
 
@@ -159,10 +172,12 @@ Feel free to contribute!
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your swift project.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - promise and future lib for swift.
 * [CLKit](https://github.com/kylef/CLIKit) - a way to create cli with swift.
+* [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
 * [Dollar](https://github.com/ankurp/Dollar.swift) - a lib similar to Lo-Dash or Underscore in Javascript.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
 * [Swiftz](https://github.com/maxpow4h/swiftz) - a lib for functional programming.
+* [Swift Sugar](https://github.com/RuiAAPeres/Swift-Sugar) - objsugar ported to swift.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - a lib that help you handling better debug logging.
 
 ### Webserver

@@ -162,7 +162,7 @@ Feel free to contribute!
 * [Dollar](https://github.com/ankurp/Dollar.swift) - a lib similar to Lo-Dash or Underscore in Javascript.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
-* * [Swiftz](https://github.com/maxpow4h/swiftz) - a lib for functional programming.
+* [Swiftz](https://github.com/maxpow4h/swiftz) - a lib for functional programming.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - a lib that help you handling better debug logging.
 
 ### Webserver

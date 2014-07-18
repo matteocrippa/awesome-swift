@@ -23,6 +23,7 @@ Feel free to contribute!
         - [Keyboard](#keyboard)
         - [iBeacon](#ibeacon)
         - [Images](#images)
+        - [Math](#math)
         - [Testing](#testing)
         - [UI](#ui)
         - [Utility](#utility)

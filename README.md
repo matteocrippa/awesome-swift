@@ -131,6 +131,10 @@ Feel free to contribute!
 
 *[Hodor Keyboard](https://github.com/jonomuller/Hodor-Keyboard) - poc for custom keyboard implementation.
 
+
+### Math
+* [swix](https://github.com/scottsievert/swix) - A general matrix language.
+
 ### iBeacon
 *Interested in using iBeacon in your swift project? Here some interesting resources.*
 

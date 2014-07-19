@@ -6,7 +6,9 @@ A collaborative list of awesome Swift resources,inspired by [awesome-python](htt
 Feel free to contribute!
 
 - [Awesome Swift](#awesome-swift)
-    - [Demo App](#demo-app)
+    - [Demo](#demo)
+        - [iOS](#ios)
+        - [OSX](#osx)
     - [Dependency Manager](#dependency-manager)
     - [Extra](#extra)
     - [Guides](#guides)
@@ -34,6 +36,9 @@ Feel free to contribute!
 ## Demo App
 *Some interesting demo/poc apps written in swift.*
 
+### iOS
+*A list of iOS swift demo apps*
+
 * [2048](https://github.com/austinzheng/swift-2048) - 2048 demo game in swift.
 * [Alarm](https://github.com/ChrisChares/swift-alarm) - an alarm app in swift.
 * [Chat](https://github.com/acani/Chats) - chat like app implementation in swift.
@@ -46,6 +51,11 @@ Feel free to contribute!
 * [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp) - flickr app written in swift.
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - a nice weather app written in swift.
 * [Valio](https://github.com/soffes/valio) - event time table app in swift.
+
+### OSX
+*A list of OSX swift demo apps*
+
+* [clock-saver](https://github.com/soffes/clock-saver) - a clock screen saver for osx written in swift.
 
 
 ## Dependency Manager

@@ -49,6 +49,7 @@ Feel free to contribute!
 * [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) - checklist app in swift.
 * [SwiftDemo](https://github.com/Lax/iOS-Swift-Demos) - a collection of demo for swift.
 * [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp) - flickr app written in swift.
+* [SwiftHN](https://github.com/Dimillian/SwiftHN) - hacker news app in swift.
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - a nice weather app written in swift.
 * [Valio](https://github.com/soffes/valio) - event time table app in swift.
 
@@ -75,6 +76,7 @@ Feel free to contribute!
 
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning swift via playground.
+* [Pratice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn swift.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for swift.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for swift
 * [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich swift guide, a must read.

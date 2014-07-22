@@ -196,6 +196,8 @@ Feel free to contribute!
 * [Swiftz](https://github.com/maxpow4h/swiftz) - a lib for functional programming.
 * [Swift Sugar](https://github.com/RuiAAPeres/Swift-Sugar) - objsugar ported to swift.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - a lib that help you handling better debug logging.
+* [SpecificationPattern](https://github.com/neoneye/SpecificationPattern) - chainable rules useful for form validation.
+
 
 ### Webserver
 *Do you wanna host a webserver in your device? Here you can find some tricks to do it.*

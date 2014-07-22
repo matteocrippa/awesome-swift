@@ -142,7 +142,7 @@ Feel free to contribute!
 ### Keyboard
 *Do you want to create your own customized keyboard? Here some interesting resources*
 
-*[Hodor Keyboard](https://github.com/jonomuller/Hodor-Keyboard) - poc for custom keyboard implementation.
+* [Hodor Keyboard](https://github.com/jonomuller/Hodor-Keyboard) - poc for custom keyboard implementation.
 
 
 ### Math

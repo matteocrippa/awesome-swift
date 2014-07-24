@@ -171,8 +171,9 @@ Feel free to contribute!
 
 ### UI
 
-*A collection of pre-packaged transitions.*
+*A collection of pre-packaged transitions & cool ui stuffs.*
 
+* [CharacterText](https://github.com/android1989/CharacterText) - perform fx on UILabel.
 * [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [pinterest transition](https://github.com/demon1105/PinterestSwift) - Pinterest style transition.

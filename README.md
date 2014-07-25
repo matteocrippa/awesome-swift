@@ -184,7 +184,7 @@ Feel free to contribute!
 
 ### Utility
 
-*Some interesting utility that help you in your projects*
+*Some interesting utilities that help you in your projects*
 
 * [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects.
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your swift project.
@@ -198,7 +198,7 @@ Feel free to contribute!
 * [Swift Sugar](https://github.com/RuiAAPeres/Swift-Sugar) - objsugar ported to swift.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - a lib that help you handling better debug logging.
 * [SpecificationPattern](https://github.com/neoneye/SpecificationPattern) - chainable rules useful for form validation.
-
+* [Async](https://github.com/duemunk/Async) – Syntactic swift sugar for Grand Central Dispatch
 
 ### Webserver
 *Do you wanna host a webserver in your device? Here you can find some tricks to do it.*

@@ -42,6 +42,7 @@ Feel free to contribute!
 * [2048](https://github.com/austinzheng/swift-2048) - 2048 demo game in swift.
 * [Alarm](https://github.com/ChrisChares/swift-alarm) - an alarm app in swift.
 * [Chat](https://github.com/acani/Chats) - chat like app implementation in swift.
+* [CloudKit-To-Do-List](https://github.com/a/CloudKit-To-Do-List) - a cloudkit based to do list.
 * [DeckRocket](https://github.com/jpsim/DeckRocket) - deckrocket porting in swift.
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in swift.
 * [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in swift.

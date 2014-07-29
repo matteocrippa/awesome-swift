@@ -188,20 +188,21 @@ Feel free to contribute!
 
 *Some interesting utilities that help you in your projects*
 
-* [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects.
+* [__](https://github.com/lotz84/__.swift) - Underscore.js power in your swift projects.
+* [Async](https://github.com/duemunk/Async) – Syntactic swift sugar for Grand Central Dispatch
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your swift project.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - promise and future lib for swift.
 * [CLKit](https://github.com/kylef/CLIKit) - a way to create cli with swift.
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
 * [Dollar](https://github.com/ankurp/Dollar.swift) - a lib similar to Lo-Dash or Underscore in Javascript.
+* [ExSwift](https://github.com/pNre/ExSwift) - a set of swift extensions for standard types and classes.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
+* [SpecificationPattern](https://github.com/neoneye/SpecificationPattern) - chainable rules useful for form validation.
 * [Swiftz](https://github.com/maxpow4h/swiftz) - a lib for functional programming.
 * [Swift Sugar](https://github.com/RuiAAPeres/Swift-Sugar) - objsugar ported to swift.
-* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - a lib that help you handling better debug logging.
-* [SpecificationPattern](https://github.com/neoneye/SpecificationPattern) - chainable rules useful for form validation.
-* [Async](https://github.com/duemunk/Async) – Syntactic swift sugar for Grand Central Dispatch
 * [Wyrd](https://github.com/explicitcall/Wyrd) - Asynchronous programming in Swift made easy. Wyrd is inspired by Promises/A+.
+* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - a lib that help you handling better debug logging.
 
 ### Webserver
 *Do you wanna host a webserver in your device? Here you can find some tricks to do it.*

@@ -200,6 +200,7 @@ Feel free to contribute!
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - a lib that help you handling better debug logging.
 * [SpecificationPattern](https://github.com/neoneye/SpecificationPattern) - chainable rules useful for form validation.
 * [Async](https://github.com/duemunk/Async) – Syntactic swift sugar for Grand Central Dispatch
+* [Wyrd](https://github.com/explicitcall/Wyrd) - Asynchronous programming in Swift made easy. Wyrd is inspired by Promises/A+.
 
 ### Webserver
 *Do you wanna host a webserver in your device? Here you can find some tricks to do it.*

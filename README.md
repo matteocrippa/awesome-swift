@@ -48,6 +48,7 @@ Feel free to contribute!
 * [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in swift.
 * [HausClock](https://github.com/nottombrown/HausClock) - chess stile clock app in swift.
 * [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) - checklist app in swift.
+* [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch) - an MVVM & ReactiveCocoa Flickr search app in swift.
 * [SwiftDemo](https://github.com/Lax/iOS-Swift-Demos) - a collection of demo for swift.
 * [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp) - flickr app written in swift.
 * [SwiftHN](https://github.com/Dimillian/SwiftHN) - hacker news app in swift.

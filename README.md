@@ -181,6 +181,7 @@ Feel free to contribute!
 * [pinterest transition](https://github.com/demon1105/PinterestSwift) - Pinterest style transition.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [JTToast](https://github.com/devxoul/JLToast) - Toast for swift.
+* [PKHUD](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
 
 

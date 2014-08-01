@@ -138,6 +138,7 @@ Feel free to contribute!
 *A list of libs that allow you to decrease the amount of time spent to deal with http requests.*
 
 * [agent](https://github.com/hallas/agent) - http request agent.
+* [Alamofire](https://github.com/Alamofire/Alamofire) - elegant networking in swift.
 * [GRequest](https://github.com/lingoer/GRequest) - http request handler.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 

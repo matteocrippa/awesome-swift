@@ -21,7 +21,7 @@ Feel free to contribute!
             - [SQLite](#sqlite)
         - [Fonts](#fonts)
         - [Framework](#framework)
-        - [Http Request](#http-request)
+        - [Http Requests](#http-requests)
         - [Keyboard](#keyboard)
         - [iBeacon](#ibeacon)
         - [Images](#images)

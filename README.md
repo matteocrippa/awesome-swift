@@ -162,6 +162,7 @@ Feel free to contribute!
 * [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
 * [PASImageView](https://github.com/abiaad/PASImageView) - async remote download your image and round them. automatically.
 * [UIImageView-BetterFace-Swift](https://github.com/croath/UIImageView-BetterFace-Swift) - autoresize images and if any face discovered refine the position of the image.
+* [SwiftGif](https://github.com/bahlo/SwiftGif) - A small UIImage extension with gif support
 
 
 ### Testing

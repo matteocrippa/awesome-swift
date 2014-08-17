@@ -54,6 +54,7 @@ Feel free to contribute!
 * [SwiftHN](https://github.com/Dimillian/SwiftHN) - hacker news app in swift.
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - a nice weather app written in swift.
 * [Valio](https://github.com/soffes/valio) - event time table app in swift.
+* [KeychainDemo](https://github.com/dasdom/KeychainDemo) - keychain sharing between an App and it's share extension
 
 ### OSX
 *A list of OSX swift demo apps*

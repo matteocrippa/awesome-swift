@@ -90,6 +90,7 @@ Feel free to contribute!
 * [Cartography](https://github.com/robb/Cartography) - declarative auto layout lib for your project.
 * [SwiftAutoLayout](https://github.com/indragiek/SwiftAutoLayout) - a small DSL for autolayout.
 * [Tails](https://github.com/nickynick/Tails) - declarative autolayout for ios app written in swift.
+* [VFLToolbox](https://github.com/0xc010d/VFLToolbox) - fancy Swift implementation of the Visual Format Language
 
 ### Colors
 

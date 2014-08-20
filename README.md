@@ -42,7 +42,7 @@ Feel free to contribute!
 * [2048](https://github.com/austinzheng/swift-2048) - 2048 demo game in swift.
 * [Alarm](https://github.com/ChrisChares/swift-alarm) - an alarm app in swift.
 * [Chat](https://github.com/acani/Chats) - chat like app implementation in swift.
-* [CloudKit-To-Do-List](https://github.com/a/CloudKit-To-Do-List) - a cloudkit based to do list.
+* [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List) - a cloudkit based to do list.
 * [DeckRocket](https://github.com/jpsim/DeckRocket) - deckrocket porting in swift.
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in swift.
 * [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in swift.
@@ -69,17 +69,12 @@ Feel free to contribute!
 * [cocoapods](https://github.com/CocoaPods/CocoaPods) - the most used dependency manager for Objective-C and now Swift projects.
 
 
-## Extra
-*Some extra stuffs and goodies for swift*
-
-* [Vim Swift](https://github.com/Keithbsmiley/swift.vim) - play swift with vim editor.
-
 ## Guides
 *An awesome list of swift related guides.*
 
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning swift via playground.
-* [Pratice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn swift.
+* [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn swift.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for swift.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for swift
 * [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich swift guide, a must read.
@@ -120,6 +115,17 @@ Feel free to contribute!
 *Are you interested in storing your app data using SQLite? Here some interesting resources.*
 
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - sqlite wrapper for swift.
+
+
+### Editor Support
+
+*Support for your favorite editors.*
+
+#### Vim
+
+* [swift-vim](https://github.com/Keithbsmiley/swift.vim) - play swift with vim editor.
+* [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds swift support to vim. It covers syntax, indenting, and more.
+    * [vim-polyglot](https://github.com/sheerun/vim-polyglot) - language pack for vim that includes vim-swift.
 
 
 ### Fonts
@@ -213,3 +219,11 @@ Feel free to contribute!
 
 * [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
 
+
+### System
+
+*System related libs.*
+
+#### OS X
+
+- [swift-smc](https://github.com/beltex/swift-smc) - Read temperature sensors, fan RPM, etc.

@@ -10,7 +10,6 @@ Feel free to contribute!
         - [iOS](#ios)
         - [OSX](#osx)
     - [Dependency Manager](#dependency-manager)
-    - [Extra](#extra)
     - [Guides](#guides)
     - [Libs](#libs)
         - [Auto Layout](#auto-layout)  
@@ -19,17 +18,20 @@ Feel free to contribute!
             - [Core Data](#core-data)
             - [JSON](#json)
             - [SQLite](#sqlite)
+        - [Editor Support](#editor-support)
+            - [Vim](#vim)
         - [Fonts](#fonts)
         - [Framework](#framework)
         - [Http Requests](#http-requests)
-        - [Keyboard](#keyboard)
         - [iBeacon](#ibeacon)
         - [Images](#images)
+        - [Keyboard](#keyboard)
         - [Math](#math)
         - [Testing](#testing)
         - [UI](#ui)
         - [Utility](#utility)
         - [Webserver](#webserver)
+        - [System](#system)
 
 
 
@@ -151,19 +153,12 @@ Feel free to contribute!
 * [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 
-### Keyboard
-*Do you want to create your own customized keyboard? Here some interesting resources*
-
-* [Hodor Keyboard](https://github.com/jonomuller/Hodor-Keyboard) - poc for custom keyboard implementation.
-
-
-### Math
-* [swix](https://github.com/scottsievert/swix) - A general matrix language.
 
 ### iBeacon
 *Interested in using iBeacon in your swift project? Here some interesting resources.*
 
 * [iBeacon](https://github.com/gemtot/iBeacon) - iBeacon implementation in swift.
+
 
 ### Images
 *An interesting list of image related libs..*
@@ -172,6 +167,16 @@ Feel free to contribute!
 * [PASImageView](https://github.com/abiaad/PASImageView) - async remote download your image and round them. automatically.
 * [SwiftGif](https://github.com/bahlo/SwiftGif) - A small UIImage extension with gif support
 * [UIImageView-BetterFace-Swift](https://github.com/croath/UIImageView-BetterFace-Swift) - autoresize images and if any face discovered refine the position of the image.
+
+
+### Keyboard
+*Do you want to create your own customized keyboard? Here some interesting resources*
+
+* [Hodor Keyboard](https://github.com/jonomuller/Hodor-Keyboard) - poc for custom keyboard implementation.
+
+
+### Math
+* [swix](https://github.com/scottsievert/swix) - A general matrix language.
 
 
 ### Testing

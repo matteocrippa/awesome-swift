@@ -27,7 +27,7 @@ Feel free to contribute!
         - [Images](#images)
         - [Keyboard](#keyboard)
         - [Math](#math)
-        - [Newtork](#network)
+        - [Network](#network)
         - [Testing](#testing)
         - [UI](#ui)
         - [Utility](#utility)

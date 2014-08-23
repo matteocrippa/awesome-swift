@@ -14,6 +14,7 @@ Feel free to contribute!
     - [Libs](#libs)
         - [Auto Layout](#auto-layout)  
         - [Colors](#colors)
+        - [Cryptography](#cryptography)
         - [Data Management](#data-management)
             - [Core Data](#core-data)
             - [JSON](#json)
@@ -22,11 +23,11 @@ Feel free to contribute!
             - [Vim](#vim)
         - [Fonts](#fonts)
         - [Framework](#framework)
-        - [Http Requests](#http-requests)
         - [iBeacon](#ibeacon)
         - [Images](#images)
         - [Keyboard](#keyboard)
         - [Math](#math)
+        - [Newtork](#network)
         - [Testing](#testing)
         - [UI](#ui)
         - [Utility](#utility)
@@ -101,6 +102,12 @@ Feel free to contribute!
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - an hex to uicolor converter.
 
 
+
+### Cryptography
+*Deal with cryptography method easily in swift*
+* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - add crypto lib support to swift.
+
+
 ### Data Management
 #### Core Data
 *No more pain with Core Data, here listed some interesting lib to handle data management.*
@@ -144,16 +151,6 @@ Feel free to contribute!
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for swift.
 
 
-### Http Requests
-*A list of libs that allow you to decrease the amount of time spent to deal with http requests.*
-
-* [agent](https://github.com/hallas/agent) - http request agent.
-* [Alamofire](https://github.com/Alamofire/Alamofire) - elegant networking in swift.
-* [GRequest](https://github.com/lingoer/GRequest) - http request handler.
-* [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
-* [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
-
-
 ### iBeacon
 *Interested in using iBeacon in your swift project? Here some interesting resources.*
 
@@ -177,6 +174,18 @@ Feel free to contribute!
 
 ### Math
 * [swix](https://github.com/scottsievert/swix) - A general matrix language.
+
+
+### Network
+*A list of libs that allow you to decrease the amount of time spent to deal with http requests.*
+
+* [agent](https://github.com/hallas/agent) - http request agent.
+* [Alamofire](https://github.com/Alamofire/Alamofire) - elegant networking in swift.
+* [GRequest](https://github.com/lingoer/GRequest) - http request handler.
+* [Moya](https://github.com/AshFurrow/Moya) - network abstraction layer.
+* [Net](https://github.com/nghialv/Net) - an httprequest wrapper.
+* [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
+* [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 
 
 ### Testing

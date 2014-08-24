@@ -19,6 +19,7 @@ Feel free to contribute!
             - [Core Data](#core-data)
             - [JSON](#json)
             - [SQLite](#sqlite)
+        - [Date](#date)
         - [Editor Support](#editor-support)
             - [Vim](#vim)
         - [Fonts](#fonts)
@@ -127,6 +128,11 @@ Feel free to contribute!
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - sqlite wrapper for swift.
 
 
+### Date
+*Handle data formatting easily.*
+* [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Simple date helper.
+
+
 ### Editor Support
 
 *Support for your favorite editors.*
@@ -173,6 +179,7 @@ Feel free to contribute!
 
 
 ### Math
+* [Surge](https://github.com/mattt/Surge) - Accelerate framework for swift.
 * [swix](https://github.com/scottsievert/swix) - A general matrix language.
 
 

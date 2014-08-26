@@ -92,6 +92,7 @@ Feel free to contribute!
 *Bored of using storyboard? Give a try to declarative auto layout libs.*
 
 * [Cartography](https://github.com/robb/Cartography) - declarative auto layout lib for your project.
+* [Snappy](https://github.com/Masonry/Snappy) - a light-weight layout framework which wraps AutoLayout with nicer syntax.
 * [SwiftAutoLayout](https://github.com/indragiek/SwiftAutoLayout) - a small DSL for autolayout.
 * [Tails](https://github.com/nickynick/Tails) - declarative autolayout for ios app written in swift.
 * [VFLToolbox](https://github.com/0xc010d/VFLToolbox) - fancy Swift implementation of the Visual Format Language

@@ -224,6 +224,7 @@ Feel free to contribute!
 
 * [__](https://github.com/lotz84/__.swift) - Underscore.js power in your swift projects.
 * [Async](https://github.com/duemunk/Async) – Syntactic swift sugar for Grand Central Dispatch
+* [Async.legacy](https://github.com/josephlord/Async.legacy) – Syntactic swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork)
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your swift project.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - promise and future lib for swift.
 * [CLKit](https://github.com/kylef/CLIKit) - a way to create cli with swift.

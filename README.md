@@ -238,6 +238,7 @@ Feel free to contribute!
 * [Swift Sugar](https://github.com/RuiAAPeres/Swift-Sugar) - objsugar ported to swift.
 * [Wyrd](https://github.com/explicitcall/Wyrd) - Asynchronous programming in Swift made easy. Wyrd is inspired by Promises/A+.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - a lib that help you handling better debug logging.
+* [SwiftColors](https://github.com/thii/SwiftColors) - HEX color handling as an extension for UIColor.
 
 ### Webserver
 *Do you wanna host a webserver in your device? Here you can find some tricks to do it.*

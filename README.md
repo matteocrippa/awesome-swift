@@ -127,6 +127,7 @@ Feel free to contribute!
 #### SQLite
 *Are you interested in storing your app data using SQLite? Here some interesting resources.*
 
+* [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A pure Swift framework wrapping SQLite3. Small. Simple. Safe.
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - sqlite wrapper for swift.
 
 

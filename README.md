@@ -209,6 +209,7 @@ Feel free to contribute!
 
 *A collection of pre-packaged transitions & cool ui stuffs.*
 
+* [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - adaptive tab bar.
 * [CharacterText](https://github.com/android1989/CharacterText) - perform fx on UILabel.
 * [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.

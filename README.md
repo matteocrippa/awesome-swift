@@ -11,7 +11,10 @@ Feel free to contribute!
         - [OSX](#osx)
     - [Dependency Manager](#dependency-manager)
     - [Guides](#guides)
+    - [Editor Support](#editor-support)
+        - [Vim](#vim)
     - [Libs](#libs)
+        - [API](#api)
         - [Auto Layout](#auto-layout)  
         - [Colors](#colors)
         - [Cryptography](#cryptography)
@@ -20,21 +23,18 @@ Feel free to contribute!
             - [JSON](#json)
             - [SQLite](#sqlite)
         - [Date](#date)
-        - [Editor Support](#editor-support)
-            - [Vim](#vim)
         - [Events](#events)
         - [Fonts](#fonts)
-        - [Framework](#framework)
         - [iBeacon](#ibeacon)
         - [Images](#images)
         - [Keyboard](#keyboard)
         - [Math](#math)
         - [Network](#network)
+        - [System](#system)
         - [Testing](#testing)
         - [UI](#ui)
         - [Utility](#utility)
         - [Webserver](#webserver)
-        - [System](#system)
 
 
 
@@ -52,9 +52,11 @@ Feel free to contribute!
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in swift.
 * [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in swift.
 * [HausClock](https://github.com/nottombrown/HausClock) - chess stile clock app in swift.
+* [HomeKitDemo](https://github.com/KhaosT/HomeKit-Demo) - homekit demo app;
 * [iContactU](https://github.com/rizal72/iContactU) - delivered on Apple Store: reminds you to contact people you ought to.
 * [KeychainDemo](https://github.com/dasdom/KeychainDemo) - keychain sharing between an App and it's share extension
 * [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) - checklist app in swift.
+* [Pocket Forecast](https://github.com/typhoon-framework/Typhoon-Swift-Example) - typhoon weather example
 * [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch) - an MVVM & ReactiveCocoa Flickr search app in swift.
 * [SwiftDemo](https://github.com/Lax/iOS-Swift-Demos) - a collection of demo for swift.
 * [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp) - flickr app written in swift.
@@ -87,10 +89,27 @@ Feel free to contribute!
 * [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich swift guide, a must read.
 * [Swift Tips](https://github.com/jbrennan/swift-tips) - Swift tips collection.
 
+## Editor Support
+
+*Support for your favorite editors.*
+
+### Vim
+
+* [swift-vim](https://github.com/Keithbsmiley/swift.vim) - play swift with vim editor.
+* [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds swift support to vim. It covers syntax, indenting, and more.
+* [vim-polyglot](https://github.com/sheerun/vim-polyglot) - language pack for vim that includes vim-swift.
 
 
 ## Libs
 *Here you can find a list of snippets and libs for your swift projects.*
+
+### API
+*Quick libs to get access to third party API services*
+
+* [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for swift.
+* [Typhoon](https://github.com/typhoon-framework/Typhoon) - Dependency injection toolkit in swift.
+
+
 
 ### Auto Layout
 *Bored of using storyboard? Give a try to declarative auto layout libs.*
@@ -112,6 +131,7 @@ Feel free to contribute!
 ### Cryptography
 *Deal with cryptography method easily in swift*
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - add crypto lib support to swift.
+* [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - add crypto toolkit in swift.
 
 
 ### Data Management
@@ -139,16 +159,6 @@ Feel free to contribute!
 * [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Simple date helper.
 
 
-### Editor Support
-
-*Support for your favorite editors.*
-
-#### Vim
-
-* [swift-vim](https://github.com/Keithbsmiley/swift.vim) - play swift with vim editor.
-* [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds swift support to vim. It covers syntax, indenting, and more.
-    * [vim-polyglot](https://github.com/sheerun/vim-polyglot) - language pack for vim that includes vim-swift.
-
 ### Events
 *Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.*
 
@@ -160,11 +170,6 @@ Feel free to contribute!
 
 * [MCFontAwesome](https://github.com/matteocrippa/MCFontAwesome) - fontawesome porting for swift.
 * [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in swift.
-
-### Framework
-*Do you need any framework?*
-
-* [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for swift.
 
 
 ### iBeacon
@@ -204,6 +209,13 @@ Feel free to contribute!
 * [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 
+### System
+
+*System related libs.*
+
+#### OS X
+
+- [swift-smc](https://github.com/beltex/swift-smc) - Read temperature sensors, fan RPM, etc.
 
 ### Testing
 *A collection of testing frameworks.*
@@ -219,6 +231,7 @@ Feel free to contribute!
 
 * [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - adaptive tab bar.
 * [CharacterText](https://github.com/android1989/CharacterText) - perform fx on UILabel.
+* [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - sliding side menu.
 * [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [pinterest transition](https://github.com/demon1105/PinterestSwift) - Pinterest style transition.
@@ -255,10 +268,4 @@ Feel free to contribute!
 * [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
 
 
-### System
 
-*System related libs.*
-
-#### OS X
-
-- [swift-smc](https://github.com/beltex/swift-smc) - Read temperature sensors, fan RPM, etc.

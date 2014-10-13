@@ -85,6 +85,7 @@ Feel free to contribute!
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for swift.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for swift
 * [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich swift guide, a must read.
+* [Swift Tips](https://github.com/jbrennan/swift-tips) - Swift tips collection.
 
 
 

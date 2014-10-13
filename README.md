@@ -22,6 +22,7 @@ Feel free to contribute!
         - [Date](#date)
         - [Editor Support](#editor-support)
             - [Vim](#vim)
+        - [Events](#events)
         - [Fonts](#fonts)
         - [Framework](#framework)
         - [iBeacon](#ibeacon)
@@ -147,6 +148,10 @@ Feel free to contribute!
 * [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds swift support to vim. It covers syntax, indenting, and more.
     * [vim-polyglot](https://github.com/sheerun/vim-polyglot) - language pack for vim that includes vim-swift.
 
+### Events
+*Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.*
+
+* [EmitterKit](https://github.com/aleclarson/emitter-kit) - an implementation of event emitters and listeners in swift
 
 ### Fonts
 

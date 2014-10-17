@@ -125,7 +125,7 @@ Feel free to contribute!
 *Interesting snippets related to color management and utilty.*
 
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - an hex to uicolor converter.
-
+* [UIColorWDUtils](https://github.com/daktales/UIColorWDUtils) - extension for hex RGB(A).
 
 
 ### Cryptography
@@ -139,6 +139,7 @@ Feel free to contribute!
 *No more pain with Core Data, here listed some interesting lib to handle data management.*
 
 * [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your swift projects.
+* [SugarRecord](https://github.com/SugarRecord/SugarRecord) - an easy with to work with coredata and realm.
 
 #### JSON
 *Struggling using json data? Here you are some interesting way to handle it.*
@@ -184,6 +185,7 @@ Feel free to contribute!
 * [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
 * [PASImageView](https://github.com/abiaad/PASImageView) - async remote download your image and round them. automatically.
 * [SwiftGif](https://github.com/bahlo/SwiftGif) - A small UIImage extension with gif support
+* [Toucan](https://github.com/gavinbunney/Toucan) - Image processing api
 * [UIImageView-BetterFace-Swift](https://github.com/croath/UIImageView-BetterFace-Swift) - autoresize images and if any face discovered refine the position of the image.
 
 
@@ -233,6 +235,7 @@ Feel free to contribute!
 * [CharacterText](https://github.com/android1989/CharacterText) - perform fx on UILabel.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - sliding side menu.
 * [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
+* [FloatRatingView](https://github.com/strekfus/FloatRatingView) - floating rating system.
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [pinterest transition](https://github.com/demon1105/PinterestSwift) - Pinterest style transition.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.

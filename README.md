@@ -145,6 +145,7 @@ Feel free to contribute!
 *Struggling using json data? Here you are some interesting way to handle it.*
 
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in swift.
+* [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON object mapper.
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in swift with error handling.
 * [SwiftMapper](https://github.com/kam800/SwiftMapper) - JSON Mapper.
 

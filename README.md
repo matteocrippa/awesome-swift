@@ -81,6 +81,7 @@ Feel free to contribute!
 ## Guides
 *An awesome list of swift related guides.*
 
+* [A better way to learn swift](https://github.com/GoThinkster/swift) - Learn swift in a different way.
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning swift via playground.
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn swift.

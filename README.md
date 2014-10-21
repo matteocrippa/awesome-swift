@@ -49,6 +49,7 @@ Feel free to contribute!
 * [Chat](https://github.com/acani/Chats) - chat like app implementation in swift.
 * [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List) - a cloudkit based to do list.
 * [DeckRocket](https://github.com/jpsim/DeckRocket) - deckrocket porting in swift.
+* [Edhita](https://github.com/tnantoka/edhita) - text edit app.
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in swift.
 * [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in swift.
 * [HausClock](https://github.com/nottombrown/HausClock) - chess stile clock app in swift.
@@ -261,6 +262,7 @@ Feel free to contribute!
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
 * [SpecificationPattern](https://github.com/neoneye/SpecificationPattern) - chainable rules useful for form validation.
 * [SwiftColors](https://github.com/thii/SwiftColors) - HEX color handling as an extension for UIColor.
+* [SwiftForms](https://github.com/ortuman/SwiftForms) - form are now easy as 1.2.3!
 * [Swiftz](https://github.com/maxpow4h/swiftz) - a lib for functional programming.
 * [Swift Sugar](https://github.com/RuiAAPeres/Swift-Sugar) - objsugar ported to swift.
 * [Wyrd](https://github.com/explicitcall/Wyrd) - Asynchronous programming in Swift made easy. Wyrd is inspired by Promises/A+.

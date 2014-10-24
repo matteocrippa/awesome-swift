@@ -225,9 +225,9 @@ Feel free to contribute!
 ### Testing
 *A collection of testing frameworks.*
 
+* [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
 * [Swiftest](https://github.com/Swiftest/Swiftest) - experimental BDD-style framework.
-* [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C.
 
 
 ### UI
@@ -237,14 +237,14 @@ Feel free to contribute!
 * [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - adaptive tab bar.
 * [CharacterText](https://github.com/android1989/CharacterText) - perform fx on UILabel.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - sliding side menu.
-* [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [FloatRatingView](https://github.com/strekfus/FloatRatingView) - floating rating system.
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
+* [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
+* [JTToast](https://github.com/devxoul/JLToast) - Toast for swift.
 * [pinterest transition](https://github.com/demon1105/PinterestSwift) - Pinterest style transition.
+* [PKHUD](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
-* [JTToast](https://github.com/devxoul/JLToast) - Toast for swift.
-* [PKHUD](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
 
 

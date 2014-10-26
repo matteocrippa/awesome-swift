@@ -213,6 +213,7 @@ Feel free to contribute!
 * [Net](https://github.com/nghialv/Net) - an httprequest wrapper.
 * [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
+* [Starscream](https://github.com/daltoniam/starscream) - websockets implementation in swift.
 
 ### System
 

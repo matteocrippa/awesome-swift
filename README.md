@@ -76,7 +76,7 @@ Feel free to contribute!
 *Dependency manager software for swift.*
 
 * [cocoapods](https://github.com/CocoaPods/CocoaPods) - the most used dependency manager for Objective-C and now Swift projects.
-
+* [acli](https://github.com/eugenpirogoff/acli) - downloads repos listed in awesome-swift
 
 ## Guides
 *An awesome list of swift related guides.*

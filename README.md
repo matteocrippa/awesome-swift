@@ -63,6 +63,7 @@ Feel free to contribute!
 * [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp) - flickr app written in swift.
 * [SwiftHN](https://github.com/Dimillian/SwiftHN) - hacker news app in swift.
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - a nice weather app written in swift.
+* [TextEthan](https://github.com/thii/TextEthan) - a clone of TextEthan, a messaging app that allows anyone to message you
 * [Valio](https://github.com/soffes/valio) - event time table app in swift.
 
 ### OSX

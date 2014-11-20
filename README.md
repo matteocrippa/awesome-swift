@@ -242,7 +242,7 @@ Feel free to contribute!
 * [CharacterText](https://github.com/android1989/CharacterText) - perform fx on UILabel.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - sliding side menu.
 * [FloatRatingView](https://github.com/strekfus/FloatRatingView) - floating rating system.
-* [FloatRatingView](https://github.com/artman/Geometry) - extensions for UIView.
+* [Geometry](https://github.com/artman/Geometry) - extensions for UIView.
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [JTToast](https://github.com/devxoul/JLToast) - Toast for swift.

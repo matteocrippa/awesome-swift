@@ -127,6 +127,7 @@ Feel free to contribute!
 
 *Interesting snippets related to color management and utilty.*
 
+* [HexColor](https://github.com/artman/HexColor) - define UIColors as hex integers.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - an hex to uicolor converter.
 * [UIColorWDUtils](https://github.com/daktales/UIColorWDUtils) - extension for hex RGB(A).
 
@@ -167,7 +168,8 @@ Feel free to contribute!
 ### Events
 *Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.*
 
-* [EmitterKit](https://github.com/aleclarson/emitter-kit) - an implementation of event emitters and listeners in swift
+* [EmitterKit](https://github.com/aleclarson/emitter-kit) - an implementation of event emitters and listeners in swift.
+* [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
 
 ### Fonts
 
@@ -240,6 +242,7 @@ Feel free to contribute!
 * [CharacterText](https://github.com/android1989/CharacterText) - perform fx on UILabel.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - sliding side menu.
 * [FloatRatingView](https://github.com/strekfus/FloatRatingView) - floating rating system.
+* [FloatRatingView](https://github.com/artman/Geometry) - extensions for UIView.
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [JTToast](https://github.com/devxoul/JLToast) - Toast for swift.

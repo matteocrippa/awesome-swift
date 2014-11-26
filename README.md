@@ -217,6 +217,7 @@ Feel free to contribute!
 * [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
 * [Starscream](https://github.com/daltoniam/starscream) - websockets implementation in swift.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
+* [OAuthSwift](https://github.com/dongri/OAuthSwift) - Swift based OAuth library for iOS.
 
 ### System
 

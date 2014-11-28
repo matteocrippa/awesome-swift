@@ -215,6 +215,7 @@ Feel free to contribute!
 * [Moya](https://github.com/AshFurrow/Moya) - network abstraction layer.
 * [Net](https://github.com/nghialv/Net) - an httprequest wrapper.
 * [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
+* [OAuthSwift](https://github.com/dongri/OAuthSwift) - Swift based OAuth library for iOS.
 * [Starscream](https://github.com/daltoniam/starscream) - websockets implementation in swift.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 

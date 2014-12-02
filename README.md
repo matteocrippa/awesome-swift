@@ -227,6 +227,10 @@ Feel free to contribute!
 
 - [swift-smc](https://github.com/beltex/swift-smc) - Read temperature sensors, fan RPM, etc.
 
+#### Keychain
+
+- [KeyClip](https://github.com/s-aska/KeyClip) - Keychain framework for iOS written in Swift.
+
 ### Testing
 *A collection of testing frameworks.*
 

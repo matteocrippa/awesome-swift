@@ -277,6 +277,7 @@ Feel free to contribute!
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
 * [SpecificationPattern](https://github.com/neoneye/SpecificationPattern) - chainable rules useful for form validation.
+* [SwiftBitmask](https://github.com/brynbellomy/SwiftBitmask) - `Bitmask<T>` type intended as a replacement for `RawOptionSet`.
 * [SwiftColors](https://github.com/thii/SwiftColors) - HEX color handling as an extension for UIColor.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - form are now easy as 1.2.3!
 * [Swiftz](https://github.com/maxpow4h/swiftz) - a lib for functional programming.

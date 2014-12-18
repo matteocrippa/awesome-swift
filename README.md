@@ -30,6 +30,7 @@ Feel free to contribute!
         - [Keyboard](#keyboard)
         - [Math](#math)
         - [Network](#network)
+        - [Security](#security)
         - [System](#system)
         - [Testing](#testing)
         - [UI](#ui)
@@ -231,6 +232,7 @@ Feel free to contribute!
 #### Security
 
 - [KeyClip](https://github.com/s-aska/KeyClip) - Keychain framework for iOS written in Swift.
+- [iOS-TouchID-Swift](https://github.com/gabrieltheodoropoulos/iOS-TouchID-Swift) - TouchID for Swift.
 
 ### Testing
 *A collection of testing frameworks.*

@@ -257,6 +257,7 @@ Feel free to contribute!
 * [JTToast](https://github.com/devxoul/JLToast) - Toast for swift.
 * [pinterest transition](https://github.com/demon1105/PinterestSwift) - Pinterest style transition.
 * [PKHUD](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
+* [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation
 * [PPSwiftGifs](https://github.com/peterprokop/PPSwiftGifs) - a convenient way to show animated GIF images as a part of iOS GUI.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.

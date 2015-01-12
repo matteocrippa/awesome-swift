@@ -195,6 +195,7 @@ Feel free to contribute!
 
 * [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
 * [PASImageView](https://github.com/abiaad/PASImageView) - async remote download your image and round them. automatically.
+* [SwiftColorArt](https://github.com/Jan0707/SwiftColorArt) - font schema generator according image colours.
 * [SwiftGif](https://github.com/bahlo/SwiftGif) - A small UIImage extension with gif support
 * [Toucan](https://github.com/gavinbunney/Toucan) - Image processing api
 * [UIImageView-BetterFace-Swift](https://github.com/croath/UIImageView-BetterFace-Swift) - autoresize images and if any face discovered refine the position of the image.
@@ -257,6 +258,7 @@ Feel free to contribute!
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [JTToast](https://github.com/devxoul/JLToast) - Toast for swift.
+* [Pagemenu](https://github.com/uacaps/PageMenu) - Pagination enabled view controller.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Panoramic facebook story clone.
 * [pinterest transition](https://github.com/demon1105/PinterestSwift) - Pinterest style transition.
 * [PKHUD](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.

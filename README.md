@@ -6,10 +6,10 @@ A collaborative list of awesome Swift resources,inspired by [awesome-python](htt
 Feel free to contribute!
 
 - [Awesome Swift](#awesome-swift)
-    - [Demo](#demo)
+    - [Demo Apps](#demo-apps)
         - [iOS](#ios)
-        - [OSX](#osx)
-    - [Dependency Manager](#dependency-manager)
+        - [OS X](#os-x)
+    - [Dependency Managers](#dependency-managers)
     - [Guides](#guides)
     - [Editor Support](#editor-support)
         - [Vim](#vim)
@@ -36,10 +36,13 @@ Feel free to contribute!
         - [UI](#ui)
         - [Utility](#utility)
         - [Webserver](#webserver)
+    - [Misc](#misc)
+    - [Tools](#tools)
+        - [Documentation](#documentation)
 
 
 
-## Demo App
+## Demo Apps
 *Some interesting demo/poc apps written in swift.*
 
 ### iOS
@@ -68,13 +71,13 @@ Feel free to contribute!
 * [TextEthan](https://github.com/thii/TextEthan) - a clone of TextEthan, a messaging app that allows anyone to message you
 * [Valio](https://github.com/soffes/valio) - event time table app in swift.
 
-### OSX
+### OS X
 *A list of OSX swift demo apps*
 
 * [clock-saver](https://github.com/soffes/clock-saver) - a clock screen saver for osx written in swift.
+* [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift
 
-
-## Dependency Manager
+## Dependency Managers
 
 *Dependency manager software for swift.*
 
@@ -90,7 +93,7 @@ Feel free to contribute!
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning swift via playground.
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn swift.
-* [Swifter](http://swifter.natecook.com) - Auto-generated documentation for Swift stdlib.
+* [SwiftDoc](http://swiftdoc.org) - Auto-generated documentation for Swift.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for swift.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for swift
 * [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich swift guide, a must read.
@@ -132,6 +135,7 @@ Feel free to contribute!
 *Interesting snippets related to color management and utilty.*
 
 * [HexColor](https://github.com/artman/HexColor) - define UIColors as hex integers.
+* [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - an hex to uicolor converter.
 * [UIColorWDUtils](https://github.com/daktales/UIColorWDUtils) - extension for hex RGB(A).
 
@@ -225,18 +229,18 @@ Feel free to contribute!
 * [Starscream](https://github.com/daltoniam/starscream) - websockets implementation in swift.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 
-### System
 
-*System related libs.*
-
-#### OS X
-
-- [swift-smc](https://github.com/beltex/swift-smc) - Read temperature sensors, fan RPM, etc.
-
-#### Security
+### Security
 
 - [KeyClip](https://github.com/s-aska/KeyClip) - Keychain framework for iOS written in Swift.
 - [iOS-TouchID-Swift](https://github.com/gabrieltheodoropoulos/iOS-TouchID-Swift) - TouchID for Swift.
+
+
+### System
+
+* [SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library in Swift
+* [SystemKit](https://github.com/beltex/SystemKit/) - OS X system library in Swift
+
 
 ### Testing
 *A collection of testing frameworks.*
@@ -281,6 +285,7 @@ Feel free to contribute!
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - promise and future lib for swift.
 * [CLKit](https://github.com/kylef/CLIKit) - a way to create cli with swift.
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
+* [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces
 * [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift
 * [Dollar](https://github.com/ankurp/Dollar.swift) - a lib similar to Lo-Dash or Underscore in Javascript.
 * [ExSwift](https://github.com/pNre/ExSwift) - a set of swift extensions for standard types and classes.
@@ -301,4 +306,18 @@ Feel free to contribute!
 * [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
 
 
+## Misc
+*Miscellaneous Swift related projects*
+
+* [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the Swift compiler
+
+
+## Tools
+*Tools for Swift development*
+
+### Documentation
+*Generate documentation for Swift code*
+
+* [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C
+* [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - Header parsing and HTML generating utilities for SwiftDoc.org
 

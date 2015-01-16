@@ -172,6 +172,7 @@ Feel free to contribute!
 ### Date
 *Handle data formatting easily.*
 * [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Simple date helper.
+* [Swift-NSDate-Extensions](https://github.com/fwhenin/Swift-NSDate-Extensions) - Swift Version of [Erica's NSDate Extensions](https://github.com/erica/NSDate-Extensions).
 
 
 ### Events
@@ -228,6 +229,7 @@ Feel free to contribute!
 * [OAuthSwift](https://github.com/dongri/OAuthSwift) - Swift based OAuth library for iOS.
 * [Starscream](https://github.com/daltoniam/starscream) - websockets implementation in swift.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
+* [IJReachability](https://github.com/Isuru-Nanayakkara/IJReachability) - check for network connection availability.
 
 
 ### Security

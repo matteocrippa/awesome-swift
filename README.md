@@ -152,10 +152,10 @@ Feel free to contribute!
 #### Core Data
 *No more pain with Core Data, here listed some interesting lib to handle data management.*
 
-* [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your swift projects.
-* [SugarRecord](https://github.com/SugarRecord/SugarRecord) - an easy with to work with coredata and realm.
 * [AERecord](https://github.com/tadija/AERecord) - super awesome Core Data wrapper library for iOS written in Swift.
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - a simple CoreData wrapper library written in Swift.
+* [SugarRecord](https://github.com/SugarRecord/SugarRecord) - an easy with to work with coredata and realm.
+* [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your swift projects.
 
 #### JSON
 *Struggling using json data? Here you are some interesting way to handle it.*

@@ -54,6 +54,7 @@ Feel free to contribute!
 * [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List) - a cloudkit based to do list.
 * [DeckRocket](https://github.com/jpsim/DeckRocket) - deckrocket porting in swift.
 * [Edhita](https://github.com/tnantoka/edhita) - text edit app.
+* [firefox-ios](https://github.com/mozilla/firefox-ios) - firefox for iOS being developed by Mozilla.
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in swift.
 * [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in swift.
 * [HausClock](https://github.com/nottombrown/HausClock) - chess stile clock app in swift.
@@ -131,6 +132,7 @@ Feel free to contribute!
 * [Tails](https://github.com/nickynick/Tails) - declarative autolayout for ios app written in swift.
 * [VFLToolbox](https://github.com/0xc010d/VFLToolbox) - fancy Swift implementation of the Visual Format Language
 
+
 ### Colors
 
 *Interesting snippets related to color management and utilty.*
@@ -151,28 +153,33 @@ Feel free to contribute!
 #### Core Data
 *No more pain with Core Data, here listed some interesting lib to handle data management.*
 
-* [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your swift projects.
+* [AERecord](https://github.com/tadija/AERecord) - super awesome Core Data wrapper library for iOS written in Swift.
+* [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - a simple CoreData wrapper library written in Swift.
 * [SugarRecord](https://github.com/SugarRecord/SugarRecord) - an easy with to work with coredata and realm.
+* [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your swift projects.
 
 #### JSON
 *Struggling using json data? Here you are some interesting way to handle it.*
 
 * [argo](https://github.com/thoughtbot/Argo) - Json parsing library
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in swift.
+* [JSONHelper](https://github.com/matteocrippa/awesome-swift#images) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in swift. 
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON object mapper.
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in swift with error handling.
 * [SwiftMapper](https://github.com/kam800/SwiftMapper) - JSON Mapper.
+* [SwiftJSONParser](https://github.com/mrap/SwiftJSONParser) - JSON parser.
 
 #### SQLite
 *Are you interested in storing your app data using SQLite? Here some interesting resources.*
 
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A pure Swift framework wrapping SQLite3. Small. Simple. Safe.
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - sqlite wrapper for swift.
-
+* [SwiftData](https://github.com/ryanfowler/SwiftData) - simple and Effective SQLite Handling in Swift.
 
 ### Date
 *Handle data formatting easily.*
 * [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Simple date helper.
+* [Swift-NSDate-Extensions](https://github.com/fwhenin/Swift-NSDate-Extensions) - Swift Version of [Erica's NSDate Extensions](https://github.com/erica/NSDate-Extensions).
 
 
 ### Events
@@ -185,6 +192,7 @@ Feel free to contribute!
 
 *A collection of font related snippets.*
 
+* [GoogleMaterialDesignIcons](https://github.com/dekatotoro/GoogleMaterialDesignIcons) - google Material Design Icons Font for iOS.
 * [MCFontAwesome](https://github.com/matteocrippa/MCFontAwesome) - fontawesome porting for swift.
 * [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in swift.
 
@@ -199,6 +207,8 @@ Feel free to contribute!
 *An interesting list of image related libs..*
 
 * [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
+* [gifu](https://github.com/kaishin/gifu) - highly performant animated GIF support for iOS in Swift.
+* [ImageScout](https://github.com/kaishin/ImageScout) - a Swift implementation of [fastimage](https://pypi.python.org/pypi/fastimage/0.2.1). supports PNG, GIF, and JPEG. 
 * [PASImageView](https://github.com/abiaad/PASImageView) - async remote download your image and round them. automatically.
 * [SwiftColorArt](https://github.com/Jan0707/SwiftColorArt) - font schema generator according image colours.
 * [SwiftGif](https://github.com/bahlo/SwiftGif) - A small UIImage extension with gif support
@@ -223,10 +233,13 @@ Feel free to contribute!
 * [agent](https://github.com/hallas/agent) - http request agent.
 * [Alamofire](https://github.com/Alamofire/Alamofire) - elegant networking in swift.
 * [GRequest](https://github.com/lingoer/GRequest) - http request handler.
+* [IJReachability](https://github.com/Isuru-Nanayakkara/IJReachability) - check for network connection availability.
+* [ModestProposal](https://github.com/jkolb/ModestProposal) - an HTTP toolbox.
 * [Moya](https://github.com/AshFurrow/Moya) - network abstraction layer.
 * [Net](https://github.com/nghialv/Net) - an httprequest wrapper.
 * [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
 * [OAuthSwift](https://github.com/dongri/OAuthSwift) - Swift based OAuth library for iOS.
+* [RSNetworking](https://github.com/hoffmanjon/RSNetworking) - Network library written purely in Swift.
 * [Starscream](https://github.com/daltoniam/starscream) - websockets implementation in swift.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 
@@ -235,6 +248,7 @@ Feel free to contribute!
 
 - [KeyClip](https://github.com/s-aska/KeyClip) - Keychain framework for iOS written in Swift.
 - [iOS-TouchID-Swift](https://github.com/gabrieltheodoropoulos/iOS-TouchID-Swift) - TouchID for Swift.
+- [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - a simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.
 
 
 ### System
@@ -258,7 +272,9 @@ Feel free to contribute!
 * [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - adaptive tab bar.
 * [CharacterText](https://github.com/android1989/CharacterText) - perform fx on UILabel.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - sliding side menu.
+* [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.
 * [FloatRatingView](https://github.com/strekfus/FloatRatingView) - floating rating system.
+* [FrostedSidebar](https://github.com/edekhayser/FrostedSidebar) - Hamburger Menu using Swift and iOS 8 API's.
 * [Geometry](https://github.com/artman/Geometry) - extensions for UIView.
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
@@ -269,6 +285,7 @@ Feel free to contribute!
 * [PKHUD](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation
 * [PPSwiftGifs](https://github.com/peterprokop/PPSwiftGifs) - a convenient way to show animated GIF images as a part of iOS GUI.
+* [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) - cool PullToRefresh library written in pure swift.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
@@ -300,6 +317,7 @@ Feel free to contribute!
 * [Swift Sugar](https://github.com/RuiAAPeres/Swift-Sugar) - objsugar ported to swift.
 * [Wyrd](https://github.com/explicitcall/Wyrd) - Asynchronous programming in Swift made easy. Wyrd is inspired by Promises/A+.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - a lib that help you handling better debug logging.
+* [Swell](https://github.com/hubertr/Swell) - a logging utility for Swift.
 
 ### Webserver
 *Do you wanna host a webserver in your device? Here you can find some tricks to do it.*

@@ -98,6 +98,7 @@ Feel free to contribute!
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for swift
 * [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich swift guide, a must read.
 * [Swift Tips](https://github.com/jbrennan/swift-tips) - Swift tips collection.
+* [Swift-Weekly](http://goo.gl/HHOQWO) - Weekly Swift Language Gems, Tips and Tricks
 
 ## Editor Support
 

@@ -189,6 +189,7 @@ Feel free to contribute!
 
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - an implementation of event emitters and listeners in swift.
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
+* [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 
 ### Fonts
 

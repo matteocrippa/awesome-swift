@@ -273,6 +273,7 @@ Feel free to contribute!
 *A collection of pre-packaged transitions & cool ui stuffs.*
 
 * [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - adaptive tab bar.
+* [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
 * [CharacterText](https://github.com/android1989/CharacterText) - perform fx on UILabel.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - sliding side menu.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.

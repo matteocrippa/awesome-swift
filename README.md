@@ -137,7 +137,7 @@ Feel free to contribute!
 
 ### Colors
 
-*Interesting snippets related to color management and utilty.*
+*Interesting snippets related to color management and utility.*
 
 * [HexColor](https://github.com/artman/HexColor) - define UIColors as hex integers.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48
@@ -163,10 +163,11 @@ Feel free to contribute!
 #### JSON
 *Struggling using json data? Here you are some interesting way to handle it.*
 
-* [argo](https://github.com/thoughtbot/Argo) - Json parsing library
+* [Argo](https://github.com/thoughtbot/Argo) - Json parsing library
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in swift.
 * [JSONHelper](https://github.com/isair/JSONHelper) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in swift. 
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON object mapper.
+* [Pistachio](https://github.com/felixjendrusch/Pistachio) - Generic model framework for Swift.
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in swift with error handling.
 * [SwiftMapper](https://github.com/kam800/SwiftMapper) - JSON Mapper.
 * [SwiftJSONParser](https://github.com/mrap/SwiftJSONParser) - JSON parser.
@@ -189,6 +190,7 @@ Feel free to contribute!
 
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - an implementation of event emitters and listeners in swift.
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
+* [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 
 ### Fonts
 
@@ -272,6 +274,7 @@ Feel free to contribute!
 *A collection of pre-packaged transitions & cool ui stuffs.*
 
 * [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - adaptive tab bar.
+* [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
 * [CharacterText](https://github.com/android1989/CharacterText) - perform fx on UILabel.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - sliding side menu.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.
@@ -310,6 +313,7 @@ Feel free to contribute!
 * [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift
 * [Dollar](https://github.com/ankurp/Dollar.swift) - a lib similar to Lo-Dash or Underscore in Javascript.
 * [ExSwift](https://github.com/pNre/ExSwift) - a set of swift extensions for standard types and classes.
+* [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [Prototope](http://khan.github.io/Prototope/) - Swift library of lightweight interfaces for prototyping, bridged to JS.
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.

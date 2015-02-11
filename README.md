@@ -137,7 +137,7 @@ Feel free to contribute!
 
 ### Colors
 
-*Interesting snippets related to color management and utilty.*
+*Interesting snippets related to color management and utility.*
 
 * [HexColor](https://github.com/artman/HexColor) - define UIColors as hex integers.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48
@@ -163,7 +163,7 @@ Feel free to contribute!
 #### JSON
 *Struggling using json data? Here you are some interesting way to handle it.*
 
-* [argo](https://github.com/thoughtbot/Argo) - Json parsing library
+* [Argo](https://github.com/thoughtbot/Argo) - Json parsing library
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in swift.
 * [JSONHelper](https://github.com/isair/JSONHelper) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in swift. 
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON object mapper.

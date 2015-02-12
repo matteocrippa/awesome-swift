@@ -120,6 +120,7 @@ Feel free to contribute!
 ### API
 *Quick libs to get access to third party API services*
 
+* [GooglePlacesAutocomplete](https://github.com/watsonbox/ios_google_places_autocomplete) - Simple Google Places address entry for iOS.
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for swift.
 * [Typhoon](https://github.com/typhoon-framework/Typhoon) - Dependency injection toolkit in swift.
 

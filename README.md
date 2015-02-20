@@ -185,7 +185,7 @@ Feel free to contribute!
 *Handle data formatting easily.*
 * [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Simple date helper.
 * [Swift-NSDate-Extensions](https://github.com/fwhenin/Swift-NSDate-Extensions) - Swift Version of [Erica's NSDate Extensions](https://github.com/erica/NSDate-Extensions).
-
+* [SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
 
 ### Events
 *Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.*

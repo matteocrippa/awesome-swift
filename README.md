@@ -181,6 +181,11 @@ Feel free to contribute!
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - sqlite wrapper for swift.
 * [SwiftData](https://github.com/ryanfowler/SwiftData) - simple and Effective SQLite Handling in Swift.
 
+#### XML
+*If you prefer to manage XML data formatted entries, here some helpful libs*
+
+* [AEXML](https://github.com/tadija/AEXML) - xml wrapper
+
 ### Date
 *Handle data formatting easily.*
 * [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Simple date helper.

@@ -300,6 +300,7 @@ Feel free to contribute!
 * [PPSwiftGifs](https://github.com/peterprokop/PPSwiftGifs) - a convenient way to show animated GIF images as a part of iOS GUI.
 * [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) - cool PullToRefresh library written in pure swift.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
+* [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift. 
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.

@@ -295,7 +295,7 @@ Feel free to contribute!
 * [Pagemenu](https://github.com/uacaps/PageMenu) - Pagination enabled view controller.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Panoramic facebook story clone.
 * [PeerKit](https://github.com/jpsim/PeerKit) - An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps.
-* [pinterest transition](https://github.com/demon1105/PinterestSwift) - Pinterest style transition.
+* [PinterestSwift](https://github.com/demon1105/PinterestSwift) - Pinterest style transition.
 * [PKHUD](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation
 * [PPSwiftGifs](https://github.com/peterprokop/PPSwiftGifs) - a convenient way to show animated GIF images as a part of iOS GUI.

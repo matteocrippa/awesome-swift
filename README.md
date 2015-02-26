@@ -259,6 +259,7 @@ Feel free to contribute!
 
 - [KeyClip](https://github.com/s-aska/KeyClip) - Keychain framework for iOS written in Swift.
 - [iOS-TouchID-Swift](https://github.com/gabrieltheodoropoulos/iOS-TouchID-Swift) - TouchID for Swift.
+- [JMEasyTouchID](https://github.com/ulidev/JMEasyTouchID) - TouchID one line wrapper.
 - [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - a simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.
 
 

@@ -105,6 +105,7 @@ Feel free to contribute!
 * [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich swift guide, a must read.
 * [Swift Tips](https://github.com/jbrennan/swift-tips) - Swift tips collection.
 * [Swift-Weekly](http://goo.gl/HHOQWO) - Weekly Swift Language Gems, Tips and Tricks
+* [Natasha the Robot](http://natashatherobot.com) - Weekly Newsletter on learning Swift
 
 ## Editor Support
 

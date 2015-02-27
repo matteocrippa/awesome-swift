@@ -61,6 +61,7 @@ Feel free to contribute!
 * [HomeKitDemo](https://github.com/KhaosT/HomeKit-Demo) - homekit demo app;
 * [iContactU](https://github.com/rizal72/iContactU) - delivered on Apple Store: reminds you to contact people you ought to.
 * [KeychainDemo](https://github.com/dasdom/KeychainDemo) - keychain sharing between an App and it's share extension
+* [LayerPlayer](https://github.com/scotteg/LayerPlayer) - explores CALayer and subclasses; written in Swift; also on App Store
 * [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) - checklist app in swift.
 * [Pocket Forecast](https://github.com/typhoon-framework/Typhoon-Swift-Example) - typhoon weather example
 * [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch) - an MVVM & ReactiveCocoa Flickr search app in swift.

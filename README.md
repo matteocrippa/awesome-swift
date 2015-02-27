@@ -55,6 +55,7 @@ Feel free to contribute!
 * [DeckRocket](https://github.com/jpsim/DeckRocket) - deckrocket porting in swift.
 * [Edhita](https://github.com/tnantoka/edhita) - text edit app.
 * [firefox-ios](https://github.com/mozilla/firefox-ios) - firefox for iOS being developed by Mozilla.
+* [Federal Open Data](https://github.com/USDepartmentofLabor/Swift-Sample-App) - Get federal Open Data using the Federal Data SDK
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in swift.
 * [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in swift.
 * [HausClock](https://github.com/nottombrown/HausClock) - chess stile clock app in swift.
@@ -123,7 +124,7 @@ Feel free to contribute!
 * [GooglePlacesAutocomplete](https://github.com/watsonbox/ios_google_places_autocomplete) - Simple Google Places address entry for iOS.
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for swift.
 * [Typhoon](https://github.com/typhoon-framework/Typhoon) - Dependency injection toolkit in swift.
-
+* [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Federal-Data-SDK) - Eases access to multiple federal government OpenGov APIs
 
 
 ### Auto Layout

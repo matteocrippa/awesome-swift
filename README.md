@@ -322,7 +322,7 @@ Feel free to contribute!
 * [Async.legacy](https://github.com/josephlord/Async.legacy) – Syntactic swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork)
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your swift project.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - promise and future lib for swift.
-* [CLKit](https://github.com/kylef/CLIKit) - a way to create cli with swift.
+* [CLIKit](https://github.com/kylef/CLIKit) - a way to create cli with swift.
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
 * [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces
 * [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift
@@ -337,6 +337,7 @@ Feel free to contribute!
 * [SwiftBitmask](https://github.com/brynbellomy/SwiftBitmask) - `Bitmask<T>` type intended as a replacement for `RawOptionSet`.
 * [SwiftColors](https://github.com/thii/SwiftColors) - HEX color handling as an extension for UIColor.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - form are now easy as 1.2.3!
+* [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) — a cleaner, nicer syntax for NSUserDefaults
 * [Swiftz](https://github.com/maxpow4h/swiftz) - a lib for functional programming.
 * [Swift Sugar](https://github.com/RuiAAPeres/Swift-Sugar) - objsugar ported to swift.
 * [Wyrd](https://github.com/explicitcall/Wyrd) - Asynchronous programming in Swift made easy. Wyrd is inspired by Promises/A+.
@@ -353,6 +354,7 @@ Feel free to contribute!
 *Miscellaneous Swift related projects*
 
 * [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the Swift compiler
+* [SwiftInFlux](https://github.com/ksm/SwiftInFlux) — List of things that are "in flux" in Swift + changelog of the language
 
 
 ## Tools

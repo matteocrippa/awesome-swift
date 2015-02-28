@@ -256,15 +256,23 @@ Feel free to contribute!
 * [OAuthSwift](https://github.com/dongri/OAuthSwift) - Swift based OAuth library for iOS.
 * [RSNetworking](https://github.com/hoffmanjon/RSNetworking) - Network library written purely in Swift.
 * [Starscream](https://github.com/daltoniam/starscream) - websockets implementation in swift.
+* [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 
 
 ### Security
 
-- [KeyClip](https://github.com/s-aska/KeyClip) - Keychain framework for iOS written in Swift.
-- [iOS-TouchID-Swift](https://github.com/gabrieltheodoropoulos/iOS-TouchID-Swift) - TouchID for Swift.
-- [JMEasyTouchID](https://github.com/ulidev/JMEasyTouchID) - TouchID one line wrapper.
-- [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - a simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.
+* [KeyClip](https://github.com/s-aska/KeyClip) - Keychain framework for iOS written in Swift.
+* [iOS-TouchID-Swift](https://github.com/gabrieltheodoropoulos/iOS-TouchID-Swift) - TouchID for Swift.
+* [JMEasyTouchID](https://github.com/ulidev/JMEasyTouchID) - TouchID one line wrapper.
+* [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - a simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.
+
+
+### Sensors
+
+*Manage your device sensors in a faster and easier way*
+
+* [MotionKit](https://github.com/MHaroonBaig/MotionKit) - iOS device sensors wrapper
 
 
 ### System
@@ -297,6 +305,7 @@ Feel free to contribute!
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [JTToast](https://github.com/devxoul/JLToast) - Toast for swift.
+* [MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium scroll style menubar.
 * [Pagemenu](https://github.com/uacaps/PageMenu) - Pagination enabled view controller.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Panoramic facebook story clone.
 * [PeerKit](https://github.com/jpsim/PeerKit) - An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps.

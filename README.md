@@ -97,7 +97,9 @@ Feel free to contribute!
 * [A better way to learn swift](https://github.com/GoThinkster/swift) - Learn swift in a different way.
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
 * [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty. 
+* [Functional Programming in Swift](http://www.objc.io/books/) - A book on how to use Swift functionally
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning swift via playground.
+* [objc.io snippets](http://www.objc.io/snippets/) - Short, weekly snippets showing off Swift features
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn swift.
 * [SwiftDoc](http://swiftdoc.org) - Auto-generated documentation for Swift.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for swift.
@@ -374,4 +376,3 @@ Feel free to contribute!
 
 * [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C
 * [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - Header parsing and HTML generating utilities for SwiftDoc.org
-

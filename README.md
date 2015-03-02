@@ -15,7 +15,7 @@ Feel free to contribute!
         - [Vim](#vim)
     - [Libs](#libs)
         - [API](#api)
-        - [Auto Layout](#auto-layout)  
+        - [Auto Layout](#auto-layout)
         - [Colors](#colors)
         - [Cryptography](#cryptography)
         - [Data Management](#data-management)
@@ -73,7 +73,7 @@ Feel free to contribute!
 * [SwiftHN](https://github.com/Dimillian/SwiftHN) - hacker news app in swift.
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - a nice weather app written in swift.
 * [TextEthan](https://github.com/thii/TextEthan) - a clone of TextEthan, a messaging app that allows anyone to message you
-* [Task](https://github.com/mbcrump/TasksForSwiftWithPersistingData) - a task app written in Swift that is published in the app store. 
+* [Task](https://github.com/mbcrump/TasksForSwiftWithPersistingData) - a task app written in Swift that is published in the app store.
 * [The Oakland Post](https://github.com/aclissold/the-oakland-post) - a full-fledged, 100%-Swift (minus dependencies) news reader.
 * [Valio](https://github.com/soffes/valio) - event time table app in swift.
 
@@ -97,7 +97,7 @@ Feel free to contribute!
 
 * [A better way to learn swift](https://github.com/GoThinkster/swift) - Learn swift in a different way.
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
-* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty. 
+* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning swift via playground.
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn swift.
 * [SwiftDoc](http://swiftdoc.org) - Auto-generated documentation for Swift.
@@ -149,7 +149,7 @@ Feel free to contribute!
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - an hex to uicolor converter.
 * [UIColorWDUtils](https://github.com/daktales/UIColorWDUtils) - extension for hex RGB(A).
-
+* [SwiftColor](https://github.com/thii/SwiftColors) - HEX color handling as an extension for UIColor
 
 ### Cryptography
 *Deal with cryptography method easily in swift*
@@ -164,7 +164,7 @@ Feel free to contribute!
 * [AERecord](https://github.com/tadija/AERecord) - super awesome Core Data wrapper library for iOS written in Swift.
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - a simple CoreData wrapper library written in Swift.
 * [SugarRecord](https://github.com/SugarRecord/SugarRecord) - an easy with to work with coredata and realm.
-* [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier. 
+* [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier.
 * [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your swift projects.
 
 #### JSON
@@ -172,7 +172,7 @@ Feel free to contribute!
 
 * [Argo](https://github.com/thoughtbot/Argo) - Json parsing library
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in swift.
-* [JSONHelper](https://github.com/isair/JSONHelper) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in swift. 
+* [JSONHelper](https://github.com/isair/JSONHelper) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in swift.
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON object mapper.
 * [Pistachio](https://github.com/felixjendrusch/Pistachio) - Generic model framework for Swift.
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in swift with error handling.
@@ -224,7 +224,7 @@ Feel free to contribute!
 
 * [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
 * [gifu](https://github.com/kaishin/gifu) - highly performant animated GIF support for iOS in Swift.
-* [ImageScout](https://github.com/kaishin/ImageScout) - a Swift implementation of [fastimage](https://pypi.python.org/pypi/fastimage/0.2.1). supports PNG, GIF, and JPEG. 
+* [ImageScout](https://github.com/kaishin/ImageScout) - a Swift implementation of [fastimage](https://pypi.python.org/pypi/fastimage/0.2.1). supports PNG, GIF, and JPEG.
 * [PASImageView](https://github.com/abiaad/PASImageView) - async remote download your image and round them. automatically.
 * [SwiftColorArt](https://github.com/Jan0707/SwiftColorArt) - font schema generator according image colours.
 * [SwiftGif](https://github.com/bahlo/SwiftGif) - A small UIImage extension with gif support
@@ -317,7 +317,7 @@ Feel free to contribute!
 * [PPSwiftGifs](https://github.com/peterprokop/PPSwiftGifs) - a convenient way to show animated GIF images as a part of iOS GUI.
 * [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) - cool PullToRefresh library written in pure swift.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
-* [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift. 
+* [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Several ready to use effects for UITextFields

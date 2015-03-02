@@ -134,6 +134,7 @@ Feel free to contribute!
 *Bored of using storyboard? Give a try to declarative auto layout libs.*
 
 * [Cartography](https://github.com/robb/Cartography) - declarative auto layout lib for your project.
+* [ManualLayout](https://github.com/isair/ManualLayout) - Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.
 * [Snappy](https://github.com/Masonry/Snappy) - a light-weight layout framework which wraps AutoLayout with nicer syntax.
 * [SwiftBox](https://github.com/joshaber/SwiftBox) - Flexbox in Swift, using Facebook's css-layout.
 * [SwiftAutoLayout](https://github.com/indragiek/SwiftAutoLayout) - a small DSL for autolayout.

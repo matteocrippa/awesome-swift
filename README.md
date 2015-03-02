@@ -1,7 +1,7 @@
 Awesome Swift
 =============
 
-A collaborative list of awesome Swift resources,inspired by [awesome-python](https://github.com/vinta/awesome-python) and listed on [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+A collaborative list of awesome Swift resources, inspired by [awesome-python](https://github.com/vinta/awesome-python) and listed on [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
 Feel free to contribute!
 

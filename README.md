@@ -87,7 +87,6 @@ Feel free to contribute!
 
 *Dependency manager software for swift.*
 
-* [acli](https://github.com/eugenpirogoff/acli) - downloads repos from command line listed in awesome-swift readme.
 * [carthage](https://github.com/Carthage/Carthage) - a new dependency manager for swift.
 * [cocoapods](https://github.com/CocoaPods/CocoaPods) - the most used dependency manager for Objective-C (swift is still in porting).
 

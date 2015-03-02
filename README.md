@@ -159,7 +159,7 @@ Feel free to contribute!
 
 ### Data Management
 #### Core Data
-*No more pain with Core Data, here listed some interesting lib to handle data management.*
+*No more pain with Core Data, here are some interesting libs to handle data management.*
 
 * [AERecord](https://github.com/tadija/AERecord) - super awesome Core Data wrapper library for iOS written in Swift.
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - a simple CoreData wrapper library written in Swift.
@@ -168,7 +168,7 @@ Feel free to contribute!
 * [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your Swift projects.
 
 #### JSON
-*Struggling using json data? Here you are some interesting way to handle it.*
+*Struggling using json data? Here are some interesting ways to handle it.*
 
 * [Argo](https://github.com/thoughtbot/Argo) - Json parsing library
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
@@ -180,14 +180,14 @@ Feel free to contribute!
 * [SwiftJSONParser](https://github.com/mrap/SwiftJSONParser) - JSON parser.
 
 #### SQLite
-*Are you interested in storing your app data using SQLite? Here some interesting resources.*
+*Are you interested in storing your app data using SQLite? Here are some interesting resources.*
 
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A pure Swift framework wrapping SQLite3. Small. Simple. Safe.
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - sqlite wrapper for Swift.
 * [SwiftData](https://github.com/ryanfowler/SwiftData) - simple and Effective SQLite Handling in Swift.
 
 #### XML
-*If you prefer to manage XML data formatted entries, here some helpful libs*
+*If you prefer to manage XML data formatted entries, here are some helpful libs*
 
 * [AEXML](https://github.com/tadija/AEXML) - xml wrapper
 
@@ -233,7 +233,7 @@ Feel free to contribute!
 
 
 ### Keyboard
-*Do you want to create your own customized keyboard? Here some interesting resources*
+*Do you want to create your own customized keyboard? Here are some interesting resources*
 
 * [Hodor Keyboard](https://github.com/jonomuller/Hodor-Keyboard) - poc for custom keyboard implementation.
 
@@ -244,7 +244,7 @@ Feel free to contribute!
 
 
 ### Network
-*A list of libs that allow you to decrease the amount of time spent to deal with http requests.*
+*A list of libs that allow you to decrease the amount of time spent dealing with http requests.*
 
 * [agent](https://github.com/hallas/agent) - http request agent.
 * [Alamofire](https://github.com/Alamofire/Alamofire) - elegant networking in Swift.
@@ -326,7 +326,7 @@ Feel free to contribute!
 
 ### Utility
 
-*Some interesting utilities that help you in your projects*
+*Some interesting utilities to help you in your projects*
 
 * [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects.
 * [Async](https://github.com/duemunk/Async) – Syntactic Swift sugar for Grand Central Dispatch
@@ -357,7 +357,7 @@ Feel free to contribute!
 * [Swell](https://github.com/hubertr/Swell) - a logging utility for Swift.
 
 ### Webserver
-*Do you wanna host a webserver in your device? Here you can find some tricks to do it.*
+*Would you like host a webserver in your device? Here you can find how to do it.*
 
 * [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
 

@@ -344,6 +344,7 @@ Feel free to contribute!
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [Prototope](http://khan.github.io/Prototope/) - Swift library of lightweight interfaces for prototyping, bridged to JS.
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
+* [Runes](https://github.com/thoughtbot/Runes) - Functional operators for Swift - flatMap, map, apply, pure
 * [SpecificationPattern](https://github.com/neoneye/SpecificationPattern) - chainable rules useful for form validation.
 * [SwiftBitmask](https://github.com/brynbellomy/SwiftBitmask) - `Bitmask<T>` type intended as a replacement for `RawOptionSet`.
 * [SwiftColors](https://github.com/thii/SwiftColors) - HEX color handling as an extension for UIColor.

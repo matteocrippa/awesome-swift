@@ -200,6 +200,7 @@ Feel free to contribute!
 ### Events
 *Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.*
 
+* [Bond](https://github.com/SwiftBond/Bond) - a Swift binding framework.
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - an implementation of event emitters and listeners in swift.
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.

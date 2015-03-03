@@ -360,6 +360,7 @@ Feel free to contribute!
 *Do you wanna host a webserver in your device? Here you can find some tricks to do it.*
 
 * [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
+* [NetworkObjects](https://github.com/colemancda/NetworkObjects) - REST HTTP Server written in Swift. Builds REST API from Core Data.
 
 
 ## Misc

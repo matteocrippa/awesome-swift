@@ -15,7 +15,6 @@ Feel free to contribute!
         - [Vim](#vim)
     - [Libs](#libs)
         - [API](#api)
-        - [Auto Layout](#auto-layout)  
         - [Colors](#colors)
         - [Cryptography](#cryptography)
         - [Data Management](#data-management)
@@ -28,6 +27,7 @@ Feel free to contribute!
         - [iBeacon](#ibeacon)
         - [Images](#images)
         - [Keyboard](#keyboard)
+        - [Layout](#layout)          
         - [Math](#math)
         - [Network](#network)
         - [Security](#security)
@@ -129,17 +129,6 @@ Feel free to contribute!
 * [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Federal-Data-SDK) - Eases access to multiple federal government OpenGov APIs
 
 
-### Auto Layout
-*Bored of using storyboard? Give a try to declarative auto layout libs.*
-
-* [Cartography](https://github.com/robb/Cartography) - declarative auto layout lib for your project.
-* [Snappy](https://github.com/Masonry/Snappy) - a light-weight layout framework which wraps AutoLayout with nicer syntax.
-* [SwiftBox](https://github.com/joshaber/SwiftBox) - Flexbox in Swift, using Facebook's css-layout.
-* [SwiftAutoLayout](https://github.com/indragiek/SwiftAutoLayout) - a small DSL for autolayout.
-* [Tails](https://github.com/nickynick/Tails) - declarative autolayout for ios app written in swift.
-* [VFLToolbox](https://github.com/0xc010d/VFLToolbox) - fancy Swift implementation of the Visual Format Language
-
-
 ### Colors
 
 *Interesting snippets related to color management and utility.*
@@ -236,6 +225,22 @@ Feel free to contribute!
 *Do you want to create your own customized keyboard? Here some interesting resources*
 
 * [Hodor Keyboard](https://github.com/jonomuller/Hodor-Keyboard) - poc for custom keyboard implementation.
+
+
+### Layout 
+*Libs to help you with layout.*
+* [ManualLayout](https://github.com/isair/ManualLayout) - Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.
+* [SwiftBox](https://github.com/joshaber/SwiftBox) - Flexbox in Swift, using Facebook's css-layout.
+
+
+#### Auto Layout
+*Bored of using storyboard? Give a try to declarative auto layout libs.*
+
+* [Cartography](https://github.com/robb/Cartography) - declarative auto layout lib for your project.
+* [Snappy](https://github.com/Masonry/Snappy) - a light-weight layout framework which wraps AutoLayout with nicer syntax.
+* [SwiftAutoLayout](https://github.com/indragiek/SwiftAutoLayout) - a small DSL for autolayout.
+* [Tails](https://github.com/nickynick/Tails) - declarative autolayout for ios app written in swift.
+* [VFLToolbox](https://github.com/0xc010d/VFLToolbox) - fancy Swift implementation of the Visual Format Language
 
 
 ### Math

@@ -211,6 +211,7 @@ Feel free to contribute!
 * [GoogleMaterialDesignIcons](https://github.com/dekatotoro/GoogleMaterialDesignIcons) - google Material Design Icons Font for iOS.
 * [MCFontAwesome](https://github.com/matteocrippa/MCFontAwesome) - fontawesome porting for swift.
 * [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in swift.
+* [SDevIconFonts](https://github.com/0x73/SDevIconFonts) - Fontawesome, Iconic, Ionicons, Octicon porting for swift.
 
 
 ### iBeacon
@@ -322,6 +323,7 @@ Feel free to contribute!
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Several ready to use effects for UITextFields
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
+* [SDevBootstrapButton](https://github.com/0x73/SDevBootstrapButton) - Twitter Bootstrap buttons for Swift
 
 
 ### Utility

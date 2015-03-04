@@ -199,6 +199,7 @@ Feel free to contribute!
 
 * [GoogleMaterialDesignIcons](https://github.com/dekatotoro/GoogleMaterialDesignIcons) - google Material Design Icons Font for iOS.
 * [MCFontAwesome](https://github.com/matteocrippa/MCFontAwesome) - fontawesome porting for swift.
+* [SDevIconFonts](https://github.com/0x73/SDevIconFonts) - Fontawesome, Iconic, Ionicons, Octicon porting for swift.
 * [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in swift.
 
 
@@ -322,12 +323,12 @@ Feel free to contribute!
 * [PPSwiftGifs](https://github.com/peterprokop/PPSwiftGifs) - a convenient way to show animated GIF images as a part of iOS GUI.
 * [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) - cool PullToRefresh library written in pure swift.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
+* [SDevBootstrapButton](https://github.com/0x73/SDevBootstrapButton) - Twitter Bootstrap buttons for Swift
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift. 
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Several ready to use effects for UITextFields
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
-
 
 ### Utility
 

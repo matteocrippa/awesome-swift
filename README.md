@@ -131,6 +131,7 @@ Feel free to contribute!
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for swift.
 * [Typhoon](https://github.com/typhoon-framework/Typhoon) - Dependency injection toolkit in swift.
 * [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Federal-Data-SDK) - Eases access to multiple federal government OpenGov APIs
+* [PredictionIO SDK](https://github.com/minhtule/PredictionIO-Swift-SDK) - A convenient API to communicate with PredictionIO's Event Server and ML Engines
 
 
 ### Colors

@@ -106,8 +106,8 @@ Feel free to contribute!
 * [Swift-Weekly](http://goo.gl/HHOQWO) - Weekly Swift Language Gems, Tips and Tricks
 
 ### Style Guides
-* [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich swift guide, a must read.
-* [swift-style-guide](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
+* [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
+* [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich swift guide, a must read.
 * [SlideShare (LinkedIn)](https://github.com/SlideShareInc/swift-style-guide) - Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.
 
 ## Editor Support

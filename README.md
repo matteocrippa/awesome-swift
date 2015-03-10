@@ -189,6 +189,7 @@ Feel free to contribute!
 * [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Simple date helper.
 * [Swift-NSDate-Extensions](https://github.com/fwhenin/Swift-NSDate-Extensions) - Swift Version of [Erica's NSDate Extensions](https://github.com/erica/NSDate-Extensions).
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
+* [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift. 
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions in Swift.
 
 ### Events

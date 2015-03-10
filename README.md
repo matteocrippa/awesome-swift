@@ -260,6 +260,7 @@ Feel free to contribute!
 
 * [agent](https://github.com/hallas/agent) - http request agent.
 * [Alamofire](https://github.com/Alamofire/Alamofire) - elegant networking in swift.
+* [APIKit](https://github.com/ishkawa/APIKit) - a library for building type-safe web API client.
 * [GRequest](https://github.com/lingoer/GRequest) - http request handler.
 * [IJReachability](https://github.com/Isuru-Nanayakkara/IJReachability) - check for network connection availability.
 * [ModestProposal](https://github.com/jkolb/ModestProposal) - an HTTP toolbox.

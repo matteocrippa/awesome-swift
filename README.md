@@ -323,6 +323,7 @@ Feel free to contribute!
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [JTToast](https://github.com/devxoul/JLToast) - Toast for swift.
+* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium scroll style menubar.
 * [Pagemenu](https://github.com/uacaps/PageMenu) - Pagination enabled view controller.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Panoramic facebook story clone.

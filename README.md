@@ -140,6 +140,7 @@ Feel free to contribute!
 
 * [HexColor](https://github.com/artman/HexColor) - define UIColors as hex integers.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48
+* [RandomColorSwift](https://github.com/onevcat/RandomColorSwift) - An attractive color generator for Swift. Ported from randomColor.js.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - an hex to uicolor converter.
 * [UIColorWDUtils](https://github.com/daktales/UIColorWDUtils) - extension for hex RGB(A).
 
@@ -252,6 +253,7 @@ Feel free to contribute!
 
 
 ### Math
+* [Easy-Cal-Swift](https://github.com/onevcat/Easy-Cal-Swift) - Overload +-*/ operator for Swift, make it easier to use (and not so strict).
 * [Surge](https://github.com/mattt/Surge) - Accelerate framework for swift.
 * [swix](https://github.com/scottsievert/swix) - A general matrix language.
 

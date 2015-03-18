@@ -273,6 +273,7 @@ Feel free to contribute!
 * [RSNetworking](https://github.com/hoffmanjon/RSNetworking) - Network library written purely in Swift.
 * [Starscream](https://github.com/daltoniam/starscream) - websockets implementation in swift.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
+* [SwiftSocket](https://github.com/xyyc/SwiftSocket) - simple TCP socket library.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 
 

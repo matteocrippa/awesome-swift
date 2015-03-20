@@ -102,6 +102,7 @@ Feel free to contribute!
 * [SwiftDoc](http://swiftdoc.org) - Auto-generated documentation for Swift.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for swift.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for swift
+* [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - App to learn to code in Swift.
 * [Swift Tips](https://github.com/jbrennan/swift-tips) - Swift tips collection.
 * [Swift-Weekly](http://goo.gl/HHOQWO) - Weekly Swift Language Gems, Tips and Tricks
 

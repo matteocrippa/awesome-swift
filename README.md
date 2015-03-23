@@ -304,6 +304,7 @@ Feel free to contribute!
 ### Testing
 *A collection of testing frameworks.*
 
+* [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease in Swift.
 * [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
 * [Swiftest](https://github.com/Swiftest/Swiftest) - experimental BDD-style framework.

@@ -351,6 +351,7 @@ Feel free to contribute!
 *Some interesting utilities that help you in your projects*
 
 * [__](https://github.com/lotz84/__.swift) - Underscore.js power in your swift projects.
+* [AAWindow](https://github.com/aaronabentheuer/AAWindow) - UIWindow subclass to enable behavior like adaptive round-corners & detecting when Control Center is opened.
 * [Async](https://github.com/duemunk/Async) – Syntactic swift sugar for Grand Central Dispatch
 * [Async.legacy](https://github.com/josephlord/Async.legacy) – Syntactic swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork)
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your swift project.

@@ -107,6 +107,7 @@ Feel free to contribute!
 * [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - App to learn to code in Swift.
 * [Swift Tips](https://github.com/jbrennan/swift-tips) - Swift tips collection.
 * [Swift-Weekly](http://goo.gl/HHOQWO) - Weekly Swift Language Gems, Tips and Tricks
+* [exercism.io](http://exercism.io/nitpick/swift/recent) - Free Swift Crowd-sourced mentorship by doing exercises
 
 ### Style Guides
 * [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.

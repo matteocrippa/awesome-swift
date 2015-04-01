@@ -226,7 +226,8 @@ Feel free to contribute!
 
 * [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
 * [gifu](https://github.com/kaishin/gifu) - highly performant animated GIF support for iOS in Swift.
-* [ImageScout](https://github.com/kaishin/ImageScout) - a Swift implementation of [fastimage](https://pypi.python.org/pypi/fastimage/0.2.1). supports PNG, GIF, and JPEG. 
+* [ImageScout](https://github.com/kaishin/ImageScout) - a Swift implementation of [fastimage](https://pypi.python.org/pypi/fastimage/0.2.1) - supports PNG, GIF, and JPEG. 
+* [MapleBacon](https://github.com/zalando/MapleBacon) - Swift image download and caching library.
 * [PASImageView](https://github.com/abiaad/PASImageView) - async remote download your image and round them. automatically.
 * [SwiftColorArt](https://github.com/Jan0707/SwiftColorArt) - font schema generator according image colours.
 * [SwiftGif](https://github.com/bahlo/SwiftGif) - A small UIImage extension with gif support

@@ -332,6 +332,7 @@ Feel free to contribute!
 * [Geometry](https://github.com/artman/Geometry) - extensions for UIView.
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
+* [ios-charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful MPAndroidChart.
 * [JTToast](https://github.com/devxoul/JLToast) - Toast for swift.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.

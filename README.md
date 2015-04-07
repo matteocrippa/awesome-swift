@@ -35,6 +35,7 @@ Feel free to contribute!
         - [Testing](#testing)
         - [UI](#ui)
         - [Utility](#utility)
+        - [Video](#video)
         - [Webserver](#webserver)
     - [Misc](#misc)
     - [Tools](#tools)
@@ -390,6 +391,10 @@ Feel free to contribute!
 * [Wyrd](https://github.com/explicitcall/Wyrd) - Asynchronous programming in Swift made easy. Wyrd is inspired by Promises/A+.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - a lib that help you handling better debug logging.
 * [Swell](https://github.com/hubertr/Swell) - a logging utility for Swift.
+
+### Video
+
+* [Player](https://github.com/piemonte/Player) - iOS video player in Swift, simple drop in component for playing and streaming media.
 
 ### Webserver
 *Do you wanna host a webserver in your device? Here you can find some tricks to do it.*

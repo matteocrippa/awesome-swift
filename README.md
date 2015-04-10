@@ -370,6 +370,7 @@ Feel free to contribute!
 * [Async.legacy](https://github.com/josephlord/Async.legacy) – Syntactic swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork)
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your swift project.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - promise and future lib for swift.
+* [Chronos](https://github.com/Olympus-Library/Chronos-Swift)- Grand Central Dispatch Utilities.
 * [CLIKit](https://github.com/kylef/CLIKit) - a way to create cli with swift.
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
 * [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces

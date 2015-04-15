@@ -217,6 +217,7 @@ Feel free to contribute!
 * [MCFontAwesome](https://github.com/matteocrippa/MCFontAwesome) - fontawesome porting for swift.
 * [SDevIconFonts](https://github.com/0x73/SDevIconFonts) - Fontawesome, Iconic, Ionicons, Octicon porting for swift.
 * [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in swift.
+* [OpenSansSwift](https://github.com/hemantasapkota/OpenSansSwift) - OpenSans for swift.
 
 
 ### iBeacon

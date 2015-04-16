@@ -284,6 +284,7 @@ Feel free to contribute!
 * [OAuthSwift](https://github.com/dongri/OAuthSwift) - Swift based OAuth library for iOS.
 * [PeerKit](https://github.com/jpsim/PeerKit) - An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps.
 * [RSNetworking](https://github.com/hoffmanjon/RSNetworking) - Network library written purely in Swift.
+* [Socket.IO](https://github.com/socketio/socket.io-client-swift) - Socket.IO client for iOS/OS X.
 * [Starscream](https://github.com/daltoniam/starscream) - websockets implementation in swift.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
 * [SwiftSocket](https://github.com/xyyc/SwiftSocket) - simple TCP socket library.

@@ -77,6 +77,7 @@ Feel free to contribute!
 * [Task](https://github.com/mbcrump/TasksForSwiftWithPersistingData) - a task app written in Swift that is published in the app store. 
 * [The Oakland Post](https://github.com/aclissold/the-oakland-post) - a full-fledged, 100%-Swift (minus dependencies) news reader.
 * [Valio](https://github.com/soffes/valio) - event time table app in swift.
+* [Walk Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker) - GPS Walk Tracking app with Core Data
 
 ### OS X
 *A list of OSX swift demo apps*

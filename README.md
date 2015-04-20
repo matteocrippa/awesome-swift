@@ -215,9 +215,9 @@ Feel free to contribute!
 
 * [GoogleMaterialDesignIcons](https://github.com/dekatotoro/GoogleMaterialDesignIcons) - google Material Design Icons Font for iOS.
 * [MCFontAwesome](https://github.com/matteocrippa/MCFontAwesome) - fontawesome porting for swift.
+* [OpenSansSwift](https://github.com/hemantasapkota/OpenSansSwift) - OpenSans for swift.
 * [SDevIconFonts](https://github.com/0x73/SDevIconFonts) - Fontawesome, Iconic, Ionicons, Octicon porting for swift.
 * [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in swift.
-
 
 ### iBeacon
 *Interested in using iBeacon in your swift project? Here some interesting resources.*

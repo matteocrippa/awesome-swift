@@ -24,6 +24,7 @@ Feel free to contribute!
         - [Date](#date)
         - [Events](#events)
         - [Fonts](#fonts)
+        - [Gesture](#gesture)
         - [iBeacon](#ibeacon)
         - [Images](#images)
         - [Keyboard](#keyboard)
@@ -59,6 +60,7 @@ Feel free to contribute!
 * [firefox-ios](https://github.com/mozilla/firefox-ios) - firefox for iOS being developed by Mozilla.
 * [Federal Open Data](https://github.com/USDepartmentofLabor/Swift-Sample-App) - Get federal Open Data using the Federal Data SDK
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in swift.
+* [Gulps](https://github.com/FancyPixel/gulps) - OS app for iOS and apple watch to monitor water consumption.
 * [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in swift.
 * [HausClock](https://github.com/nottombrown/HausClock) - chess stile clock app in swift.
 * [HomeKitDemo](https://github.com/KhaosT/HomeKit-Demo) - homekit demo app;
@@ -220,6 +222,9 @@ Feel free to contribute!
 * [SDevIconFonts](https://github.com/0x73/SDevIconFonts) - Fontawesome, Iconic, Ionicons, Octicon porting for swift.
 * [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in swift.
 
+### Gesture
+* [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - db path recognizer for letters. 
+
 ### iBeacon
 *Interested in using iBeacon in your swift project? Here some interesting resources.*
 
@@ -329,6 +334,7 @@ Feel free to contribute!
 *A collection of pre-packaged transitions & cool ui stuffs.*
 
 * [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - adaptive tab bar.
+* [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch) - flat animated switch.
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - A playable pull to refresh view using SpriteKit
 * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
 * [CharacterText](https://github.com/android1989/CharacterText) - perform fx on UILabel.
@@ -339,6 +345,7 @@ Feel free to contribute!
 * [FrostedSidebar](https://github.com/edekhayser/FrostedSidebar) - Hamburger Menu using Swift and iOS 8 API's.
 * [Geometry](https://github.com/artman/Geometry) - extensions for UIView.
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
+* [](https://github.com/Yalantis/GuillotineMenu) - Guillotine style menu
 * [hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful MPAndroidChart.
 * [JTToast](https://github.com/devxoul/JLToast) - Toast for swift.

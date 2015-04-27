@@ -141,6 +141,7 @@ Feel free to contribute!
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for swift.
 * [Typhoon](https://github.com/typhoon-framework/Typhoon) - Dependency injection toolkit in swift.
 * [PredictionIO SDK](https://github.com/minhtule/PredictionIO-Swift-SDK) - A convenient API to communicate with PredictionIO's Event Server and ML Engines
+* [PXGoogleDirections](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
 
 
 ### Colors

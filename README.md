@@ -195,6 +195,7 @@ Feel free to contribute!
 *If you prefer to manage XML data formatted entries, here some helpful libs*
 
 * [AEXML](https://github.com/tadija/AEXML) - xml wrapper
+* [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift.
 
 ### Date
 *Handle data formatting easily.*

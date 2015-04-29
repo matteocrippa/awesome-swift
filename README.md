@@ -21,6 +21,7 @@ Feel free to contribute!
             - [Core Data](#core-data)
             - [JSON](#json)
             - [SQLite](#sqlite)
+            - [XML](#xml)
         - [Date](#date)
         - [Events](#events)
         - [Fonts](#fonts)

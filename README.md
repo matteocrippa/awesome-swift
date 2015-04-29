@@ -386,6 +386,7 @@ Feel free to contribute!
 * [Chronos](https://github.com/Olympus-Library/Chronos-Swift)- Grand Central Dispatch Utilities.
 * [CLIKit](https://github.com/kylef/CLIKit) - a way to create cli with swift.
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
+* [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library
 * [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool.
 * [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift

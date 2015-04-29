@@ -386,7 +386,6 @@ Feel free to contribute!
 * [Chronos](https://github.com/Olympus-Library/Chronos-Swift)- Grand Central Dispatch Utilities.
 * [CLIKit](https://github.com/kylef/CLIKit) - a way to create cli with swift.
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
-* [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library
 * [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool.
 * [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift
@@ -397,6 +396,7 @@ Feel free to contribute!
 * [Mendel](https://github.com/saniul/Mendel) - Swift miliframework for implementing evolutionary/genetic algorithms.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [Prototope](http://khan.github.io/Prototope/) - Swift library of lightweight interfaces for prototyping, bridged to JS.
+* [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
 * [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
 * [Runes](https://github.com/thoughtbot/Runes) - Functional operators for Swift - flatMap, map, apply, pure

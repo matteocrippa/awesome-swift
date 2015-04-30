@@ -400,6 +400,7 @@ Feel free to contribute!
 * [Mendel](https://github.com/saniul/Mendel) - Swift miliframework for implementing evolutionary/genetic algorithms.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [Prototope](http://khan.github.io/Prototope/) - Swift library of lightweight interfaces for prototyping, bridged to JS.
+* [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
 * [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
 * [Result](https://github.com/antitypical/Result) - Swift type modelling the success/failure of arbitrary operations.

@@ -14,6 +14,7 @@ Feel free to contribute!
     - [Editor Support](#editor-support)
         - [Vim](#vim)
     - [Libs](#libs)
+        - [Audio](#audio)
         - [API](#api)
         - [Colors](#colors)
         - [Cryptography](#cryptography)
@@ -133,6 +134,11 @@ Feel free to contribute!
 
 ## Libs
 *Here you can find a list of snippets and libs for your swift projects.*
+
+### Audio
+*Libs to work with audio*
+
+* [MusicKit](https://github.com/benzguo/MusicKit) - A framework for composing and transforming music in Swift
 
 ### API
 *Quick libs to get access to third party API services*

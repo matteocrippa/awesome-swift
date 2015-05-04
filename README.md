@@ -302,6 +302,7 @@ Feel free to contribute!
 * [PeerKit](https://github.com/jpsim/PeerKit) - An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps.
 * [RSNetworking](https://github.com/hoffmanjon/RSNetworking) - Network library written purely in Swift.
 * [Socket.IO](https://github.com/socketio/socket.io-client-swift) - Socket.IO client for iOS/OS X.
+* [Stargate](https://github.com/contentful-labs/Stargate) - A communication channel from your Mac to your watch.
 * [Starscream](https://github.com/daltoniam/starscream) - websockets implementation in swift.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
 * [SwiftSocket](https://github.com/xyyc/SwiftSocket) - simple TCP socket library.

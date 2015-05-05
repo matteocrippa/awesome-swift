@@ -247,6 +247,7 @@ Feel free to contribute!
 * [gifu](https://github.com/kaishin/gifu) - highly performant animated GIF support for iOS in Swift.
 * [ImageLoader](https://github.com/hirohisa/ImageLoaderSwift) - A lightweight and fast image loader for iOS written in Swift.
 * [ImageScout](https://github.com/kaishin/ImageScout) - a Swift implementation of [fastimage](https://pypi.python.org/pypi/fastimage/0.2.1) - supports PNG, GIF, and JPEG. 
+* [KFSwiftImageLoader](https://github.com/kiavashfaisali/KFSwiftImageLoader) - An extremely high-performance, lightweight, and energy-efficient pure Swift async web image loader with memory and disk caching for iOS and  Watch.
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - a lib for image download and caching.
 * [MapleBacon](https://github.com/zalando/MapleBacon) - Swift image download and caching library.
 * [PASImageView](https://github.com/abiaad/PASImageView) - async remote download your image and round them. automatically.

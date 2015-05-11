@@ -282,6 +282,11 @@ Feel free to contribute!
 * [Tails](https://github.com/nickynick/Tails) - declarative autolayout for ios app written in swift.
 * [VFLToolbox](https://github.com/0xc010d/VFLToolbox) - fancy Swift implementation of the Visual Format Language
 
+### Logging
+*Utilities for writing to and reading from the device log*
+
+* [CleanroomASL](https://github.com/emaloney/CleanroomASL) — a low-level Swift API for writing to and reading from the Apple System Log daemon
+* [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) — a configurable and extensible high-level logging API that is simple, lightweight and performant
 
 ### Math
 * [Easy-Cal-Swift](https://github.com/onevcat/Easy-Cal-Swift) - Overload +-*/ operator for Swift, make it easier to use (and not so strict).

@@ -70,6 +70,7 @@ Feel free to contribute!
 * [KeychainDemo](https://github.com/dasdom/KeychainDemo) - keychain sharing between an App and it's share extension
 * [LayerPlayer](https://github.com/scotteg/LayerPlayer) - explores CALayer and subclasses; written in Swift; also on App Store
 * [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) - checklist app in swift.
+* [Path Logger](https://github.com/eugenpirogoff/pathlogger) - a GPS Path Logger with Core Data
 * [Pocket Forecast](https://github.com/typhoon-framework/Typhoon-Swift-Example) - typhoon weather example
 * [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch) - an MVVM & ReactiveCocoa Flickr search app in swift.
 * [Round & Split](https://github.com/lukhnos/roundandsplit) - a tip calculator in swift
@@ -82,7 +83,6 @@ Feel free to contribute!
 * [The Oakland Post](https://github.com/aclissold/the-oakland-post) - a full-fledged, 100%-Swift (minus dependencies) news reader.
 * [Valio](https://github.com/soffes/valio) - event time table app in swift.
 * [Walk Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker) - GPS Walk Tracking app with Core Data
-* [Path Logger](https://github.com/eugenpirogoff/pathlogger) - GPS Path Logger with Core Data
 
 ### OS X
 *A list of OSX swift demo apps*

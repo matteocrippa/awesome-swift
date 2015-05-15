@@ -70,6 +70,7 @@ Feel free to contribute!
 * [KeychainDemo](https://github.com/dasdom/KeychainDemo) - keychain sharing between an App and it's share extension
 * [LayerPlayer](https://github.com/scotteg/LayerPlayer) - explores CALayer and subclasses; written in Swift; also on App Store
 * [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) - checklist app in swift.
+* [Path Logger](https://github.com/eugenpirogoff/pathlogger) - a GPS Path Logger with Core Data
 * [Pocket Forecast](https://github.com/typhoon-framework/Typhoon-Swift-Example) - typhoon weather example
 * [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch) - an MVVM & ReactiveCocoa Flickr search app in swift.
 * [Round & Split](https://github.com/lukhnos/roundandsplit) - a tip calculator in swift

@@ -184,6 +184,7 @@ Feel free to contribute!
 #### JSON
 *Struggling using json data? Here you are some interesting way to handle it.*
 
+* [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper.
 * [Argo](https://github.com/thoughtbot/Argo) - Json parsing library
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in swift.
 * [JSONHelper](https://github.com/isair/JSONHelper) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in swift. 

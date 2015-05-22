@@ -228,6 +228,7 @@ Feel free to contribute!
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - an implementation of event emitters and listeners in swift.
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
+* [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
 * [RxSwift](https://github.com/kzaher/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.
 
 ### Fonts
@@ -439,7 +440,6 @@ Feel free to contribute!
 * [Prototope](http://khan.github.io/Prototope/) - Swift library of lightweight interfaces for prototyping, bridged to JS.
 * [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
-* [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
 * [Result](https://github.com/antitypical/Result) - Swift type modelling the success/failure of arbitrary operations.
 * [Runes](https://github.com/thoughtbot/Runes) - Functional operators for Swift - flatMap, map, apply, pure
 * [SpecificationPattern](https://github.com/neoneye/SpecificationPattern) - chainable rules useful for form validation.

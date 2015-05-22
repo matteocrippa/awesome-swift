@@ -110,6 +110,7 @@ Feel free to contribute!
 * [Exercism.io](http://exercism.io/nitpick/swift/recent) - Free Swift Crowd-sourced mentorship by doing exercises
 * [Functional Programming in Swift](http://www.objc.io/books/) - A book on how to use Swift functionally
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning swift via playground.
+* [Natasha the Robot](http://natashatherobot.com) - Weekly Newsletter on learning Swift
 * [objc.io snippets](http://www.objc.io/snippets/) - Short, weekly snippets showing off Swift features
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn swift.
 * [SwiftDoc](http://swiftdoc.org) - Auto-generated documentation for Swift.
@@ -118,7 +119,6 @@ Feel free to contribute!
 * [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - App to learn to code in Swift.
 * [Swift Tips](https://github.com/jbrennan/swift-tips) - Swift tips collection.
 * [Swift-Weekly](http://goo.gl/HHOQWO) - Weekly Swift Language Gems, Tips and Tricks
-* [Natasha the Robot](http://natashatherobot.com) - Weekly Newsletter on learning Swift
 
 ### Style Guides
 * [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.

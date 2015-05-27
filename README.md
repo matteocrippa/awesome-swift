@@ -324,7 +324,8 @@ Feel free to contribute!
 * [Stargate](https://github.com/contentful-labs/Stargate) - A communication channel from your Mac to your watch.
 * [Starscream](https://github.com/daltoniam/starscream) - websockets implementation in swift.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
-* [SwiftSocket](https://github.com/xyyc/SwiftSocket) - simple TCP socket library.
+* [SwiftSocket](https://github.com/xyyc/SwiftSocket) - Simple TCP socket library.
+* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for Swift.
 * [Transporter](https://github.com/nghialv/Transporter) - A tiny library makes uploading and downloading easier.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 

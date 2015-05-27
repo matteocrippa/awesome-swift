@@ -93,6 +93,7 @@ Feel free to contribute!
 * [clock-saver](https://github.com/soffes/clock-saver) - a clock screen saver for osx written in swift.
 * [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift
 * [Helium](https://github.com/JadenGeller/Helium) - floating web browser
+* [Panda](https://github.com/pablosproject/Panda-Mac-app) - a simple OSX menu bar application to enable/disable Yosemite dark mode.
 
 ## Dependency Managers
 

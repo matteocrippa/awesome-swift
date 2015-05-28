@@ -93,6 +93,7 @@ Feel free to contribute!
 * [clock-saver](https://github.com/soffes/clock-saver) - a clock screen saver for osx written in swift.
 * [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift
 * [Helium](https://github.com/JadenGeller/Helium) - floating web browser
+* [Panda](https://github.com/pablosproject/Panda-Mac-app) - a simple OSX menu bar application to enable/disable Yosemite dark mode.
 
 ## Dependency Managers
 
@@ -325,7 +326,7 @@ Feel free to contribute!
 * [Starscream](https://github.com/daltoniam/starscream) - websockets implementation in swift.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
 * [SwiftSocket](https://github.com/xyyc/SwiftSocket) - simple TCP socket library.
-* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library
+* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for Swift.
 * [Transporter](https://github.com/nghialv/Transporter) - A tiny library makes uploading and downloading easier.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 

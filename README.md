@@ -82,7 +82,7 @@ Feel free to contribute!
 * [SwiftHN](https://github.com/Dimillian/SwiftHN) - hacker news app in swift.
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - a nice weather app written in swift.
 * [TextEthan](https://github.com/thii/TextEthan) - a clone of TextEthan, a messaging app that allows anyone to message you
-* [Task](https://github.com/mbcrump/TasksForSwiftWithPersistingData) - a task app written in Swift that is published in the app store. 
+* [Task](https://github.com/mbcrump/TasksForSwiftWithPersistingData) - a task app written in Swift that is published in the app store.
 * [The Oakland Post](https://github.com/aclissold/the-oakland-post) - a full-fledged, 100%-Swift (minus dependencies) news reader.
 * [Valio](https://github.com/soffes/valio) - event time table app in swift.
 * [Walk Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker) - GPS Walk Tracking app with Core Data
@@ -107,7 +107,7 @@ Feel free to contribute!
 
 * [A better way to learn swift](https://github.com/GoThinkster/swift) - Learn swift in a different way.
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
-* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty. 
+* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
 * [Exercism.io](http://exercism.io/nitpick/swift/recent) - Free Swift Crowd-sourced mentorship by doing exercises
 * [Functional Programming in Swift](http://www.objc.io/books/) - A book on how to use Swift functionally
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning swift via playground.
@@ -182,7 +182,7 @@ Feel free to contribute!
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - a simple CoreData wrapper library written in Swift.
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 * [SugarRecord](https://github.com/SugarRecord/SugarRecord) - an easy with to work with coredata and realm.
-* [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier. 
+* [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier.
 * [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your swift projects.
 
 #### JSON
@@ -192,7 +192,7 @@ Feel free to contribute!
 * [Argo](https://github.com/thoughtbot/Argo) - Json parsing library
 * [Himotoki](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library purely written in Swift.
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in swift.
-* [JSONHelper](https://github.com/isair/JSONHelper) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in swift. 
+* [JSONHelper](https://github.com/isair/JSONHelper) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in swift.
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON object mapper.
 * [Pistachio](https://github.com/felixjendrusch/Pistachio) - Generic model framework for Swift.
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in swift with error handling.
@@ -219,7 +219,7 @@ Feel free to contribute!
 * [Swift-NSDate-Extensions](https://github.com/fwhenin/Swift-NSDate-Extensions) - Swift Version of [Erica's NSDate Extensions](https://github.com/erica/NSDate-Extensions).
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer)
-* [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift. 
+* [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions in Swift.
 
 ### Events
@@ -245,7 +245,7 @@ Feel free to contribute!
 * [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in swift.
 
 ### Gesture
-* [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - db path recognizer for letters. 
+* [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - db path recognizer for letters.
 
 ### iBeacon
 *Interested in using iBeacon in your swift project? Here some interesting resources.*
@@ -259,7 +259,7 @@ Feel free to contribute!
 * [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
 * [gifu](https://github.com/kaishin/gifu) - highly performant animated GIF support for iOS in Swift.
 * [ImageLoader](https://github.com/hirohisa/ImageLoaderSwift) - A lightweight and fast image loader for iOS written in Swift.
-* [ImageScout](https://github.com/kaishin/ImageScout) - a Swift implementation of [fastimage](https://pypi.python.org/pypi/fastimage/0.2.1) - supports PNG, GIF, and JPEG. 
+* [ImageScout](https://github.com/kaishin/ImageScout) - a Swift implementation of [fastimage](https://pypi.python.org/pypi/fastimage/0.2.1) - supports PNG, GIF, and JPEG.
 * [KFSwiftImageLoader](https://github.com/kiavashfaisali/KFSwiftImageLoader) - An extremely high-performance, lightweight, and energy-efficient pure Swift async web image loader with memory and disk caching for iOS and  Watch.
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - a lib for image download and caching.
 * [MapleBacon](https://github.com/zalando/MapleBacon) - Swift image download and caching library.
@@ -276,7 +276,7 @@ Feel free to contribute!
 * [Hodor Keyboard](https://github.com/jonomuller/Hodor-Keyboard) - poc for custom keyboard implementation.
 
 
-### Layout 
+### Layout
 *Libs to help you with layout.*
 * [ManualLayout](https://github.com/isair/ManualLayout) - Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.
 * [SwiftBox](https://github.com/joshaber/SwiftBox) - Flexbox in Swift, using Facebook's css-layout.
@@ -325,7 +325,7 @@ Feel free to contribute!
 * [Stargate](https://github.com/contentful-labs/Stargate) - A communication channel from your Mac to your watch.
 * [Starscream](https://github.com/daltoniam/starscream) - websockets implementation in swift.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
-* [SwiftSocket](https://github.com/xyyc/SwiftSocket) - Simple TCP socket library.
+* [SwiftSocket](https://github.com/xyyc/SwiftSocket) - simple TCP socket library.
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for Swift.
 * [Transporter](https://github.com/nghialv/Transporter) - A tiny library makes uploading and downloading easier.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
@@ -383,7 +383,7 @@ Feel free to contribute!
 * [Geometry](https://github.com/artman/Geometry) - extensions for UIView.
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Guillotine style menu.
-* [HamburgerButton](https://github.com/fastred/HamburgerButton) - Hamburger button with a slick animation. 
+* [HamburgerButton](https://github.com/fastred/HamburgerButton) - Hamburger button with a slick animation.
 * [Hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful MPAndroidChart.
 * [JTToast](https://github.com/devxoul/JLToast) - Toast for swift.
@@ -405,7 +405,7 @@ Feel free to contribute!
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [SDevBootstrapButton](https://github.com/0x73/SDevBootstrapButton) - Twitter Bootstrap buttons for Swift
-* [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift. 
+* [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) - A Swift library to design custom prompts with a great scope of options to choose from.
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
@@ -441,12 +441,14 @@ Feel free to contribute!
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - A Periscope-inspired way to ask for iOS permissions.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [Prototope](http://khan.github.io/Prototope/) - Swift library of lightweight interfaces for prototyping, bridged to JS.
+* [Puree](https://github.com/cookpad/puree-ios) - A log collector for iOS
 * [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
 * [Result](https://github.com/antitypical/Result) - Swift type modelling the success/failure of arbitrary operations.
 * [Runes](https://github.com/thoughtbot/Runes) - Functional operators for Swift - flatMap, map, apply, pure
 * [SpecificationPattern](https://github.com/neoneye/SpecificationPattern) - chainable rules useful for form validation.
 * [SpriteKit+Spring](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
+* [Stream](https://github.com/antitypical/Stream) - Lazy streams in Swift.
 * [SwiftBitmask](https://github.com/brynbellomy/SwiftBitmask) - `Bitmask<T>` type intended as a replacement for `RawOptionSet`.
 * [SwiftColors](https://github.com/thii/SwiftColors) - HEX color handling as an extension for UIColor.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - form are now easy as 1.2.3!

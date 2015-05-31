@@ -94,6 +94,7 @@ Feel free to contribute!
 * [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift
 * [Helium](https://github.com/JadenGeller/Helium) - floating web browser
 * [Panda](https://github.com/pablosproject/Panda-Mac-app) - a simple OSX menu bar application to enable/disable Yosemite dark mode.
+* [RetinAssets](https://github.com/delannoyk/RetinAssets) - a simple app that generates missing images from a scaled images (3x -> 2x and 1x scale)
 
 ## Dependency Managers
 

@@ -436,6 +436,7 @@ Feel free to contribute!
 * [Dollar](https://github.com/ankurp/Dollar.swift) - a lib similar to Lo-Dash or Underscore in Javascript.
 * [ExSwift](https://github.com/pNre/ExSwift) - a set of swift extensions for standard types and classes.
 * [Forbind](https://github.com/ulrikdamm/Forbind) - Functional chaining and Promises in Swift
+* [Future](https://github.com/nghialv/Future) - A micro framework providing Future<T, Error>
 * [Honour](https://github.com/jeanpimentel/Honour) - Simple and powerful Validation Library
 * [Lambdatron](https://github.com/austinzheng/Lambdatron) - Clojure(ish) interpreter in Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.

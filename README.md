@@ -230,6 +230,7 @@ Feel free to contribute!
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer)
 * [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions in Swift.
+* [SwiftDate](https://github.com/malcommac/SwiftDate) - Easy NSDate Management in Swift
 
 ### Events
 *Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.*

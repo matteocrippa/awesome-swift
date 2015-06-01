@@ -237,8 +237,11 @@ Feel free to contribute!
 *Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.*
 
 * [Bond](https://github.com/SwiftBond/Bond) - a Swift binding framework.
+* [BrightFutures](https://github.com/Thomvis/BrightFutures) - promise and future lib for swift.
 * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - an implementation of event emitters and listeners in swift.
+* [Future](https://github.com/nghialv/Future) - A micro framework providing Future<T, Error>
+* [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 * [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
@@ -436,7 +439,6 @@ Feel free to contribute!
 * [Async](https://github.com/duemunk/Async) – Syntactic swift sugar for Grand Central Dispatch
 * [Async.legacy](https://github.com/josephlord/Async.legacy) – Syntactic swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork)
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your swift project.
-* [BrightFutures](https://github.com/Thomvis/BrightFutures) - promise and future lib for swift.
 * [Chronos](https://github.com/Olympus-Library/Chronos-Swift)- Grand Central Dispatch Utilities.
 * [CLIKit](https://github.com/kylef/CLIKit) - a way to create cli with swift.
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
@@ -446,7 +448,6 @@ Feel free to contribute!
 * [Dollar](https://github.com/ankurp/Dollar.swift) - a lib similar to Lo-Dash or Underscore in Javascript.
 * [ExSwift](https://github.com/pNre/ExSwift) - a set of swift extensions for standard types and classes.
 * [Forbind](https://github.com/ulrikdamm/Forbind) - Functional chaining and Promises in Swift
-* [Future](https://github.com/nghialv/Future) - A micro framework providing Future<T, Error>
 * [Honour](https://github.com/jeanpimentel/Honour) - Simple and powerful Validation Library
 * [Lambdatron](https://github.com/austinzheng/Lambdatron) - Clojure(ish) interpreter in Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
@@ -455,7 +456,6 @@ Feel free to contribute!
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [Prototope](http://khan.github.io/Prototope/) - Swift library of lightweight interfaces for prototyping, bridged to JS.
 * [Puree](https://github.com/cookpad/puree-ios) - A log collector for iOS
-* [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
 * [Result](https://github.com/antitypical/Result) - Swift type modelling the success/failure of arbitrary operations.
 * [Runes](https://github.com/thoughtbot/Runes) - Functional operators for Swift - flatMap, map, apply, pure

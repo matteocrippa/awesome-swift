@@ -242,6 +242,7 @@ Feel free to contribute!
 * [DeLorean](https://github.com/bontoJR/DeLorean) - A Functional Reactive Programming kit.
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - an implementation of event emitters and listeners in swift.
 * [Future](https://github.com/nghialv/Future) - A micro framework providing Future<T, Error>
+* [FutureKit](https://github.com/FutureKit/FutureKit) - A Swift based Future/Promises Library.
 * [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.

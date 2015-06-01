@@ -239,6 +239,7 @@ Feel free to contribute!
 * [Bond](https://github.com/SwiftBond/Bond) - a Swift binding framework.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - promise and future lib for swift.
 * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS
+* [DeLorean](https://github.com/bontoJR/DeLorean) - A Functional Reactive Programming kit.
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - an implementation of event emitters and listeners in swift.
 * [Future](https://github.com/nghialv/Future) - A micro framework providing Future<T, Error>
 * [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library

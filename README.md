@@ -170,6 +170,7 @@ Feel free to contribute!
 
 *Interesting snippets related to color management and utility.*
 
+* [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) - Flat UI color palette in Swift.
 * [Google Material Color](https://github.com/katopz/google-material-color-swift) - Google Material Color Palette in Swift.
 * [HexColor](https://github.com/artman/HexColor) - Define UIColors as Hex integers.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.

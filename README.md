@@ -170,12 +170,12 @@ Feel free to contribute!
 
 *Interesting snippets related to color management and utility.*
 
-* [HexColor](https://github.com/artman/HexColor) - define UIColors as hex integers.
-* [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48
+* [Google Material Color](https://github.com/katopz/google-material-color-swift) - Google Material Color Palette in Swift.
+* [HexColor](https://github.com/artman/HexColor) - Define UIColors as Hex integers.
+* [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.
 * [RandomColorSwift](https://github.com/onevcat/RandomColorSwift) - An attractive color generator for Swift. Ported from randomColor.js.
-* [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - an hex to uicolor converter.
-* [UIColorWDUtils](https://github.com/daktales/UIColorWDUtils) - extension for hex RGB(A).
-* [Google Material Color](https://github.com/katopz/google-material-color-swift) - Google Material Color Palette in Swift
+* [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Hex to UIcolor converter.
+* [UIColorWDUtils](https://github.com/daktales/UIColorWDUtils) - Extension for Hex RGB(A).
 
 ### Cryptography
 *Deal with cryptography method easily in swift*

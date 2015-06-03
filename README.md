@@ -403,6 +403,7 @@ Feel free to contribute!
 * [Geometry](https://github.com/artman/Geometry) - extensions for UIView.
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Guillotine style menu.
+* [Hakuba](https://github.com/nghialv/Hakuba) - A new way to manage UITableView without the code of UITableViewDelegate and UITableViewDataSource.
 * [HamburgerButton](https://github.com/fastred/HamburgerButton) - Hamburger button with a slick animation.
 * [Hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful MPAndroidChart.
@@ -452,6 +453,7 @@ Feel free to contribute!
 * [Dollar](https://github.com/ankurp/Dollar.swift) - a lib similar to Lo-Dash or Underscore in Javascript.
 * [ExSwift](https://github.com/pNre/ExSwift) - a set of swift extensions for standard types and classes.
 * [Forbind](https://github.com/ulrikdamm/Forbind) - Functional chaining and Promises in Swift
+* [GCD](https://github.com/nghialv/GCD) - A wrapper of Grand Central Dispatch written in Swift
 * [Honour](https://github.com/jeanpimentel/Honour) - Simple and powerful Validation Library
 * [Lambdatron](https://github.com/austinzheng/Lambdatron) - Clojure(ish) interpreter in Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.

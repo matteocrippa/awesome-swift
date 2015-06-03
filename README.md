@@ -175,7 +175,7 @@ Feel free to contribute!
 * [RandomColorSwift](https://github.com/onevcat/RandomColorSwift) - An attractive color generator for Swift. Ported from randomColor.js.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - an hex to uicolor converter.
 * [UIColorWDUtils](https://github.com/daktales/UIColorWDUtils) - extension for hex RGB(A).
-
+* [Google Material Color](https://github.com/katopz/google-material-color-swift) - Google Material Color Palette in Swift
 
 ### Cryptography
 *Deal with cryptography method easily in swift*

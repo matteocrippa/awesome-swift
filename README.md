@@ -274,6 +274,7 @@ Feel free to contribute!
 *An interesting list of image related libs..*
 
 * [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
+* [DePict](https://github.com/davidcairns/DePict) - functional wrapper for CoreGraphics
 * [gifu](https://github.com/kaishin/gifu) - highly performant animated GIF support for iOS in Swift.
 * [ImageLoader](https://github.com/hirohisa/ImageLoaderSwift) - A lightweight and fast image loader for iOS written in Swift.
 * [ImageScout](https://github.com/kaishin/ImageScout) - a Swift implementation of [fastimage](https://pypi.python.org/pypi/fastimage/0.2.1) - supports PNG, GIF, and JPEG.

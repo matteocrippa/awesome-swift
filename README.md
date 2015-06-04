@@ -8,6 +8,7 @@ Feel free to contribute!
 - [Awesome Swift](#awesome-swift)
     - [Demo Apps](#demo-apps)
         - [iOS](#ios)
+            - [Apple Watch](#watch)  
         - [OS X](#os-x)
     - [Dependency Managers](#dependency-managers)
     - [Guides](#guides)
@@ -65,7 +66,6 @@ Feel free to contribute!
 * [firefox-ios](https://github.com/mozilla/firefox-ios) - firefox for iOS being developed by Mozilla.
 * [Federal Open Data](https://github.com/USDepartmentofLabor/Swift-Sample-App) - Get federal Open Data using the Federal Data SDK
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in swift.
-* [Gulps](https://github.com/FancyPixel/gulps) - OS app for iOS and apple watch to monitor water consumption.
 * [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in swift.
 * [HausClock](https://github.com/nottombrown/HausClock) - chess stile clock app in swift.
 * [HomeKitDemo](https://github.com/KhaosT/HomeKit-Demo) - homekit demo app;
@@ -87,6 +87,13 @@ Feel free to contribute!
 * [The Oakland Post](https://github.com/aclissold/the-oakland-post) - a full-fledged, 100%-Swift (minus dependencies) news reader.
 * [Valio](https://github.com/soffes/valio) - event time table app in swift.
 * [Walk Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker) - GPS Walk Tracking app with Core Data
+
+#### Watch
+*A list of Apple watch enabled projects*
+
+* [Gulps](https://github.com/FancyPixel/gulps) - OS app for iOS and apple watch to monitor water consumption.
+* [Soon](https://github.com/sandofsky/soon) - Countdown app for apple watch.
+
 
 ### OS X
 *A list of OSX swift demo apps*
@@ -190,6 +197,7 @@ Feel free to contribute!
 
 * [AERecord](https://github.com/tadija/AERecord) - super awesome Core Data wrapper library for iOS written in Swift.
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - a simple CoreData wrapper library written in Swift.
+* [CoreStore](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle CoreData in Swift.
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 * [SugarRecord](https://github.com/SugarRecord/SugarRecord) - an easy with to work with coredata and realm.
 * [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier.
@@ -395,6 +403,7 @@ Feel free to contribute!
 * [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch) - Flat animated switch.
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - A playable pull to refresh view using SpriteKit
 * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
+* [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - Bubble transition in a easy way.
 * [CharacterText](https://github.com/android1989/CharacterText) - Perform fx on UILabel.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - Sliding side menu.
 * [Few.swift](https://github.com/joshaber/Few.swift) - Views as functions of their state.

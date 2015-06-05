@@ -252,6 +252,7 @@ Feel free to contribute!
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - an implementation of event emitters and listeners in swift.
 * [Future](https://github.com/nghialv/Future) - A micro framework providing Future<T, Error>
 * [FutureKit](https://github.com/FutureKit/FutureKit) - A Swift based Future/Promises Library.
+* [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
@@ -471,7 +472,6 @@ Feel free to contribute!
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
 * [Mendel](https://github.com/saniul/Mendel) - Swift miliframework for implementing evolutionary/genetic algorithms.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - A Periscope-inspired way to ask for iOS permissions.
-* [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [Prototope](http://khan.github.io/Prototope/) - Swift library of lightweight interfaces for prototyping, bridged to JS.
 * [Puree](https://github.com/cookpad/puree-ios) - A log collector for iOS
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.

@@ -8,7 +8,7 @@ Feel free to contribute!
 - [Awesome Swift](#awesome-swift)
     - [Demo Apps](#demo-apps)
         - [iOS](#ios)
-            - [Apple Watch](#watch)  
+            - [Apple Watch](#watch)
         - [OS X](#os-x)
     - [Dependency Managers](#dependency-managers)
     - [Guides](#guides)
@@ -177,6 +177,7 @@ Feel free to contribute!
 
 *Interesting snippets related to color management and utility.*
 
+* [DynamicColor](https://github.com/yannickl/DynamicColor) - An extension to manipulate colors in Swift easily.
 * [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) - Flat UI color palette in Swift.
 * [Google Material Color](https://github.com/katopz/google-material-color-swift) - Google Material Color Palette in Swift.
 * [HexColor](https://github.com/artman/HexColor) - Define UIColors as Hex integers.

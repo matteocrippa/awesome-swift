@@ -317,6 +317,7 @@ Feel free to contribute!
 * [Cartography](https://github.com/robb/Cartography) - declarative auto layout lib for your project.
 * [PureLayout](https://github.com/smileyborg/PureLayout) – The ultimate API for iOS & OS X Auto Layout.
 * [Restraint](https://github.com/puffinsupply/Restraint) - Minimal Auto Layout in Swift.
+* [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 * [Snappy](https://github.com/Masonry/Snappy) - a light-weight layout framework which wraps AutoLayout with nicer syntax.
 * [SwiftAutoLayout](https://github.com/indragiek/SwiftAutoLayout) - a small DSL for autolayout.
 * [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.

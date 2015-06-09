@@ -114,6 +114,8 @@ Feel free to contribute!
 ## Guides
 *An awesome list of swift related guides.*
 
+* [Apple Swift Guide](https://github.com/swifteducation) - Official guide by Apple about swift.
+
 * [A better way to learn swift](https://github.com/GoThinkster/swift) - Learn swift in a different way.
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
 * [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.

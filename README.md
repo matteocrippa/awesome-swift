@@ -221,6 +221,7 @@ Feel free to contribute!
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in swift with error handling.
 * [SwiftMapper](https://github.com/kam800/SwiftMapper) - JSON Mapper.
 * [SwiftJSONParser](https://github.com/mrap/SwiftJSONParser) - JSON parser.
+* [yaml.swift](https://github.com/behrang/yaml.swift) - Load YAML and JSON documents using Swift.
 
 #### SQLite
 *Are you interested in storing your app data using SQLite? Here some interesting resources.*

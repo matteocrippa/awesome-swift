@@ -78,6 +78,7 @@ Feel free to contribute!
 * [Pocket Forecast](https://github.com/typhoon-framework/Typhoon-Swift-Example) - typhoon weather example
 * [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch) - an MVVM & ReactiveCocoa Flickr search app in swift.
 * [Round & Split](https://github.com/lukhnos/roundandsplit) - a tip calculator in swift
+* [Swifteroid](https://github.com/eugenpirogoff/swifteroid) - a manual HDR exposure camera app written in swift.
 * [SwiftDemo](https://github.com/Lax/iOS-Swift-Demos) - a collection of demo for swift.
 * [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp) - flickr app written in swift.
 * [SwiftHN](https://github.com/Dimillian/SwiftHN) - hacker news app in swift.

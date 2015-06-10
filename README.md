@@ -22,6 +22,7 @@ Feel free to contribute!
         - [Cryptography](#cryptography)
         - [Data Management](#data-management)
             - [Core Data](#core-data)
+            - [Realm](#realm)
             - [JSON](#json)
             - [SQLite](#sqlite)
             - [XML](#xml)
@@ -207,6 +208,9 @@ Feel free to contribute!
 * [SugarRecord](https://github.com/SugarRecord/SugarRecord) - an easy with to work with coredata and realm.
 * [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier.
 * [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your swift projects.
+
+#### Realm
+* [Realm](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite http://realm.io
 
 #### JSON
 *Struggling using json data? Here you are some interesting way to handle it.*

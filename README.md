@@ -373,6 +373,7 @@ Feel free to contribute!
 
 ### Quality
 
+* [SwiftFormat](https://github.com/haaakon/SwiftFormat) - Auto formatting Swift code, similar to Clang format.
 * [SwiftLint](https://github.com/realm/SwiftLint) - An experimental tool to enforce Swift style and conventions.
 
 ### Security

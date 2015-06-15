@@ -41,6 +41,7 @@ Feel free to contribute!
         - [Security](#security)
         - [System](#system)
         - [Testing](#testing)
+        - [Text](#text)
         - [UI](#ui)
         - [Utility](#utility)
         - [Video](#video)
@@ -408,6 +409,11 @@ Feel free to contribute!
 * [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck) - A testing library that automatically generates random data for testing program properties.
 * [Swiftest](https://github.com/Swiftest/Swiftest) - experimental BDD-style framework.
+
+### Text
+*A collection of text projects.*
+
+* [SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting.
 
 
 ### UI

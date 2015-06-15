@@ -128,6 +128,8 @@ Feel free to contribute!
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for Swift beginners.
 * [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty. 
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning Swift via playground.
+* [Natasha the Robot](http://natashatherobot.com) - Weekly Newsletter on learning Swift
+* [objc.io snippets](http://www.objc.io/snippets/) - Short, weekly snippets showing off Swift features
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn Swift.
 * [SwiftDoc](http://swiftdoc.org) - Auto-generated documentation for Swift.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for Swift.

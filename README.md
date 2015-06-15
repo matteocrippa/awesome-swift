@@ -87,6 +87,7 @@ Feel free to contribute!
 * [Task](https://github.com/mbcrump/TasksForSwiftWithPersistingData) - a task app written in Swift that is published in the app store.
 * [The Oakland Post](https://github.com/aclissold/the-oakland-post) - a full-fledged, 100%-Swift (minus dependencies) news reader.
 * [Valio](https://github.com/soffes/valio) - event time table app in swift.
+* [VPNOn](https://github.com/lexrus/VPNOn) - vpn handler with Apple Watch support.
 * [Walk Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker) - GPS Walk Tracking app with Core Data
 
 #### Watch
@@ -94,6 +95,7 @@ Feel free to contribute!
 
 * [Gulps](https://github.com/FancyPixel/gulps) - OS app for iOS and apple watch to monitor water consumption.
 * [Soon](https://github.com/sandofsky/soon) - Countdown app for apple watch.
+* [WatchOS 2 Sampler](https://github.com/shu223/watchOS-2-Sampler) - WatcOS 2 Samples.
 
 
 ### OS X

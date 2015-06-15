@@ -35,6 +35,7 @@ Feel free to contribute!
         - [Keyboard](#keyboard)
         - [Layout](#layout)
         - [Logging](#logging)
+        - [Maps](#maps)
         - [Math](#math)
         - [Network](#network)
         - [Quality](#quality)
@@ -341,6 +342,9 @@ Feel free to contribute!
 
 * [CleanroomASL](https://github.com/emaloney/CleanroomASL) — a low-level Swift API for writing to and reading from the Apple System Log daemon
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) — a configurable and extensible high-level logging API that is simple, lightweight and performant
+
+### Maps
+* [GEOSwift](https://github.com/andreacremaschi/GEOSwift) - The Swift Geographic Engine, make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
 
 ### Math
 * [Easy-Cal-Swift](https://github.com/onevcat/Easy-Cal-Swift) - Overload +-*/ operator for Swift, make it easier to use (and not so strict).

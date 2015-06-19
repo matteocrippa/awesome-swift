@@ -431,6 +431,7 @@ Feel free to contribute!
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - Bubble transition in a easy way.
 * [CharacterText](https://github.com/android1989/CharacterText) - Perform fx on UILabel.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - Sliding side menu.
+* [Dodo](https://github.com/exchangegroup/Dodo) - A message bar for iOS written in Swift.
 * [Few.swift](https://github.com/joshaber/Few.swift) - Views as functions of their state.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.
 * [FloatRatingView](https://github.com/strekfus/FloatRatingView) - Floating rating system.

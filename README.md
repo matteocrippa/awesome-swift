@@ -126,7 +126,7 @@ Feel free to contribute!
 ### Third party Guides
 * [A better way to learn Swift](https://github.com/GoThinkster/swift) - Learn Swift in a different way.
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for Swift beginners.
-* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty. 
+* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning Swift via playground.
 * [Natasha the Robot](http://natashatherobot.com) - Weekly Newsletter on learning Swift
 * [objc.io snippets](http://www.objc.io/snippets/) - Short, weekly snippets showing off Swift features
@@ -210,7 +210,7 @@ Feel free to contribute!
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle CoreData in Swift.
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 * [SugarRecord](https://github.com/SugarRecord/SugarRecord) - an easy with to work with coredata and realm.
-* [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier. 
+* [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier.
 * [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your Swift projects.
 
 #### Realm
@@ -223,7 +223,7 @@ Feel free to contribute!
 * [Argo](https://github.com/thoughtbot/Argo) - Json parsing library
 * [Himotoki](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library purely written in Swift.
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
-* [JSONHelper](https://github.com/isair/JSONHelper) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in Swift. 
+* [JSONHelper](https://github.com/isair/JSONHelper) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in Swift.
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON object mapper.
 * [Pistachio](https://github.com/felixjendrusch/Pistachio) - Generic model framework for Swift.
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in Swift with error handling.
@@ -439,6 +439,7 @@ Feel free to contribute!
 * [Geometry](https://github.com/artman/Geometry) - extensions for UIView.
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) - A pull to refresh that supports GIF images as track animations.
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
+* [GRMustache](https://github.com/groue/GRMustache.swift) - Flexible Mustache templates for Swift.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Guillotine style menu.
 * [Hakuba](https://github.com/nghialv/Hakuba) - A new way to manage UITableView without the code of UITableViewDelegate and UITableViewDataSource.
 * [HamburgerButton](https://github.com/fastred/HamburgerButton) - Hamburger button with a slick animation.
@@ -469,7 +470,7 @@ Feel free to contribute!
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) - A Swift library to design custom prompts with a great scope of options to choose from.
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
-* [SwiftValidator](https://github.com/jpotts18/SwiftValidator) - UIView validation framework. 
+* [SwiftValidator](https://github.com/jpotts18/SwiftValidator) - UIView validation framework.
 * [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Several ready to use effects for UITextFields
 * [Twinkle](https://github.com/piemonte/Twinkle) - a Swift and easy way to make elements in your iOS app twinkle.

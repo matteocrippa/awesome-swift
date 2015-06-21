@@ -431,6 +431,7 @@ Feel free to contribute!
 * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - Bubble transition in a easy way.
 * [CharacterText](https://github.com/android1989/CharacterText) - Perform fx on UILabel.
+* [DOAlertController](https://github.com/okmr-d/DOAlertController) - Easily customizable alert.(alert view/action sheet)
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - Sliding side menu.
 * [Dodo](https://github.com/exchangegroup/Dodo) - A message bar for iOS written in Swift.
 * [Few.swift](https://github.com/joshaber/Few.swift) - Views as functions of their state.

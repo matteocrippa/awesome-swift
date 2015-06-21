@@ -516,6 +516,7 @@ Feel free to contribute!
 * [Swell](https://github.com/hubertr/Swell) - a logging utility for Swift.
 * [SwiftBitmask](https://github.com/brynbellomy/SwiftBitmask) - `Bitmask<T>` type intended as a replacement for `RawOptionSet`.
 * [SwiftColors](https://github.com/thii/SwiftColors) - HEX color handling as an extension for UIColor.
+* [SwiftExP](https://github.com/mrackwitz/SwiftExP) - Pure Swift 2.0 S-expression Parser
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - form are now easy as 1.2.3!
 * [SwiftMemCache](https://github.com/ctews/SwiftMemCache) - Swift Memory Cache with namespace & TTL support.
 * [SwiftyStateMachine](https://github.com/macoscope/SwiftyStateMachine) - Swift µframework for creating state machines.

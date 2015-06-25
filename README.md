@@ -328,6 +328,7 @@ Feel free to contribute!
 *Bored of using storyboard? Give a try to declarative auto layout libs.*
 
 * [Cartography](https://github.com/robb/Cartography) - declarative auto layout lib for your project.
+* [FormationLayout](https://github.com/evan-liu/FormationLayout) - Auto Layout lib supports group layout and size classes.
 * [PureLayout](https://github.com/smileyborg/PureLayout) – The ultimate API for iOS & OS X Auto Layout.
 * [Restraint](https://github.com/puffinsupply/Restraint) - Minimal Auto Layout in Swift.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.

@@ -485,6 +485,7 @@ Feel free to contribute!
 
 *Some interesting utilities to help you in your projects*
 
+* [Basis](https://github.com/typelift/Basis) - Pure Declarative Programming in Swift
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - promise and future lib for Swift.
 * [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects.
 * [AAWindow](https://github.com/aaronabentheuer/AAWindow) - UIWindow subclass to enable behavior like adaptive round-corners & detecting when Control Center is opened.

@@ -544,6 +544,7 @@ Feel free to contribute!
 
 * [NetworkObjects](https://github.com/colemancda/NetworkObjects) - REST HTTP Server written in Swift. Builds REST API from Core Data.
 * [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
+* [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 
 
 ## Misc

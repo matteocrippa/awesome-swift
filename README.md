@@ -412,6 +412,7 @@ Feel free to contribute!
 *A collection of testing frameworks.*
 
 * [DVR](https://github.com/venmo/DVR) - A simple network testing framework for Swift.
+* [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - A testing library designed to stub your network requests easily.
 * [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease in Swift.
 * [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
@@ -449,6 +450,7 @@ Feel free to contribute!
 * [Hakuba](https://github.com/nghialv/Hakuba) - A new way to manage UITableView without the code of UITableViewDelegate and UITableViewDataSource.
 * [HamburgerButton](https://github.com/fastred/HamburgerButton) - Hamburger button with a slick animation.
 * [Hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
+* [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful MPAndroidChart.
 * [JTToast](https://github.com/devxoul/JLToast) - Toast for Swift.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
@@ -543,6 +545,7 @@ Feel free to contribute!
 
 * [NetworkObjects](https://github.com/colemancda/NetworkObjects) - REST HTTP Server written in Swift. Builds REST API from Core Data.
 * [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
+* [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 
 
 ## Misc

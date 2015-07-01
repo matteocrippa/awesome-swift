@@ -270,6 +270,7 @@ Feel free to contribute!
 * [FutureKit](https://github.com/FutureKit/FutureKit) - A Swift based Future/Promises Library.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library
+* [Safe](https://github.com/tidwall/Safe) - A modern concurrency and synchronization for Swift.
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 * [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.

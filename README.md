@@ -491,6 +491,7 @@ Feel free to contribute!
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - promise and future lib for Swift.
 * [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects.
 * [AAWindow](https://github.com/aaronabentheuer/AAWindow) - UIWindow subclass to enable behavior like adaptive round-corners & detecting when Control Center is opened.
+* [AlertKit](https://github.com/AlertKit/AlertKit) – Alert with a single line of Swift.
 * [Async](https://github.com/duemunk/Async) – Syntactic Swift sugar for Grand Central Dispatch
 * [Async.legacy](https://github.com/josephlord/Async.legacy) – Syntactic Swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork)
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your Swift project.

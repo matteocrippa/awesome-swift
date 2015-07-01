@@ -473,6 +473,7 @@ Feel free to contribute!
 * [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect) - Recreating Apple’s rubber band effect in Swift.
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller.
+* [Sapporo](https://github.com/nghialv/Sapporo) - A cellmodel-driven CollectionView manager for Swift.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [SDevBootstrapButton](https://github.com/0x73/SDevBootstrapButton) - Twitter Bootstrap buttons for Swift
 * [Siren](https://github.com/ArtSabintsev/Siren) - Inform users when App Store updates are available.

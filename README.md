@@ -103,6 +103,7 @@ Feel free to contribute!
 ### OS X
 *A list of OSX Swift demo apps*
 
+* [Allkdic](https://github.com/devxoul/allkdic) - a status bar dictionary.
 * [clock-saver](https://github.com/soffes/clock-saver) - a clock screen saver for osx written in Swift.
 * [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift
 * [Helium](https://github.com/JadenGeller/Helium) - floating web browser

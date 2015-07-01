@@ -425,6 +425,7 @@ Feel free to contribute!
 ### Text
 *A collection of text projects.*
 
+* [Regex](https://github.com/brynbellomy/Regex) - Swift wrapper class for `NSRegularExpression`.  Includes a `map()` override and an operator (`=~`) for a more Swift-like API.
 * [SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting.
 
 
@@ -520,7 +521,6 @@ Feel free to contribute!
 * [Prototope](http://khan.github.io/Prototope/) - Swift library of lightweight interfaces for prototyping, bridged to JS.
 * [Puree](https://github.com/cookpad/puree-ios) - A log collector for iOS
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
-* [Regex](https://github.com/brynbellomy/Regex) - Swift wrapper class for `NSRegularExpression`.  Includes a `map()` override and an operator (`=~`) for a more Swift-like API.
 * [Result](https://github.com/antitypical/Result) - Swift type modelling the success/failure of arbitrary operations.
 * [Runes](https://github.com/thoughtbot/Runes) - Functional operators for Swift - flatMap, map, apply, pure
 * [SpecificationPattern](https://github.com/neoneye/SpecificationPattern) - chainable rules useful for form validation.

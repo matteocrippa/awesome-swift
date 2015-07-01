@@ -270,6 +270,7 @@ Feel free to contribute!
 * [FutureKit](https://github.com/FutureKit/FutureKit) - A Swift based Future/Promises Library.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library
+* [Safe](https://github.com/tidwall/Safe) - A modern concurrency and synchronization for Swift.
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 * [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
@@ -307,6 +308,7 @@ Feel free to contribute!
 * [KFSwiftImageLoader](https://github.com/kiavashfaisali/KFSwiftImageLoader) - An extremely high-performance, lightweight, and energy-efficient pure Swift async web image loader with memory and disk caching for iOS and  Watch.
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - a lib for image download and caching.
 * [MapleBacon](https://github.com/zalando/MapleBacon) - Swift image download and caching library.
+* [Misen](https://github.com/tasanobu/Misen) - A script to support using Xcode Asset Catalog in Swift.
 * [PASImageView](https://github.com/abiaad/PASImageView) - async remote download your image and round them. automatically.
 * [SwiftColorArt](https://github.com/Jan0707/SwiftColorArt) - font schema generator according image colours.
 * [SwiftGif](https://github.com/bahlo/SwiftGif) - A small UIImage extension with gif support
@@ -471,6 +473,7 @@ Feel free to contribute!
 * [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect) - Recreating Apple’s rubber band effect in Swift.
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller.
+* [Sapporo](https://github.com/nghialv/Sapporo) - A cellmodel-driven CollectionView manager for Swift.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [SDevBootstrapButton](https://github.com/0x73/SDevBootstrapButton) - Twitter Bootstrap buttons for Swift
 * [Siren](https://github.com/ArtSabintsev/Siren) - Inform users when App Store updates are available.
@@ -495,6 +498,7 @@ Feel free to contribute!
 * [Async](https://github.com/duemunk/Async) – Syntactic Swift sugar for Grand Central Dispatch
 * [Async.legacy](https://github.com/josephlord/Async.legacy) – Syntactic Swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork)
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your Swift project.
+* [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
 * [Chronos](https://github.com/Olympus-Library/Chronos-Swift)- Grand Central Dispatch Utilities.
 * [CLIKit](https://github.com/kylef/CLIKit) - a way to create cli with Swift.
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.

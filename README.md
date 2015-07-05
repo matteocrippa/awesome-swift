@@ -193,6 +193,7 @@ Feel free to contribute!
 * [Google Material Color](https://github.com/katopz/google-material-color-swift) - Google Material Color Palette in Swift.
 * [HexColor](https://github.com/artman/HexColor) - Define UIColors as Hex integers.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.
+* [Colors] (https://github.com/icodeforlove/Colors) - A pure Swift library for using ANSI codes.
 * [RandomColorSwift](https://github.com/onevcat/RandomColorSwift) - An attractive color generator for Swift. Ported from randomColor.js.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Hex to UIcolor converter.
 * [UIColorWDUtils](https://github.com/daktales/UIColorWDUtils) - Extension for Hex RGB(A).

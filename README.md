@@ -343,6 +343,10 @@ Feel free to contribute!
 * [Tails](https://github.com/nickynick/Tails) - declarative autolayout for ios app written in swift.
 * [VFLToolbox](https://github.com/0xc010d/VFLToolbox) - fancy Swift implementation of the Visual Format Language
 
+### Localization
+*Frameworks that helps with localizing your app*
+* [Swifternalization](https://github.com/tomkowz/Swifternalization) - Localize apps using e.g. regular expressions in Localizable.strings.
+
 ### Logging
 *Utilities for writing to and reading from the device log*
 

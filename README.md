@@ -190,7 +190,7 @@ Feel free to contribute!
 
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - An extension to manipulate colors in Swift easily.
 * [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) - Flat UI color palette in Swift.
-* [FlatUIColorPaletteXCode](https://github.com/hemantasapkota/FlatUIColorPaletteXCode) - FlatUI Colors palette for XCode.
+* [FlatUIColorPaletteXCode](https://github.com/hemantasapkota/FlatUIColorPaletteXCode) - Flat UI colors palette for XCode.
 * [Google Material Color](https://github.com/katopz/google-material-color-swift) - Google Material Color Palette in Swift.
 * [HexColor](https://github.com/artman/HexColor) - Define UIColors as Hex integers.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.

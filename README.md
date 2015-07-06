@@ -34,6 +34,7 @@ Feel free to contribute!
         - [Images](#images)
         - [Keyboard](#keyboard)
         - [Layout](#layout)
+        - [Localization](#localization)
         - [Logging](#logging)
         - [Maps](#maps)
         - [Math](#math)

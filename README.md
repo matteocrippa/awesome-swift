@@ -226,6 +226,7 @@ Feel free to contribute!
 
 * [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper.
 * [Argo](https://github.com/thoughtbot/Argo) - Json parsing library
+* [Decodable](https://github.com/Anviking/Decodable) - JSON parsing for Swift 2.
 * [Himotoki](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library purely written in Swift.
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
 * [JSONHelper](https://github.com/isair/JSONHelper) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in Swift.

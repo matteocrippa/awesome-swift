@@ -184,7 +184,7 @@ Feel free to contribute!
 * [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Federal-Data-SDK) - Eases access to multiple federal government OpenGov APIs
 * [PredictionIO SDK](https://github.com/minhtule/PredictionIO-Swift-SDK) - A convenient API to communicate with PredictionIO's Event Server and ML Engines
 * [PXGoogleDirections](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
-
+* [reddift](https://github.com/sonsongithub/reddift) - reddit API wrapper
 
 ### Colors
 

@@ -175,16 +175,16 @@ Feel free to contribute!
 * [MusicKit](https://github.com/benzguo/MusicKit) - A framework for composing and transforming music in Swift
 
 ### API
+
 *Quick libs to get access to third party API services*
 
 * [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Federal-Data-SDK) - Eases access to multiple federal government OpenGov APIs
 * [GooglePlacesAutocomplete](https://github.com/watsonbox/ios_google_places_autocomplete) - Simple Google Places address entry for iOS.
-* [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for Swift.
-* [Typhoon](https://github.com/typhoon-framework/Typhoon) - Dependency injection toolkit in Swift.
-* [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Federal-Data-SDK) - Eases access to multiple federal government OpenGov APIs
 * [PredictionIO SDK](https://github.com/minhtule/PredictionIO-Swift-SDK) - A convenient API to communicate with PredictionIO's Event Server and ML Engines
 * [PXGoogleDirections](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
 * [reddift](https://github.com/sonsongithub/reddift) - reddit API wrapper
+* [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for Swift.
+* [Typhoon](https://github.com/typhoon-framework/Typhoon) - Dependency injection toolkit in Swift.
 
 ### Colors
 

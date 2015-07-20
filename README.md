@@ -573,11 +573,12 @@ Feel free to contribute!
 ## Misc
 *Miscellaneous Swift related projects*
 
+* [MAIKit](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and OS X.
 * [sbconstants](https://github.com/paulsamuels/SBConstants) - A nifty tool to generate constants file by grabbing identifiers from storyboards in a Swift project.
 * [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the Swift compiler
 * [swiftier](https://github.com/snej/swiftier) - Quick-and-dirty Objective-C to Swift translator.
-* [SwiftInFlux](https://github.com/ksm/SwiftInFlux) — List of things that are "in flux" in Swift + changelog of the language
-
+* [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - List of things that are "in flux" in Swift + changelog of the language
+* [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A suite of tools written in Swift to auto-generate Swift code for various assets of your project.
 
 ## Tools
 *Tools for Swift development*

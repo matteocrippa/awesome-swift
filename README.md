@@ -522,6 +522,7 @@ Feel free to contribute!
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
 * [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool.
+* [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device
 * [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift
 * [Dollar](https://github.com/ankurp/Dollar.swift) - a lib similar to Lo-Dash or Underscore in Javascript.
 * [ExSwift](https://github.com/pNre/ExSwift) - a set of Swift extensions for standard types and classes.

@@ -472,11 +472,13 @@ Feel free to contribute!
 * [JTToast](https://github.com/devxoul/JLToast) - Toast for Swift.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [LTJelloSwitch](https://github.com/lexrus/LTJelloSwitch) - UISwitch prototype.
+* [Kamagari](https://github.com/tasanobu/Kamagari) - Simple UIAlertController builder class in Swift.
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
 * [MaterialKit](https://github.com/nghialv/MaterialKit) - Material design components.
 * [MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium scroll style menubar.
 * [MIBadgeButton] (https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons
+* [Otafuku](https://github.com/tasanobu/Otafuku) - Some utility classes to use WKWebView in Swift.
 * [Pagemenu](https://github.com/uacaps/PageMenu) - Pagination enabled view controller.
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Panoramic facebook story clone.
@@ -538,6 +540,7 @@ Feel free to contribute!
 * [Prototope](http://khan.github.io/Prototope/) - Swift library of lightweight interfaces for prototyping, bridged to JS.
 * [Puree](https://github.com/cookpad/puree-ios) - A log collector for iOS
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
+* [ReactiveArray](https://github.com/Wolox/ReactiveArray) - An array class implemented in Swift that can be observed using ReactiveCocoa's Signals.
 * [Result](https://github.com/antitypical/Result) - Swift type modelling the success/failure of arbitrary operations.
 * [Runes](https://github.com/thoughtbot/Runes) - Functional operators for Swift - flatMap, map, apply, pure
 * [SpecificationPattern](https://github.com/neoneye/SpecificationPattern) - chainable rules useful for form validation.

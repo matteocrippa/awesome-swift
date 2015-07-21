@@ -478,6 +478,7 @@ Feel free to contribute!
 * [MaterialKit](https://github.com/nghialv/MaterialKit) - Material design components.
 * [MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium scroll style menubar.
 * [MIBadgeButton] (https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons
+* [Otafuku](https://github.com/tasanobu/Otafuku) - Some utility classes to use WKWebView in Swift.
 * [Pagemenu](https://github.com/uacaps/PageMenu) - Pagination enabled view controller.
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Panoramic facebook story clone.

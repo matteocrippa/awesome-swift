@@ -535,6 +535,7 @@ Feel free to contribute!
 * [Funky](https://github.com/brynbellomy/Funky) - Functions and operators for functional programming in Swift.
 * [GCD](https://github.com/nghialv/GCD) - A wrapper of Grand Central Dispatch written in Swift
 * [Honour](https://github.com/jeanpimentel/Honour) - Simple and powerful Validation Library
+* [Inflection](https://github.com/zenangst/Inflection) - The Optimus Prime of string inflection
 * [Lambdatron](https://github.com/austinzheng/Lambdatron) - Clojure(ish) interpreter in Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
 * [Mendel](https://github.com/saniul/Mendel) - Swift miliframework for implementing evolutionary/genetic algorithms.

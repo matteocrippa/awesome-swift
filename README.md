@@ -13,6 +13,7 @@ Feel free to contribute!
     - [Dependency Managers](#dependency-managers)
     - [Guides](#guides)
     - [Editor Support](#editor-support)
+        - [Emacs](#emacs)
         - [Vim](#vim)
     - [Libs](#libs)
         - [Animation](#animation)
@@ -150,15 +151,15 @@ Feel free to contribute!
 
 *Support for your favorite editors.*
 
+### Emacs
+
+* [swift-mode](https://github.com/chrisbarrett/swift-mode) - Emacs Swift support, including partial flycheck error support.
+
 ### Vim
 
 * [swift-vim](https://github.com/Keithbsmiley/swift.vim) - play Swift with vim editor.
 * [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds Swift support to vim. It covers syntax, indenting, and more.
 * [vim-polyglot](https://github.com/sheerun/vim-polyglot) - language pack for vim that includes vim-swift.
-
-### Emacs
-
-* [swift-mode](https://github.com/chrisbarrett/swift-mode) - Emacs Swift support, including partial flycheck error support.
 
 ## Libs
 *Here you can find a list of snippets and libs for your Swift projects.*

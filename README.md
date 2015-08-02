@@ -156,6 +156,9 @@ Feel free to contribute!
 * [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds Swift support to vim. It covers syntax, indenting, and more.
 * [vim-polyglot](https://github.com/sheerun/vim-polyglot) - language pack for vim that includes vim-swift.
 
+### Emacs
+
+* [swift-mode](https://github.com/chrisbarrett/swift-mode) - Emacs Swift support, including partial flycheck error support.
 
 ## Libs
 *Here you can find a list of snippets and libs for your Swift projects.*
@@ -213,6 +216,7 @@ Feel free to contribute!
 * [AERecord](https://github.com/tadija/AERecord) - super awesome Core Data wrapper library for iOS written in Swift.
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - a simple CoreData wrapper library written in Swift.
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle CoreData in Swift.
+* [CoreValue](https://github.com/terhechte/CoreValue) - Lightweight Framework for using Core Data with Value Types
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 * [SugarRecord](https://github.com/SugarRecord/SugarRecord) - an easy with to work with coredata and realm.
 * [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier.
@@ -528,6 +532,7 @@ Feel free to contribute!
 * [Chronos](https://github.com/Olympus-Library/Chronos-Swift)- Grand Central Dispatch Utilities.
 * [CLIKit](https://github.com/kylef/CLIKit) - a way to create cli with Swift.
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
+* [Curry](https://github.com/thoughtbot/Curry) - Swift implementations for function currying
 * [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool.
 * [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device
@@ -561,6 +566,7 @@ Feel free to contribute!
 * [SwiftExP](https://github.com/mrackwitz/SwiftExP) - Pure Swift 2.0 S-expression Parser
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - form are now easy as 1.2.3!
 * [SwiftMemCache](https://github.com/ctews/SwiftMemCache) - Swift Memory Cache with namespace & TTL support.
+* [SwiftSequence](https://github.com/oisdk/SwiftSequence) - A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools
 * [SwiftyStateMachine](https://github.com/macoscope/SwiftyStateMachine) - Swift µframework for creating state machines.
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) — a cleaner, nicer syntax for NSUserDefaults
 * [Swiftz](https://github.com/maxpow4h/swiftz) - a lib for functional programming.

@@ -225,6 +225,7 @@ Feel free to contribute!
 
 #### Realm
 * [Realm](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite http://realm.io
+* [Realm+JSON](https://github.com/matthewcheok/Realm-JSON) - A concise Mantle-like way of working with Realm and JSON.
 
 #### JSON
 *Struggling using json data? Here are some interesting ways to handle it.*

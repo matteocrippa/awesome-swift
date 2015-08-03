@@ -118,7 +118,7 @@ Feel free to contribute!
 *Dependency manager software for Swift.*
 
 * [carthage](https://github.com/Carthage/Carthage) - a new dependency manager for Swift.
-* [cocoapods](https://github.com/CocoaPods/CocoaPods) - the most used dependency manager for Objective-C (Swift is still in porting).
+* [CocoaPods](https://github.com/CocoaPods/CocoaPods) - the most used dependency manager for Objective-C and Swift (Swift supported since version 0.36.0).
 
 ## Guides
 *An awesome list of Swift related guides.*

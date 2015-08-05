@@ -316,6 +316,7 @@ Feel free to contribute!
 ### Images
 *An interesting list of image related libs..*
 
+* [Agrume](https://github.com/JanGorman/Agrume) - A lemony fresh iOS image viewer written in Swift.
 * [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
 * [DePict](https://github.com/davidcairns/DePict) - functional wrapper for CoreGraphics
 * [gifu](https://github.com/kaishin/gifu) - highly performant animated GIF support for iOS in Swift.

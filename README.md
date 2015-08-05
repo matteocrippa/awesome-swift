@@ -1,9 +1,10 @@
-Awesome Swift
+Awesome Swift [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
+A curated list of awesome Swift frameworks, libraries, and software for iOS and OSX.
 
-A collaborative list of awesome Swift resources, inspired by [awesome-python](https://github.com/vinta/awesome-python) and listed on [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+### Contributing
 
-Feel free to contribute!
+Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!
 
 - [Awesome Swift](#awesome-swift)
     - [Demo Apps](#demo-apps)

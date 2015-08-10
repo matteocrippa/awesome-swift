@@ -262,6 +262,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [AEXML](https://github.com/tadija/AEXML) - xml wrapper
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift.
+* [Ji](https://github.com/honghaoz/Ji) - wrapper on libxml2 for parsing XML/HTML.
 
 ### Date
 *Handle data formatting easily.*

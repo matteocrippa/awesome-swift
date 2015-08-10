@@ -240,6 +240,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Argo](https://github.com/thoughtbot/Argo) - Json parsing library
 * [Decodable](https://github.com/Anviking/Decodable) - JSON parsing for Swift 2.
 * [Himotoki](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library purely written in Swift.
+* [JASON](https://github.com/delba/JASON) - JSON parsing with
+  outstanding performances and convenient operators.
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
 * [JSONHelper](https://github.com/isair/JSONHelper) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in Swift.
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON object mapper.

@@ -261,6 +261,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *If you prefer to manage XML data formatted entries, here are some helpful libs*
 
 * [AEXML](https://github.com/tadija/AEXML) - xml wrapper
+* [Ji](https://github.com/honghaoz/Ji) - an XML/HTML parser for Swift.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift.
 
 ### Date

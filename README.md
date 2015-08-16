@@ -192,6 +192,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [PXGoogleDirections](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
 * [reddift](https://github.com/sonsongithub/reddift) - reddit API wrapper
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for Swift.
+* [Swinject](https://github.com/Swinject/Swinject) - A dependency injection framework for Swift.
 * [Typhoon](https://github.com/typhoon-framework/Typhoon) - Dependency injection toolkit in Swift.
 
 ### Colors

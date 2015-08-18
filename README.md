@@ -564,6 +564,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Lambdatron](https://github.com/austinzheng/Lambdatron) - Clojure(ish) interpreter in Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
 * [Mendel](https://github.com/saniul/Mendel) - Swift miliframework for implementing evolutionary/genetic algorithms.
+* [Oriole](https://github.com/tptee/Oriole) - A functional utility belt implemented as Swift 2.0 protocol extensions.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - A Periscope-inspired way to ask for iOS permissions.
 * [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - ProtocolBuffers for Swift.
 * [Prototope](http://khan.github.io/Prototope/) - Swift library of lightweight interfaces for prototyping, bridged to JS.

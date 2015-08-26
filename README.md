@@ -89,6 +89,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Round & Split](https://github.com/lukhnos/roundandsplit) - a tip calculator in Swift
 * [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest) - a demo showing how you can auto-login users to an iOS app (on iOS 9) based on Safari cookies.
 * [Stick Hero Swift](https://github.com/phpmaple/Stick-Hero-Swift) - an universal spritekit based game in Swift.
+* [SwiftAnyPic](https://github.com/kwkhaw/SwiftAnyPic) - Parse's Anypic app in Swift.
 * [SwiftDemo](https://github.com/Lax/iOS-Swift-Demos) - a collection of demo for Swift.
 * [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp) - flickr app written in Swift.
 * [SwiftHN](https://github.com/Dimillian/SwiftHN) - hacker news app in Swift.

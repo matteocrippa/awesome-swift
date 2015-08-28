@@ -28,6 +28,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
             - [Core Data](#core-data)
             - [Realm](#realm)
             - [JSON](#json)
+            - [Key Value Store](#key-value-store)
             - [SQLite](#sqlite)
             - [XML](#xml)
         - [Date](#date)
@@ -257,6 +258,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftMapper](https://github.com/kam800/SwiftMapper) - JSON Mapper.
 * [SwiftJSONParser](https://github.com/mrap/SwiftJSONParser) - JSON parser.
 * [yaml.swift](https://github.com/behrang/yaml.swift) - Load YAML and JSON documents using Swift.
+
+#### Key Value Store
+* [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - A Key-Value store for Swift backed by LevelDB
 
 #### SQLite
 *Are you interested in storing your app data using SQLite? Here are some interesting resources.*

@@ -42,6 +42,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Localization](#localization)
         - [Logging](#logging)
         - [Maps](#maps)
+        - [Location](#location)
         - [Math](#math)
         - [Network](#network)
         - [Quality](#quality)
@@ -53,6 +54,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Utility](#utility)
         - [Video](#video)
         - [Webserver](#webserver)
+        - [Websocket](#websocket)
     - [Misc](#misc)
     - [Tools](#tools)
         - [Documentation](#documentation)
@@ -258,6 +260,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftMapper](https://github.com/kam800/SwiftMapper) - JSON Mapper.
 * [SwiftJSONParser](https://github.com/mrap/SwiftJSONParser) - JSON parser.
 * [yaml.swift](https://github.com/behrang/yaml.swift) - Load YAML and JSON documents using Swift.
+* [JSONCodable](https://github.com/matthewcheok/JSONCodable) - Hassle-free JSON encoding and decoding in Swift
 
 #### Key Value Store
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - A Key-Value store for Swift backed by LevelDB
@@ -393,6 +396,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ### Maps
 * [GEOSwift](https://github.com/andreacremaschi/GEOSwift) - The Swift Geographic Engine, make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
+
+### Location
+* [SwiftLocation](https://github.com/malcommac/SwiftLocation) - iOS CoreLocation Wrapper made in Swift
 
 ### Math
 * [Easy-Cal-Swift](https://github.com/onevcat/Easy-Cal-Swift) - Overload +-*/ operator for Swift, make it easier to use (and not so strict).
@@ -621,6 +627,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 
+### Websocket
+
+* [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
 
 ## Misc
 *Miscellaneous Swift related projects*

@@ -45,6 +45,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Location](#location)
         - [Math](#math)
         - [Network](#network)
+            - [Websocket](#websocket)
         - [Quality](#quality)
         - [Security](#security)
         - [System](#system)
@@ -54,7 +55,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Utility](#utility)
         - [Video](#video)
         - [Webserver](#webserver)
-        - [Websocket](#websocket)
     - [Misc](#misc)
     - [Tools](#tools)
         - [Documentation](#documentation)
@@ -424,15 +424,19 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [OAuthSwift](https://github.com/dongri/OAuthSwift) - Swift based OAuth library for iOS.
 * [PeerKit](https://github.com/jpsim/PeerKit) - An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps.
 * [RSNetworking](https://github.com/hoffmanjon/RSNetworking) - Network library written purely in Swift.
-* [Socket.IO](https://github.com/socketio/socket.io-client-swift) - Socket.IO client for iOS/OS X.
-* [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
 * [Stargate](https://github.com/contentful-labs/Stargate) - A communication channel from your Mac to your watch.
-* [Starscream](https://github.com/daltoniam/starscream) - websockets implementation in Swift.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
-* [SwiftSocket](https://github.com/xyyc/SwiftSocket) - simple TCP socket library.
-* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for Swift.
+Swift.
 * [Transporter](https://github.com/nghialv/Transporter) - A tiny library makes uploading and downloading easier.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
+
+#### Websocket
+
+* [Socket.IO](https://github.com/socketio/socket.io-client-swift) - Socket.IO client for iOS/OS X.
+* [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
+* [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
+* [SwiftSocket](https://github.com/xyyc/SwiftSocket) - simple TCP socket library.
+* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for 
 
 ### Quality
 
@@ -627,9 +631,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 
-### Websocket
 
-* [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
 
 ## Misc
 *Miscellaneous Swift related projects*

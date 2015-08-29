@@ -323,6 +323,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ### Gesture
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - db path recognizer for letters.
+* [Tactile](https://github.com/delba/Tactile) - Attach function handlers
+  to gesture and control events in a more expressive and safer way.
 
 ### iBeacon
 *Interested in using iBeacon in your Swift project? Here some interesting resources.*

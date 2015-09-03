@@ -648,6 +648,8 @@ Swift.
 ## Tools
 *Tools for Swift development*
 
+* [generator-swift-framework](https://github.com/cybertk/generator-swift-framework) - Scaffolds out a Xcode framework project based on Swift 2.0
+
 ### Documentation
 *Generate documentation for Swift code*
 

@@ -492,6 +492,7 @@ Swift.
 
 *A collection of pre-packaged transitions & cool ui stuffs.*
 
+* [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://)
 * [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - Adaptive tab bar.
 * [AEAccordion](https://github.com/tadija/AEAccordion) - UITableViewController with accordion effect (expand / collapse cells).
 * [AECoreDataUI](https://github.com/tadija/AERecord) - Core Data driven UI made in Swift.

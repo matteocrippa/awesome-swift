@@ -225,6 +225,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *Deal with cryptography method easily in Swift*
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - add crypto lib support to Swift.
 * [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - add crypto toolkit in Swift.
+* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language
 
 
 ### Data Management

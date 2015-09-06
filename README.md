@@ -15,6 +15,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [OS X](#os-x)
     - [Dependency Managers](#dependency-managers)
     - [Guides](#guides)
+    - [Patterns](#patterns)
     - [Editor Support](#editor-support)
         - [Emacs](#emacs)
         - [Vim](#vim)
@@ -45,7 +46,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Location](#location)
         - [Math](#math)
         - [Network](#network)
-            - [Websocket](#websocket)
+        	- [Websocket](#websocket)
         - [Quality](#quality)
         - [Security](#security)
         - [System](#system)
@@ -55,6 +56,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Utility](#utility)
         - [Video](#video)
         - [Webserver](#webserver)
+        - [Websocket](#websocket)
     - [Misc](#misc)
     - [Tools](#tools)
         - [Documentation](#documentation)
@@ -159,6 +161,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SlideShare (LinkedIn)](https://github.com/SlideShareInc/swift-style-guide) - Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift coding conventions for your Swift code.
 
+## Patterns
+* [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns implemented in Swift
+
 ## Editor Support
 
 *Support for your favorite editors.*
@@ -223,6 +228,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *Deal with cryptography method easily in Swift*
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - add crypto lib support to Swift.
 * [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - add crypto toolkit in Swift.
+* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language
 
 
 ### Data Management
@@ -280,6 +286,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [AEXML](https://github.com/tadija/AEXML) - xml wrapper
 * [Ji](https://github.com/honghaoz/Ji) - an XML/HTML parser for Swift.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift.
+* [XMLParser](https://github.com/Mozharovsky/XMLParser) - A lightweight XMLParser for assembling and parsing XML values written for iOS 8+ in Swift 2.
 
 ### Date
 *Handle data formatting easily.*
@@ -328,8 +335,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ### Gesture
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - db path recognizer for letters.
-* [Tactile](https://github.com/delba/Tactile) - Attach function handlers
-  to gesture and control events in a more expressive and safer way.
+* [Tactile](https://github.com/delba/Tactile) - Attach function handlers to gesture and control events in a more expressive and safer way.
 
 ### iBeacon
 *Interested in using iBeacon in your Swift project? Here some interesting resources.*
@@ -428,7 +434,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [RSNetworking](https://github.com/hoffmanjon/RSNetworking) - Network library written purely in Swift.
 * [Stargate](https://github.com/contentful-labs/Stargate) - A communication channel from your Mac to your watch.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
-Swift.
 * [Transporter](https://github.com/nghialv/Transporter) - A tiny library makes uploading and downloading easier.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 
@@ -438,7 +443,7 @@ Swift.
 * [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
 * [SwiftSocket](https://github.com/xyyc/SwiftSocket) - simple TCP socket library.
-* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for 
+* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for swift.
 
 ### Quality
 
@@ -635,8 +640,6 @@ Swift.
 * [NetworkObjects](https://github.com/colemancda/NetworkObjects) - REST HTTP Server written in Swift. Builds REST API from Core Data.
 * [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
-
-
 
 ## Misc
 *Miscellaneous Swift related projects*

@@ -46,6 +46,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Location](#location)
         - [Math](#math)
         - [Network](#network)
+        	- [Websocket](#websocket)
         - [Quality](#quality)
         - [Security](#security)
         - [System](#system)
@@ -85,6 +86,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [iContactU](https://github.com/rizal72/iContactU) - delivered on Apple Store: reminds you to contact people you ought to.
 * [KeychainDemo](https://github.com/dasdom/KeychainDemo) - keychain sharing between an App and it's share extension
 * [LayerPlayer](https://github.com/scotteg/LayerPlayer) - explores CALayer and subclasses; written in Swift; also on App Store
+* [Layer Parse Sample Chat App](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example) - Swift sample app that integrates Layer and Atlas with Parse.
 * [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) - checklist app in Swift.
 * [Path Logger](https://github.com/eugenpirogoff/pathlogger) - a GPS Path Logger with Core Data
 * [Pocket Forecast](https://github.com/typhoon-framework/Typhoon-Swift-Example) - typhoon weather example
@@ -93,6 +95,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Round & Split](https://github.com/lukhnos/roundandsplit) - a tip calculator in Swift
 * [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest) - a demo showing how you can auto-login users to an iOS app (on iOS 9) based on Safari cookies.
 * [Stick Hero Swift](https://github.com/phpmaple/Stick-Hero-Swift) - an universal spritekit based game in Swift.
+* [SwiftAnyPic](https://github.com/kwkhaw/SwiftAnyPic) - Parse's Anypic app in Swift.
 * [SwiftDemo](https://github.com/Lax/iOS-Swift-Demos) - a collection of demo for Swift.
 * [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp) - flickr app written in Swift.
 * [SwiftHN](https://github.com/Dimillian/SwiftHN) - hacker news app in Swift.
@@ -332,6 +335,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ### Gesture
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - db path recognizer for letters.
+* [Tactile](https://github.com/delba/Tactile) - Attach function handlers to gesture and control events in a more expressive and safer way.
 
 ### iBeacon
 *Interested in using iBeacon in your Swift project? Here some interesting resources.*
@@ -428,15 +432,18 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [OAuthSwift](https://github.com/dongri/OAuthSwift) - Swift based OAuth library for iOS.
 * [PeerKit](https://github.com/jpsim/PeerKit) - An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps.
 * [RSNetworking](https://github.com/hoffmanjon/RSNetworking) - Network library written purely in Swift.
-* [Socket.IO](https://github.com/socketio/socket.io-client-swift) - Socket.IO client for iOS/OS X.
-* [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
 * [Stargate](https://github.com/contentful-labs/Stargate) - A communication channel from your Mac to your watch.
-* [Starscream](https://github.com/daltoniam/starscream) - websockets implementation in Swift.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
-* [SwiftSocket](https://github.com/xyyc/SwiftSocket) - simple TCP socket library.
-* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for Swift.
 * [Transporter](https://github.com/nghialv/Transporter) - A tiny library makes uploading and downloading easier.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
+
+#### Websocket
+
+* [Socket.IO](https://github.com/socketio/socket.io-client-swift) - Socket.IO client for iOS/OS X.
+* [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
+* [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
+* [SwiftSocket](https://github.com/xyyc/SwiftSocket) - simple TCP socket library.
+* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for swift.
 
 ### Quality
 
@@ -449,6 +456,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [JMEasyTouchID](https://github.com/ulidev/JMEasyTouchID) - TouchID one line wrapper.
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS and OS X.
 * [KeyClip](https://github.com/s-aska/KeyClip) - Keychain framework for iOS written in Swift.
+* [Latch](https://github.com/DanielTomlinson/Latch) - A simple Swift Keychain Wrapper for iOS.
+* [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the iOS Keychain in Swift.
 * [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - a simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.
 
 
@@ -488,6 +497,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 *A collection of pre-packaged transitions & cool ui stuffs.*
 
+* [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://)
 * [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - Adaptive tab bar.
 * [AEAccordion](https://github.com/tadija/AEAccordion) - UITableViewController with accordion effect (expand / collapse cells).
 * [AECoreDataUI](https://github.com/tadija/AERecord) - Core Data driven UI made in Swift.
@@ -631,10 +641,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 
-### Websocket
-
-* [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
-
 ## Misc
 *Miscellaneous Swift related projects*
 
@@ -647,6 +653,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Tools
 *Tools for Swift development*
+
+* [generator-swift-framework](https://github.com/cybertk/generator-swift-framework) - Scaffolds out a Xcode framework project based on Swift 2.0
 
 ### Documentation
 *Generate documentation for Swift code*

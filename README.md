@@ -346,6 +346,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Images
 *An interesting list of image related libs..*
 
+* [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - AlamofireImage is an image component library for Alamofire.
 * [Agrume](https://github.com/JanGorman/Agrume) - A lemony fresh iOS image viewer written in Swift.
 * [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
 * [DePict](https://github.com/davidcairns/DePict) - functional wrapper for CoreGraphics

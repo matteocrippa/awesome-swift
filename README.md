@@ -56,7 +56,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Utility](#utility)
         - [Video](#video)
         - [Webserver](#webserver)
-        - [Websocket](#websocket)
     - [Misc](#misc)
     - [Tools](#tools)
         - [Documentation](#documentation)

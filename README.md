@@ -50,6 +50,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Quality](#quality)
         - [Security](#security)
         - [System](#system)
+        - [File](#file)
         - [Testing](#testing)
         - [Text](#text)
         - [UI](#ui)
@@ -474,6 +475,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library in Swift
 * [SystemKit](https://github.com/beltex/SystemKit/) - OS X system library in Swift
 
+### File
+
+* [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift.
 
 ### Testing
 *A collection of testing frameworks.*

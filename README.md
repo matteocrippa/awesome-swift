@@ -28,6 +28,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Data Management](#data-management)
             - [Core Data](#core-data)
             - [Realm](#realm)
+            - [Files](#files)
             - [JSON](#json)
             - [Key Value Store](#key-value-store)
             - [SQLite](#sqlite)
@@ -246,6 +247,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 #### Realm
 * [Realm](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite http://realm.io
 * [Realm+JSON](https://github.com/matthewcheok/Realm-JSON) - A concise Mantle-like way of working with Realm and JSON.
+
+#### Files
+* [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift.
 
 #### JSON
 *Struggling using json data? Here are some interesting ways to handle it.*

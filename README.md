@@ -384,6 +384,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [Cartography](https://github.com/robb/Cartography) - declarative auto layout lib for your project.
 * [FormationLayout](https://github.com/evan-liu/FormationLayout) - Auto Layout lib supports group layout and size classes.
+* [FormulaStyleConstraint](https://github.com/fhisa/FormulaStyleConstraint) - Lightweight mathematical declarative auto-layout framework for Swift.
 * [PureLayout](https://github.com/smileyborg/PureLayout) – The ultimate API for iOS & OS X Auto Layout.
 * [Restraint](https://github.com/puffinsupply/Restraint) - Minimal Auto Layout in Swift.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.

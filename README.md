@@ -392,6 +392,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
 * [Tails](https://github.com/nickynick/Tails) - declarative autolayout for ios app written in swift.
 * [VFLToolbox](https://github.com/0xc010d/VFLToolbox) - fancy Swift implementation of the Visual Format Language
+* [FormulaStyleConstraint](https://github.com/fhisa/FormulaStyleConstraint) - Lightweight mathematical declarative auto-layout framework for Swift.
 
 ### Localization
 *Frameworks that helps with localizing your app*

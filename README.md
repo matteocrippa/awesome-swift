@@ -574,6 +574,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
+* [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController) - ImagePickerSheetController is like the custom photo action sheet in iMessage just without the glitches. [http://laurinbrandner.ch](http://laurinbrandner.ch).
 
 ### Utility
 

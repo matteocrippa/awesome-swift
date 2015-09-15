@@ -264,6 +264,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
   outstanding performances and convenient operators.
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
 * [JSONHelper](https://github.com/isair/JSONHelper) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in Swift.
+* [ModelRocket](https://github.com/ovenbits/ModelRocket) - An iOS framework for creating JSON-based models.
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON object mapper.
 * [Pistachio](https://github.com/felixjendrusch/Pistachio) - Generic model framework for Swift.
 * [PPJSONSerialization](https://github.com/PonyCui/PPJSONSerialization) - Convert JSON string to Swift Class

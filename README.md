@@ -160,6 +160,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
 * [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich Swift guide, a must read.
 * [SlideShare (LinkedIn)](https://github.com/SlideShareInc/swift-style-guide) - Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.
+* [Swift-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices/) - Best practices for software development with Swift.
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift coding conventions for your Swift code.
 
 ## Patterns

@@ -147,6 +147,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Natasha the Robot](http://natashatherobot.com) - Weekly Newsletter on learning Swift
 * [objc.io snippets](http://www.objc.io/snippets/) - Short, weekly snippets showing off Swift features
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn Swift.
+* [Swift A Day](https://github.com/lindadong/swift-a-day) - Daily swift experiments by Linda Dong.
 * [SwiftDoc](http://swiftdoc.org) - Auto-generated documentation for Swift.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for Swift.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for Swift
@@ -159,6 +160,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
 * [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich Swift guide, a must read.
 * [SlideShare (LinkedIn)](https://github.com/SlideShareInc/swift-style-guide) - Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.
+* [Swift-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices/) - Best practices for software development with Swift.
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift coding conventions for your Swift code.
 
 ## Patterns

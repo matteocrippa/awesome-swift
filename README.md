@@ -8,7 +8,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ### Contents
 
-- [Awesome Swift](#awesome-swift)l
+- [Awesome Swift](#awesome-swift)
     - [Demo Apps](#demo-apps)
         - [iOS](#ios)
             - [Apple Watch](#watch)

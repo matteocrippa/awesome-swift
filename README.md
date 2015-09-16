@@ -353,6 +353,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *An interesting list of image related libs..*
 
 * [Agrume](https://github.com/JanGorman/Agrume) - A lemony fresh iOS image viewer written in Swift.
+* [APNGKit](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
 * [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
 * [DePict](https://github.com/davidcairns/DePict) - functional wrapper for CoreGraphics
 * [gifu](https://github.com/kaishin/gifu) - highly performant animated GIF support for iOS in Swift.

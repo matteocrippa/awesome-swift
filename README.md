@@ -407,10 +407,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Logging
 *Utilities for writing to and reading from the device log*
 
-* [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
 * [CleanroomASL](https://github.com/emaloney/CleanroomASL) — a low-level Swift API for writing to and reading from the Apple System Log daemon
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) — a configurable and extensible high-level logging API that is simple, lightweight and performant
 * [swiftRemoteLogger](https://github.com/matteocrippa/swiftRemoteLogger) - remote logging easy as 1..2..3 in swift
+* [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
 
 ### Maps
 * [GEOSwift](https://github.com/andreacremaschi/GEOSwift) - The Swift Geographic Engine, make it easier to work with geographic models and calculate intersections, overlapping, projections etc.

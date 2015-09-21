@@ -274,6 +274,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in Swift with error handling.
 * [SwiftMapper](https://github.com/kam800/SwiftMapper) - JSON Mapper.
 * [SwiftJSONParser](https://github.com/mrap/SwiftJSONParser) - JSON parser.
+* [Tailor](https://github.com/zenangst/Tailor) - A super fast & convenient object mapper tailored for your needs.
 * [yaml.swift](https://github.com/behrang/yaml.swift) - Load YAML and JSON documents using Swift.
 * [JSONCodable](https://github.com/matthewcheok/JSONCodable) - Hassle-free JSON encoding and decoding in Swift
 

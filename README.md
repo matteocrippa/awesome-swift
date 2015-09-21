@@ -411,6 +411,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) — Configurable and extensible high-level logging API that is simple, lightweight and performant.
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
 * [swiftRemoteLogger](https://github.com/matteocrippa/swiftRemoteLogger) - Remote logging easy as 1..2..3 in Swift.
+* [Watchdog](https://github.com/wojteklukaszuk/Watchdog) - A Swift utility for logging excessive blocking on the main thread.
 
 ### Maps
 * [GEOSwift](https://github.com/andreacremaschi/GEOSwift) - The Swift Geographic Engine, make it easier to work with geographic models and calculate intersections, overlapping, projections etc.

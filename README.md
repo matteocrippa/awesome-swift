@@ -28,6 +28,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Data Management](#data-management)
             - [Core Data](#core-data)
             - [Realm](#realm)
+            - [Files](#files)
             - [JSON](#json)
             - [Key Value Store](#key-value-store)
             - [SQLite](#sqlite)
@@ -93,6 +94,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Reusable Apps Code](https://github.com/CarlosButron/Swift) - a collection of reusable pieces of code in Swift.
 * [Round & Split](https://github.com/lukhnos/roundandsplit) - a tip calculator in Swift
 * [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest) - a demo showing how you can auto-login users to an iOS app (on iOS 9) based on Safari cookies.
+* [Static-icon-shortcuts-sample](https://github.com/stringcode86/Static-icon-shortcuts-sample) - a sample app demonstrates how to add iOS 9’s Quick Actions shortcut support using 3D touch API.
 * [Stick Hero Swift](https://github.com/phpmaple/Stick-Hero-Swift) - an universal spritekit based game in Swift.
 * [SwiftAnyPic](https://github.com/kwkhaw/SwiftAnyPic) - Parse's Anypic app in Swift.
 * [SwiftDemo](https://github.com/Lax/iOS-Swift-Demos) - a collection of demo for Swift.
@@ -147,6 +149,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Natasha the Robot](http://natashatherobot.com) - Weekly Newsletter on learning Swift
 * [objc.io snippets](http://www.objc.io/snippets/) - Short, weekly snippets showing off Swift features
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn Swift.
+* [Swift A Day](https://github.com/lindadong/swift-a-day) - Daily swift experiments by Linda Dong.
 * [SwiftDoc](http://swiftdoc.org) - Auto-generated documentation for Swift.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for Swift.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for Swift
@@ -161,6 +164,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
 * [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich Swift guide, a must read.
 * [SlideShare (LinkedIn)](https://github.com/SlideShareInc/swift-style-guide) - Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.
+* [Swift-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices/) - Best practices for software development with Swift.
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift coding conventions for your Swift code.
 
 ## Patterns
@@ -250,6 +254,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Realm](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite http://realm.io
 * [Realm+JSON](https://github.com/matthewcheok/Realm-JSON) - A concise Mantle-like way of working with Realm and JSON.
 
+#### Files
+* [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift.
+
 #### JSON
 *Struggling using json data? Here are some interesting ways to handle it.*
 
@@ -263,12 +270,14 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
   outstanding performances and convenient operators.
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
 * [JSONHelper](https://github.com/isair/JSONHelper) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in Swift.
+* [ModelRocket](https://github.com/ovenbits/ModelRocket) - An iOS framework for creating JSON-based models.
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON object mapper.
 * [Pistachio](https://github.com/felixjendrusch/Pistachio) - Generic model framework for Swift.
 * [PPJSONSerialization](https://github.com/PonyCui/PPJSONSerialization) - Convert JSON string to Swift Class
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in Swift with error handling.
 * [SwiftMapper](https://github.com/kam800/SwiftMapper) - JSON Mapper.
 * [SwiftJSONParser](https://github.com/mrap/SwiftJSONParser) - JSON parser.
+* [Tailor](https://github.com/zenangst/Tailor) - A super fast & convenient object mapper tailored for your needs.
 * [yaml.swift](https://github.com/behrang/yaml.swift) - Load YAML and JSON documents using Swift.
 * [JSONCodable](https://github.com/matthewcheok/JSONCodable) - Hassle-free JSON encoding and decoding in Swift
 
@@ -351,6 +360,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - AlamofireImage is an image component library for Alamofire.
 * [Agrume](https://github.com/JanGorman/Agrume) - A lemony fresh iOS image viewer written in Swift.
+* [APNGKit](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
 * [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
 * [DePict](https://github.com/davidcairns/DePict) - functional wrapper for CoreGraphics
 * [gifu](https://github.com/kaishin/gifu) - highly performant animated GIF support for iOS in Swift.
@@ -386,6 +396,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [Cartography](https://github.com/robb/Cartography) - declarative auto layout lib for your project.
 * [FormationLayout](https://github.com/evan-liu/FormationLayout) - Auto Layout lib supports group layout and size classes.
+* [FormulaStyleConstraint](https://github.com/fhisa/FormulaStyleConstraint) - Lightweight mathematical declarative auto-layout framework for Swift.
 * [PureLayout](https://github.com/smileyborg/PureLayout) – The ultimate API for iOS & OS X Auto Layout.
 * [Restraint](https://github.com/puffinsupply/Restraint) - Minimal Auto Layout in Swift.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
@@ -404,9 +415,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Logging
 *Utilities for writing to and reading from the device log*
 
-* [CleanroomASL](https://github.com/emaloney/CleanroomASL) — a low-level Swift API for writing to and reading from the Apple System Log daemon
-* [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) — a configurable and extensible high-level logging API that is simple, lightweight and performant
-* [Watchdog](https://github.com/wojteklukaszuk/Watchdog) - Class for logging excessive blocking on the main thread.
+* [CleanroomASL](https://github.com/emaloney/CleanroomASL) — Low-level Swift API for writing to and reading from the Apple System Log daemon.
+* [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) — Configurable and extensible high-level logging API that is simple, lightweight and performant.
+* [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
+* [swiftRemoteLogger](https://github.com/matteocrippa/swiftRemoteLogger) - Remote logging easy as 1..2..3 in Swift.
+* [Watchdog](https://github.com/wojteklukaszuk/Watchdog) - A Swift utility for logging excessive blocking on the main thread.
 
 ### Maps
 * [GEOSwift](https://github.com/andreacremaschi/GEOSwift) - The Swift Geographic Engine, make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
@@ -514,6 +527,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - Bubble transition in a easy way.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition) - Custom interactive transition like Apple Music iOS App. written in Swift.
 * [CharacterText](https://github.com/android1989/CharacterText) - Perform fx on UILabel.
+* [CKPickerView](https://github.com/cybertk/CKPickerView) - A UIPickerView drop-in replacement with support for titles and Selection Indicator customization 
+* [CKTextFieldTableCell](https://github.com/cybertk/CKTextFieldTableCell) - UITableViewCell drop-in replacement with support of UITextField
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - Sliding side menu.
 * [Dodo](https://github.com/exchangegroup/Dodo) - A message bar for iOS written in Swift.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button written in Swift.
@@ -531,6 +546,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Hakuba](https://github.com/nghialv/Hakuba) - A new way to manage UITableView without the code of UITableViewDelegate and UITableViewDataSource.
 * [HamburgerButton](https://github.com/fastred/HamburgerButton) - Hamburger button with a slick animation.
 * [Hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
+* [HoneycombView](https://github.com/suzuki-0000/HoneycombView) - HoneycombView is the iOS UIView for displaying like Honyecomb layout written by swift.
 * [Hokusai](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet.
 * [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful MPAndroidChart.
@@ -659,6 +675,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [MAIKit](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and OS X.
 * [sbconstants](https://github.com/paulsamuels/SBConstants) - A nifty tool to generate constants file by grabbing identifiers from storyboards in a Swift project.
 * [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the Swift compiler
+* [SwiftHub](https://github.com/sahandnayebaziz/SwiftHub) - A universal app you can use to browse the newest Swift repositories on Github. 
 * [swiftier](https://github.com/snej/swiftier) - Quick-and-dirty Objective-C to Swift translator.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - List of things that are "in flux" in Swift + changelog of the language
 * [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A suite of tools written in Swift to auto-generate Swift code for various assets of your project.

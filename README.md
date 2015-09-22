@@ -488,6 +488,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck) - A testing library that automatically generates random data for testing program properties.
 * [Swiftest](https://github.com/Swiftest/Swiftest) - experimental BDD-style framework.
+* [SwiftMock](https://github.com/mflint/SwiftMock) - A mocking framework for Swift
 
 ### Text
 *A collection of text projects.*

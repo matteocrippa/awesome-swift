@@ -583,6 +583,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Twinkle](https://github.com/piemonte/Twinkle) - a Swift and easy way to make elements in your iOS app twinkle.
 * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
+* [KCJogDial](https://github.com/kciter/KCJogDial) - Controllable UIView like jog dial
 
 ### Utility
 

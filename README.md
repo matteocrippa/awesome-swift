@@ -331,16 +331,16 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 *A collection of font related snippets.*
 
-* [Font-Awesome](https://github.com/hirohisa/Font-Awesome) - Use Font Awesome in project written in Swift.
 * [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app.
+* [Font-Awesome](https://github.com/hirohisa/Font-Awesome) - Use Font Awesome in project written in Swift.
 * [GoogleMaterialDesignIcons](https://github.com/dekatotoro/GoogleMaterialDesignIcons) - google Material Design Icons Font for iOS.
+* [GoogleMaterialIconFont](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Icon Font for Swift and ObjC.
 * [MCFontAwesome](https://github.com/matteocrippa/MCFontAwesome) - fontawesome porting for Swift.
-* [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in Swift.
 * [OpenSansSwift](https://github.com/hemantasapkota/OpenSansSwift) - OpenSans for Swift.
 * [SDevIconFonts](https://github.com/0x73/SDevIconFonts) - Fontawesome, Iconic, Ionicons, Octicon porting for Swift.
 * [Swicon](https://github.com/UglyTroLL/Swicon) - Use 1600+ icons from FontAwesome and Google Material Icons (and even your own customized icons) in your swift/iOS project!
 * [SwiftFontName](https://github.com/morizotter/SwiftFontName) - OS font complements library. Localized font supported.
-* [GoogleMaterialIconFont](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Icon Font for Swift and ObjC.
+* [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in Swift.
 
 ### Gesture
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - db path recognizer for letters.

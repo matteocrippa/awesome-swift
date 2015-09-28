@@ -436,6 +436,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Alamofire](https://github.com/Alamofire/Alamofire) - elegant networking in Swift.
 * [APIKit](https://github.com/ishkawa/APIKit) - a library for building type-safe web API client.
 * [BigBrother](https://github.com/marcelofabri/BigBrother) - Automatically sets the network activity indicator for any performed request.
+* [BluetoothKit](https://github.com/rasmusth/BluetoothKit) - A much simpler, high-level Swift API to allow easy communication between iOS devices using Bluetooth 4.0 LE.
 * [GRequest](https://github.com/lingoer/GRequest) - http request handler.
 * [IJReachability](https://github.com/Isuru-Nanayakkara/IJReachability) - check for network connection availability.
 * [Just](https://github.com/JustHTTP/Just) - HTTP for Humans (a python-requests style HTTP library in Swift)

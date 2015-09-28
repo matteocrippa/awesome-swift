@@ -261,11 +261,13 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Alexander](https://github.com/hodinkee/alexander) - An extremely simple JSON helper written in Swift.
 * [Argo](https://github.com/thoughtbot/Argo) - Json parsing library
 * [Decodable](https://github.com/Anviking/Decodable) - JSON parsing for Swift 2.
+* [Genome](https://github.com/LoganWright/Genome) - A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0
 * [Gloss](https://github.com/hkellaway/Gloss) - shiny JSON parsing library.
 * [Himotoki](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library purely written in Swift.
 * [JASON](https://github.com/delba/JASON) - JSON parsing with
   outstanding performances and convenient operators.
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
+* [JSONCodable](https://github.com/matthewcheok/JSONCodable) - Hassle-free JSON encoding and decoding in Swift
 * [JSONHelper](https://github.com/isair/JSONHelper) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in Swift.
 * [ModelRocket](https://github.com/ovenbits/ModelRocket) - An iOS framework for creating JSON-based models.
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON object mapper.
@@ -276,7 +278,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftJSONParser](https://github.com/mrap/SwiftJSONParser) - JSON parser.
 * [Tailor](https://github.com/zenangst/Tailor) - A super fast & convenient object mapper tailored for your needs.
 * [yaml.swift](https://github.com/behrang/yaml.swift) - Load YAML and JSON documents using Swift.
-* [JSONCodable](https://github.com/matthewcheok/JSONCodable) - Hassle-free JSON encoding and decoding in Swift
 
 #### Key Value Store
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - A Key-Value store for Swift backed by LevelDB

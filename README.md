@@ -156,6 +156,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Swift Sandbox](http://swiftsandbox.io) - Weekly newsletter focused on Swift code snippets, playgrounds and projects. Every Friday. Free.
 * [Swift Tips](https://github.com/jbrennan/swift-tips) - Swift tips collection.
 * [Swift-Weekly](http://goo.gl/HHOQWO) - Weekly Swift Language Gems, Tips and Tricks
+* [Learn Swift](http://www.swift-tutorial.io/learn-swift) An in-progress book about programming in Swift, free to read online.
 
 ### Style Guides
 * [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.

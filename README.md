@@ -265,11 +265,13 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Alexander](https://github.com/hodinkee/alexander) - An extremely simple JSON helper written in Swift.
 * [Argo](https://github.com/thoughtbot/Argo) - Json parsing library
 * [Decodable](https://github.com/Anviking/Decodable) - JSON parsing for Swift 2.
+* [Genome](https://github.com/LoganWright/Genome) - A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0
 * [Gloss](https://github.com/hkellaway/Gloss) - shiny JSON parsing library.
 * [Himotoki](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library purely written in Swift.
 * [JASON](https://github.com/delba/JASON) - JSON parsing with
   outstanding performances and convenient operators.
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
+* [JSONCodable](https://github.com/matthewcheok/JSONCodable) - Hassle-free JSON encoding and decoding in Swift
 * [JSONHelper](https://github.com/isair/JSONHelper) - lightning fast JSON deserialization and value conversion library for iOS & OS X written in Swift.
 * [ModelRocket](https://github.com/ovenbits/ModelRocket) - An iOS framework for creating JSON-based models.
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON object mapper.
@@ -280,7 +282,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftJSONParser](https://github.com/mrap/SwiftJSONParser) - JSON parser.
 * [Tailor](https://github.com/zenangst/Tailor) - A super fast & convenient object mapper tailored for your needs.
 * [yaml.swift](https://github.com/behrang/yaml.swift) - Load YAML and JSON documents using Swift.
-* [JSONCodable](https://github.com/matthewcheok/JSONCodable) - Hassle-free JSON encoding and decoding in Swift
 
 #### Key Value Store
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - A Key-Value store for Swift backed by LevelDB
@@ -336,15 +337,16 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 *A collection of font related snippets.*
 
-* [Font-Awesome](https://github.com/hirohisa/Font-Awesome) - Use Font Awesome in project written in Swift.
 * [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app.
+* [Font-Awesome](https://github.com/hirohisa/Font-Awesome) - Use Font Awesome in project written in Swift.
 * [GoogleMaterialDesignIcons](https://github.com/dekatotoro/GoogleMaterialDesignIcons) - google Material Design Icons Font for iOS.
+* [GoogleMaterialIconFont](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Icon Font for Swift and ObjC.
 * [MCFontAwesome](https://github.com/matteocrippa/MCFontAwesome) - fontawesome porting for Swift.
-* [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in Swift.
 * [OpenSansSwift](https://github.com/hemantasapkota/OpenSansSwift) - OpenSans for Swift.
 * [SDevIconFonts](https://github.com/0x73/SDevIconFonts) - Fontawesome, Iconic, Ionicons, Octicon porting for Swift.
 * [Swicon](https://github.com/UglyTroLL/Swicon) - Use 1600+ icons from FontAwesome and Google Material Icons (and even your own customized icons) in your swift/iOS project!
 * [SwiftFontName](https://github.com/morizotter/SwiftFontName) - OS font complements library. Localized font supported.
+* [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in Swift.
 
 ### Gesture
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - db path recognizer for letters.
@@ -372,7 +374,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - a lib for image download and caching.
 * [MapleBacon](https://github.com/zalando/MapleBacon) - Swift image download and caching library.
 * [Misen](https://github.com/tasanobu/Misen) - A script to support using Xcode Asset Catalog in Swift.
-* [Nuke](https://github.com/kean/Nuke) - Advanced framework for managing images
+* [Nuke](https://github.com/kean/Nuke) - Advanced pure Swift framework for loading, caching, processing, displaying and preheating images.
 * [PASImageView](https://github.com/abiaad/PASImageView) - async remote download your image and round them. automatically.
 * [SwiftColorArt](https://github.com/Jan0707/SwiftColorArt) - font schema generator according image colours.
 * [SwiftGen-Assets](https://github.com/AliSoftware/SwiftGen#assets-catalogs) - A tool to auto-generate Swift `enums` for all your `UIImages` from your Assets Catalogs.
@@ -442,6 +444,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Alamofire](https://github.com/Alamofire/Alamofire) - elegant networking in Swift.
 * [APIKit](https://github.com/ishkawa/APIKit) - a library for building type-safe web API client.
 * [BigBrother](https://github.com/marcelofabri/BigBrother) - Automatically sets the network activity indicator for any performed request.
+* [BluetoothKit](https://github.com/rasmusth/BluetoothKit) - A much simpler, high-level Swift API to allow easy communication between iOS devices using Bluetooth 4.0 LE.
 * [GRequest](https://github.com/lingoer/GRequest) - http request handler.
 * [IJReachability](https://github.com/Isuru-Nanayakkara/IJReachability) - check for network connection availability.
 * [Just](https://github.com/JustHTTP/Just) - HTTP for Humans (a python-requests style HTTP library in Swift)
@@ -504,6 +507,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck) - A testing library that automatically generates random data for testing program properties.
 * [Swiftest](https://github.com/Swiftest/Swiftest) - experimental BDD-style framework.
+* [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
 * [SwiftMock](https://github.com/mflint/SwiftMock) - A mocking framework for Swift
 
 ### Text
@@ -528,7 +532,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - Bubble transition in a easy way.
 * [CharacterText](https://github.com/android1989/CharacterText) - Perform fx on UILabel.
-* [CKPickerView](https://github.com/cybertk/CKPickerView) - A UIPickerView drop-in replacement with support for titles and Selection Indicator customization 
+* [CKPickerView](https://github.com/cybertk/CKPickerView) - A UIPickerView drop-in replacement with support for titles and Selection Indicator customization
 * [CKTextFieldTableCell](https://github.com/cybertk/CKTextFieldTableCell) - UITableViewCell drop-in replacement with support of UITextField
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - Sliding side menu.
 * [Dodo](https://github.com/exchangegroup/Dodo) - A message bar for iOS written in Swift.
@@ -550,7 +554,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [HoneycombView](https://github.com/suzuki-0000/HoneycombView) - HoneycombView is the iOS UIView for displaying like Honyecomb layout written by swift.
 * [Hokusai](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet.
 * [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
-* [ios-charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful MPAndroidChart.
+* [ios-charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart).
 * [JTToast](https://github.com/devxoul/JLToast) - Toast for Swift.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [LTJelloSwitch](https://github.com/lexrus/LTJelloSwitch) - UISwitch prototype.
@@ -588,11 +592,14 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) - Lightweight dropdown message bar in Swift.
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - Forms that can be validated.
 * [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view.
+* [TCDInputView](https://github.com/tomdiggle/TCDInputView) - A custom input view which is displayed when a text field becomes the first responder.
+
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Several ready to use effects for UITextFields
 * [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library in Swift. A single line of code and visualize your touches.
 * [Twinkle](https://github.com/piemonte/Twinkle) - a Swift and easy way to make elements in your iOS app twinkle.
 * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
+* [KCJogDial](https://github.com/kciter/KCJogDial) - Controllable UIView like jog dial
 
 #### Blur
 
@@ -652,6 +659,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftExP](https://github.com/mrackwitz/SwiftExP) - Pure Swift 2.0 S-expression Parser
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - form are now easy as 1.2.3!
 * [SwiftMemCache](https://github.com/ctews/SwiftMemCache) - Swift Memory Cache with namespace & TTL support.
+* [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS written in Swift 2.0
 * [SwiftSequence](https://github.com/oisdk/SwiftSequence) - A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools
 * [SwiftyStateMachine](https://github.com/macoscope/SwiftyStateMachine) - Swift µframework for creating state machines.
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) — a cleaner, nicer syntax for NSUserDefaults
@@ -679,7 +687,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [MAIKit](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and OS X.
 * [sbconstants](https://github.com/paulsamuels/SBConstants) - A nifty tool to generate constants file by grabbing identifiers from storyboards in a Swift project.
 * [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the Swift compiler
-* [SwiftHub](https://github.com/sahandnayebaziz/SwiftHub) - A universal app you can use to browse the newest Swift repositories on Github. 
+* [SwiftHub](https://github.com/sahandnayebaziz/SwiftHub) - A universal app you can use to browse the newest Swift repositories on Github.
 * [swiftier](https://github.com/snej/swiftier) - Quick-and-dirty Objective-C to Swift translator.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - List of things that are "in flux" in Swift + changelog of the language
 * [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A suite of tools written in Swift to auto-generate Swift code for various assets of your project.

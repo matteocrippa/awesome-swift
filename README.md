@@ -501,13 +501,13 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *A collection of testing frameworks.*
 
 * [DVR](https://github.com/venmo/DVR) - A simple network testing framework for Swift.
-* [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - A testing library designed to stub your network requests easily.
+* [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
 * [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease in Swift.
+* [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - A testing library designed to stub your network requests easily.
 * [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck) - A testing library that automatically generates random data for testing program properties.
 * [Swiftest](https://github.com/Swiftest/Swiftest) - experimental BDD-style framework.
-* [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
 * [SwiftMock](https://github.com/mflint/SwiftMock) - A mocking framework for Swift
 
 ### Text

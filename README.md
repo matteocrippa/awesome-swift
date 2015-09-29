@@ -288,10 +288,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 #### SQLite
 *Are you interested in storing your app data using SQLite? Here are some interesting resources.*
 
+* [GRDB.swift](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit for Swift [https://www.sqlite.org](https://www.sqlite.org).
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A pure Swift framework wrapping SQLite3. Small. Simple. Safe.
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - sqlite wrapper for Swift.
 * [SwiftData](https://github.com/ryanfowler/SwiftData) - simple and Effective SQLite Handling in Swift.
-* [GRDB.swift](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit for Swift [https://www.sqlite.org](https://www.sqlite.org).
 
 #### XML
 *If you prefer to manage XML data formatted entries, here are some helpful libs*

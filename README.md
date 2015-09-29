@@ -54,6 +54,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Testing](#testing)
         - [Text](#text)
         - [UI](#ui)
+			- [Blur](#blur)
         - [Utility](#utility)
         - [Video](#video)
         - [Webserver](#webserver)
@@ -76,6 +77,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [DeckRocket](https://github.com/jpsim/DeckRocket) - deckrocket porting in Swift.
 * [Edhita](https://github.com/tnantoka/edhita) - text edit app.
 * [Eidolon](https://github.com/artsy/eidolon) - The Artsy auction kiosk app.
+* [Feeds4U](https://github.com/EvgenyKarkan/Feeds4U) - Well architectured RSS reader app written in Swift.
 * [firefox-ios](https://github.com/mozilla/firefox-ios) - firefox for iOS being developed by Mozilla.
 * [Federal Open Data](https://github.com/USDepartmentofLabor/Swift-Sample-App) - Get federal Open Data using the Federal Data SDK
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in Swift.
@@ -144,6 +146,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [A better way to learn Swift](https://github.com/GoThinkster/swift) - Learn Swift in a different way.
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for Swift beginners.
 * [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
+* [HACKING WITH SWIFT](https://www.hackingwithswift.com) - **Hacking with Swift** is a complete Swift training course that teaches you app development through 30 hands-on projects, for free. Everything is taught as part of a practical project, so you can immediately apply your knowledge as you learn.
+* [HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The project source code for hackingwithswift.com
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning Swift via playground.
 * [Natasha the Robot](http://natashatherobot.com) - Weekly Newsletter on learning Swift
 * [objc.io snippets](http://www.objc.io/snippets/) - Short, weekly snippets showing off Swift features
@@ -285,6 +289,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 #### SQLite
 *Are you interested in storing your app data using SQLite? Here are some interesting resources.*
 
+* [GRDB.swift](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit for Swift [https://www.sqlite.org](https://www.sqlite.org).
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A pure Swift framework wrapping SQLite3. Small. Simple. Safe.
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - sqlite wrapper for Swift.
 * [SwiftData](https://github.com/ryanfowler/SwiftData) - simple and Effective SQLite Handling in Swift.
@@ -356,11 +361,13 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Images
 *An interesting list of image related libs..*
 
+* [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - AlamofireImage is an image component library for Alamofire.
 * [Agrume](https://github.com/JanGorman/Agrume) - A lemony fresh iOS image viewer written in Swift.
 * [APNGKit](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
 * [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
 * [DePict](https://github.com/davidcairns/DePict) - functional wrapper for CoreGraphics
 * [gifu](https://github.com/kaishin/gifu) - highly performant animated GIF support for iOS in Swift.
+* [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 * [ImageLoader](https://github.com/hirohisa/ImageLoaderSwift) - A lightweight and fast image loader for iOS written in Swift.
 * [ImageScout](https://github.com/kaishin/ImageScout) - a Swift implementation of [fastimage](https://pypi.python.org/pypi/fastimage/0.2.1) - supports PNG, GIF, and JPEG.
 * [KFSwiftImageLoader](https://github.com/kiavashfaisali/KFSwiftImageLoader) - An extremely high-performance, lightweight, and energy-efficient pure Swift async web image loader with memory and disk caching for iOS and  Watch.
@@ -374,7 +381,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftGif](https://github.com/bahlo/SwiftGif) - A small UIImage extension with gif support
 * [Toucan](https://github.com/gavinbunney/Toucan) - Image processing api
 * [UIImageView-BetterFace-Swift](https://github.com/croath/UIImageView-BetterFace-Swift) - autoresize images and if any face discovered refine the position of the image.
-
 
 ### Keyboard
 *Do you want to create your own customized keyboard? Here are some interesting resources*
@@ -425,6 +431,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftLocation](https://github.com/malcommac/SwiftLocation) - iOS CoreLocation Wrapper made in Swift
 
 ### Math
+* [DDMathParser](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
 * [Easy-Cal-Swift](https://github.com/onevcat/Easy-Cal-Swift) - Overload +-*/ operator for Swift, make it easier to use (and not so strict).
 * [Surge](https://github.com/mattt/Surge) - Accelerate framework for Swift.
 * [swix](https://github.com/scottsievert/swix) - A general matrix language.
@@ -490,18 +497,18 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library in Swift
 * [SystemKit](https://github.com/beltex/SystemKit/) - OS X system library in Swift
 
-
 ### Testing
 *A collection of testing frameworks.*
 
 * [DVR](https://github.com/venmo/DVR) - A simple network testing framework for Swift.
-* [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - A testing library designed to stub your network requests easily.
+* [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
 * [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease in Swift.
+* [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - A testing library designed to stub your network requests easily.
 * [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck) - A testing library that automatically generates random data for testing program properties.
 * [Swiftest](https://github.com/Swiftest/Swiftest) - experimental BDD-style framework.
-* [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
+* [SwiftMock](https://github.com/mflint/SwiftMock) - A mocking framework for Swift
 
 ### Text
 *A collection of text projects.*
@@ -520,6 +527,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [AEAccordion](https://github.com/tadija/AEAccordion) - UITableViewController with accordion effect (expand / collapse cells).
 * [AECoreDataUI](https://github.com/tadija/AERecord) - Core Data driven UI made in Swift.
 * [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch) - Flat animated switch.
+* [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - A playable pull to refresh view using SpriteKit
 * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - Bubble transition in a easy way.
@@ -556,6 +564,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [MaterialKit](https://github.com/nghialv/MaterialKit) - Material design components.
 * [MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium scroll style menubar.
 * [MIBadgeButton] (https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons
+* [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition) - Custom interactive transition like Apple Music iOS App. written in Swift.
+* [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
+* [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [Otafuku](https://github.com/tasanobu/Otafuku) - Some utility classes to use WKWebView in Swift.
 * [PageController](https://github.com/hirohisa/PageController) - Infinite pageing controller.
 * [Pagemenu](https://github.com/uacaps/PageMenu) - Pagination enabled view controller.
@@ -589,6 +600,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
 * [KCJogDial](https://github.com/kciter/KCJogDial) - Controllable UIView like jog dial
+
+#### Blur
+
+* [Blurable](https://github.com/FlexMonkey/Blurable) - Apply a Gaussian Blur to any UIView with Swift Protocol Extensions
 
 ### Utility
 

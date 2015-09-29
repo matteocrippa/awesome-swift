@@ -146,6 +146,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [A better way to learn Swift](https://github.com/GoThinkster/swift) - Learn Swift in a different way.
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for Swift beginners.
 * [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
+* [HACKING WITH SWIFT](https://www.hackingwithswift.com) - **Hacking with Swift** is a complete Swift training course that teaches you app development through 30 hands-on projects, for free. Everything is taught as part of a practical project, so you can immediately apply your knowledge as you learn.
+* [HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The project source code for hackingwithswift.com
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning Swift via playground.
 * [Natasha the Robot](http://natashatherobot.com) - Weekly Newsletter on learning Swift
 * [objc.io snippets](http://www.objc.io/snippets/) - Short, weekly snippets showing off Swift features
@@ -158,8 +160,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Swift Sandbox](http://swiftsandbox.io) - Weekly newsletter focused on Swift code snippets, playgrounds and projects. Every Friday. Free.
 * [Swift Tips](https://github.com/jbrennan/swift-tips) - Swift tips collection.
 * [Swift-Weekly](http://goo.gl/HHOQWO) - Weekly Swift Language Gems, Tips and Tricks
-* [HACKING WITH SWIFT](https://www.hackingwithswift.com) - **Hacking with Swift** is a complete Swift training course that teaches you app development through 30 hands-on projects, for free. Everything is taught as part of a practical project, so you can immediately apply your knowledge as you learn.
-* [HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The project source code for hackingwithswift.com
 
 ### Style Guides
 * [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.

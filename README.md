@@ -502,6 +502,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Testing
 *A collection of testing frameworks.*
 
+* [CatchingFire](https://github.com/mrackwitz/CatchingFire) - Test Library for Swift's Error Handling.
 * [DVR](https://github.com/venmo/DVR) - A simple network testing framework for Swift.
 * [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
 * [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease in Swift.

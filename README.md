@@ -393,6 +393,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *Libs to help you with layout.*
 * [ManualLayout](https://github.com/isair/ManualLayout) - Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.
 * [SwiftBox](https://github.com/joshaber/SwiftBox) - Flexbox in Swift, using Facebook's css-layout.
+* [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - Confirm view positions with executing app.
 
 
 #### Auto Layout

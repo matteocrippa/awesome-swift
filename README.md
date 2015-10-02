@@ -34,6 +34,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
             - [SQLite](#sqlite)
             - [XML](#xml)
         - [Date](#date)
+        - [Concurrency](#concurrency)
         - [Events](#events)
         - [Fonts](#fonts)
         - [Gesture](#gesture)
@@ -314,6 +315,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions in Swift.
 
+### Concurrency
+*Easier ways to work with concurrency.*
+
+* [SwiftGo](https://github.com/Zewo/SwiftGo) - Pure Swift/C library that provides Go's concurrency features in Swift 2 (Linux ready).
 
 ### Events
 *Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.*

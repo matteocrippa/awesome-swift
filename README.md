@@ -636,6 +636,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Forbind](https://github.com/ulrikdamm/Forbind) - Functional chaining and Promises in Swift
 * [Funky](https://github.com/brynbellomy/Funky) - Functions and operators for functional programming in Swift.
 * [GCD](https://github.com/nghialv/GCD) - A wrapper of Grand Central Dispatch written in Swift
+* [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift.
 * [Honour](https://github.com/jeanpimentel/Honour) - Simple and powerful Validation Library
 * [Inflection](https://github.com/zenangst/Inflection) - The Optimus Prime of string inflection
 * [Lambdatron](https://github.com/austinzheng/Lambdatron) - Clojure(ish) interpreter in Swift.

@@ -233,6 +233,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Hex to UIcolor converter.
 * [UIColorWDUtils](https://github.com/daktales/UIColorWDUtils) - Extension for Hex RGB(A).
 
+### Concurrency
+*Easier ways to work with concurrency.*
+
+* [SwiftGo](https://github.com/Zewo/SwiftGo) - Pure Swift/C library that provides Go's concurrency features in Swift 2 (Linux ready).
+
 ### Cryptography
 *Deal with cryptography method easily in Swift*
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - add crypto lib support to Swift.
@@ -314,11 +319,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer)
 * [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions in Swift.
-
-### Concurrency
-*Easier ways to work with concurrency.*
-
-* [SwiftGo](https://github.com/Zewo/SwiftGo) - Pure Swift/C library that provides Go's concurrency features in Swift 2 (Linux ready).
 
 ### Events
 *Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.*

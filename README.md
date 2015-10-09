@@ -680,6 +680,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
 * [Wyrd](https://github.com/explicitcall/Wyrd) - Asynchronous programming in Swift made easy. Wyrd is inspired by Promises/A+.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - a lib that help you handling better debug logging.
+* [SwiftRandom](https://github.com/thellimist/SwiftRandom) - A tiny generator of random data for swift 
 
 ### Video
 

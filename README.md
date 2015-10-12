@@ -516,6 +516,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - A testing library designed to stub your network requests easily.
 * [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
+* [Spectre](https://github.com/kylef/Spectre) - BDD Framework for Swift.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck) - A testing library that automatically generates random data for testing program properties.
 * [Swiftest](https://github.com/Swiftest/Swiftest) - experimental BDD-style framework.
 * [SwiftMock](https://github.com/mflint/SwiftMock) - A mocking framework for Swift

@@ -567,6 +567,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart).
 * [JTToast](https://github.com/devxoul/JLToast) - Toast for Swift.
+* [KCJogDial](https://github.com/kciter/KCJogDial) - Controllable UIView like jog dial.
+* [KCSelectionDialog](https://github.com/kciter/KCSelectionDialog) - Simple selection dialog.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [LTJelloSwitch](https://github.com/lexrus/LTJelloSwitch) - UISwitch prototype.
 * [Kamagari](https://github.com/tasanobu/Kamagari) - Simple UIAlertController builder class in Swift.
@@ -610,7 +612,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Twinkle](https://github.com/piemonte/Twinkle) - a Swift and easy way to make elements in your iOS app twinkle.
 * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
-* [KCJogDial](https://github.com/kciter/KCJogDial) - Controllable UIView like jog dial
 
 #### Blur
 

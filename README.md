@@ -84,6 +84,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in Swift.
 * [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in Swift.
 * [HausClock](https://github.com/nottombrown/HausClock) - chess stile clock app in Swift.
+* [HealthKitDemo](https://github.com/Darktt/HealthKit-Swift) - health kit demo app.
 * [HomeKitDemo](https://github.com/KhaosT/HomeKit-Demo) - homekit demo app;
 * [HackerNewsClient-iOS](https://github.com/NikantVohra/HackerNewsClient-iOS) - hackernews client in Swift
 * [iContactU](https://github.com/rizal72/iContactU) - delivered on Apple Store: reminds you to contact people you ought to.

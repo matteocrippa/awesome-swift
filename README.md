@@ -41,6 +41,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [iBeacon](#ibeacon)
         - [Images](#images)
         - [Keyboard](#keyboard)
+        - [Key Value Coding](#key-value-coding)
         - [Layout](#layout)
         - [Localization](#localization)
         - [Logging](#logging)
@@ -291,9 +292,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Tailor](https://github.com/zenangst/Tailor) - A super fast & convenient object mapper tailored for your needs.
 * [yaml.swift](https://github.com/behrang/yaml.swift) - Load YAML and JSON documents using Swift.
 
-#### Key Value Coding
-* [SwiftKVC](https://github.com/bradhilton/SwiftKVC) - Key-Value Coding (KVC) for native Swift classes and structs
-
 #### Key Value Store
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - A Key-Value store for Swift backed by LevelDB
 
@@ -396,6 +394,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [Hodor Keyboard](https://github.com/jonomuller/Hodor-Keyboard) - poc for custom keyboard implementation.
 
+
+### Key Value Coding
+*Libraries for key-value coding and key-value observing in Swift*
+
+* [SwiftKVC](https://github.com/bradhilton/SwiftKVC) - Key-Value Coding (KVC) for native Swift classes and structs
 
 ### Layout
 *Libs to help you with layout.*

@@ -396,7 +396,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 
 ### Key Value Coding
-*Libraries for key-value coding and key-value observing in Swift*
+*Libraries for key-value coding in Swift*
 
 * [SwiftKVC](https://github.com/bradhilton/SwiftKVC) - Key-Value Coding (KVC) for native Swift classes and structs
 

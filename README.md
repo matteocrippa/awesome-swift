@@ -237,7 +237,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Concurrency
 *Easier ways to work with concurrency.*
 
-* [SwiftGo](https://github.com/Zewo/SwiftGo) - Pure Swift/C library that provides Go's concurrency features in Swift 2 (Linux ready).
+* [Venice](https://github.com/Zewo/Venice) - Communicating sequential processes (CSP) for Swift 2 (Linux ready).
 
 ### Cryptography
 *Deal with cryptography method easily in Swift*

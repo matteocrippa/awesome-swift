@@ -94,9 +94,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Layer Parse Sample Chat App](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example) - Swift sample app that integrates Layer and Atlas with Parse.
 * [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) - checklist app in Swift.
 * [Path Logger](https://github.com/eugenpirogoff/pathlogger) - a GPS Path Logger with Core Data
-* [Pocket Forecast](https://github.com/typhoon-framework/Typhoon-Swift-Example) - typhoon weather example
+* [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example) - typhoon weather example
 * [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch) - an MVVM & ReactiveCocoa Flickr search app in Swift.
-* [Reusable Apps Code](https://github.com/CarlosButron/Swift) - a collection of reusable pieces of code in Swift.
+* [Reusable Apps Code](https://github.com/carlbutron/Swift) - a collection of reusable pieces of code in Swift.
 * [Round & Split](https://github.com/lukhnos/roundandsplit) - a tip calculator in Swift
 * [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest) - a demo showing how you can auto-login users to an iOS app (on iOS 9) based on Safari cookies.
 * [StateRestorationDemo](https://github.com/shagedorn/StateRestorationDemo) - learn how to implement state restoration in (Swift) code.
@@ -154,7 +154,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The project source code for hackingwithswift.com
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning Swift via playground.
 * [Natasha the Robot](http://natashatherobot.com) - Weekly Newsletter on learning Swift
-* [objc.io snippets](http://www.objc.io/snippets/) - Short, weekly snippets showing off Swift features
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn Swift.
 * [Swift A Day](https://github.com/lindadong/swift-a-day) - Daily swift experiments by Linda Dong.
 * [SwiftDoc](http://swiftdoc.org) - Auto-generated documentation for Swift.
@@ -185,7 +184,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ### Vim
 
-* [swift-vim](https://github.com/Keithbsmiley/swift.vim) - play Swift with vim editor.
+* [swift-vim](https://github.com/keith/swift.vim) - play Swift with vim editor.
 * [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds Swift support to vim. It covers syntax, indenting, and more.
 * [vim-polyglot](https://github.com/sheerun/vim-polyglot) - language pack for vim that includes vim-swift.
 
@@ -218,7 +217,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [reddift](https://github.com/sonsongithub/reddift) - reddit API wrapper
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for Swift.
 * [Swinject](https://github.com/Swinject/Swinject) - A dependency injection framework for Swift.
-* [Typhoon](https://github.com/typhoon-framework/Typhoon) - Dependency injection toolkit in Swift.
+* [Typhoon](https://github.com/appsquickly/Typhoon) - Dependency injection toolkit in Swift.
 
 ### Colors
 
@@ -256,12 +255,12 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle CoreData in Swift.
 * [CoreValue](https://github.com/terhechte/CoreValue) - Lightweight Framework for using Core Data with Value Types
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
-* [SugarRecord](https://github.com/SugarRecord/SugarRecord) - an easy with to work with coredata and realm.
+* [SugarRecord](https://github.com/SugarTeam/SugarRecord) - an easy with to work with coredata and realm.
 * [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier.
-* [QueryKit](https://github.com/kylef/QueryKit) - an easy way to play with coredata filtering within your Swift projects.
+* [QueryKit](https://github.com/QueryKit/QueryKit) - an easy way to play with coredata filtering within your Swift projects.
 
 #### Realm
-* [Realm](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite http://realm.io
+* [Realm](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite https://realm.io
 * [Realm+JSON](https://github.com/matthewcheok/Realm-JSON) - A concise Mantle-like way of working with Realm and JSON.
 
 #### Files
@@ -290,7 +289,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftMapper](https://github.com/kam800/SwiftMapper) - JSON Mapper.
 * [SwiftJSONParser](https://github.com/mrap/SwiftJSONParser) - JSON parser.
 * [Tailor](https://github.com/zenangst/Tailor) - A super fast & convenient object mapper tailored for your needs.
-* [yaml.swift](https://github.com/behrang/yaml.swift) - Load YAML and JSON documents using Swift.
+* [YamlSwift](https://github.com/behrang/YamlSwift) - Load YAML and JSON documents using Swift.
 
 #### Key Value Store
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - A Key-Value store for Swift backed by LevelDB
@@ -338,7 +337,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 * [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
-* [RxSwift](https://github.com/kzaher/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.
+* [RxSwift](https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.
 
 ### Fonts
 
@@ -413,10 +412,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [Cartography](https://github.com/robb/Cartography) - declarative auto layout lib for your project.
 * [FormationLayout](https://github.com/evan-liu/FormationLayout) - Auto Layout lib supports group layout and size classes.
-* [PureLayout](https://github.com/smileyborg/PureLayout) – The ultimate API for iOS & OS X Auto Layout.
+* [PureLayout](https://github.com/PureLayout/PureLayout) – The ultimate API for iOS & OS X Auto Layout.
 * [Restraint](https://github.com/puffinsupply/Restraint) - Minimal Auto Layout in Swift.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
-* [Snappy](https://github.com/Masonry/Snappy) - a light-weight layout framework which wraps AutoLayout with nicer syntax.
 * [SwiftAutoLayout](https://github.com/indragiek/SwiftAutoLayout) - a small DSL for autolayout.
 * [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
 * [SwiftyLayout](https://github.com/fhisa/SwiftyLayout) - Lightweight mathematical declarative auto-layout framework for Swift.
@@ -464,7 +462,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [IJReachability](https://github.com/Isuru-Nanayakkara/IJReachability) - check for network connection availability.
 * [Just](https://github.com/JustHTTP/Just) - HTTP for Humans (a python-requests style HTTP library in Swift)
 * [ModestProposal](https://github.com/jkolb/ModestProposal) - an HTTP toolbox.
-* [Moya](https://github.com/AshFurrow/Moya) - network abstraction layer.
+* [Moya](https://github.com/Moya/Moya) - network abstraction layer.
 * [Net](https://github.com/nghialv/Net) - an httprequest wrapper.
 * [NKMultipeer](https://github.com/nathankot/NKMultipeer) - A testable abstraction over multipeer connectivity
 * [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
@@ -481,7 +479,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Socket.IO](https://github.com/socketio/socket.io-client-swift) - Socket.IO client for iOS/OS X.
 * [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
-* [SwiftSocket](https://github.com/xyyc/SwiftSocket) - simple TCP socket library.
+* [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple TCP socket library.
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for swift.
 
 ### Quality
@@ -596,7 +594,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Panoramic](https://github.com/iSame7/Panoramic) - Panoramic facebook story clone.
 * [PCLBlurEffectAlert](https://github.com/hryk224/PCLBlurEffectAlert) - Swift AlertController with UIVisualeffectview
 * [Persei](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift.
-* [PinterestSwift](https://github.com/demon1105/PinterestSwift) - Pinterest style transition.
+* [PinterestSwift](https://github.com/demonnico/PinterestSwift) - Pinterest style transition.
 * [PKHUD](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation
 * [PPSwiftGifs](https://github.com/peterprokop/PPSwiftGifs) - a convenient way to show animated GIF images as a part of iOS GUI.
@@ -641,9 +639,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Async.legacy](https://github.com/josephlord/Async.legacy) – Syntactic Swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork)
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your Swift project.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
-* [Chronos](https://github.com/Olympus-Library/Chronos-Swift)- Grand Central Dispatch Utilities.
-* [CLIKit](https://github.com/kylef/CLIKit) - a way to create cli with Swift.
+* [Chronos](https://github.com/comyarzaheri/Chronos-Swift) - Grand Central Dispatch Utilities.
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
+* [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift.
 * [Curry](https://github.com/thoughtbot/Curry) - Swift implementations for function currying
 * [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool.
@@ -690,7 +688,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftSequence](https://github.com/oisdk/SwiftSequence) - A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools
 * [SwiftyStateMachine](https://github.com/macoscope/SwiftyStateMachine) - Swift µframework for creating state machines.
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) — a cleaner, nicer syntax for NSUserDefaults
-* [Swiftz](https://github.com/maxpow4h/swiftz) - a lib for functional programming.
+* [Swiftz](https://github.com/typelift/Swiftz) - Functional programming in Swift.
 * [Swift Sugar](https://github.com/RuiAAPeres/Swift-Sugar) - objsugar ported to Swift.
 * [undefined](https://github.com/weissi/swift-undefined) - Nano framework which defines Haskell's undefined in Swift.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.

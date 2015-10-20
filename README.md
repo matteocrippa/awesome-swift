@@ -556,6 +556,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button written in Swift.
 * [Few.swift](https://github.com/joshaber/Few.swift) - Views as functions of their state.
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders) - Fillable loaders progress.
+* [FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.
 * [FloatRatingView](https://github.com/strekfus/FloatRatingView) - Floating rating system.
 * [FrostedSidebar](https://github.com/edekhayser/FrostedSidebar) - Hamburger Menu using Swift and iOS 8 API's.

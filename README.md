@@ -132,6 +132,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Panda](https://github.com/pablosproject/Panda-Mac-app) - a simple OSX menu bar application to enable/disable Yosemite dark mode.
 * [RetinAssets](https://github.com/delannoyk/RetinAssets) - a simple app that generates missing images from a scaled images (3x -> 2x and 1x scale)
 * [Swifter](https://github.com/glock45/swifter) - http server written in Swift.
+* [Debter](https://github.com/Prontto/Debter) - Easy way to track your personal debts.
 
 ## Dependency Managers
 

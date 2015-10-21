@@ -83,6 +83,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [firefox-ios](https://github.com/mozilla/firefox-ios) - firefox for iOS being developed by Mozilla.
 * [Federal Open Data](https://github.com/USDepartmentofLabor/Swift-Sample-App) - Get federal Open Data using the Federal Data SDK
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in Swift.
+* [GrubbyWorm](https://github.com/gamechina/GrubbyWorm) - gameplaykit and spritekit demo game.
 * [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in Swift.
 * [HausClock](https://github.com/nottombrown/HausClock) - chess stile clock app in Swift.
 * [HealthKitDemo](https://github.com/Darktt/HealthKit-Swift) - health kit demo app.

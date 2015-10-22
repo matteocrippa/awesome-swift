@@ -664,6 +664,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
 * [Mendel](https://github.com/saniul/Mendel) - Swift miliframework for implementing evolutionary/genetic algorithms.
 * [Oriole](https://github.com/tptee/Oriole) - A functional utility belt implemented as Swift 2.0 protocol extensions.
+* [PathKit](https://github.com/kylef/PathKit) - Effortless path operations in Swift.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - A Periscope-inspired way to ask for iOS permissions.
 * [Prephirences](https://github.com/phimage/Prephirences) - Manage application preferences, configurations and app-state.
 * [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - ProtocolBuffers for Swift.

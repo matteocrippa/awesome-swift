@@ -448,6 +448,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Arithmosophi](https://github.com/phimage/Arithmosophi) - Set of protocols for Arithmetic and Logical operations.
 * [DDMathParser](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
 * [Easy-Cal-Swift](https://github.com/onevcat/Easy-Cal-Swift) - Overload +-*/ operator for Swift, make it easier to use (and not so strict).
+* [Upsurge](https://github.com/aleph7/Upsurge) - Simple and fast matrix and vector math for Swift.
 * [Surge](https://github.com/mattt/Surge) - Accelerate framework for Swift.
 * [swix](https://github.com/scottsievert/swix) - A general matrix language.
 

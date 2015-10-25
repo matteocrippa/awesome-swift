@@ -308,6 +308,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *If you prefer to manage XML data formatted entries, here are some helpful libs*
 
 * [AEXML](https://github.com/tadija/AEXML) - xml wrapper
+* [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support in Swift 2.
 * [Ji](https://github.com/honghaoz/Ji) - an XML/HTML parser for Swift.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift.
 * [XMLParser](https://github.com/Mozharovsky/XMLParser) - A lightweight XMLParser for assembling and parsing XML values written for iOS 8+ in Swift 2.

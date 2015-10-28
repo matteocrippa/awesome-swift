@@ -44,9 +44,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Key Value Coding](#key-value-coding)
         - [Layout](#layout)
         - [Localization](#localization)
+        - [Location](#location)
         - [Logging](#logging)
         - [Maps](#maps)
-        - [Location](#location)
         - [Math](#math)
         - [Network](#network)
         	- [Websocket](#websocket)
@@ -55,6 +55,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [System](#system)
         - [Testing](#testing)
         - [Text](#text)
+          - [Phone Numbers](#phone-numbers)
         - [UI](#ui)
 			- [Blur](#blur)
         - [Utility](#utility)
@@ -429,6 +430,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Localization
 *Frameworks that helps with localizing your app*
 
+* [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [Swifternalization](https://github.com/tomkowz/Swifternalization) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [SwiftGen-L10n](https://github.com/AliSoftware/SwiftGen#localizablestrings) - A tool to auto-generate Swift `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`)
 
@@ -540,6 +542,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
 * [SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting.
 
+#### Phone Numbers
+
+* [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
 
 ### UI
 

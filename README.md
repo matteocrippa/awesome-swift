@@ -90,6 +90,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [HomeKitDemo](https://github.com/KhaosT/HomeKit-Demo) - homekit demo app;
 * [HackerNewsClient-iOS](https://github.com/NikantVohra/HackerNewsClient-iOS) - hackernews client in Swift
 * [iContactU](https://github.com/rizal72/iContactU) - delivered on Apple Store: reminds you to contact people you ought to.
+* [iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler) - Code examples for the new features of iOS 9.
 * [KeychainDemo](https://github.com/dasdom/KeychainDemo) - keychain sharing between an App and it's share extension
 * [LayerPlayer](https://github.com/scotteg/LayerPlayer) - explores CALayer and subclasses; written in Swift; also on App Store
 * [Layer Parse Sample Chat App](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example) - Swift sample app that integrates Layer and Atlas with Parse.

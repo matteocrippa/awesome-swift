@@ -497,6 +497,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in swift.
 * [SwiftFormat](https://github.com/haaakon/SwiftFormat) - Auto formatting Swift code, similar to Clang format.
 * [SwiftLint](https://github.com/realm/SwiftLint) - An experimental tool to enforce Swift style and conventions.
+* [Tailor](http://tailor.sh/) - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
 
 ### Security
 

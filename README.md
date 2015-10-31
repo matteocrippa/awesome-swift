@@ -223,6 +223,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for Swift.
 * [Swinject](https://github.com/Swinject/Swinject) - A dependency injection framework for Swift.
 * [Typhoon](https://github.com/appsquickly/Typhoon) - Dependency injection toolkit in Swift.
+* [iSpeech](https://www.ispeech.org/developers/iphone) - Add speech to text capabilty to your project.
+* [Twitter](https://dev.twitter.com) - Integrate your application with social media.
+* [PublicAPIs](https://www.publicapis.com/) - Listings of over 5000 APIs.
 
 ### Colors
 

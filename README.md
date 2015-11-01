@@ -506,6 +506,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [JMEasyTouchID](https://github.com/ulidev/JMEasyTouchID) - TouchID one line wrapper.
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS and OS X.
 * [KeyClip](https://github.com/s-aska/KeyClip) - Keychain framework for iOS written in Swift.
+* [keychain-swift](https://github.com/exchangegroup/keychain-swift) - Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
 * [Latch](https://github.com/DanielTomlinson/Latch) - A simple Swift Keychain Wrapper for iOS.
 * [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the iOS Keychain in Swift.
 * [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - a simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.

@@ -419,12 +419,13 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [PureLayout](https://github.com/PureLayout/PureLayout) – The ultimate API for iOS & OS X Auto Layout.
 * [Restraint](https://github.com/puffinsupply/Restraint) - Minimal Auto Layout in Swift.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
+* [Swift-iOS-Localize-Constraint](https://github.com/dimohamdy/Swift-iOS-Localize-Constraint) - localize constraint on the fly to support RTL and LTR with same view
 * [SwiftAutoLayout](https://github.com/indragiek/SwiftAutoLayout) - a small DSL for autolayout.
 * [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
 * [SwiftyLayout](https://github.com/fhisa/SwiftyLayout) - Lightweight mathematical declarative auto-layout framework for Swift.
 * [Tails](https://github.com/nickynick/Tails) - declarative autolayout for ios app written in swift.
 * [VFLToolbox](https://github.com/0xc010d/VFLToolbox) - fancy Swift implementation of the Visual Format Language
-* [Swift-iOS-Localize-Constraint](https://github.com/dimohamdy/Swift-iOS-Localize-Constraint) - localize constraint on the fly to support RTL and LTR with same view
+
 
 ### Localization
 *Frameworks that helps with localizing your app*

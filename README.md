@@ -162,7 +162,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Natasha the Robot](http://natashatherobot.com) - Weekly Newsletter on learning Swift
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn Swift.
 * [Swift A Day](https://github.com/lindadong/swift-a-day) - Daily swift experiments by Linda Dong.
-* [SwiftDoc](http://swiftdoc.org) - Auto-generated documentation for Swift.
+* [SwiftDoc](http://swiftdoc.org/) - Auto-generated documentation for Swift.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for Swift.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for Swift
 * [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - App to learn to code in Swift.
@@ -261,7 +261,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle CoreData in Swift.
 * [CoreValue](https://github.com/terhechte/CoreValue) - Lightweight Framework for using Core Data with Value Types
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
-* [SugarRecord](https://github.com/SugarTeam/SugarRecord) - an easy with to work with coredata and realm.
+* [SugarRecord](https://github.com/gitdoapp/SugarRecord) - an easy with to work with coredata and realm.
 * [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier.
 * [QueryKit](https://github.com/QueryKit/QueryKit) - an easy way to play with coredata filtering within your Swift projects.
 
@@ -470,7 +470,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [BigBrother](https://github.com/marcelofabri/BigBrother) - Automatically sets the network activity indicator for any performed request.
 * [BluetoothKit](https://github.com/rasmusth/BluetoothKit) - A much simpler, high-level Swift API to allow easy communication between iOS devices using Bluetooth 4.0 LE.
 * [GRequest](https://github.com/lingoer/GRequest) - http request handler.
-* [IJReachability](https://github.com/Isuru-Nanayakkara/IJReachability) - check for network connection availability.
 * [Just](https://github.com/JustHTTP/Just) - HTTP for Humans (a python-requests style HTTP library in Swift)
 * [ModestProposal](https://github.com/jkolb/ModestProposal) - an HTTP toolbox.
 * [Moya](https://github.com/Moya/Moya) - network abstraction layer.
@@ -480,6 +479,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [OAuthSwift](https://github.com/dongri/OAuthSwift) - Swift based OAuth library for iOS.
 * [PeerKit](https://github.com/jpsim/PeerKit) - An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps.
 * [Pitaya](https://github.com/johnlui/Pitaya) - A Swift HTTP / HTTPS networking library just incidentally execute on machines.
+* [Reach](https://github.com/Isuru-Nanayakkara/Reach) - A simple class to check for internet connection availability in Swift.
 * [RSNetworking](https://github.com/hoffmanjon/RSNetworking) - Network library written purely in Swift.
 * [Siesta](https://bustoutsolutions.github.io/siesta/) Elegant abstraction for REST APIs that untangles stateful messes. An alternative to callback- and delegate-based networking.
 * [Stargate](https://github.com/contentful-labs/Stargate) - A communication channel from your Mac to your watch.

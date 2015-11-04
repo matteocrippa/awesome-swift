@@ -441,6 +441,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Logging
 *Utilities for writing to and reading from the device log*
 
+* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
 * [CleanroomASL](https://github.com/emaloney/CleanroomASL) — Low-level Swift API for writing to and reading from the Apple System Log daemon.
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) — Configurable and extensible high-level logging API that is simple, lightweight and performant.
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.

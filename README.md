@@ -229,6 +229,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 *Interesting snippets related to color management and utility.*
 
+* [AEConicalGradient](https://github.com/tadija/AEConicalGradient) - Conical (angular) gradient in Swift.
 * [Colors] (https://github.com/icodeforlove/Colors) - A pure Swift library for using ANSI codes.
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - An extension to manipulate colors in Swift easily.
 * [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) - Flat UI color palette in Swift.

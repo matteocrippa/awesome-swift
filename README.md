@@ -641,7 +641,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [TCDInputView](https://github.com/tomdiggle/TCDInputView) - A custom input view which is displayed when a text field becomes the first responder.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Several ready to use effects for UITextFields
 * [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library in Swift. A single line of code and visualize your touches.
-* [TVButton](https://github.com/marmelroy/TVButton) - Simple but highly customizable iOS tag list view.
+* [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons.
 * [Twinkle](https://github.com/piemonte/Twinkle) - a Swift and easy way to make elements in your iOS app twinkle.
 * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.

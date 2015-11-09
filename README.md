@@ -211,6 +211,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [AudioPlayer](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
 * [MusicKit](https://github.com/benzguo/MusicKit) - A framework for composing and transforming music in Swift
+* [TuningFork](https://github.com/comyarzaheri/TuningFork) - A Simple Tuner for iOS.
 
 ### API
 

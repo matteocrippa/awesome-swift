@@ -665,6 +665,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Async.legacy](https://github.com/josephlord/Async.legacy) – Syntactic Swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork)
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your Swift project.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
+* [Carlos](https://github.com/WeltN24/Carlos) - A simple but flexible cache.
 * [Chronos](https://github.com/comyarzaheri/Chronos-Swift) - Grand Central Dispatch Utilities.
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
 * [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift.

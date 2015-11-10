@@ -676,6 +676,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Curry](https://github.com/thoughtbot/Curry) - Swift implementations for function currying
 * [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool.
+* [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device
 * [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift
 * [Dollar](https://github.com/ankurp/Dollar.swift) - a lib similar to Lo-Dash or Underscore in Javascript.

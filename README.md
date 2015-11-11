@@ -475,6 +475,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [BigBrother](https://github.com/marcelofabri/BigBrother) - Automatically sets the network activity indicator for any performed request.
 * [BluetoothKit](https://github.com/rasmusth/BluetoothKit) - A much simpler, high-level Swift API to allow easy communication between iOS devices using Bluetooth 4.0 LE.
 * [GRequest](https://github.com/lingoer/GRequest) - http request handler.
+* [Heimdallr.swift](https://github.com/rheinfabrik/Heimdallr.swift) - Easy to use OAuth 2 library for iOS, written in Swift.
 * [Just](https://github.com/JustHTTP/Just) - HTTP for Humans (a python-requests style HTTP library in Swift)
 * [ModestProposal](https://github.com/jkolb/ModestProposal) - an HTTP toolbox.
 * [Moya](https://github.com/Moya/Moya) - network abstraction layer.

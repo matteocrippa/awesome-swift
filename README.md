@@ -451,7 +451,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) — Configurable and extensible high-level logging API that is simple, lightweight and performant.
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
 * [swiftRemoteLogger](https://github.com/matteocrippa/swiftRemoteLogger) - Remote logging easy as 1..2..3 in Swift.
-* [Watchdog](https://github.com/wojteklukaszuk/Watchdog) - A Swift utility for logging excessive blocking on the main thread.
+* [Watchdog](https://github.com/wojteklu/Watchdog) - A Swift utility for logging excessive blocking on the main thread.
 
 ### Maps
 * [GEOSwift](https://github.com/andreacremaschi/GEOSwift) - The Swift Geographic Engine, make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
@@ -516,7 +516,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [JMEasyTouchID](https://github.com/ulidev/JMEasyTouchID) - TouchID one line wrapper.
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS and OS X.
 * [KeyClip](https://github.com/s-aska/KeyClip) - Keychain framework for iOS written in Swift.
-* [keychain-swift](https://github.com/exchangegroup/keychain-swift) - Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
+* [keychain-swift](https://github.com/marketplacer/keychain-swift) - Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
 * [Latch](https://github.com/DanielTomlinson/Latch) - A simple Swift Keychain Wrapper for iOS.
 * [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the iOS Keychain in Swift.
 * [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - a simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.
@@ -579,7 +579,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [CKTextFieldTableCell](https://github.com/cybertk/CKTextFieldTableCell) - UITableViewCell drop-in replacement with support of UITextField
 * [CozyLoadingActivity](https://github.com/goktugyil/CozyLoadingActivity) - Lightweight loading activity HUD
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - Sliding side menu.
-* [Dodo](https://github.com/exchangegroup/Dodo) - A message bar for iOS written in Swift.
+* [Dodo](https://github.com/marketplacer/Dodo) - A message bar for iOS written in Swift.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button written in Swift.
 * [Few.swift](https://github.com/joshaber/Few.swift) - Views as functions of their state.
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders) - Fillable loaders progress.

@@ -449,7 +449,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
 * [CleanroomASL](https://github.com/emaloney/CleanroomASL) — Low-level Swift API for writing to and reading from the Apple System Log daemon.
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) — Configurable and extensible high-level logging API that is simple, lightweight and performant.
-* [Compass](https://github.com/hyperoslo/Compass) — Compass helps you setup a central navigation system for your application.
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
 * [swiftRemoteLogger](https://github.com/matteocrippa/swiftRemoteLogger) - Remote logging easy as 1..2..3 in Swift.
 * [Watchdog](https://github.com/wojteklu/Watchdog) - A Swift utility for logging excessive blocking on the main thread.
@@ -679,6 +678,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Chronos](https://github.com/comyarzaheri/Chronos-Swift) - Grand Central Dispatch Utilities.
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
 * [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift.
+* [Compass](https://github.com/hyperoslo/Compass) — Compass helps you setup a central navigation system for your application.
 * [Curry](https://github.com/thoughtbot/Curry) - Swift implementations for function currying
 * [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool.

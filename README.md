@@ -56,6 +56,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Testing](#testing)
         - [Text](#text)
           - [Phone Numbers](#phone-numbers)
+        - [Thread](#thread)
         - [UI](#ui)
 			- [Blur](#blur)
         - [Utility](#utility)
@@ -558,6 +559,16 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
 
+### Thread
+*Threading, task-based or asynchronous programming, Grand Central Dispatch (GCD) wrapper*
+
+* [Async](https://github.com/duemunk/Async) – Syntactic Swift sugar for Grand Central Dispatch
+* [Async.legacy](https://github.com/josephlord/Async.legacy) – Syntactic Swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork)
+* [Chronos](https://github.com/comyarzaheri/Chronos-Swift) - Grand Central Dispatch Utilities.
+* [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift
+* [GCD](https://github.com/nghialv/GCD) - A wrapper of Grand Central Dispatch written in Swift
+* [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift.
+
 ### UI
 
 *A collection of pre-packaged transitions & cool ui stuffs.*
@@ -668,13 +679,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects.
 * [AAWindow](https://github.com/aaronabentheuer/AAWindow) - UIWindow subclass to enable behavior like adaptive round-corners & detecting when Control Center is opened.
 * [AlertKit](https://github.com/AlertKit/AlertKit) – Alert with a single line of Swift.
-* [Async](https://github.com/duemunk/Async) – Syntactic Swift sugar for Grand Central Dispatch
-* [Async.legacy](https://github.com/josephlord/Async.legacy) – Syntactic Swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork)
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your Swift project.
 * [Basis](https://github.com/typelift/Basis) - Pure Declarative Programming in Swift
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
 * [Carlos](https://github.com/WeltN24/Carlos) - A simple but flexible cache.
-* [Chronos](https://github.com/comyarzaheri/Chronos-Swift) - Grand Central Dispatch Utilities.
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
 * [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift.
 * [Compass](https://github.com/hyperoslo/Compass) — Compass helps you setup a central navigation system for your application.
@@ -682,15 +690,12 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device
-* [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift
 * [Dollar](https://github.com/ankurp/Dollar.swift) - a lib similar to Lo-Dash or Underscore in Javascript.
 * [ExSwift](https://github.com/pNre/ExSwift) - a set of Swift extensions for standard types and classes.
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
 * [Focus](https://github.com/typelift/Focus) - an Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
 * [Forbind](https://github.com/ulrikdamm/Forbind) - Functional chaining and Promises in Swift
 * [Funky](https://github.com/brynbellomy/Funky) - Functions and operators for functional programming in Swift.
-* [GCD](https://github.com/nghialv/GCD) - A wrapper of Grand Central Dispatch written in Swift
-* [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift.
 * [Honour](https://github.com/jeanpimentel/Honour) - Simple and powerful Validation Library
 * [Inflection](https://github.com/zenangst/Inflection) - The Optimus Prime of string inflection
 * [Lambdatron](https://github.com/austinzheng/Lambdatron) - Clojure(ish) interpreter in Swift.

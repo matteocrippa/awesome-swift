@@ -135,7 +135,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Helium](https://github.com/JadenGeller/Helium) - floating web browser
 * [Panda](https://github.com/pablosproject/Panda-Mac-app) - a simple OSX menu bar application to enable/disable Yosemite dark mode.
 * [RetinAssets](https://github.com/delannoyk/RetinAssets) - a simple app that generates missing images from a scaled images (3x -> 2x and 1x scale)
-* [Swifter](https://github.com/glock45/swifter) - http server written in Swift.
 
 ## Dependency Managers
 
@@ -249,9 +248,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ### Cryptography
 *Deal with cryptography method easily in Swift*
-* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - add crypto lib support to Swift.
+* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
 * [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - add crypto toolkit in Swift.
-* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language
 
 
 ### Data Management
@@ -667,14 +665,13 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 *Some interesting utilities to help you in your projects*
 
-* [Basis](https://github.com/typelift/Basis) - Pure Declarative Programming in Swift
-* [BrightFutures](https://github.com/Thomvis/BrightFutures) - promise and future lib for Swift.
 * [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects.
 * [AAWindow](https://github.com/aaronabentheuer/AAWindow) - UIWindow subclass to enable behavior like adaptive round-corners & detecting when Control Center is opened.
 * [AlertKit](https://github.com/AlertKit/AlertKit) – Alert with a single line of Swift.
 * [Async](https://github.com/duemunk/Async) – Syntactic Swift sugar for Grand Central Dispatch
 * [Async.legacy](https://github.com/josephlord/Async.legacy) – Syntactic Swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork)
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your Swift project.
+* [Basis](https://github.com/typelift/Basis) - Pure Declarative Programming in Swift
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
 * [Carlos](https://github.com/WeltN24/Carlos) - A simple but flexible cache.
 * [Chronos](https://github.com/comyarzaheri/Chronos-Swift) - Grand Central Dispatch Utilities.
@@ -683,7 +680,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Compass](https://github.com/hyperoslo/Compass) — Compass helps you setup a central navigation system for your application.
 * [Curry](https://github.com/thoughtbot/Curry) - Swift implementations for function currying
 * [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces
-* [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device
 * [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift
@@ -739,7 +735,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [undefined](https://github.com/weissi/swift-undefined) - Nano framework which defines Haskell's undefined in Swift.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
 * [Wyrd](https://github.com/explicitcall/Wyrd) - Asynchronous programming in Swift made easy. Wyrd is inspired by Promises/A+.
-* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - a lib that help you handling better debug logging.
 
 ### Video
 
@@ -760,7 +755,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the Swift compiler
 * [SwiftHub](https://github.com/sahandnayebaziz/SwiftHub) - A universal app you can use to browse the newest Swift repositories on Github.
 * [swiftier](https://github.com/snej/swiftier) - Quick-and-dirty Objective-C to Swift translator.
-* [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - List of things that are "in flux" in Swift + changelog of the language
 * [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A suite of tools written in Swift to auto-generate Swift code for various assets of your project.
 
 ## Tools

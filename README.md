@@ -25,7 +25,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [API](#api)
         - [Colors](#colors)
         - [Concurrency](#concurrency)
-        - [Cryptography](#cryptography)
         - [Data Management](#data-management)
             - [Core Data](#core-data)
             - [Realm](#realm)
@@ -49,9 +48,13 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Maps](#maps)
         - [Math](#math)
         - [Network](#network)
+        	- [Webserver](#webserver)
         	- [Websocket](#websocket)
         - [Quality](#quality)
         - [Security](#security)
+        	- [Cryptography](#cryptography)
+        	- [Keychain](#keychain)
+        	- [TouchID](#touchid)
         - [System](#system)
         - [Testing](#testing)
         - [Text](#text)
@@ -61,7 +64,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 			- [Blur](#blur)
         - [Utility](#utility)
         - [Video](#video)
-        - [Webserver](#webserver)
     - [Misc](#misc)
     - [Tools](#tools)
         - [Documentation](#documentation)
@@ -246,12 +248,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *Easier ways to work with concurrency.*
 
 * [Venice](https://github.com/Zewo/Venice) - Communicating sequential processes (CSP) for Swift 2 (Linux ready).
-
-### Cryptography
-*Deal with cryptography method easily in Swift*
-* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
-* [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - add crypto toolkit in Swift.
-
 
 ### Data Management
 #### Core Data
@@ -494,6 +490,13 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Transporter](https://github.com/nghialv/Transporter) - A tiny library makes uploading and downloading easier.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 
+#### Webserver
+*Would you like host a webserver in your device? Here you can find how to do it.*
+
+* [NetworkObjects](https://github.com/colemancda/NetworkObjects) - REST HTTP Server written in Swift. Builds REST API from Core Data.
+* [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
+* [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
+
 #### Websocket
 
 * [Socket.IO](https://github.com/socketio/socket.io-client-swift) - Socket.IO client for iOS/OS X.
@@ -511,14 +514,23 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ### Security
 
-* [iOS-TouchID-Swift](https://github.com/gabrieltheodoropoulos/iOS-TouchID-Swift) - TouchID for Swift.
-* [JMEasyTouchID](https://github.com/ulidev/JMEasyTouchID) - TouchID one line wrapper.
-- [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS and OS X.
+#### Cryptography
+*Deal with cryptography method easily in Swift*
+* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
+* [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - add crypto toolkit in Swift.
+
+#### Keychain
+* [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS and OS X.
 * [KeyClip](https://github.com/s-aska/KeyClip) - Keychain framework for iOS written in Swift.
 * [keychain-swift](https://github.com/marketplacer/keychain-swift) - Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
 * [Latch](https://github.com/DanielTomlinson/Latch) - A simple Swift Keychain Wrapper for iOS.
 * [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the iOS Keychain in Swift.
 * [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - a simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.
+
+#### TouchID
+
+* [iOS-TouchID-Swift](https://github.com/gabrieltheodoropoulos/iOS-TouchID-Swift) - TouchID for Swift.
+* [JMEasyTouchID](https://github.com/ulidev/JMEasyTouchID) - TouchID one line wrapper.
 
 
 ### Sensors
@@ -744,13 +756,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Video
 
 * [Player](https://github.com/piemonte/Player) - iOS video player in Swift, simple drop in component for playing and streaming media.
-
-### Webserver
-*Would you like host a webserver in your device? Here you can find how to do it.*
-
-* [NetworkObjects](https://github.com/colemancda/NetworkObjects) - REST HTTP Server written in Swift. Builds REST API from Core Data.
-* [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
-* [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 
 ## Misc
 *Miscellaneous Swift related projects*

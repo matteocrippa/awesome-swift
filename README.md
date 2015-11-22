@@ -240,6 +240,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [HexColor](https://github.com/artman/HexColor) - Define UIColors as Hex integers.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.
 * [RandomColorSwift](https://github.com/onevcat/RandomColorSwift) - An attractive color generator for Swift. Ported from randomColor.js.
+* [SwiftColors](https://github.com/thii/SwiftColors) - HEX color handling as an extension for UIColor.
 * [SwiftGen-Colors](https://github.com/AliSoftware/SwiftGen#uicolor) - A tool to auto-generate Swift `enums` for your `UIColor` constants.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Hex to UIcolor converter.
 * [UIColorWDUtils](https://github.com/daktales/UIColorWDUtils) - Extension for Hex RGB(A).
@@ -268,6 +269,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 #### Files
 * [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift.
+* [PathKit](https://github.com/kylef/PathKit) - Effortless path operations in Swift.
 
 #### JSON
 *Struggling using json data? Here are some interesting ways to handle it.*
@@ -297,7 +299,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [YamlSwift](https://github.com/behrang/YamlSwift) - Load YAML and JSON documents using Swift.
 
 #### Key Value Store
+* [Prephirences](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - A Key-Value store for Swift backed by LevelDB
+* [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) — a cleaner, nicer syntax for NSUserDefaults
 
 #### SQLite
 *Are you interested in storing your app data using SQLite? Here are some interesting resources.*
@@ -334,6 +338,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - promise and future lib for swift.
 * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - an implementation of event emitters and listeners in swift.
+* [Forbind](https://github.com/ulrikdamm/Forbind) - Functional chaining and Promises in Swift
 * [Future](https://github.com/nghialv/Future) - A micro framework providing Future<T, Error>
 * [FutureKit](https://github.com/FutureKit/FutureKit) - A Swift based Future/Promises Library.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
@@ -441,12 +446,14 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Logging
 *Utilities for writing to and reading from the device log*
 
-* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
 * [CleanroomASL](https://github.com/emaloney/CleanroomASL) — Low-level Swift API for writing to and reading from the Apple System Log daemon.
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) — Configurable and extensible high-level logging API that is simple, lightweight and performant.
+* [Puree](https://github.com/cookpad/puree-ios) - A log collector for iOS
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
+* [Swell](https://github.com/hubertr/Swell) - a logging utility for Swift.
 * [swiftRemoteLogger](https://github.com/matteocrippa/swiftRemoteLogger) - Remote logging easy as 1..2..3 in Swift.
 * [Watchdog](https://github.com/wojteklu/Watchdog) - A Swift utility for logging excessive blocking on the main thread.
+* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
 
 ### Maps
 * [GEOSwift](https://github.com/andreacremaschi/GEOSwift) - The Swift Geographic Engine, make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
@@ -585,6 +592,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 *A collection of pre-packaged transitions & cool ui stuffs.*
 
+* [AAWindow](https://github.com/aaronabentheuer/AAWindow) - UIWindow subclass to enable behavior like adaptive round-corners & detecting when Control Center is opened.
 * [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://)
 * [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - Adaptive tab bar.
 * [AEAccordion](https://github.com/tadija/AEAccordion) - UITableViewController with accordion effect (expand / collapse cells).
@@ -689,7 +697,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *Some interesting utilities to help you in your projects*
 
 * [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects.
-* [AAWindow](https://github.com/aaronabentheuer/AAWindow) - UIWindow subclass to enable behavior like adaptive round-corners & detecting when Control Center is opened.
 * [AlertKit](https://github.com/AlertKit/AlertKit) – Alert with a single line of Swift.
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your Swift project.
 * [Basis](https://github.com/typelift/Basis) - Pure Declarative Programming in Swift
@@ -706,7 +713,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [ExSwift](https://github.com/pNre/ExSwift) - a set of Swift extensions for standard types and classes.
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
 * [Focus](https://github.com/typelift/Focus) - an Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
-* [Forbind](https://github.com/ulrikdamm/Forbind) - Functional chaining and Promises in Swift
 * [Funky](https://github.com/brynbellomy/Funky) - Functions and operators for functional programming in Swift.
 * [Honour](https://github.com/jeanpimentel/Honour) - Simple and powerful Validation Library
 * [Inflection](https://github.com/zenangst/Inflection) - The Optimus Prime of string inflection
@@ -714,13 +720,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
 * [Mendel](https://github.com/saniul/Mendel) - Swift miliframework for implementing evolutionary/genetic algorithms.
 * [Oriole](https://github.com/tptee/Oriole) - A functional utility belt implemented as Swift 2.0 protocol extensions.
-* [PathKit](https://github.com/kylef/PathKit) - Effortless path operations in Swift.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - A Periscope-inspired way to ask for iOS permissions.
 * [Popsicle](https://github.com/DavdRoman/Popsicle) - Delightful, extensible Swift value interpolation framework.
-* [Prephirences](https://github.com/phimage/Prephirences) - Manage application preferences, configurations and app-state.
 * [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - ProtocolBuffers for Swift.
 * [Prototope](http://khan.github.io/Prototope/) - Swift library of lightweight interfaces for prototyping, bridged to JS.
-* [Puree](https://github.com/cookpad/puree-ios) - A log collector for iOS
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.
 * [Pluralize.swift](https://github.com/joshualat/Pluralize.swift) - Great Swift String Pluralize Extension
 * [R.swift](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
@@ -735,9 +738,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Stream](https://github.com/antitypical/Stream) - Lazy streams in Swift.
 * [SwiftSortUtils](https://github.com/dsmatter/SwiftSortUtils) - Useful functions and extensions for sorting in Swift.
 * [swamp](https://github.com/robb/swamp) - Icon stamping in Swift.
-* [Swell](https://github.com/hubertr/Swell) - a logging utility for Swift.
 * [SwiftBitmask](https://github.com/brynbellomy/SwiftBitmask) - `Bitmask<T>` type intended as a replacement for `RawOptionSet`.
-* [SwiftColors](https://github.com/thii/SwiftColors) - HEX color handling as an extension for UIColor.
 * [SwiftExP](https://github.com/mrackwitz/SwiftExP) - Pure Swift 2.0 S-expression Parser
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - form are now easy as 1.2.3!
 * [SwiftGen-Storyboard](https://github.com/AliSoftware/SwiftGen#uistoryboard) - A tool to auto-generate Swift `enums` for all your Storyboards, Scenes and Segues constants + appropriate convenience accessors.
@@ -746,7 +747,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS written in Swift 2.0
 * [SwiftSequence](https://github.com/oisdk/SwiftSequence) - A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools
 * [SwiftyStateMachine](https://github.com/macoscope/SwiftyStateMachine) - Swift µframework for creating state machines.
-* [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) — a cleaner, nicer syntax for NSUserDefaults
 * [Swiftz](https://github.com/typelift/Swiftz) - Functional programming in Swift.
 * [Swift Sugar](https://github.com/RuiAAPeres/Swift-Sugar) - objsugar ported to Swift.
 * [undefined](https://github.com/weissi/swift-undefined) - Nano framework which defines Haskell's undefined in Swift.

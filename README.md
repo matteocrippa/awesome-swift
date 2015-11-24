@@ -24,6 +24,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Audio](#audio)
         - [API](#api)
         - [Colors](#colors)
+        - [Command Line](#command-line)
         - [Concurrency](#concurrency)
         - [Data Management](#data-management)
             - [Core Data](#core-data)
@@ -244,6 +245,14 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftGen-Colors](https://github.com/AliSoftware/SwiftGen#uicolor) - A tool to auto-generate Swift `enums` for your `UIColor` constants.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Hex to UIcolor converter.
 * [UIColorWDUtils](https://github.com/daktales/UIColorWDUtils) - Extension for Hex RGB(A).
+
+### Command Line
+*Create command line applications.*
+
+* [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift.
+* [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces
+* [Phiole](https://github.com/phimage/Phiole) - Allow to write or read from standards stream in swift for CLI applications.
+* [Swiftline](https://github.com/Swiftline/Swiftline) - A set of tools to help you create command line applications.
 
 ### Concurrency
 *Easier ways to work with concurrency.*
@@ -705,10 +714,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
 * [Carlos](https://github.com/WeltN24/Carlos) - A simple but flexible cache.
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
-* [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift.
 * [Compass](https://github.com/hyperoslo/Compass) — Compass helps you setup a central navigation system for your application.
 * [Curry](https://github.com/thoughtbot/Curry) - Swift implementations for function currying
-* [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device
 * [Dollar](https://github.com/ankurp/Dollar.swift) - a lib similar to Lo-Dash or Underscore in Javascript.

@@ -580,6 +580,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Text
 *A collection of text projects.*
 
+* [Format](https://github.com/marmelroy/Format) - Swift formatting kit for numbers, addresses and colors.
 * [Regex](https://github.com/brynbellomy/Regex) - Swift wrapper class for `NSRegularExpression`.  Includes a `map()` override and an operator (`=~`) for a more Swift-like API.
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
 * [SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting.
@@ -649,7 +650,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [KCJogDial](https://github.com/kciter/KCJogDial) - Controllable UIView like jog dial.
 * [KCSelectionDialog](https://github.com/kciter/KCSelectionDialog) - Simple selection dialog.
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
-* [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) - A UINavigationController subclass that support pop interactive UINavigationbar with hidden or show. 
+* [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) - A UINavigationController subclass that support pop interactive UINavigationbar with hidden or show.
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [LTJelloSwitch](https://github.com/lexrus/LTJelloSwitch) - UISwitch prototype.

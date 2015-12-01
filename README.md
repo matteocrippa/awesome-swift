@@ -409,7 +409,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftGif](https://github.com/bahlo/SwiftGif) - A small UIImage extension with gif support
 * [Toucan](https://github.com/gavinbunney/Toucan) - Image processing api
 * [UIImageView-BetterFace-Swift](https://github.com/croath/UIImageView-BetterFace-Swift) - autoresize images and if any face discovered refine the position of the image.
-* [ImagePicker](https://github.com/hyperoslo/ImagePicker) - A nicely designed and super easy to use ImagePicker.
 
 ### Keyboard
 *Do you want to create your own customized keyboard? Here are some interesting resources*
@@ -642,6 +641,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [HoneycombView](https://github.com/suzuki-0000/HoneycombView) - HoneycombView is the iOS UIView for displaying like Honyecomb layout written by swift.
 * [Hokusai](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet.
+* [ImagePicker](https://github.com/hyperoslo/ImagePicker) - A nicely designed and super easy to use ImagePicker.
 * [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
 * [Instructions](https://github.com/ephread/Instructions) - A Swift library to create app walkthroughs and guided tours.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart).

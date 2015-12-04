@@ -147,6 +147,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [carthage](https://github.com/Carthage/Carthage) - a new dependency manager for Swift.
 * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - the most used dependency manager for Objective-C and Swift (Swift supported since version 0.36.0).
 * [Conche](https://github.com/Conche/Conche) - Swift build system and dependency manager.
+* [swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language.
 
 ## Guides
 *An awesome list of Swift related guides.*

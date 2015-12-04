@@ -567,6 +567,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [CatchingFire](https://github.com/mrackwitz/CatchingFire) - Test Library for Swift's Error Handling.
 * [DVR](https://github.com/venmo/DVR) - A simple network testing framework for Swift.
+* [Erik](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
 * [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
 * [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease in Swift.
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - A testing library designed to stub your network requests easily.

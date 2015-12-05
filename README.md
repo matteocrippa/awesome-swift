@@ -266,6 +266,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [AERecord](https://github.com/tadija/AERecord) - super awesome Core Data wrapper library for iOS written in Swift.
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - a simple CoreData wrapper library written in Swift.
+* [CoreDataOperation](https://github.com/Adlai-Holler/CoreDataOperation) - a safe, asynchronous CoreData operation class.
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle CoreData in Swift.
 * [CoreValue](https://github.com/terhechte/CoreValue) - Lightweight Framework for using Core Data with Value Types
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
@@ -713,6 +714,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *Some interesting utilities to help you in your projects*
 
 * [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects.
+* [ArrayDiff](https://github.com/Adlai-Holler/ArrayDiff) - a fast, UITableView/UICollectionView-compatible array diffing microframework.
 * [AlertKit](https://github.com/AlertKit/AlertKit) – Alert with a single line of Swift.
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your Swift project.
 * [Basis](https://github.com/typelift/Basis) - Pure Declarative Programming in Swift

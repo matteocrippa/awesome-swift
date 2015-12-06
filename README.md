@@ -596,6 +596,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [Async](https://github.com/duemunk/Async) – Syntactic Swift sugar for Grand Central Dispatch
 * [Async.legacy](https://github.com/josephlord/Async.legacy) – Syntactic Swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork)
+* [Atomic](https://github.com/Adlai-Holler/Atomic) – A fast, flexible, well-tested wrapper for making values thread-safe.
 * [Chronos](https://github.com/comyarzaheri/Chronos-Swift) - Grand Central Dispatch Utilities.
 * [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift
 * [GCD](https://github.com/nghialv/GCD) - A wrapper of Grand Central Dispatch written in Swift

@@ -535,6 +535,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 #### Cryptography
 *Deal with cryptography method easily in Swift*
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
+* [SweetHMAC](https://github.com/jancassio/SweetHMAC) - A tiny and easy to use Swift class to encrypt strings using HMAC algorithms.
 * [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - add crypto toolkit in Swift.
 
 #### Keychain

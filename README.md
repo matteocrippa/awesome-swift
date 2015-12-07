@@ -564,6 +564,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library in Swift
 * [SystemKit](https://github.com/beltex/SystemKit/) - OS X system library in Swift
+* [Perfect](https://github.com/PerfectlySoft/Perfect) - An application server which provides a framework for developing web and other REST services in Swift.
 
 ### Testing
 *A collection of testing frameworks.*

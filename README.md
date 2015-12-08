@@ -564,6 +564,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library in Swift
 * [SystemKit](https://github.com/beltex/SystemKit/) - OS X system library in Swift
+* [Perfect](https://github.com/PerfectlySoft/Perfect) - An application server which provides a framework for developing web and other REST services in Swift.
 
 ### Testing
 *A collection of testing frameworks.*
@@ -636,6 +637,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.
 * [FloatRatingView](https://github.com/strekfus/FloatRatingView) - Floating rating system.
 * [FrostedSidebar](https://github.com/edekhayser/FrostedSidebar) - Hamburger Menu using Swift and iOS 8 API's.
+* [Former](https://github.com/ra1028/Former) - A fully customizable Swift 2 library for easy creating UITableView based form.
 * [GaugeKit](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges.
 * [Geometry](https://github.com/artman/Geometry) - extensions for UIView.
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) - A pull to refresh that supports GIF images as track animations.
@@ -760,6 +762,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Stream](https://github.com/antitypical/Stream) - Lazy streams in Swift.
 * [SwiftSortUtils](https://github.com/dsmatter/SwiftSortUtils) - Useful functions and extensions for sorting in Swift.
 * [swamp](https://github.com/robb/swamp) - Icon stamping in Swift.
+* [Swift-AI](https://github.com/collinhundley/Swift-AI) - A high-performance AI and Machine Learning library written entirely in Swift.
 * [SwiftBitmask](https://github.com/brynbellomy/SwiftBitmask) - `Bitmask<T>` type intended as a replacement for `RawOptionSet`.
 * [SwiftExP](https://github.com/mrackwitz/SwiftExP) - Pure Swift 2.0 S-expression Parser
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - form are now easy as 1.2.3!

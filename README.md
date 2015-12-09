@@ -23,6 +23,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Animation](#animation)
         - [Audio](#audio)
         - [API](#api)
+        - [Chat](#chat)
         - [Colors](#colors)
         - [Command Line](#command-line)
         - [Concurrency](#concurrency)
@@ -229,6 +230,12 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for Swift.
 * [Swinject](https://github.com/Swinject/Swinject) - A dependency injection framework for Swift.
 * [Typhoon](https://github.com/appsquickly/Typhoon) - Dependency injection toolkit in Swift.
+
+### Chat
+
+*Libs to get access to build chat app*
+
+* [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
 
 ### Colors
 

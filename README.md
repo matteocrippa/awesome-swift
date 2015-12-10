@@ -249,8 +249,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [HexColor](https://github.com/artman/HexColor) - Define UIColors as Hex integers.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.
 * [RandomColorSwift](https://github.com/onevcat/RandomColorSwift) - An attractive color generator for Swift. Ported from randomColor.js.
-* [SwiftColors](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
 * [SwiftGen-Colors](https://github.com/AliSoftware/SwiftGen#uicolor) - A tool to auto-generate Swift `enums` for your `UIColor` constants.
+* [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Hex to UIcolor converter.
 * [UIColorWDUtils](https://github.com/daktales/UIColorWDUtils) - Extension for Hex RGB(A).
 
@@ -632,10 +632,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [CharacterText](https://github.com/android1989/CharacterText) - Perform fx on UILabel.
 * [CKPickerView](https://github.com/cybertk/CKPickerView) - A UIPickerView drop-in replacement with support for titles and Selection Indicator customization
 * [CKTextFieldTableCell](https://github.com/cybertk/CKTextFieldTableCell) - UITableViewCell drop-in replacement with support of UITextField
-* [CozyLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - Sliding side menu.
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in swift.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController
+* [EZLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController) -  :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages
 * [Dodo](https://github.com/marketplacer/Dodo) - A message bar for iOS written in Swift.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button written in Swift.

@@ -471,7 +471,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Puree](https://github.com/cookpad/puree-ios) - A log collector for iOS
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
 * [Swell](https://github.com/hubertr/Swell) - a logging utility for Swift.
-* [SwiftBeaver](https://github.com/skreutzberger/SwiftyBeaver) - A new, fast & very lightweight logger, with a unique combination of great features
+* [SwiftBeaver](https://github.com/skreutzberger/SwiftyBeaver) - Colorful, lightweight & fast logging in Swift 2.
 * [swiftRemoteLogger](https://github.com/matteocrippa/swiftRemoteLogger) - Remote logging easy as 1..2..3 in Swift.
 * [Watchdog](https://github.com/wojteklu/Watchdog) - A Swift utility for logging excessive blocking on the main thread.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.

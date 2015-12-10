@@ -159,7 +159,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ### Third party Guides
 * [A better way to learn Swift](https://github.com/GoThinkster/swift) - Learn Swift in a different way.
-* [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for Swift beginners.
 * [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
 * [HACKING WITH SWIFT](https://www.hackingwithswift.com) - **Hacking with Swift** is a complete Swift training course that teaches you app development through 30 hands-on projects, for free. Everything is taught as part of a practical project, so you can immediately apply your knowledge as you learn.
 * [HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The project source code for hackingwithswift.com
@@ -180,7 +179,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich Swift guide, a must read.
 * [SlideShare (LinkedIn)](https://github.com/SlideShareInc/swift-style-guide) - Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.
 * [Swift-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices/) - Best practices for software development with Swift.
-* [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift coding conventions for your Swift code.
 
 ## Patterns
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns implemented in Swift
@@ -536,7 +534,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Quality
 
 * [SwiftFormat](https://github.com/haaakon/SwiftFormat) - Auto formatting Swift code, similar to Clang format.
-* [SwiftLint](https://github.com/realm/SwiftLint) - An experimental tool to enforce Swift style and conventions.
+* [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift coding conventions for your Swift code.
 * [Tailor](http://tailor.sh/) - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
 
 ### Security

@@ -510,6 +510,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [ModestProposal](https://github.com/jkolb/ModestProposal) - an HTTP toolbox.
 * [Moya](https://github.com/Moya/Moya) - network abstraction layer.
 * [Net](https://github.com/nghialv/Net) - an httprequest wrapper.
+* [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, network debugging library in Swift.
 * [NKMultipeer](https://github.com/nathankot/NKMultipeer) - A testable abstraction over multipeer connectivity
 * [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
 * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS.
@@ -777,7 +778,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
 * [Mendel](https://github.com/saniul/Mendel) - Swift miliframework for implementing evolutionary/genetic algorithms.
 * [Money](https://github.com/danthorpe/Money) - Currency formatter in Swift.
-* [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, network debugging library in Swift.
 * [Oriole](https://github.com/tptee/Oriole) - A functional utility belt implemented as Swift 2.0 protocol extensions.
 * [Popsicle](https://github.com/DavdRoman/Popsicle) - Delightful, extensible Swift value interpolation framework.
 * [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - ProtocolBuffers for Swift.

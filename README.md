@@ -68,6 +68,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
     - [Button](#button)
     - [Form](#form)
     - [Menu](#menu)
+    - [Permissions](#permissions)
     - [Transition](#transition)
   - [Utility](#utility)
   - [Video](#video)
@@ -684,7 +685,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Siren](https://github.com/ArtSabintsev/Siren) - Inform users when App Store updates are available.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written in Swift.
 * [StarryStars](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
-* [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) - A Swift library to design custom prompts with a great scope of options to choose from.
 * [SwiftValidator](https://github.com/jpotts18/SwiftValidator) - UIView validation framework.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) - Lightweight dropdown message bar in Swift.
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
@@ -739,6 +739,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift.
 * [Persei](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift.
 
+#### Permissions
+
+* [PermissionScope](https://github.com/nickoneill/PermissionScope) - A Periscope-inspired way to ask for iOS permissions.
+* [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) - A Swift library to design custom prompts with a great scope of options to choose from.
+
 #### Transition
 
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - Bubble transition in a easy way.
@@ -774,7 +779,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Money](https://github.com/danthorpe/Money) - Currency formatter in Swift.
 * [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, network debugging library in Swift.
 * [Oriole](https://github.com/tptee/Oriole) - A functional utility belt implemented as Swift 2.0 protocol extensions.
-* [PermissionScope](https://github.com/nickoneill/PermissionScope) - A Periscope-inspired way to ask for iOS permissions.
 * [Popsicle](https://github.com/DavdRoman/Popsicle) - Delightful, extensible Swift value interpolation framework.
 * [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - ProtocolBuffers for Swift.
 * [Prototope](http://khan.github.io/Prototope/) - Swift library of lightweight interfaces for prototyping, bridged to JS.

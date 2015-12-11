@@ -795,7 +795,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SpriteKit+Spring](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
 * [Stream](https://github.com/antitypical/Stream) - Lazy streams in Swift.
 * [SwiftSortUtils](https://github.com/dsmatter/SwiftSortUtils) - Useful functions and extensions for sorting in Swift.
-* [swamp](https://github.com/robb/swamp) - Icon stamping in Swift.
 * [Swift-AI](https://github.com/collinhundley/Swift-AI) - A high-performance AI and Machine Learning library written entirely in Swift.
 * [SwiftBitmask](https://github.com/brynbellomy/SwiftBitmask) - `Bitmask<T>` type intended as a replacement for `RawOptionSet`.
 * [SwiftExP](https://github.com/mrackwitz/SwiftExP) - Pure Swift 2.0 S-expression Parser.
@@ -830,6 +829,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *Tools for Swift development*
 
 * [generator-swift-framework](https://github.com/cybertk/generator-swift-framework) - Scaffolds out a Xcode framework project based on Swift 2.0.
+* [swamp](https://github.com/robb/swamp) - Icon stamping in Swift.
 
 ### Documentation
 *Generate documentation for Swift code*

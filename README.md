@@ -67,6 +67,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 			- [Alert](#alert) 	
 			- [Blur](#blur)
 			- [Button](#button)
+			- [Form](#form)
         - [Utility](#utility)
         - [Video](#video)
     - [Misc](#misc)
@@ -639,7 +640,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [CKPickerView](https://github.com/cybertk/CKPickerView) - A UIPickerView drop-in replacement with support for titles and Selection Indicator customization
 * [CKTextFieldTableCell](https://github.com/cybertk/CKTextFieldTableCell) - UITableViewCell drop-in replacement with support of UITextField
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - Sliding side menu.
-* [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in swift.
 * [EZLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController) -  :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages
 * [Dodo](https://github.com/marketplacer/Dodo) - A message bar for iOS written in Swift.
@@ -649,7 +649,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.
 * [FloatRatingView](https://github.com/glenyi/FloatRatingView) - Floating rating system.
 * [FrostedSidebar](https://github.com/edekhayser/FrostedSidebar) - Hamburger Menu using Swift and iOS 8 API's.
-* [Former](https://github.com/ra1028/Former) - A fully customizable Swift 2 library for easy creating UITableView based form.
 * [GaugeKit](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges.
 * [Geometry](https://github.com/artman/Geometry) - extensions for UIView.
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) - A pull to refresh that supports GIF images as track animations.
@@ -703,7 +702,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
 * [SwiftValidator](https://github.com/jpotts18/SwiftValidator) - UIView validation framework.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) - Lightweight dropdown message bar in Swift.
-* [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - Forms that can be validated.
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
 * [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view.
 * [TCDInputView](https://github.com/tomdiggle/TCDInputView) - A custom input view which is displayed when a text field becomes the first responder.
@@ -735,6 +733,12 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SDevBootstrapButton](https://github.com/0x73/SDevBootstrapButton) - Twitter Bootstrap buttons for Swift
 * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons.
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
+
+#### Form
+
+* [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in swift.
+* [Former](https://github.com/ra1028/Former) - A fully customizable Swift 2 library for easy creating UITableView based form.
+* [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - Forms that can be validated.
 
 ### Utility
 

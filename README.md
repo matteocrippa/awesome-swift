@@ -703,6 +703,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 #### Alert
 
+* [AlertKit](https://github.com/thii/AlertKit) – Alert with a single line of Swift.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [Kamagari](https://github.com/tasanobu/Kamagari) - Simple UIAlertController builder class in Swift.
@@ -753,7 +754,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *Some interesting utilities to help you in your projects*
 
 * [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects.
-* [AlertKit](https://github.com/thii/AlertKit) – Alert with a single line of Swift.
 * [ArrayDiff](https://github.com/Adlai-Holler/ArrayDiff) - a fast, UITableView/UICollectionView-compatible array diffing microframework.
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your Swift project.
 * [Basis](https://github.com/typelift/Basis) - Pure Declarative Programming in Swift

@@ -69,6 +69,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 			- [Button](#button)
 			- [Form](#form)
 			- [Menu](#menu)
+			- [Transition](#transition)
         - [Utility](#utility)
         - [Video](#video)
     - [Misc](#misc)
@@ -636,7 +637,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - A playable pull to refresh view using SpriteKit
 * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects.
-* [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - Bubble transition in a easy way.
 * [CharacterText](https://github.com/android1989/CharacterText) - Perform fx on UILabel.
 * [CKPickerView](https://github.com/cybertk/CKPickerView) - A UIPickerView drop-in replacement with support for titles and Selection Indicator customization
 * [CKTextFieldTableCell](https://github.com/cybertk/CKTextFieldTableCell) - UITableViewCell drop-in replacement with support of UITextField
@@ -671,7 +671,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [MaterialKit](https://github.com/nghialv/MaterialKit) - Material design components.
 * [MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium scroll style menubar.
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift.
-* [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition) - Custom interactive transition like Apple Music iOS App. written in Swift.
 * [MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) - MZFormSheetPresentationController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.
 * [MantleModal](https://github.com/canalesb93/MantleModal) - A simple modal resource that uses a UIScrollView to allow the user to close the modal by dragging it down.
 * [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
@@ -680,7 +679,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Otafuku](https://github.com/tasanobu/Otafuku) - Some utility classes to use WKWebView in Swift.
 * [PageController](https://github.com/hirohisa/PageController) - Infinite pageing controller.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Panoramic facebook story clone.
-* [PinterestSwift](https://github.com/demonnico/PinterestSwift) - Pinterest style transition.
 * [PKHUD](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation
 * [PPSwiftGifs](https://github.com/peterprokop/PPSwiftGifs) - a convenient way to show animated GIF images as a part of iOS GUI.
@@ -691,7 +689,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Siren](https://github.com/ArtSabintsev/Siren) - Inform users when App Store updates are available.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written in Swift.
 * [StarryStars](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
-* [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) - Transition animation to crumble view-controller into tiny pieces
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) - A Swift library to design custom prompts with a great scope of options to choose from.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
 * [SwiftValidator](https://github.com/jpotts18/SwiftValidator) - UIView validation framework.
@@ -743,6 +740,13 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Pagemenu](https://github.com/uacaps/PageMenu) - Pagination enabled view controller.
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift.
 * [Persei](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift.
+
+#### Transition
+
+* [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - Bubble transition in a easy way.
+* [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition) - Custom interactive transition like Apple Music iOS App. written in Swift.
+* [PinterestSwift](https://github.com/demonnico/PinterestSwift) - Pinterest style transition.
+* [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) - Transition animation to crumble view-controller into tiny pieces
 
 ### Utility
 

@@ -71,9 +71,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
     - [Transition](#transition)
   - [Utility](#utility)
   - [Video](#video)
-  - [Misc](#misc)
-  - [Tools](#tools)
-    - [Documentation](#documentation)
+- [Misc](#misc)
+- [Tools](#tools)
+  - [Documentation](#documentation)
 
 ## Demo Apps
 *Some interesting demo/poc apps written in Swift.*

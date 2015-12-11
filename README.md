@@ -64,7 +64,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
           - [Phone Numbers](#phone-numbers)
         - [Thread](#thread)
         - [UI](#ui)
-			- [Blur](#blur)
+        	- [Alert](#alert) 	
+		- [Blur](#blur)
         - [Utility](#utility)
         - [Video](#video)
     - [Misc](#misc)
@@ -638,7 +639,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [CKTextFieldTableCell](https://github.com/cybertk/CKTextFieldTableCell) - UITableViewCell drop-in replacement with support of UITextField
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - Sliding side menu.
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in swift.
-* [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController
 * [EZLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController) -  :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages
 * [Dodo](https://github.com/marketplacer/Dodo) - A message bar for iOS written in Swift.
@@ -654,7 +654,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Geometry](https://github.com/artman/Geometry) - extensions for UIView.
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) - A pull to refresh that supports GIF images as track animations.
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
-* [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [GRMustache](https://github.com/groue/GRMustache.swift) - Flexible Mustache templates for Swift.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Guillotine style menu.
 * [Hakuba](https://github.com/nghialv/Hakuba) - A new way to manage UITableView without the code of UITableViewDelegate and UITableViewDataSource.
@@ -667,7 +666,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Instructions](https://github.com/ephread/Instructions) - A Swift library to create app walkthroughs and guided tours.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart).
 * [JLToast](https://github.com/devxoul/JLToast) - Toast for Swift.
-* [Kamagari](https://github.com/tasanobu/Kamagari) - Simple UIAlertController builder class in Swift.
 * [KCFloatingActionButton](https://github.com/kciter/KCFloatingActionButton) - Floating Action Button for iOS.
 * [KCJogDial](https://github.com/kciter/KCJogDial) - Controllable UIView like jog dial.
 * [KCSelectionDialog](https://github.com/kciter/KCSelectionDialog) - Simple selection dialog.
@@ -701,14 +699,12 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect) - Recreating Apple’s rubber band effect in Swift.
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller.
 * [Sapporo](https://github.com/nghialv/Sapporo) - A cellmodel-driven CollectionView manager for Swift.
-* [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [SDevBootstrapButton](https://github.com/0x73/SDevBootstrapButton) - Twitter Bootstrap buttons for Swift
 * [Siren](https://github.com/ArtSabintsev/Siren) - Inform users when App Store updates are available.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written in Swift.
 * [StarryStars](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 * [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) - Transition animation to crumble view-controller into tiny pieces
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) - A Swift library to design custom prompts with a great scope of options to choose from.
-* [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
 * [SwiftValidator](https://github.com/jpotts18/SwiftValidator) - UIView validation framework.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) - Lightweight dropdown message bar in Swift.
@@ -722,6 +718,14 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Twinkle](https://github.com/piemonte/Twinkle) - a Swift and easy way to make elements in your iOS app twinkle.
 * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
+
+#### Alert
+
+* [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController
+* [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
+* [Kamagari](https://github.com/tasanobu/Kamagari) - Simple UIAlertController builder class in Swift.
+* [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
+* [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 
 #### Blur
 

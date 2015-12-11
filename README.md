@@ -68,6 +68,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 			- [Blur](#blur)
 			- [Button](#button)
 			- [Form](#form)
+			- [Menu](#menu)
         - [Utility](#utility)
         - [Video](#video)
     - [Misc](#misc)
@@ -639,7 +640,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [CharacterText](https://github.com/android1989/CharacterText) - Perform fx on UILabel.
 * [CKPickerView](https://github.com/cybertk/CKPickerView) - A UIPickerView drop-in replacement with support for titles and Selection Indicator customization
 * [CKTextFieldTableCell](https://github.com/cybertk/CKTextFieldTableCell) - UITableViewCell drop-in replacement with support of UITextField
-* [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - Sliding side menu.
 * [EZLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController) -  :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages
 * [Dodo](https://github.com/marketplacer/Dodo) - A message bar for iOS written in Swift.
@@ -648,13 +648,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.
 * [FloatRatingView](https://github.com/glenyi/FloatRatingView) - Floating rating system.
-* [FrostedSidebar](https://github.com/edekhayser/FrostedSidebar) - Hamburger Menu using Swift and iOS 8 API's.
 * [GaugeKit](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges.
 * [Geometry](https://github.com/artman/Geometry) - extensions for UIView.
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) - A pull to refresh that supports GIF images as track animations.
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 * [GRMustache](https://github.com/groue/GRMustache.swift) - Flexible Mustache templates for Swift.
-* [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Guillotine style menu.
 * [Hakuba](https://github.com/nghialv/Hakuba) - A new way to manage UITableView without the code of UITableViewDelegate and UITableViewDataSource.
 * [HoneycombView](https://github.com/suzuki-0000/HoneycombView) - HoneycombView is the iOS UIView for displaying like Honyecomb layout written by swift.
 * [Hokusai](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet.
@@ -671,7 +669,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [LTJelloSwitch](https://github.com/lexrus/LTJelloSwitch) - UISwitch prototype.
 * [MaterialKit](https://github.com/nghialv/MaterialKit) - Material design components.
-* [MediumMenu](https://github.com/pixyzehn/MediumMenu) A menu based on Medium iOS app.
 * [MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium scroll style menubar.
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition) - Custom interactive transition like Apple Music iOS App. written in Swift.
@@ -682,10 +679,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [Otafuku](https://github.com/tasanobu/Otafuku) - Some utility classes to use WKWebView in Swift.
 * [PageController](https://github.com/hirohisa/PageController) - Infinite pageing controller.
-* [Pagemenu](https://github.com/uacaps/PageMenu) - Pagination enabled view controller.
-* [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Panoramic facebook story clone.
-* [Persei](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift.
 * [PinterestSwift](https://github.com/demonnico/PinterestSwift) - Pinterest style transition.
 * [PKHUD](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation
@@ -739,6 +733,16 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in swift.
 * [Former](https://github.com/ra1028/Former) - A fully customizable Swift 2 library for easy creating UITableView based form.
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - Forms that can be validated.
+
+#### Menu
+
+* [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - Sliding side menu.
+* [FrostedSidebar](https://github.com/edekhayser/FrostedSidebar) - Hamburger Menu using Swift and iOS 8 API's.
+* [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Guillotine style menu.
+* [MediumMenu](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app.
+* [Pagemenu](https://github.com/uacaps/PageMenu) - Pagination enabled view controller.
+* [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift.
+* [Persei](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift.
 
 ### Utility
 

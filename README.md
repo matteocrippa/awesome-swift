@@ -43,6 +43,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
         - [Images](#images)
         - [Keyboard](#keyboard)
         - [Key Value Coding](#key-value-coding)
+        - [Kit](#kit)
         - [Layout](#layout)
         - [Localization](#localization)
         - [Location](#location)
@@ -428,6 +429,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *Libraries for key-value coding in Swift*
 
 * [SwiftKVC](https://github.com/bradhilton/SwiftKVC) - Key-Value Coding (KVC) for native Swift classes and structs
+
+### Kit
+*Libraries for coding framwork with simplified API and more power for native iOS programming*
+
+* [C4iOS](https://github.com/C4Framework/C4iOS) - C4iOS Development Repository http://www.c4ios.com.
 
 ### Layout
 *Libs to help you with layout.*

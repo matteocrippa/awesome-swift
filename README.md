@@ -834,4 +834,4 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *Generate documentation for Swift code*
 
 * [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C.
-* [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - Header parsing and HTML generating utilities for SwiftDoc.org
+* [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.

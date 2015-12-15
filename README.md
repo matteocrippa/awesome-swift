@@ -696,7 +696,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library in Swift. A single line of code and visualize your touches.
 * [Twinkle](https://github.com/piemonte/Twinkle) - a Swift and easy way to make elements in your iOS app twinkle.
 * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
-* [Whisper](https://github.com/hyperoslo/Whisper) - Messages and in-app notification made easy.
 
 #### Alert
 
@@ -709,6 +708,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
+* [Whisper](https://github.com/hyperoslo/Whisper) - Messages and in-app notification made easy.
 
 #### Blur
 

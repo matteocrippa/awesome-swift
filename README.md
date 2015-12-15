@@ -157,7 +157,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Guides
 *An awesome list of Swift related guides.*
 
-### Official Guide
+### Official Guides
 * [Apple Swift Guide](https://github.com/swifteducation) - Official guide by Apple about swift.
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
 
@@ -698,6 +698,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 
 #### Alert
+
+*Libs to display alert or notifications*
 
 * [AlertKit](https://github.com/thii/AlertKit) – Alert with a single line of Swift.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController.

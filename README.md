@@ -157,7 +157,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Guides
 *An awesome list of Swift related guides.*
 
-### Official Guide
+### Official Guides
 * [Apple Swift Guide](https://github.com/swifteducation) - Official guide by Apple about swift.
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
 
@@ -596,7 +596,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
 * [Spectre](https://github.com/kylef/Spectre) - BDD Framework for Swift.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck) - A testing library that automatically generates random data for testing program properties.
-* [Swiftest](https://github.com/Swiftest/Swiftest) - experimental BDD-style framework.
 * [SwiftMock](https://github.com/mflint/SwiftMock) - A mocking framework for Swift
 
 ### Text
@@ -697,9 +696,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library in Swift. A single line of code and visualize your touches.
 * [Twinkle](https://github.com/piemonte/Twinkle) - a Swift and easy way to make elements in your iOS app twinkle.
 * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
-* [Whisper](https://github.com/hyperoslo/Whisper) - Messages and in-app notification made easy.
 
 #### Alert
+
+*Libs to display alert or notifications*
 
 * [AlertKit](https://github.com/thii/AlertKit) – Alert with a single line of Swift.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController.
@@ -710,6 +710,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
+* [Whisper](https://github.com/hyperoslo/Whisper) - Messages and in-app notification made easy.
 
 #### Blur
 

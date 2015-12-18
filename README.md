@@ -178,6 +178,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Swift Sandbox Newsletter](http://swiftsandbox.io) - Swift Sandbox is a weekly newsletter containing a collection of links to the best Swift **code** and **developer tools**. Every Friday. **Free**.
 * [Swift Tips](https://github.com/jbrennan/swift-tips) - Swift tips collection.
 * [Swift-Weekly](https://github.com/vandadnp/swift-weekly) - Weekly Swift Language Gems, Tips and Tricks.
+* [RxSwift Community](http://community.rxswift.org/) - Libraries, guides & projects that support [`RxSwift`][rxswift]
 
 ### Style Guides
 * [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
@@ -369,7 +370,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 * [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
-* [RxSwift](https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.
+* [RxSwift][rxswift] - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.
 
 ### Fonts
 
@@ -843,3 +844,5 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C.
 * [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.
+
+[rxswift]: https://github.com/ReactiveX/RxSwift

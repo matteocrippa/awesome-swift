@@ -197,6 +197,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level.
 * [Presentation](https://github.com/hyperoslo/Presentation) - A Swift library to help you to make tutorials, release notes and animated pages.
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
+* [Animo](https://github.com/JohnEstropia/Animo) - SpriteKit-like animation builders for CALayers.
 
 ### Audio
 *Libs to work with audio*

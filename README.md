@@ -170,6 +170,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning Swift via playground.
 * [Natasha the Robot](http://natashatherobot.com) - Weekly Newsletter on learning Swift
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn Swift.
+* [RxSwift Community](http://community.rxswift.org/) - Libraries, guides & projects that support [`RxSwift`][https://github.com/ReactiveX/RxSwift]
 * [Swift A Day](https://github.com/lindadong/swift-a-day) - Daily swift experiments by Linda Dong.
 * [SwiftDoc](http://swiftdoc.org/) - Auto-generated documentation for Swift.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for Swift.
@@ -178,7 +179,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Swift Sandbox Newsletter](http://swiftsandbox.io) - Swift Sandbox is a weekly newsletter containing a collection of links to the best Swift **code** and **developer tools**. Every Friday. **Free**.
 * [Swift Tips](https://github.com/jbrennan/swift-tips) - Swift tips collection.
 * [Swift-Weekly](https://github.com/vandadnp/swift-weekly) - Weekly Swift Language Gems, Tips and Tricks.
-* [RxSwift Community](http://community.rxswift.org/) - Libraries, guides & projects that support [`RxSwift`][https://github.com/ReactiveX/RxSwift]
 
 ### Style Guides
 * [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.

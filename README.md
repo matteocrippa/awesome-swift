@@ -362,6 +362,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Forbind](https://github.com/ulrikdamm/Forbind) - Functional chaining and Promises in Swift.
 * [Future](https://github.com/nghialv/Future) - A micro framework providing Future<T, Error>.
 * [FutureKit](https://github.com/FutureKit/FutureKit) - A Swift based Future/Promises Library.
+* [Notificationz](https://github.com/SwiftKitz/Notificationz) - Helping you _own_ `NSNotificationCenter` by providing a simple, customizable adapter.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library.
 * [Safe](https://github.com/tidwall/Safe) - A modern concurrency and synchronization for Swift.
@@ -370,7 +371,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 * [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.
-* [Notificationz](https://github.com/SwiftKitz/Notificationz) - Helping you _own_ `NSNotificationCenter` by providing a simple, customizable adapter.
 
 ### Fonts
 

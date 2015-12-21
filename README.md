@@ -344,6 +344,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Date
 *Handle data formatting easily.*
 * [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Simple date helper.
+* [Datez](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, `NSDateComponents`, and `NSTimeInterval`.
 * [Punctual.swift](https://github.com/harlanhaskins/Punctual.swift) - Swift date handler.
 * [Swift-NSDate-Extensions](https://github.com/fwhenin/Swift-NSDate-Extensions) - Swift Version of [Erica's NSDate Extensions](https://github.com/erica/NSDate-Extensions).
 * [SwiftDate](https://github.com/malcommac/SwiftDate) - Easy NSDate Management in Swift.
@@ -351,7 +352,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer)
 * [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions in Swift.
-* [Datez](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, `NSDateComponents`, and `NSTimeInterval`.
 
 ### Events
 *Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.*

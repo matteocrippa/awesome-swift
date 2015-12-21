@@ -320,10 +320,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 #### Key Value Store
 * [Prephirences](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
+* [Storez](https://github.com/SwiftKitz/Storez.git) -  Safe, statically-typed, store-agnostic key-value storage.
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - A Key-Value store for Swift backed by LevelDB.
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) — a cleaner, nicer syntax for NSUserDefaults.
 * [Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
-* [Storez](https://github.com/SwiftKitz/Storez.git) -  Safe, statically-typed, store-agnostic key-value storage.
 
 #### SQLite
 *Are you interested in storing your app data using SQLite? Here are some interesting resources.*

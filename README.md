@@ -370,7 +370,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 * [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
-* [RxSwift(https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.
+* [RxSwift](https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.
 
 ### Fonts
 

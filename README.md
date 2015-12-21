@@ -475,6 +475,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [CleanroomASL](https://github.com/emaloney/CleanroomASL) — Low-level Swift API for writing to and reading from the Apple System Log daemon.
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) — Configurable and extensible high-level logging API that is simple, lightweight and performant.
+* [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
 * [Puree](https://github.com/cookpad/puree-ios) - A log collector for iOS.
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
 * [Swell](https://github.com/hubertr/Swell) - a logging utility for Swift.

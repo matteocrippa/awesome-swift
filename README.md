@@ -704,6 +704,12 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Twinkle](https://github.com/piemonte/Twinkle) - a Swift and easy way to make elements in your iOS app twinkle.
 * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 
+#### Action Sheet
+
+*Libs to display action sheets*
+
+* [XLActionController](https://github.com/xmartlabs/XLActionController) – Fully customizable and extensible action sheet controller written in Swift.
+
 #### Alert
 
 *Libs to display alert or notifications*

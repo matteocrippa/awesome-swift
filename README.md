@@ -347,6 +347,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Date
 *Handle data formatting easily.*
 * [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Simple date helper.
+* [Datez](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, `NSDateComponents`, and `NSTimeInterval`.
 * [Punctual.swift](https://github.com/harlanhaskins/Punctual.swift) - Swift date handler.
 * [Swift-NSDate-Extensions](https://github.com/fwhenin/Swift-NSDate-Extensions) - Swift Version of [Erica's NSDate Extensions](https://github.com/erica/NSDate-Extensions).
 * [SwiftDate](https://github.com/malcommac/SwiftDate) - Easy NSDate Management in Swift.

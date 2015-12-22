@@ -707,7 +707,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 #### Alert
 
-*Libs to display alert or notifications*
+*Libs to display alert, action sheet, notification, popup.*
 
 * [AlertKit](https://github.com/thii/AlertKit) – Alert with a single line of Swift.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController.

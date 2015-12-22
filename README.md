@@ -366,6 +366,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Forbind](https://github.com/ulrikdamm/Forbind) - Functional chaining and Promises in Swift.
 * [Future](https://github.com/nghialv/Future) - A micro framework providing Future<T, Error>.
 * [FutureKit](https://github.com/FutureKit/FutureKit) - A Swift based Future/Promises Library.
+* [Notificationz](https://github.com/SwiftKitz/Notificationz) - Helping you _own_ `NSNotificationCenter` by providing a simple, customizable adapter.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library.
 * [Safe](https://github.com/tidwall/Safe) - A modern concurrency and synchronization for Swift.

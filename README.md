@@ -721,6 +721,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
 * [Whisper](https://github.com/hyperoslo/Whisper) - Messages and in-app notification made easy.
+* [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift 2.
 
 #### Blur
 

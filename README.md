@@ -442,6 +442,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *Libraries for coding with a simplified API*
 
 * [C4iOS](https://github.com/C4Framework/C4iOS) - [C4iOS](http://www.c4ios.com) Development Repository.
+* [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) - A collection of useful classes to develop Apps faster.
 
 ### Layout
 *Libs to help you with layout.*

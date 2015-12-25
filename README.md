@@ -484,6 +484,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
 * [Puree](https://github.com/cookpad/puree-ios) - A log collector for iOS.
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
+* [Rainbow](https://github.com/onevcat/Rainbow) - Delightful console output for Swift developers.
 * [Swell](https://github.com/hubertr/Swell) - a logging utility for Swift.
 * [SwiftBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Colorful, lightweight & fast logging in Swift 2.
 * [swiftRemoteLogger](https://github.com/matteocrippa/swiftRemoteLogger) - Remote logging easy as 1..2..3 in Swift.

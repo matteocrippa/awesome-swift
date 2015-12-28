@@ -298,6 +298,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 #### JSON
 *Struggling using json data? Here are some interesting ways to handle it.*
 
+* [AlamofireJsonToObjects](https://github.com/evermeer/AlamofireJsonToObjects) - An Alamofire extension which converts JSON response data into swift objects using Reflection.
 * [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper.
 * [Alexander](https://github.com/hodinkee/alexander) - An extremely simple JSON helper written in Swift.
 * [Argo](https://github.com/thoughtbot/Argo) - Json parsing library.

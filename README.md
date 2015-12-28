@@ -248,6 +248,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [AEConicalGradient](https://github.com/tadija/AEConicalGradient) - Conical (angular) gradient in Swift.
 * [Colors] (https://github.com/icodeforlove/Colors) - A pure Swift library for using ANSI codes.
+* [Chameleon] (https://github.com/ViccAlexander/Chameleon) - Chameleon is a lightweight, yet powerful, color framework for iOS (Objective-C & Swift).
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - An extension to manipulate colors in Swift easily.
 * [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) - Flat UI color palette in Swift.
 * [Google Material Color](https://github.com/katopz/google-material-color-swift) - Google Material Color Palette in Swift.
@@ -373,6 +374,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SignalKit](https://github.com/yankodimitrov/SignalKit) - Swift event and binding framework.
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa (RAC) is a Cocoa framework inspired by Functional Reactive Programming. It provides APIs for composing and transforming streams of values over time.
 * [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.
 

@@ -345,6 +345,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift.
 * [XMLParser](https://github.com/Mozharovsky/XMLParser) - A lightweight XMLParser for assembling and parsing XML values written for iOS 8+ in Swift 2.
 
+#### Cloud
+*If you want to store your data in the cloud*
+
+* [EVCloudKitDao](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+
 ### Date
 *Handle data formatting easily.*
 * [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Simple date helper.

@@ -678,7 +678,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [HoneycombView](https://github.com/suzuki-0000/HoneycombView) - HoneycombView is the iOS UIView for displaying like Honyecomb layout written by swift.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - A nicely designed and super easy to use ImagePicker.
 * [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
-* [InfiniteCollectionView](https://github.com/hryk224/InfiniteCollectionView) - Infinite Scrolling Using UICollectionView
+* [InfiniteCollectionView](https://github.com/hryk224/InfiniteCollectionView) - Infinite Scrolling Using UICollectionView.
 * [Instructions](https://github.com/ephread/Instructions) - A Swift library to create app walkthroughs and guided tours.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful. [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart).
 * [JLToast](https://github.com/devxoul/JLToast) - Toast for Swift.

@@ -434,6 +434,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [APNGKit](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
 * [CYFastImage](https://github.com/lihei12345/CYFastImage) - display images from web.
 * [DePict](https://github.com/davidcairns/DePict) - functional wrapper for CoreGraphics.
+* [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - core image filter
 * [gifu](https://github.com/kaishin/gifu) - highly performant animated GIF support for iOS in Swift.
 * [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 * [ImageLoader](https://github.com/hirohisa/ImageLoaderSwift) - A lightweight and fast image loader for iOS written in Swift.
@@ -671,6 +672,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [CharacterText](https://github.com/android1989/CharacterText) - Perform fx on UILabel.
 * [CKPickerView](https://github.com/cybertk/CKPickerView) - A UIPickerView drop-in replacement with support for titles and Selection Indicator customization.
 * [CKTextFieldTableCell](https://github.com/cybertk/CKTextFieldTableCell) - UITableViewCell drop-in replacement with support of UITextField.
+* [EstMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) - Music play indicator like iTunes
 * [EZLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD.
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController) -  :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages.
 * [Dodo](https://github.com/marketplacer/Dodo) - A message bar for iOS written in Swift.

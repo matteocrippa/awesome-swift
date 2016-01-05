@@ -106,6 +106,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [KeychainDemo](https://github.com/dasdom/KeychainDemo) - keychain sharing between an App and it's share extension
 * [LayerPlayer](https://github.com/scotteg/LayerPlayer) - explores CALayer and subclasses; written in Swift; also on App Store.
 * [Layer Parse Sample Chat App](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example) - Swift sample app that integrates Layer and Atlas with Parse.
+* [Lucid Weather Clock](https://github.com/wrutkowski/Lucid-Weather-Clock) - Hyper-local weather app with precipitation clock developed in Swift.
 * [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) - checklist app in Swift.
 * [Path Logger](https://github.com/eugenpirogoff/pathlogger) - a GPS Path Logger with Core Data.
 * [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example) - typhoon weather example.

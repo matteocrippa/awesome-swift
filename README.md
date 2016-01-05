@@ -302,7 +302,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle CoreData in Swift.
 * [CoreValue](https://github.com/terhechte/CoreValue) - Lightweight Framework for using Core Data with Value Types.
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
-* [SugarRecord](https://github.com/SwiftReactive/SugarRecord) - an easy with to work with coredata and realm.
+* [SugarRecord](https://github.com/pepibumur/SugarRecord) - an easy with to work with coredata and realm.
 * [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier.
 * [QueryKit](https://github.com/QueryKit/QueryKit) - an easy way to play with coredata filtering within your Swift projects.
 

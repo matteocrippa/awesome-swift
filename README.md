@@ -34,6 +34,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
     - [Key Value Store](#key-value-store)
     - [SQLite](#sqlite)
     - [XML](#xml)
+    - [Cloud](#cloud)
   - [Date](#date)
   - [Events](#events)
   - [Fonts](#fonts)

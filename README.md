@@ -36,6 +36,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
     - [Key Value Store](#key-value-store)
     - [SQLite](#sqlite)
     - [XML](#xml)
+    - [Other](#other)
   - [Date](#date)
   - [Events](#events)
   - [Fonts](#fonts)
@@ -366,6 +367,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Ji](https://github.com/honghaoz/Ji) - an XML/HTML parser for Swift.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift.
 * [XMLParser](https://github.com/Mozharovsky/XMLParser) - A lightweight XMLParser for assembling and parsing XML values written for iOS 8+ in Swift 2.
+
+#### Other
+*Other ways to persist data*
+
+* [EVCloudKitDao](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Date
 *Handle data formatting easily.*

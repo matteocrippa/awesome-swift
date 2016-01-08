@@ -172,7 +172,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [HACKING WITH SWIFT](https://www.hackingwithswift.com) - **Hacking with Swift** is a complete Swift training course that teaches you app development through 30 hands-on projects, for free. Everything is taught as part of a practical project, so you can immediately apply your knowledge as you learn.
 * [HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The project source code for hackingwithswift.com
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning Swift via playground.
-* [Natasha the Robot](http://www.natashatherobot.com/) - Weekly Newsletter on learning Swift
+* [Natasha the Robot](https://www.natashatherobot.com/) - Weekly Newsletter on learning Swift
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn Swift.
 * [RxSwift Community](http://community.rxswift.org/) - Libraries, guides & projects that support [`RxSwift`](https://github.com/ReactiveX/RxSwift)
 * [Swift A Day](https://github.com/lindadong/swift-a-day) - Daily swift experiments by Linda Dong.

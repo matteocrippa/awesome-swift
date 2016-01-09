@@ -867,6 +867,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Swiftx](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
 * [Swiftz](https://github.com/typelift/Swiftz) - Functional programming in Swift.
 * [Swift Sugar](https://github.com/RuiAAPeres/Swift-Sugar) - objsugar ported to Swift.
+* [Then](https://github.com/devxoul/Then) - ✨ Super sweet syntactic sugar for Swift initializers.
 * [undefined](https://github.com/weissi/swift-undefined) - Nano framework which defines Haskell's undefined in Swift.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
 * [Wyrd](https://github.com/explicitcall/Wyrd) - Asynchronous programming in Swift made easy. Wyrd is inspired by Promises/A+.

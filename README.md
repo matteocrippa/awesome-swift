@@ -574,7 +574,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 * [Curassow](https://github.com/kylef/Curassow) - Swift HTTP server using the pre-fork worker model.
 * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift.
-* [Epoch](https://github.com/zewo/epoc://github.com/zewo/epoch) - Venice based HTTP server for Swift 2.2 on Linux.
+* [Epoch](https://github.com/zewo/epoch) - Venice based HTTP server for Swift 2.2 on Linux.
 * [Trevi](https://github.com/Yoseob/Trevi) - A powerful Swift Web Application Server Framework Project.
 * [Kunugi](https://github.com/novi/Kunugi) - Minimal web framework and middleware for Swift.
 * [Swift-Server](https://github.com/cezarywojcik/Swift-Server) - Currently, a very basic proof-of-concept Swift HTTP server that does not require Foundation.
@@ -631,7 +631,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ### System
 
-* [Perfect](https://github.com/PerfectlySoft/Perfect) - An application server which provides a framework for developing web and other REST services in Swift.
 * [SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library in Swift.
 * [SystemKit](https://github.com/beltex/SystemKit/) - OS X system library in Swift.
 

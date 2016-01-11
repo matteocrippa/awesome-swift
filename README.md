@@ -572,6 +572,17 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [NetworkObjects](https://github.com/colemancda/NetworkObjects) - REST HTTP Server written in Swift. Builds REST API from Core Data.
 * [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
+* [Curassow](https://github.com/kylef/Curassow) - Swift HTTP server using the pre-fork worker model.
+* [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift.
+* [Epoch](https://github.com/zewo/epoc://github.com/zewo/epoch) - Venice based HTTP server for Swift 2.2 on Linux.
+* [Trevi](https://github.com/Yoseob/Trevi) - A powerful Swift Web Application Server Framework Project.
+* [Kunugi](https://github.com/novi/Kunugi) - Minimal web framework and middleware for Swift.
+* [Swift-Server](https://github.com/cezarywojcik/Swift-Server) - Currently, a very basic proof-of-concept Swift HTTP server that does not require Foundation.
+* [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect library, application server, connectors and example apps.
+* [SwiftyHTTP](https://github.com/AlwaysRightInstitute/SwiftyHTTP) - A simple GCD based HTTP client and server, written in 'pure' Swift.
+* [Aeon](https://github.com/Zewo/Aeon) - GCD based HTTP server for Swift 2.
+* [Dynamo](https://github.com/johnno1962/Dynamo) & [DynamoLinux](https://github.com/johnno1962/DynamoLinux) - High Performance (nearly)100% Swift Web server supporting dynamic content.
+* [http4swift](https://github.com/takebayashi/http4swift) - A simple HTTP server written in Swift.
 
 #### Websocket
 
@@ -580,6 +591,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX.
 * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple TCP socket library.
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for swift.
+* [WebSocket](https://github.com/Zewo/WebSocket) - WebSockets server for Swift 2.2 on Linux.
 
 ### Quality
 

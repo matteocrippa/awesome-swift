@@ -149,6 +149,19 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Panda](https://github.com/pablosproject/Panda-Mac-app) - a simple OSX menu bar application to enable/disable Yosemite dark mode.
 * [RetinAssets](https://github.com/delannoyk/RetinAssets) - a simple app that generates missing images from a scaled images (3x -> 2x and 1x scale).
 
+### Linux
+*A list of Linux enabled libraries*
+
+* [CFileWrapper] (https://github.com/divadretlaw/CFileWrapper) - Read/Write files in Swift without Foundation
+* [Mustache] (https://github.com/Zewo/Mustache) - Mustache templates for Swift 2.2 on Linux
+* [OpenSSL] (https://github.com/Zewo/OpenSSL) - OpenSSL helpers for Swift 2.2 on Linux
+* [Venice] (https://github.com/Zewo/Venice) - CSP for Swift 2.2 on Linux
+* [Epoch] (https://github.com/Zewo/Epoch) - Venice based HTTP server for Swift 2.2 on Linux
+* [MySQL] (https://github.com/Zewo/MySQL)  - MySQL adapter for Swift 2.2.
+* [PostgreSQL] (https://github.com/Zewo/PostgreSQL) - PostgreSQL adapter for Swift 2.2.
+* [WebSocket] (https://github.com/Zewo/WebSocket) - WebSockets server for Swift 2.2 on Linux
+* [Perfect](https://github.com/PerfectlySoft/Perfect) - An application server which provides a framework for developing web and other REST services in Swift.
+
 ## Dependency Managers
 
 *Dependency manager software for Swift.*
@@ -619,7 +632,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ### System
 
-* [Perfect](https://github.com/PerfectlySoft/Perfect) - An application server which provides a framework for developing web and other REST services in Swift.
+
 * [SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library in Swift.
 * [SystemKit](https://github.com/beltex/SystemKit/) - OS X system library in Swift.
 
@@ -766,7 +779,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 #### Button
 
-* [AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton) - Animated Play and Pause Button using CALayer, CAKeyframeAnimation. 
+* [AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton) - Animated Play and Pause Button using CALayer, CAKeyframeAnimation.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button written in Swift.
 * [HamburgerButton](https://github.com/fastred/HamburgerButton) - Hamburger button with a slick animation.
 * [Hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.

@@ -231,6 +231,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *Libs to work with audio*
 
 * [AudioPlayer](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
+* [Beethoven](https://github.com/vadymmarkov/Beethoven) - An audio processing Swift library for pitch detection of musical signals.
 * [MusicKit](https://github.com/benzguo/MusicKit) - A framework for composing and transforming music in Swift.
 * [TuningFork](https://github.com/comyarzaheri/TuningFork) - A Simple Tuner for iOS.
 
@@ -777,7 +778,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 #### Button
 
-* [AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton) - Animated Play and Pause Button using CALayer, CAKeyframeAnimation. 
+* [AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton) - Animated Play and Pause Button using CALayer, CAKeyframeAnimation.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button written in Swift.
 * [HamburgerButton](https://github.com/fastred/HamburgerButton) - Hamburger button with a slick animation.
 * [Hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.

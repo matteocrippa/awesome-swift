@@ -308,6 +308,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier.
 * [QueryKit](https://github.com/QueryKit/QueryKit) - an easy way to play with coredata filtering within your Swift projects.
 
+
 #### Realm
 * [Realm](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite (https://realm.io).
 * [Realm+JSON](https://github.com/matthewcheok/Realm-JSON) - A concise Mantle-like way of working with Realm and JSON.
@@ -315,6 +316,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 #### Files
 * [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift.
 * [PathKit](https://github.com/kylef/PathKit) - Effortless path operations in Swift.
+* [CFileWrapper] (https://github.com/divadretlaw/CFileWrapper) - Read/Write files in Swift without Foundation (Linux ready.)
+
 
 #### JSON
 *Struggling using json data? Here are some interesting ways to handle it.*
@@ -358,6 +361,12 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A pure Swift framework wrapping SQLite3. Small. Simple. Safe.
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - sqlite wrapper for Swift.
 * [SwiftData](https://github.com/ryanfowler/SwiftData) - simple and Effective SQLite Handling in Swift.
+
+#### Drivers
+* DB drivers.*
+
+* [MySQL] (https://github.com/Zewo/MySQL)  - MySQL adapter for Swift 2.2. (Linux ready.)
+* [PostgreSQL] (https://github.com/Zewo/PostgreSQL) - PostgreSQL adapter for Swift 2.2. (Linux ready.)
 
 #### XML
 *If you prefer to manage XML data formatted entries, here are some helpful libs*
@@ -576,7 +585,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Epoch](https://github.com/zewo/epoch) - Venice based HTTP server for Swift 2.2 on Linux.
 * [Kunugi](https://github.com/novi/Kunugi) - Minimal web framework and middleware for Swift.
 * [NetworkObjects](https://github.com/colemancda/NetworkObjects) - REST HTTP Server written in Swift. Builds REST API from Core Data.
-* [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect library, application server, connectors and example apps.
+* [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect library, application server, connectors and example apps. Linux ready.)
 * [Swift-Server](https://github.com/cezarywojcik/Swift-Server) - Currently, a very basic proof-of-concept Swift HTTP server that does not require Foundation.
 * [SwiftyHTTP](https://github.com/AlwaysRightInstitute/SwiftyHTTP) - A simple GCD based HTTP client and server, written in 'pure' Swift.
 * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift.
@@ -592,7 +601,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX.
 * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple TCP socket library.
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for swift.
-* [WebSocket](https://github.com/Zewo/WebSocket) - WebSockets server for Swift 2.2 on Linux.
+* [WebSocket] (https://github.com/Zewo/WebSocket) - WebSockets server for Swift 2.2 on Linux (Linux ready.)
 
 ### Quality
 
@@ -608,6 +617,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library written in Swift.
 * [SweetHMAC](https://github.com/jancassio/SweetHMAC) - A tiny and easy to use Swift class to encrypt strings using HMAC algorithms.
 * [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - add crypto toolkit in Swift.
+* [OpenSSL] (https://github.com/Zewo/OpenSSL) - OpenSSL helpers for Swift 2.2 on Linux (Linux ready.)
 
 #### Keychain
 * [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS and OS X.
@@ -706,6 +716,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) - A pull to refresh that supports GIF images as track animations.
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 * [GRMustache](https://github.com/groue/GRMustache.swift) - Flexible Mustache templates for Swift.
+* [Mustache] (https://github.com/Zewo/Mustache) - Mustache templates for Swift 2.2 on Linux (Linux ready.)
 * [Hakuba](https://github.com/nghialv/Hakuba) - A new way to manage UITableView without the code of UITableViewDelegate and UITableViewDataSource.
 * [HTYTextField](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder in Swift.
 * [HoneycombView](https://github.com/suzuki-0000/HoneycombView) - HoneycombView is the iOS UIView for displaying like Honyecomb layout written by swift.
@@ -897,6 +908,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftHub](https://github.com/sahandnayebaziz/SwiftHub) - A universal app you can use to browse the newest Swift repositories on Github.
 * [swiftier](https://github.com/snej/swiftier) - Quick-and-dirty Objective-C to Swift translator.
 * [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A suite of tools written in Swift to auto-generate Swift code for various assets of your project.
+
+
 
 ## Tools
 *Tools for Swift development*

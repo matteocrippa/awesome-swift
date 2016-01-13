@@ -1,6 +1,6 @@
 Awesome Swift [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
-A curated list of awesome Swift frameworks, libraries, and software for iOS and OSX.
+A curated list of awesome Swift frameworks, libraries, and software for iOS / OSX / tvOS / watchOS and Linux(marked as 🐧).
 
 ### Contributing
 
@@ -284,15 +284,15 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Command Line
 *Create command line applications.*
 
-* [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift.
-* [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces.
+* [Commander](https://github.com/kylef/Commander) 🐧 - Compose beautiful command line interfaces in Swift.
+* [CommandLine](https://github.com/jatoben/CommandLine) 🐧 - A pure Swift library for creating command-line interfaces.
 * [Phiole](https://github.com/phimage/Phiole) - Allow to write or read from standards stream in swift for CLI applications.
 * [Swiftline](https://github.com/Swiftline/Swiftline) - A set of tools to help you create command line applications.
 
 ### Concurrency
 *Easier ways to work with concurrency.*
 
-* [Venice](https://github.com/Zewo/Venice) - Communicating sequential processes (CSP) for Swift 2 (Linux ready).
+* [Venice](https://github.com/Zewo/Venice) 🐧 - Communicating sequential processes (CSP) for Swift 2 (Linux ready).
 
 ### Data Management
 #### Core Data
@@ -314,7 +314,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 #### Files
 * [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift.
-* [PathKit](https://github.com/kylef/PathKit) - Effortless path operations in Swift.
+* [PathKit](https://github.com/kylef/PathKit) 🐧 - Effortless path operations in Swift.
 
 #### JSON
 *Struggling using json data? Here are some interesting ways to handle it.*
@@ -323,10 +323,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper.
 * [Alexander](https://github.com/hodinkee/alexander) - An extremely simple JSON helper written in Swift.
 * [Argo](https://github.com/thoughtbot/Argo) - Json parsing library.
-* [Decodable](https://github.com/Anviking/Decodable) - JSON parsing for Swift 2.
+* [Decodable](https://github.com/Anviking/Decodable) 🐧 - JSON parsing for Swift 2.
 * [EVReflection](https://github.com/evermeer/EVReflection) - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable
 * [Genome](https://github.com/LoganWright/Genome) - A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0.
-* [Gloss](https://github.com/hkellaway/Gloss) - shiny JSON parsing library.
+* [Gloss](https://github.com/hkellaway/Gloss) 🐧 - shiny JSON parsing library.
 * [Himotoki](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library purely written in Swift.
 * [JASON](https://github.com/delba/JASON) - JSON parsing with outstanding performances and convenient operators.
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
@@ -337,7 +337,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON object mapper.
 * [Pistachio](https://github.com/felixjendrusch/Pistachio) - Generic model framework for Swift.
 * [PPJSONSerialization](https://github.com/PonyCui/PPJSONSerialization) - Convert JSON string to Swift Class.
-* [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - A lib for JSON in Swift with error handling.
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) 🐧 - A lib for JSON in Swift with error handling.
 * [SwiftMapper](https://github.com/kam800/SwiftMapper) - JSON Mapper.
 * [SwiftJSONParser](https://github.com/mrap/SwiftJSONParser) - JSON parser.
 * [Tailor](https://github.com/zenangst/Tailor) - A super fast & convenient object mapper tailored for your needs.
@@ -378,7 +378,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *Handle data formatting easily.*
 * [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Simple date helper.
 * [Datez](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, `NSDateComponents`, and `NSTimeInterval`.
-* [Punctual.swift](https://github.com/harlanhaskins/Punctual.swift) - Swift date handler.
+* [Punctual.swift](https://github.com/harlanhaskins/Punctual.swift) 🐧 - Swift date handler.
 * [Swift-NSDate-Extensions](https://github.com/fwhenin/Swift-NSDate-Extensions) - Swift Version of [Erica's NSDate Extensions](https://github.com/erica/NSDate-Extensions).
 * [SwiftDate](https://github.com/malcommac/SwiftDate) - Easy NSDate Management in Swift.
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
@@ -512,14 +512,14 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Logging
 *Utilities for writing to and reading from the device log*
 
-* [CleanroomASL](https://github.com/emaloney/CleanroomASL) — Low-level Swift API for writing to and reading from the Apple System Log daemon.
-* [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) — Configurable and extensible high-level logging API that is simple, lightweight and performant.
+* [CleanroomASL](https://github.com/emaloney/CleanroomASL) 🐧 — Low-level Swift API for writing to and reading from the Apple System Log daemon.
+* [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) 🐧 — Configurable and extensible high-level logging API that is simple, lightweight and performant.
 * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
 * [Puree](https://github.com/cookpad/puree-ios) - A log collector for iOS.
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
-* [Rainbow](https://github.com/onevcat/Rainbow) - Delightful console output for Swift developers.
+* [Rainbow](https://github.com/onevcat/Rainbow) 🐧 - Delightful console output for Swift developers.
 * [Swell](https://github.com/hubertr/Swell) - a logging utility for Swift.
-* [SwiftBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Colorful, lightweight & fast logging in Swift 2.
+* [SwiftBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) 🐧 - Colorful, lightweight & fast logging in Swift 2.
 * [swiftRemoteLogger](https://github.com/matteocrippa/swiftRemoteLogger) - Remote logging easy as 1..2..3 in Swift.
 * [Watchdog](https://github.com/wojteklu/Watchdog) - A Swift utility for logging excessive blocking on the main thread.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
@@ -542,7 +542,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *A list of libs that allow you to decrease the amount of time spent dealing with http requests.*
 
 * [agent](https://github.com/hallas/agent) - http request agent.
-* [Alamofire](https://github.com/Alamofire/Alamofire) - elegant networking in Swift.
+* [Alamofire](https://github.com/Alamofire/Alamofire) 🐧 - elegant networking in Swift.
 * [APIKit](https://github.com/ishkawa/APIKit) - a library for building type-safe web API client.
 * [BigBrother](https://github.com/marcelofabri/BigBrother) - Automatically sets the network activity indicator for any performed request.
 * [GRequest](https://github.com/lingoer/GRequest) - http request handler.
@@ -556,7 +556,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
 * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS.
 * [PeerKit](https://github.com/jpsim/PeerKit) - An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps.
-* [Pitaya](https://github.com/johnlui/Pitaya) - A Swift HTTP / HTTPS networking library just incidentally execute on machines.
+* [Pitaya](https://github.com/johnlui/Pitaya) 🐧 - A Swift HTTP / HTTPS networking library just incidentally execute on machines.
 * [Reach](https://github.com/Isuru-Nanayakkara/Reach) - A simple class to check for internet connection availability in Swift.
 * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - A replacement for Apple's Reachability re-written in Swift with closures.
 * [ResponseDetective](https://github.com/netguru/ResponseDetective) - A non-intrusive framework for intercepting any outgoing requests and incoming responses between your app and server for debugging purposes.
@@ -571,40 +571,40 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *Would you like host a webserver in your device? Here you can find how to do it.*
 
 * [Aeon](https://github.com/Zewo/Aeon) - GCD based HTTP server for Swift 2.
-* [Curassow](https://github.com/kylef/Curassow) - Swift HTTP server using the pre-fork worker model.
-* [Dynamo](https://github.com/johnno1962/Dynamo) & [DynamoLinux](https://github.com/johnno1962/DynamoLinux) - High Performance (nearly)100% Swift Web server supporting dynamic content.
-* [Epoch](https://github.com/zewo/epoch) - Venice based HTTP server for Swift 2.2 on Linux.
-* [Kunugi](https://github.com/novi/Kunugi) - Minimal web framework and middleware for Swift.
+* [Curassow](https://github.com/kylef/Curassow) 🐧 - Swift HTTP server using the pre-fork worker model.
+* [Dynamo](https://github.com/johnno1962/Dynamo) & [DynamoLinux](https://github.com/johnno1962/DynamoLinux) 🐧 - High Performance (nearly)100% Swift Web server supporting dynamic content.
+* [Epoch](https://github.com/zewo/epoch) 🐧 - Venice based HTTP server for Swift 2.2 on Linux.
+* [Kunugi](https://github.com/novi/Kunugi) 🐧 - Minimal web framework and middleware for Swift.
 * [NetworkObjects](https://github.com/colemancda/NetworkObjects) - REST HTTP Server written in Swift. Builds REST API from Core Data.
-* [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect library, application server, connectors and example apps.
+* [Perfect](https://github.com/PerfectlySoft/Perfect) 🐧 - Server-side Swift. The Perfect library, application server, connectors and example apps.
 * [Swift-Server](https://github.com/cezarywojcik/Swift-Server) - Currently, a very basic proof-of-concept Swift HTTP server that does not require Foundation.
 * [SwiftyHTTP](https://github.com/AlwaysRightInstitute/SwiftyHTTP) - A simple GCD based HTTP client and server, written in 'pure' Swift.
 * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift.
 * [Trevi](https://github.com/Yoseob/Trevi) - A powerful Swift Web Application Server Framework Project.
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
-* [http4swift](https://github.com/takebayashi/http4swift) - A simple HTTP server written in Swift.
-* [swifter](https://github.com/glock45/swifter) - Http server written in Swift with routing handler.
+* [http4swift](https://github.com/takebayashi/http4swift) 🐧 - A simple HTTP server written in Swift.
+* [swifter](https://github.com/glock45/swifter) 🐧 - Http server written in Swift with routing handler.
 
 #### Websocket
 
-* [Socket.IO](https://github.com/socketio/socket.io-client-swift) - Socket.IO client for iOS/OS X.
+* [Socket.IO](https://github.com/socketio/socket.io-client-swift) 🐧 - Socket.IO client for iOS/OS X.
 * [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX.
 * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple TCP socket library.
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for swift.
-* [WebSocket](https://github.com/Zewo/WebSocket) - WebSockets server for Swift 2.2 on Linux.
+* [WebSocket](https://github.com/Zewo/WebSocket) 🐧 - WebSockets server for Swift 2.2 on Linux.
 
 ### Quality
 
 * [SwiftFormat](https://github.com/haaakon/SwiftFormat) - Auto formatting Swift code, similar to Clang format.
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift coding conventions for your Swift code.
-* [Tailor](http://tailor.sh/) - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
+* [Tailor](http://tailor.sh/) 🐧 - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
 
 ### Security
 
 #### Cryptography
 *Deal with cryptography method easily in Swift*
-* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
+* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) 🐧 - Crypto related functions and helpers for Swift implemented in Swift programming language.
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library written in Swift.
 * [SweetHMAC](https://github.com/jancassio/SweetHMAC) - A tiny and easy to use Swift class to encrypt strings using HMAC algorithms.
 * [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - add crypto toolkit in Swift.
@@ -644,9 +644,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
 * [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease in Swift.
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - A testing library designed to stub your network requests easily.
-* [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C.
+* [Quick](https://github.com/Quick/Quick) 🐧 - Quick is a behavior-driven development framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
-* [Spectre](https://github.com/kylef/Spectre) - BDD Framework for Swift.
+* [Spectre](https://github.com/kylef/Spectre) 🐧 - BDD Framework for Swift.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck) - A testing library that automatically generates random data for testing program properties.
 * [SwiftMock](https://github.com/mflint/SwiftMock) - A mocking framework for Swift
 

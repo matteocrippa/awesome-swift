@@ -725,7 +725,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Instructions](https://github.com/ephread/Instructions) - A Swift library to create app walkthroughs and guided tours.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful. [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart).
 * [JLToast](https://github.com/devxoul/JLToast) - Toast for Swift.
-* [KCJogDial](https://github.com/kciter/KCJogDial) - Controllable UIView like jog dial.
+* [KCHorizontalDial](https://github.com/kciter/KCHorizontalDial) - A horizontal scroll dial like Instagram.
 * [KCSelectionDialog](https://github.com/kciter/KCSelectionDialog) - Simple selection dialog.
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
 * [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) - A UINavigationController subclass that support pop interactive UINavigationBar with hidden or show.

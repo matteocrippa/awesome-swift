@@ -510,7 +510,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftyLayout](https://github.com/fhisa/SwiftyLayout) - Lightweight mathematical declarative auto-layout framework for Swift.
 * [Tails](https://github.com/nickynick/Tails) - declarative autolayout for ios app written in swift.
 * [VFLToolbox](https://github.com/0xc010d/VFLToolbox) - fancy Swift implementation of the Visual Format Language.
-
+* [MisterFusion](https://github.com/szk-atmosphere/MisterFusion) - A Swift DSL for AutoLayout. It can be used in both Swift and Objective-C, in addition, it supports Size Class.
 
 ### Localization
 *Frameworks that helps with localizing your app*

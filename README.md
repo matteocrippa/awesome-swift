@@ -39,6 +39,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
     - [Key Value Store](#key-value-store)
     - [SQLite](#sqlite)
     - [XML](#xml)
+    - [ZIP](#zip)
     - [Other](#other)
   - [Date](#date)
   - [Events](#events)
@@ -379,6 +380,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Ji](https://github.com/honghaoz/Ji) - an XML/HTML parser for Swift.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift.
 * [XMLParser](https://github.com/Mozharovsky/XMLParser) - A lightweight XMLParser for assembling and parsing XML values written for iOS 8+ in Swift 2.
+
+#### ZIP
+* [Zip](https://github.com/marmelroy/Zip) - Swift framework for zipping and unzipping files.
 
 #### Other
 *Other ways to persist data*

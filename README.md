@@ -308,6 +308,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [CoreDataOperation](https://github.com/Adlai-Holler/CoreDataOperation) - a safe, asynchronous CoreData operation class.
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle CoreData in Swift.
 * [CoreValue](https://github.com/terhechte/CoreValue) - Lightweight Framework for using Core Data with Value Types.
+* [GraphKit](https://github.com/CosmicMind/GraphKit) - Elegant CoreData and Algorithms in Swift.
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 * [SugarRecord](https://github.com/pepibumur/SugarRecord) - an easy with to work with coredata and realm.
 * [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier.
@@ -738,7 +739,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [LTJelloSwitch](https://github.com/lexrus/LTJelloSwitch) - UISwitch prototype.
 * [MaterialKit](https://github.com/nghialv/MaterialKit) - Material design components.
-* [MaterialKit](https://github.com/CosmicMind/MaterialKit) - A beautiful Material Design framework in Swift.
+* [MaterialKit](https://github.com/CosmicMind/MaterialKit) - Beautiful Material Design in Swift.
 * [MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium scroll style menubar.
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift.
 * [MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) - MZFormSheetPresentationController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.

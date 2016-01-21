@@ -590,16 +590,16 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Curassow](https://github.com/kylef/Curassow) 🐧 - Swift HTTP server using the pre-fork worker model.
 * [Dynamo](https://github.com/johnno1962/Dynamo) & [DynamoLinux](https://github.com/johnno1962/DynamoLinux) 🐧 - High Performance (nearly)100% Swift Web server supporting dynamic content.
 * [Epoch](https://github.com/zewo/epoch) 🐧 - Venice based HTTP server for Swift 2.2 on Linux.
+* [http4swift](https://github.com/takebayashi/http4swift) 🐧 - A simple HTTP server written in Swift.
 * [Kunugi](https://github.com/novi/Kunugi) 🐧 - Minimal web framework and middleware for Swift.
 * [NetworkObjects](https://github.com/colemancda/NetworkObjects) - REST HTTP Server written in Swift. Builds REST API from Core Data.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) 🐧 - Server-side Swift. The Perfect library, application server, connectors and example apps.
 * [Swift-Server](https://github.com/cezarywojcik/Swift-Server) - Currently, a very basic proof-of-concept Swift HTTP server that does not require Foundation.
+* [swifter](https://github.com/glock45/swifter) 🐧 - Http server written in Swift with routing handler.
 * [SwiftyHTTP](https://github.com/AlwaysRightInstitute/SwiftyHTTP) - A simple GCD based HTTP client and server, written in 'pure' Swift.
 * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift.
 * [Trevi](https://github.com/Yoseob/Trevi) - A powerful Swift Web Application Server Framework Project.
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
-* [http4swift](https://github.com/takebayashi/http4swift) 🐧 - A simple HTTP server written in Swift.
-* [swifter](https://github.com/glock45/swifter) 🐧 - Http server written in Swift with routing handler.
 
 #### Websocket
 

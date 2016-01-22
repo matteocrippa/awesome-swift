@@ -720,6 +720,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.
 * [FloatRatingView](https://github.com/glenyi/FloatRatingView) - Floating rating system.
 * [GaugeKit](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges.
+* [Gecco](https://github.com/yukiasai/Gecco) - Spotlight view for iOS
 * [Geometry](https://github.com/artman/Geometry) - extensions for UIView.
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) - A pull to refresh that supports GIF images as track animations.
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
@@ -770,7 +771,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library in Swift. A single line of code and visualize your touches.
 * [Twinkle](https://github.com/piemonte/Twinkle) - a Swift and easy way to make elements in your iOS app twinkle.
 * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
-* [Gecco](https://github.com/yukiasai/Gecco) - Spotlight view for iOS
 
 #### Alert
 

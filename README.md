@@ -366,7 +366,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - sqlite wrapper for Swift.
 * [SwiftData](https://github.com/ryanfowler/SwiftData) - simple and Effective SQLite Handling in Swift.
 
-#### SQL drivers.*
+#### SQL drivers
 * [MySQL] (https://github.com/Zewo/MySQL) 🐧- MySQL adapter for Swift 2.2.
 * [PostgreSQL] (https://github.com/Zewo/PostgreSQL) 🐧 - PostgreSQL adapter for Swift 2.2.
 

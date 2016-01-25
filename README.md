@@ -32,8 +32,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
   - [Command Line](#command-line)
   - [Concurrency](#concurrency)
   - [Data Management](#data-management)
-    - [Data Structures](#data-structures)
     - [Core Data](#core-data)
+    - [Data Structures](#data-structures)
     - [Realm](#realm)
     - [Files](#files)
     - [JSON](#json)
@@ -301,9 +301,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Venice](https://github.com/Zewo/Venice) 🐧 - Communicating sequential processes (CSP) for Swift 2 (Linux ready).
 
 ### Data Management
-#### Data Structures
-* [Algorithm](https://github.com/CosmicMind/Algorithm)
-
 #### Core Data
 *No more pain with Core Data, here are some interesting libs to handle data management.*
 
@@ -317,6 +314,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SugarRecord](https://github.com/pepibumur/SugarRecord) - an easy with to work with coredata and realm.
 * [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier.
 * [QueryKit](https://github.com/QueryKit/QueryKit) - an easy way to play with coredata filtering within your Swift projects.
+
+#### Data Structures
+* [Algorithm](https://github.com/CosmicMind/Algorithm)
 
 #### Realm
 * [Realm](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite (https://realm.io).

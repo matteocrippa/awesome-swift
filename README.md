@@ -1,4 +1,6 @@
-Awesome Swift [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![Awesome Swift](https://github.com/matteocrippa/awesome-swift/blob/master/assets/icon.png?raw=true)
+# Awesome Swift
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
 A curated list of awesome Swift frameworks, libraries, and software for iOS / OSX / tvOS / watchOS and Linux.
 ``` swift

@@ -834,6 +834,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Pagemenu](https://github.com/uacaps/PageMenu) - Pagination enabled view controller.
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift.
 * [Persei](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift.
+* [MenuItemKit](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
 #### Permissions
 

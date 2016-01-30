@@ -622,6 +622,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [SwiftFormat](https://github.com/haaakon/SwiftFormat) - Auto formatting Swift code, similar to Clang format.
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift coding conventions for your Swift code.
+* [Swimat](https://github.com/Jintin/Swimat) - XCode plugin to format Swift code.
 * [Tailor](https://github.com/sleekbyte/tailor) 🐧 - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
 
 ### Security

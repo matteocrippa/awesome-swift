@@ -874,6 +874,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Focus](https://github.com/typelift/Focus) - an Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
 * [Funky](https://github.com/brynbellomy/Funky) - Functions and operators for functional programming in Swift.
 * [Honour](https://github.com/jeanpimentel/Honour) - Simple and powerful Validation Library.
+* [Hookah](https://github.com/khoiln/Hookah) - Hookah is a functional library for Swift.
 * [Inflection](https://github.com/zenangst/Inflection) - The Optimus Prime of string inflection.
 * [Lambdatron](https://github.com/austinzheng/Lambdatron) - Clojure(ish) interpreter in Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.

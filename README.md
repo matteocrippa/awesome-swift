@@ -755,8 +755,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Material](https://github.com/CosmicMind/Material) - A beautiful graphics framework for Material Design in Swift.
 * [MaterialKit](https://github.com/nghialv/MaterialKit) - Material design components.
 * [MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium scroll style menubar.
-* [MIBadgeButton] (https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons
-* [MICountryPicker] (https://github.com/mustafaibrahim989/MICountryPicker) - Swift country picker with search option
+* [MIBadgeButton](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons
+* [MICountryPicker](https://github.com/mustafaibrahim989/MICountryPicker) - Swift country picker with search option
 * [Pagemenu](https://github.com/uacaps/PageMenu) - Pagination enabled view controller.
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift.
 * [MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) - MZFormSheetPresentationController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.

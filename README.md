@@ -46,7 +46,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
     - [Other](#other)
   - [Date](#date)
   - [Embedded Systems](#embedded-systems)
-    - [Peripherals](#peripherals) 
+    - [Peripherals](#peripherals)
   - [Events](#events)
   - [Fonts](#fonts)
   - [Gesture](#gesture)
@@ -851,6 +851,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift.
 * [Persei](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
+* [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 
 #### Permissions
 

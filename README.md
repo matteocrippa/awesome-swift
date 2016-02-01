@@ -45,6 +45,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
     - [ZIP](#zip)
     - [Other](#other)
   - [Date](#date)
+  - [Embedded Systems](#embedded-systems)
+    - [Peripherals](#peripherals) 
   - [Events](#events)
   - [Fonts](#fonts)
   - [Gesture](#gesture)
@@ -407,6 +409,16 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer)
 * [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions in Swift.
+
+### Embedded Systems
+*Build your embedded Linux projects in Swift on a RaspberryPi, BeagleBone, C.H.I.P. and other boards.*
+* [SMBus-swift](https://github.com/Sephiroth87/SMBus-swift) 🐧 - Communicate with SMBus/I2C devices.
+* [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) 🐧 - Interact with Linux GPIO/SPI/PWM on ARM.
+
+#### Peripherals
+*Interact with specific external peripherals.*
+* [Scroll-phat-swift](https://github.com/Sephiroth87/scroll-phat-swift) 🐧 - Control the Pimoroni Scroll pHAT.
+* [5110LCD_PCD8544.swift](https://github.com/uraimo/5110LCD_PCD8544.swift) 🐧 - Nokia3310/5110 PCD8544 Monochrome LCD display library.
 
 ### Events
 *Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.*

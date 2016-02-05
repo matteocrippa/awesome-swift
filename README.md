@@ -963,7 +963,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [generator-swift-framework](https://github.com/cybertk/generator-swift-framework) - Scaffolds out a Xcode framework project based on Swift 2.0.
 * [swamp](https://github.com/robb/swamp) - Icon stamping in Swift.
-* [SwiftLint](https://github.com/realm/SwiftLint) - A Swift linting tool to enforce quality standards.
 
 ### Documentation
 *Generate documentation for Swift code*

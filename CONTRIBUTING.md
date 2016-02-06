@@ -24,5 +24,6 @@ When adding new items, please adhere to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should include a link to the package and why it should be included.
+- Please sort any new entry in alphabetical order.
 
 Thank you for your suggestions!

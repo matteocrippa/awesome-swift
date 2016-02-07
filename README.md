@@ -64,6 +64,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
   - [Maps](#maps)
   - [Math](#math)
   - [Network](#network)
+    - [Html](#html)  
     - [Webserver](#webserver)
     - [Websocket](#websocket)
   - [Quality](#quality)
@@ -390,7 +391,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [AEXML](https://github.com/tadija/AEXML) - xml wrapper.
 * [AlamofireXmlToObjects](https://github.com/evermeer/AlamofireXmlToObjects) - An Alamofire extension for fetching an XML feed and parsing it into objects.
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support in Swift 2.
-* [Ji](https://github.com/honghaoz/Ji) - an XML/HTML parser for Swift.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift.
 * [XMLParser](https://github.com/Mozharovsky/XMLParser) - A lightweight XMLParser for assembling and parsing XML values written for iOS 8+ in Swift 2.
 
@@ -605,6 +605,12 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
 * [Transporter](https://github.com/nghialv/Transporter) - A tiny library makes uploading and downloading easier.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
+
+#### Html
+*Need to manipulate contents from html easily?*
+* [Ji](https://github.com/honghaoz/Ji) - an XML/HTML parser for Swift.
+* [Kanna](https://github.com/tid-kijyun/Kanna) - another XML/HTML parser for Swift.
+
 
 #### Webserver
 *Would you like host a webserver in your device? Here you can find how to do it.*

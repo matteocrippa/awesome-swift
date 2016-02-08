@@ -225,7 +225,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Animation
 *Libs to help with animation*
 
-* [Animo](https://github.com/JohnEstropia/Animo) - SpriteKit-like animation builders for CALayers.
+* [Animo](https://github.com/eure/Animo) - SpriteKit-like animation builders for CALayers.
 * [Cheetah](https://github.com/suguru/Cheetah) - An animation library on iOS with Swift 2.
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Easy to read and write chainable animations in Swift.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level.
@@ -887,7 +887,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 *Some interesting utilities to help you in your projects*
 
 * [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects.
-* [AppVersionMonitor](https://github.com/muukii/AppVersionMonitor) - Monitor iOS app version easily.
+* [AppVersionMonitor](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
 * [ArrayDiff](https://github.com/Adlai-Holler/ArrayDiff) - a fast, UITableView/UICollectionView-compatible array diffing microframework.
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your Swift project.
 * [Basis](https://github.com/typelift/Basis) - Pure Declarative Programming in Swift.

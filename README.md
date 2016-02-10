@@ -31,6 +31,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
   - [Audio](#audio)
   - [API](#api)
   - [Bluetooth](#bluetooth)
+  - [Camera](#camera)
   - [Chat](#chat)
   - [Colors](#colors)
   - [Command Line](#command-line)
@@ -269,6 +270,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [BlueCap](https://github.com/troystribling/BlueCap) - BlueCap provides a swift wrapper around CoreBluetooth and much more.
 * [BluetoothKit](https://github.com/rasmusth/BluetoothKit) - A much simpler, high-level Swift API to allow easy communication between iOS devices using Bluetooth 4.0 LE.
 
+### Camera
+*Awesome camera libs*
+
+* [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
 
 
 ### Chat

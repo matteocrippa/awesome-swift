@@ -707,6 +707,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
 * [Regex](https://github.com/brynbellomy/Regex) - Swift wrapper class for `NSRegularExpression`.  Includes a `map()` override and an operator (`=~`) for a more Swift-like API.
 * [Roman](https://github.com/nvzqz/Roman) 🐧 - Seamless Roman numeral conversion in Swift.
+* [SwiftString](https://github.com/amayne/SwiftString) - A lightweight string extension for Swift.
 * [SwiftVerbalExpressions](https://github.com/VerbalExpressions/SwiftVerbalExpressions) - VerbalExpressions porting for swift
 * [SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting.
 

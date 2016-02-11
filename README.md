@@ -526,6 +526,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [ManualLayout](https://github.com/isair/ManualLayout) - Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.
 * [Neon](https://github.com/mamaral/Neon) - A powerful Swift programmatic UI layout framework.
 * [Static](https://github.com/venmo/Static) - A simple static table views for iOS in Swift.
+* [Stevia](https://github.com/s4cha/Stevia) - Elegant way to manage layout.
 * [SwiftBox](https://github.com/joshaber/SwiftBox) - Flexbox in Swift, using Facebook's css-layout.
 * [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - Confirm view positions with executing app.
 

@@ -1,4 +1,3 @@
-# Awesome Swift
 <h1 align="center">
 	<br>
 	<img width="400" src="https://raw.githubusercontent.com/mertnesvat/awesome-swift/master/assets/icon.svg" alt="awesome">
@@ -6,6 +5,7 @@
 	<br>
 	<br>
 </h1>
+# Awesome Swift
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 

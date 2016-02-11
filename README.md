@@ -795,6 +795,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [PKHUD](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation.
 * [PPSwiftGifs](https://github.com/peterprokop/PPSwiftGifs) - a convenient way to show animated GIF images as a part of iOS GUI.
+* [Reel search](https://github.com/Ramotion/reel-search) - Option list managed as a reel.
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect) - Recreating Apple’s rubber band effect in Swift.
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller.
 * [Sapporo](https://github.com/nghialv/Sapporo) - A cellmodel-driven CollectionView manager for Swift.

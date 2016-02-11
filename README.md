@@ -1,7 +1,7 @@
 # Awesome Swift
 <h1 align="center">
 	<br>
-	<img width="400" src="/assets/icon.svg" alt="awesome">
+	<img width="400" src="https://github.com/mertnesvat/awesome-swift/blob/master/assets/icon.svg" alt="awesome">
 	<br>
 	<br>
 	<br>

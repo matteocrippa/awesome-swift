@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img width="400" src="https://raw.githubusercontent.com/mertnesvat/awesome-swift/master/assets/logo.svg" alt="awesome">
+	<img width="400" src="http://imgh.us/logo_192.svg" alt="awesome">
 	<br>
 	<br>
 	<br>

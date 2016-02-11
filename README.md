@@ -1,6 +1,11 @@
 # Awesome Swift
-![Awesome Swift](https://raw.githubusercontent.com/matteocrippa/awesome-swift/master/assets/icon.png) 
-
+<h1 align="center">
+	<br>
+	<img width="400" src="https://raw.githubusercontent.com/matteocrippa/awesome-swift/master/assets/icon.svg" alt="awesome">
+	<br>
+	<br>
+	<br>
+</h1>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 

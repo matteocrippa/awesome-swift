@@ -273,8 +273,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ### Camera
 *Awesome camera libs*
 
+* [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - Camera view controller with custom image picker and image cropping.
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
-
 
 ### Chat
 

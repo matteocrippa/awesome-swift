@@ -101,6 +101,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [2048](https://github.com/austinzheng/swift-2048) - 2048 demo game in Swift.
 * [Alarm](https://github.com/ChrisChares/swift-alarm) - an alarm app in Swift.
+* [Cafe](https://github.com/flexih/Cafe) - Cafe App in Swift.
 * [Chat](https://github.com/acani/Chats) - chat like app implementation in Swift.
 * [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List) - a cloudkit based to do list.
 * [DeckRocket](https://github.com/jpsim/DeckRocket) - deckrocket porting in Swift.

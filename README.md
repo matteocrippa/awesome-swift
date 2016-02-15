@@ -668,6 +668,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library written in Swift.
 * [OpenSSL] (https://github.com/Zewo/OpenSSL) 🐧 - OpenSSL helpers for Swift 2.2 on Linux.
 * [SweetHMAC](https://github.com/jancassio/SweetHMAC) - A tiny and easy to use Swift class to encrypt strings using HMAC algorithms.
+* [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and OS X.
 * [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - add crypto toolkit in Swift.
 
 #### Keychain

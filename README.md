@@ -182,6 +182,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Apple Swift Guide](https://github.com/swifteducation) - Official guide by Apple about swift.
 
 ### Third party Guides
+* [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - A cool 30 days tutorial for swift.
 * [A better way to learn Swift](https://github.com/GoThinkster/swift) - Learn Swift in a different way.
 * [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - An organized list of essential Swift Language Topics
 * [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.

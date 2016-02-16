@@ -631,7 +631,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Curassow](https://github.com/kylef/Curassow) 🐧 - Swift HTTP server using the pre-fork worker model.
 * [Blackfish](https://github.com/elliottminns/blackfish) 🐧 - HTTP Webserver inspired by Express.js.
 * [Dynamo](https://github.com/johnno1962/Dynamo) & [DynamoLinux](https://github.com/johnno1962/DynamoLinux) 🐧 - High Performance (nearly)100% Swift Web server supporting dynamic content.
-* [Epoch](https://github.com/zewo/epoch) 🐧 - Venice based HTTP server for Swift 2.2 on Linux.
 * [Frank](https://github.com/nestproject/Frank) 🐧 - Frank is a DSL for quickly writing web applications in Swift.
 * [http4swift](https://github.com/takebayashi/http4swift) 🐧 - A simple HTTP server written in Swift.
 * [Kunugi](https://github.com/novi/Kunugi) 🐧 - Minimal web framework and middleware for Swift.
@@ -644,6 +643,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Trevi](https://github.com/Yoseob/Trevi) - A powerful Swift Web Application Server Framework Project.
 * [Vapor](https://github.com/tannernelson/vapor) 🐧 - Simple backend in swift
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
+* [Zewo](https://github.com/Zewo/Zewo) 🐧 - Server-Side Swift.
 
 #### Websocket
 

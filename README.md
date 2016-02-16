@@ -531,6 +531,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Static](https://github.com/venmo/Static) - A simple static table views for iOS in Swift.
 * [Stevia](https://github.com/s4cha/Stevia) - Elegant way to manage layout.
 * [SwiftBox](https://github.com/joshaber/SwiftBox) - Flexbox in Swift, using Facebook's css-layout.
+* [UIViewprint](https://github.com/alexwinston/UIViewprint) - Swift iOS view layout reimagined.
 * [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - Confirm view positions with executing app.
 
 

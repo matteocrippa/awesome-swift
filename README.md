@@ -28,6 +28,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
   - [Vim](#vim)
 - [Libs](#libs)
   - [Animation](#animation)
+  - [App Routing](#app-routing)
   - [App Store](#app-store)
   - [Audio](#audio)
   - [API](#api)
@@ -242,6 +243,12 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [Presentation](https://github.com/hyperoslo/Presentation) - A Swift library to help you to make tutorials, release notes and animated pages.
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
+
+### App Routing
+*Internal app routing systems.*
+
+* [IKRouter](https://github.com/IanKeen/IKRouter) - URLScheme router than supports auto creation of UIViewControllers.
+* [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing for Swift.
 
 ### App Store
 *Libs to help with apple app store, in app purchases and receipt validation.*

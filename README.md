@@ -1,5 +1,5 @@
 # Awesome Swift
-![Awesome Swift](https://raw.githubusercontent.com/matteocrippa/awesome-swift/master/assets/icon.png) 
+![Awesome Swift](https://raw.githubusercontent.com/matteocrippa/awesome-swift/master/assets/icon.png)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -348,6 +348,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 #### Files
 * [CFileWrapper] (https://github.com/divadretlaw/CFileWrapper) 🐧 - Read/Write files in Swift without Foundation.
+* [FileBrowser](https://github.com/marmelroy/FileBrowser) - Powerful Swift file browser for iOS.
 * [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift.
 * [PathKit](https://github.com/kylef/PathKit) 🐧 - Effortless path operations in Swift.
 

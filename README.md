@@ -766,6 +766,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [CKPickerView](https://github.com/cybertk/CKPickerView) - A UIPickerView drop-in replacement with support for titles and Selection Indicator customization.
 * [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
 * [Dodo](https://github.com/marketplacer/Dodo) - A message bar for iOS written in Swift.
+* [EPShapes](https://github.com/ipraba/EPShapes) - Create shapes(Polygons, Stars, Hearts, Arrows) in Interface builder.
 * [EstMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) - Music play indicator like iTunes
 * [EZLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD.
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController) -  :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages.

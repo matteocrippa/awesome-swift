@@ -1,5 +1,8 @@
 # Awesome Swift
-![Awesome Swift](https://raw.githubusercontent.com/matteocrippa/awesome-swift/master/assets/icon.png) 
+![Awesome Swift](https://raw.githubusercontent.com/matteocrippa/awesome-swift/master/assets/icon.png)
+
+[![Awesome Swift App](https://raw.githubusercontent.com/matteocrippa/awesome-swift/master/assets/appstore.png)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427?ls=1&mt=8)
+
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -28,6 +31,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
   - [Vim](#vim)
 - [Libs](#libs)
   - [Animation](#animation)
+  - [App Routing](#app-routing)
   - [App Store](#app-store)
   - [Audio](#audio)
   - [API](#api)
@@ -243,6 +247,12 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Presentation](https://github.com/hyperoslo/Presentation) - A Swift library to help you to make tutorials, release notes and animated pages.
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
 
+### App Routing
+*Internal app routing systems.*
+
+* [IKRouter](https://github.com/IanKeen/IKRouter) - URLScheme router than supports auto creation of UIViewControllers.
+* [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing for Swift.
+
 ### App Store
 *Libs to help with apple app store, in app purchases and receipt validation.*
 
@@ -348,6 +358,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 #### Files
 * [CFileWrapper] (https://github.com/divadretlaw/CFileWrapper) 🐧 - Read/Write files in Swift without Foundation.
+* [FileBrowser](https://github.com/marmelroy/FileBrowser) - Powerful Swift file browser for iOS.
 * [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift.
 * [PathKit](https://github.com/kylef/PathKit) 🐧 - Effortless path operations in Swift.
 
@@ -601,6 +612,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Alamofire](https://github.com/Alamofire/Alamofire) 🐧 - elegant networking in Swift.
 * [APIKit](https://github.com/ishkawa/APIKit) - a library for building type-safe web API client.
 * [BigBrother](https://github.com/marcelofabri/BigBrother) - Automatically sets the network activity indicator for any performed request.
+* [Endpoint](https://github.com/devxoul/Endpoint) - :rocket: Elegant API Abstraction for Swift.
 * [GRequest](https://github.com/lingoer/GRequest) - http request handler.
 * [Heimdallr.swift](https://github.com/rheinfabrik/Heimdallr.swift) - Easy to use OAuth 2 library for iOS, written in Swift.
 * [Just](https://github.com/JustHTTP/Just) - HTTP for Humans (a python-requests style HTTP library in Swift).
@@ -637,6 +649,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Curassow](https://github.com/kylef/Curassow) 🐧 - Swift HTTP server using the pre-fork worker model.
 * [Blackfish](https://github.com/elliottminns/blackfish) 🐧 - HTTP Webserver inspired by Express.js.
 * [Dynamo](https://github.com/johnno1962/Dynamo) & [DynamoLinux](https://github.com/johnno1962/DynamoLinux) 🐧 - High Performance (nearly)100% Swift Web server supporting dynamic content.
+* [Express](https://github.com/crossroadlabs/Express) - Swift Web Application framework, supporting both Synchronous and Asynchronous (Futures based) styles. Inspired by Play framework and Express.js.
 * [Frank](https://github.com/nestproject/Frank) 🐧 - Frank is a DSL for quickly writing web applications in Swift.
 * [http4swift](https://github.com/takebayashi/http4swift) 🐧 - A simple HTTP server written in Swift.
 * [Kunugi](https://github.com/novi/Kunugi) 🐧 - Minimal web framework and middleware for Swift.
@@ -724,8 +737,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [Format](https://github.com/marmelroy/Format) - Swift formatting kit for numbers, addresses and colors.
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
-* [Regex](https://github.com/brynbellomy/Regex) - Swift wrapper class for `NSRegularExpression`.  Includes a `map()` override and an operator (`=~`) for a more Swift-like API.
-* [Regex](https://github.com/crossroadlabs/Regex) - very easy to use, Regular Expressions library with rich functionality. Features both operator `=~` and method based APIs. Unit tests covered.
+* [Regex by brynbellomy](https://github.com/brynbellomy/Regex) - Swift wrapper class for `NSRegularExpression`.  Includes a `map()` override and an operator (`=~`) for a more Swift-like API.
+* [Regex by crossroadlabs](https://github.com/crossroadlabs/Regex) - very easy to use, Regular Expressions library with rich functionality. Features both operator `=~` and method based APIs. Unit tests covered.
 * [Roman](https://github.com/nvzqz/Roman) 🐧 - Seamless Roman numeral conversion in Swift.
 * [SwiftString](https://github.com/amayne/SwiftString) - A lightweight string extension for Swift.
 * [SwiftVerbalExpressions](https://github.com/VerbalExpressions/SwiftVerbalExpressions) - VerbalExpressions porting for swift
@@ -764,6 +777,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [CKPickerView](https://github.com/cybertk/CKPickerView) - A UIPickerView drop-in replacement with support for titles and Selection Indicator customization.
 * [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
 * [Dodo](https://github.com/marketplacer/Dodo) - A message bar for iOS written in Swift.
+* [EPShapes](https://github.com/ipraba/EPShapes) - Create shapes(Polygons, Stars, Hearts, Arrows) in Interface builder.
 * [EstMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) - Music play indicator like iTunes
 * [EZLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD.
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController) -  :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages.
@@ -889,7 +903,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 #### Transition
 
-* [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - Bubble transition in a easy way.
+* [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - Bubble transition in an easy way.
 * [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - An interactive transition that simulates an elastic drag.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition) - Custom interactive transition like Apple Music iOS App. written in Swift.
 * [PinterestSwift](https://github.com/demonnico/PinterestSwift) - Pinterest style transition.
@@ -973,6 +987,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Then](https://github.com/devxoul/Then) - ✨ Super sweet syntactic sugar for Swift initializers.
 * [undefined](https://github.com/weissi/swift-undefined) - Nano framework which defines Haskell's undefined in Swift.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.
+* [VersionsTracker](https://github.com/martnst/VersionsTracker) - Keeping track of version installation history including dates.
 * [Wyrd](https://github.com/explicitcall/Wyrd) - Asynchronous programming in Swift made easy. Wyrd is inspired by Promises/A+.
 
 ### Video

@@ -470,6 +470,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [SignalKit](https://github.com/yankodimitrov/SignalKit) - Swift event and binding framework.
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
+* [When](https://github.com/vadymmarkov/When) - A lightweight implementation of Promises in Swift.
 
 ### Fonts
 

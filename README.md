@@ -469,6 +469,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Safe](https://github.com/tidwall/Safe) - A modern concurrency and synchronization for Swift.
 * [SignalKit](https://github.com/yankodimitrov/SignalKit) - Swift event and binding framework.
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
+* [SSEventFlow](https://github.com/neoneye/SSEventFlow) - A type safe alternative to NSNotification, inspired by Flux.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 * [When](https://github.com/vadymmarkov/When) - A lightweight implementation of Promises in Swift.
 

@@ -6,6 +6,63 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+- [Awesome Swift](#awesome-swift)
+    - [Demo Apps](#demo-apps)
+        - [iOS](#ios)
+            - [Apple Watch](#watch)
+        - [OS X](#os-x)
+    - [Dependency Managers](#dependency-managers)
+    - [Guides](#guides)
+    - [Patterns](#patterns)
+    - [Editor Support](#editor-support)
+        - [Emacs](#emacs)
+        - [Vim](#vim)
+        - [Xcode](#xcode)
+    - [Libs](#libs)
+        - [Animation](#animation)
+        - [Audio](#audio)
+        - [API](#api)
+        - [Colors](#colors)
+        - [Concurrency](#concurrency)
+        - [Cryptography](#cryptography)
+        - [Data Management](#data-management)
+            - [Core Data](#core-data)
+            - [Realm](#realm)
+            - [Files](#files)
+            - [JSON](#json)
+            - [Key Value Store](#key-value-store)
+            - [SQLite](#sqlite)
+            - [XML](#xml)
+        - [Date](#date)
+        - [Events](#events)
+        - [Fonts](#fonts)
+        - [Gesture](#gesture)
+        - [iBeacon](#ibeacon)
+        - [Images](#images)
+        - [Keyboard](#keyboard)
+        - [Key Value Coding](#key-value-coding)
+        - [Layout](#layout)
+        - [Localization](#localization)
+        - [Location](#location)
+        - [Logging](#logging)
+        - [Maps](#maps)
+        - [Math](#math)
+        - [Network](#network)
+        	- [Websocket](#websocket)
+        - [Quality](#quality)
+        - [Security](#security)
+        - [System](#system)
+        - [Testing](#testing)
+        - [Text](#text)
+          - [Phone Numbers](#phone-numbers)
+        - [UI](#ui)
+			- [Blur](#blur)
+        - [Utility](#utility)
+        - [Video](#video)
+        - [Webserver](#webserver)
+    - [Misc](#misc)
+    - [Tools](#tools)
+        - [Documentation](#documentation)
 
 A curated list of awesome Swift frameworks, libraries, and software for iOS / OSX / tvOS / watchOS and Linux.
 ``` swift
@@ -14,7 +71,7 @@ let 🐧 = Linux.Ready
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!
+Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!
 
 ### Contents
 
@@ -29,6 +86,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 - [Editor Support](#editor-support)
   - [Emacs](#emacs)
   - [Vim](#vim)
+  - [Xcode](#xcode)
 - [Libs](#libs)
   - [Animation](#animation)
   - [App Routing](#app-routing)
@@ -232,6 +290,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [swift-vim](https://github.com/keith/swift.vim) - play Swift with vim editor.
 * [vim-polyglot](https://github.com/sheerun/vim-polyglot) - language pack for vim that includes vim-swift.
 * [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds Swift support to vim. It covers syntax, indenting, and more.
+
+### Xcode
+
+* [SwiftSnippets](https://github.com/ElliottFrench/SwiftSnippets) - Swift 2 code snippets and generation script for Xcode.
 
 ## Libs
 *Here you can find a list of snippets and libs for your Swift projects.*

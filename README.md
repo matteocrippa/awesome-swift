@@ -663,6 +663,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Swift-Server](https://github.com/cezarywojcik/Swift-Server) - Currently, a very basic proof-of-concept Swift HTTP server that does not require Foundation.
 * [swifter](https://github.com/glock45/swifter) 🐧 - Http server written in Swift with routing handler.
 * [SwiftyHTTP](https://github.com/AlwaysRightInstitute/SwiftyHTTP) - A simple GCD based HTTP client and server, written in 'pure' Swift.
+* [Swifton](https://github.com/necolt/Swifton) 🐧 - A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X.
 * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift.
 * [Trevi](https://github.com/Yoseob/Trevi) - A powerful Swift Web Application Server Framework Project.
 * [Vapor](https://github.com/qutheory/vapor) 🐧 - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.

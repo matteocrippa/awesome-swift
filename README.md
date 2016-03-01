@@ -605,7 +605,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [DDMathParser](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
 * [Easy-Cal-Swift](https://github.com/onevcat/Easy-Cal-Swift) - Overload +-*/ operator for Swift, make it easier to use (and not so strict).
 * [PlotKit](https://github.com/aleph7/PlotKit) - Plots made easy.
-* [swix](https://github.com/scottsievert/swix) - A general matrix language.
+* [swix](https://github.com/stsievert/swix) - A general matrix language.
 * [Upsurge](https://github.com/aleph7/Upsurge) - Simple and fast matrix and vector math for Swift.
 
 
@@ -661,7 +661,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [NetworkObjects](https://github.com/colemancda/NetworkObjects) - REST HTTP Server written in Swift. Builds REST API from Core Data.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) 🐧 - Server-side Swift. The Perfect library, application server, connectors and example apps.
 * [Swift-Server](https://github.com/cezarywojcik/Swift-Server) - Currently, a very basic proof-of-concept Swift HTTP server that does not require Foundation.
-* [swifter](https://github.com/glock45/swifter) 🐧 - Http server written in Swift with routing handler.
+* [swifter](https://github.com/httpswift/swifter) 🐧 - Http server written in Swift with routing handler.
 * [SwiftyHTTP](https://github.com/AlwaysRightInstitute/SwiftyHTTP) - A simple GCD based HTTP client and server, written in 'pure' Swift.
 * [Swifton](https://github.com/necolt/Swifton) 🐧 - A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X.
 * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift.

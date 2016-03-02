@@ -25,6 +25,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [OS X](#os-x)
 - [Dependency Managers](#dependency-managers)
 - [Guides](#guides)
+- [Boilerplates](#boilerplates)
 - [Patterns](#patterns)
 - [Editor Support](#editor-support)
   - [Emacs](#emacs)
@@ -215,6 +216,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich Swift guide, a must read.
 * [SlideShare (LinkedIn)](https://github.com/SlideShareInc/swift-style-guide) - Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.
 * [Swift-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices/) - Best practices for software development with Swift.
+
+## Boilerplates
+* [SwiftBoilerplate](https://github.com/JeremyWeir/SwiftBoilerplate) - Swift boilerplate for communication between iOS app and watchKit.
+* [Swift Off](https://github.com/goprimer/swift-off) - Swift starting point includes Firebase, Crashing Reporting, Signup & more.
+* [Webview Boilerplate](https://github.com/nabilfreeman/ios-universal-webview-boilerplate) - Swift starting point for webview app.
 
 ## Patterns
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns implemented in Swift.

@@ -625,6 +625,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Moya](https://github.com/Moya/Moya) - network abstraction layer.
 * [Net](https://github.com/nghialv/Net) - an httprequest wrapper.
 * [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, network debugging library in Swift.
+* [NetKit](https://github.com/azizuysal/NetKit) - A Concise HTTP Framework in Swift.
 * [NKMultipeer](https://github.com/nathankot/NKMultipeer) - A testable abstraction over multipeer connectivity
 * [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
 * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS.

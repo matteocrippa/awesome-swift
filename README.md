@@ -830,6 +830,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium scroll style menubar.
 * [MICountryPicker](https://github.com/mustafaibrahim989/MICountryPicker) - Swift country picker with search option.
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift.
+* [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) - Simple parallax header in Swift for UIScrollView.
 * [MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) - MZFormSheetPresentationController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.
 * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
@@ -843,6 +844,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect) - Recreating Apple’s rubber band effect in Swift.
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller.
 * [Sapporo](https://github.com/nghialv/Sapporo) - A cellmodel-driven CollectionView manager for Swift.
+* [SevenSwitch](https://github.com/hyperoslo/SevenSwitch) - iOS7 style drop in replacement for UISwitch.
 * [Siren](https://github.com/ArtSabintsev/Siren) - Inform users when App Store updates are available.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written in Swift.
 * [Sonar](https://github.com/thefuntasty/Sonar) - Cool radar-style view

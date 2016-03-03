@@ -174,6 +174,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Debter](https://github.com/Prontto/Debter) - simple personal debt manager for OS X.
 * [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift.
 * [Helium](https://github.com/JadenGeller/Helium) - floating web browser.
+* [Markoff](https://github.com/thoughtbot/Markoff) - A light-weight Markdown (CommonMark) previewer for OSX.
 * [Panda](https://github.com/pablosproject/Panda-Mac-app) - a simple OSX menu bar application to enable/disable Yosemite dark mode.
 * [RetinAssets](https://github.com/delannoyk/RetinAssets) - a simple app that generates missing images from a scaled images (3x -> 2x and 1x scale).
 

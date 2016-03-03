@@ -246,6 +246,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Animation
 *Libs to help with animation*
 
+* [Advance](https://github.com/storehouse/Advance) - A powerful animation framework for iOS.
 * [Animo](https://github.com/eure/Animo) - SpriteKit-like animation builders for CALayers.
 * [Cheetah](https://github.com/suguru/Cheetah) - An animation library on iOS with Swift 2.
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Easy to read and write chainable animations in Swift.

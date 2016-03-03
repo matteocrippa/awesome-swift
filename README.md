@@ -738,6 +738,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Testing
 *A collection of testing frameworks.*
 
+* [Buildasaur](https://github.com/czechboy0/Buildasaur) - Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. 
 * [CatchingFire](https://github.com/mrackwitz/CatchingFire) - Test Library for Swift's Error Handling.
 * [DVR](https://github.com/venmo/DVR) - A simple network testing framework for Swift.
 * [Erik](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.

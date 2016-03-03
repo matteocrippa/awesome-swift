@@ -35,6 +35,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [App Routing](#app-routing)
   - [App Store](#app-store)
   - [Audio](#audio)
+  - [Authentication](#authentication)
   - [API](#api)
   - [Bluetooth](#bluetooth)
   - [Camera](#camera)
@@ -277,6 +278,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Beethoven](https://github.com/vadymmarkov/Beethoven) - An audio processing Swift library for pitch detection of musical signals.
 * [MusicKit](https://github.com/benzguo/MusicKit) - A framework for composing and transforming music in Swift.
 * [TuningFork](https://github.com/comyarzaheri/TuningFork) - A Simple Tuner for iOS.
+
+### Authentication
+*Easy way to manage auth in your apps.*
+
+* [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
 
 ### API
 

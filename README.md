@@ -158,7 +158,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [VPNOn](https://github.com/lexrus/VPNOn) - vpn handler with Apple Watch support.
 * [Walk Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker) - GPS Walk Tracking app with Core Data.
 
-
 #### Watch
 *A list of Apple watch enabled projects*
 

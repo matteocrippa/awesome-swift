@@ -621,6 +621,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ### Location
 * [SwiftLocation](https://github.com/malcommac/SwiftLocation) - iOS CoreLocation Wrapper made in Swift.
+* [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen in Swift.
 
 ### Math
 * [Arithmosophi](https://github.com/phimage/Arithmosophi) - Set of protocols for Arithmetic and Logical operations.

@@ -18,18 +18,19 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ### Contents
 
+- [Guides](#guides)
+- [Boilerplates](#boilerplates)
+- [Editor Support](#editor-support)
+  - [Emacs](#emacs)
+  - [Vim](#vim)
 - [Demo Apps](#demo-apps)
   - [iOS](#ios)
     - [Apple Watch](#watch)
     - [tvOS](#tvos)
   - [OS X](#os-x)
 - [Dependency Managers](#dependency-managers)
-- [Guides](#guides)
-- [Boilerplates](#boilerplates)
 - [Patterns](#patterns)
-- [Editor Support](#editor-support)
-  - [Emacs](#emacs)
-  - [Vim](#vim)
+- [Misc](#misc)
 - [Libs](#libs)
   - [Animation](#animation)
   - [App Routing](#app-routing)
@@ -56,6 +57,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [ZIP](#zip)
     - [Other](#other)
   - [Date](#date)
+  - [Documentation](#documentation)
   - [Embedded Systems](#embedded-systems)
     - [Peripherals](#peripherals)
   - [Events](#events)
@@ -97,9 +99,57 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [UITableView](#uitableview)
   - [Utility](#utility)
   - [Video](#video)
-- [Misc](#misc)
-- [Tools](#tools)
-  - [Documentation](#documentation)
+
+## Guides
+*An awesome list of Swift related guides.*
+
+### Official Guides
+* [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
+* [Apple Swift Guide](https://github.com/swifteducation) - Official guide by Apple about swift.
+
+### Third party Guides
+* [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - A cool 30 days tutorial for swift.
+* [A better way to learn Swift](https://github.com/GoThinkster/swift) - Learn Swift in a different way.
+* [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - An organized list of essential Swift Language Topics
+* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
+* [Hacking With Swift](https://www.hackingwithswift.com) - Complete Swift training course that teaches app development through 30 hands-on projects, for free. Everything is taught as part of a practical project, so you can immediately apply your knowledge as you learn ([projects source code](https://github.com/twostraws/HackingWithSwift)).
+* [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning Swift via playground.
+* [Natasha the Robot](https://www.natashatherobot.com/) - Weekly Newsletter on learning Swift
+* [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn Swift.
+* [RxSwift Community](http://community.rxswift.org/) - Libraries, guides & projects that support [`RxSwift`](https://github.com/ReactiveX/RxSwift)
+* [Swift A Day](https://github.com/lindadong/swift-a-day) - Daily swift experiments by Linda Dong.
+* [Swift Sandbox Newsletter](http://swiftsandbox.io) - Swift Sandbox is a weekly newsletter containing a collection of links to the best Swift **code** and **developer tools**. Every Friday. **Free**.
+* [Swift Tips](https://github.com/jbrennan/swift-tips) - Swift tips collection.
+* [Swift-Weekly](https://github.com/vandadnp/swift-weekly) - Weekly Swift Language Gems, Tips and Tricks.
+* [SwiftDoc](http://swiftdoc.org/) - Auto-generated documentation for Swift.
+* [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A Chinese written guide for Swift.
+* [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for Swift.
+* [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - App to learn to code in Swift.
+
+### Style Guides
+* [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
+* [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich Swift guide, a must read.
+* [SlideShare (LinkedIn)](https://github.com/SlideShareInc/swift-style-guide) - Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.
+* [Swift-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices/) - Best practices for software development with Swift.
+
+## Boilerplates
+* [SwiftBoilerplate](https://github.com/JeremyWeir/SwiftBoilerplate) - Swift boilerplate for communication between iOS app and watchKit.
+* [Swift Off](https://github.com/goprimer/swift-off) - Swift starting point includes Firebase, Crashing Reporting, Signup & more.
+* [Webview Boilerplate](https://github.com/nabilfreeman/ios-universal-webview-boilerplate) - Swift starting point for webview app.
+
+## Editor Support
+
+*Support for your favorite editors.*
+
+### Emacs
+
+* [swift-mode](https://github.com/chrisbarrett/swift-mode) - Emacs Swift support, including partial flycheck error support.
+
+### Vim
+
+* [swift-vim](https://github.com/keith/swift.vim) - play Swift with vim editor.
+* [vim-polyglot](https://github.com/sheerun/vim-polyglot) - language pack for vim that includes vim-swift.
+* [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds Swift support to vim. It covers syntax, indenting, and more.
 
 ## Demo Apps
 *Some interesting demo/poc apps written in Swift.*
@@ -190,59 +240,21 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Conche](https://github.com/Conche/Conche) - Swift build system and dependency manager.
 * [swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language.
 
-## Guides
-*An awesome list of Swift related guides.*
-
-### Official Guides
-* [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
-* [Apple Swift Guide](https://github.com/swifteducation) - Official guide by Apple about swift.
-
-### Third party Guides
-* [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - A cool 30 days tutorial for swift.
-* [A better way to learn Swift](https://github.com/GoThinkster/swift) - Learn Swift in a different way.
-* [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - An organized list of essential Swift Language Topics
-* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
-* [Hacking With Swift](https://www.hackingwithswift.com) - Complete Swift training course that teaches app development through 30 hands-on projects, for free. Everything is taught as part of a practical project, so you can immediately apply your knowledge as you learn ([projects source code](https://github.com/twostraws/HackingWithSwift)).
-* [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning Swift via playground.
-* [Natasha the Robot](https://www.natashatherobot.com/) - Weekly Newsletter on learning Swift
-* [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn Swift.
-* [RxSwift Community](http://community.rxswift.org/) - Libraries, guides & projects that support [`RxSwift`](https://github.com/ReactiveX/RxSwift)
-* [Swift A Day](https://github.com/lindadong/swift-a-day) - Daily swift experiments by Linda Dong.
-* [Swift Sandbox Newsletter](http://swiftsandbox.io) - Swift Sandbox is a weekly newsletter containing a collection of links to the best Swift **code** and **developer tools**. Every Friday. **Free**.
-* [Swift Tips](https://github.com/jbrennan/swift-tips) - Swift tips collection.
-* [Swift-Weekly](https://github.com/vandadnp/swift-weekly) - Weekly Swift Language Gems, Tips and Tricks.
-* [SwiftDoc](http://swiftdoc.org/) - Auto-generated documentation for Swift.
-* [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A Chinese written guide for Swift.
-* [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for Swift.
-* [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - App to learn to code in Swift.
-
-### Style Guides
-* [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
-* [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich Swift guide, a must read.
-* [SlideShare (LinkedIn)](https://github.com/SlideShareInc/swift-style-guide) - Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.
-* [Swift-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices/) - Best practices for software development with Swift.
-
-## Boilerplates
-* [SwiftBoilerplate](https://github.com/JeremyWeir/SwiftBoilerplate) - Swift boilerplate for communication between iOS app and watchKit.
-* [Swift Off](https://github.com/goprimer/swift-off) - Swift starting point includes Firebase, Crashing Reporting, Signup & more.
-* [Webview Boilerplate](https://github.com/nabilfreeman/ios-universal-webview-boilerplate) - Swift starting point for webview app.
-
 ## Patterns
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns implemented in Swift.
 
-## Editor Support
+## Misc
+*Miscellaneous Swift related projects*
 
-*Support for your favorite editors.*
-
-### Emacs
-
-* [swift-mode](https://github.com/chrisbarrett/swift-mode) - Emacs Swift support, including partial flycheck error support.
-
-### Vim
-
-* [swift-vim](https://github.com/keith/swift.vim) - play Swift with vim editor.
-* [vim-polyglot](https://github.com/sheerun/vim-polyglot) - language pack for vim that includes vim-swift.
-* [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds Swift support to vim. It covers syntax, indenting, and more.
+* [generator-swift-framework](https://github.com/cybertk/generator-swift-framework) - Scaffolds out a Xcode framework project based on Swift 2.0.
+* [InteractivePlayground](https://github.com/dasdom/InteractivePlayground) - A playground exploring the interactivity of Xcode 7.3 playgrounds.
+* [MAIKit](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and OS X.
+* [sbconstants](https://github.com/paulsamuels/SBConstants) - A nifty tool to generate constants file by grabbing identifiers from storyboards in a Swift project.
+* [swamp](https://github.com/robb/swamp) - Icon stamping in Swift.
+* [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the Swift compiler.
+* [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A suite of tools written in Swift to auto-generate Swift code for various assets of your project.
+* [SwiftHub](https://github.com/sahandnayebaziz/SwiftHub) - A universal app you can use to browse the newest Swift repositories on Github.
+* [swiftier](https://github.com/snej/swiftier) - Quick-and-dirty Objective-C to Swift translator.
 
 ## Libs
 *Here you can find a list of snippets and libs for your Swift projects.*
@@ -460,6 +472,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer)
 * [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions in Swift.
+
+### Documentation
+
+*Generate documentation for Swift code*
+
+* [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C.
+* [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.
 
 ### Embedded Systems
 *Build your embedded Linux projects in Swift on a RaspberryPi, BeagleBone, C.H.I.P. and other boards.*
@@ -1031,26 +1050,3 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Video
 
 * [Player](https://github.com/piemonte/Player) - iOS video player in Swift, simple drop in component for playing and streaming media.
-
-## Misc
-*Miscellaneous Swift related projects*
-
-* [InteractivePlayground](https://github.com/dasdom/InteractivePlayground) - A playground exploring the interactivity of Xcode 7.3 playgrounds.
-* [MAIKit](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and OS X.
-* [sbconstants](https://github.com/paulsamuels/SBConstants) - A nifty tool to generate constants file by grabbing identifiers from storyboards in a Swift project.
-* [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the Swift compiler.
-* [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A suite of tools written in Swift to auto-generate Swift code for various assets of your project.
-* [SwiftHub](https://github.com/sahandnayebaziz/SwiftHub) - A universal app you can use to browse the newest Swift repositories on Github.
-* [swiftier](https://github.com/snej/swiftier) - Quick-and-dirty Objective-C to Swift translator.
-
-## Tools
-*Tools for Swift development*
-
-* [generator-swift-framework](https://github.com/cybertk/generator-swift-framework) - Scaffolds out a Xcode framework project based on Swift 2.0.
-* [swamp](https://github.com/robb/swamp) - Icon stamping in Swift.
-
-### Documentation
-*Generate documentation for Swift code*
-
-* [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C.
-* [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.

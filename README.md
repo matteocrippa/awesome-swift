@@ -50,6 +50,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Files](#files)
     - [JSON](#json)
     - [Key Value Store](#key-value-store)
+    - [MongoDB](#mongodb)
     - [SQLite](#sqlite)
     - [XML](#xml)
     - [ZIP](#zip)
@@ -413,6 +414,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - A Key-Value store for Swift backed by LevelDB.
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) — a cleaner, nicer syntax for NSUserDefaults.
 * [Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
+
+#### MongoDB
+* [SwiftMongoDB](https://github.com/Danappelxx/SwiftMongoDB) - MongoDB connector for Swift.
 
 #### SQLite
 *Are you interested in storing your app data using SQLite? Here are some interesting resources.*

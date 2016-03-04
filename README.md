@@ -155,6 +155,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Valio](https://github.com/soffes/valio) - event time table app in Swift.
 * [VPNOn](https://github.com/lexrus/VPNOn) - vpn handler with Apple Watch support.
 * [Walk Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker) - GPS Walk Tracking app with Core Data.
+* [Tinylog](https://github.com/binarylevel/Tinylog-iOS) - a minimal TODO App written in swift.
 
 #### Watch
 *A list of Apple watch enabled projects*

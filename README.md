@@ -19,6 +19,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Contents
 
 - [Guides](#guides)
+- [Boilerplates](#boilerplates)
+- [Editor Support](#editor-support)
+  - [Emacs](#emacs)
+  - [Vim](#vim)
 - [Demo Apps](#demo-apps)
   - [iOS](#ios)
     - [Apple Watch](#watch)
@@ -26,11 +30,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [OS X](#os-x)
 - [Dependency Managers](#dependency-managers)
 - [Documentation](#documentation)
-- [Boilerplates](#boilerplates)
 - [Patterns](#patterns)
-- [Editor Support](#editor-support)
-  - [Emacs](#emacs)
-  - [Vim](#vim)
 - [Misc](#misc)
 - [Tools](#tools)
 - [Libs](#libs)
@@ -133,6 +133,25 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SlideShare (LinkedIn)](https://github.com/SlideShareInc/swift-style-guide) - Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.
 * [Swift-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices/) - Best practices for software development with Swift.
 
+## Boilerplates
+* [SwiftBoilerplate](https://github.com/JeremyWeir/SwiftBoilerplate) - Swift boilerplate for communication between iOS app and watchKit.
+* [Swift Off](https://github.com/goprimer/swift-off) - Swift starting point includes Firebase, Crashing Reporting, Signup & more.
+* [Webview Boilerplate](https://github.com/nabilfreeman/ios-universal-webview-boilerplate) - Swift starting point for webview app.
+
+## Editor Support
+
+*Support for your favorite editors.*
+
+### Emacs
+
+* [swift-mode](https://github.com/chrisbarrett/swift-mode) - Emacs Swift support, including partial flycheck error support.
+
+### Vim
+
+* [swift-vim](https://github.com/keith/swift.vim) - play Swift with vim editor.
+* [vim-polyglot](https://github.com/sheerun/vim-polyglot) - language pack for vim that includes vim-swift.
+* [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds Swift support to vim. It covers syntax, indenting, and more.
+
 ## Demo Apps
 *Some interesting demo/poc apps written in Swift.*
 
@@ -229,27 +248,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C.
 * [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.
 
-## Boilerplates
-* [SwiftBoilerplate](https://github.com/JeremyWeir/SwiftBoilerplate) - Swift boilerplate for communication between iOS app and watchKit.
-* [Swift Off](https://github.com/goprimer/swift-off) - Swift starting point includes Firebase, Crashing Reporting, Signup & more.
-* [Webview Boilerplate](https://github.com/nabilfreeman/ios-universal-webview-boilerplate) - Swift starting point for webview app.
-
 ## Patterns
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns implemented in Swift.
-
-## Editor Support
-
-*Support for your favorite editors.*
-
-### Emacs
-
-* [swift-mode](https://github.com/chrisbarrett/swift-mode) - Emacs Swift support, including partial flycheck error support.
-
-### Vim
-
-* [swift-vim](https://github.com/keith/swift.vim) - play Swift with vim editor.
-* [vim-polyglot](https://github.com/sheerun/vim-polyglot) - language pack for vim that includes vim-swift.
-* [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds Swift support to vim. It covers syntax, indenting, and more.
 
 ## Misc
 *Miscellaneous Swift related projects*

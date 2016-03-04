@@ -29,7 +29,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [tvOS](#tvos)
   - [OS X](#os-x)
 - [Dependency Managers](#dependency-managers)
-- [Documentation](#documentation)
 - [Patterns](#patterns)
 - [Misc](#misc)
 - [Libs](#libs)
@@ -58,6 +57,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [ZIP](#zip)
     - [Other](#other)
   - [Date](#date)
+  - [Documentation](#documentation)
   - [Embedded Systems](#embedded-systems)
     - [Peripherals](#peripherals)
   - [Events](#events)
@@ -239,13 +239,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - the most used dependency manager for Objective-C and Swift (Swift supported since version 0.36.0).
 * [Conche](https://github.com/Conche/Conche) - Swift build system and dependency manager.
 * [swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language.
-
-## Documentation
-
-*Generate documentation for Swift code*
-
-* [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C.
-* [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.
 
 ## Patterns
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns implemented in Swift.
@@ -479,6 +472,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer)
 * [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions in Swift.
+
+### Documentation
+
+*Generate documentation for Swift code*
+
+* [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C.
+* [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.
 
 ### Embedded Systems
 *Build your embedded Linux projects in Swift on a RaspberryPi, BeagleBone, C.H.I.P. and other boards.*

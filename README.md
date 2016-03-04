@@ -32,7 +32,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [Documentation](#documentation)
 - [Patterns](#patterns)
 - [Misc](#misc)
-- [Tools](#tools)
 - [Libs](#libs)
   - [Animation](#animation)
   - [App Routing](#app-routing)
@@ -254,19 +253,15 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Misc
 *Miscellaneous Swift related projects*
 
+* [generator-swift-framework](https://github.com/cybertk/generator-swift-framework) - Scaffolds out a Xcode framework project based on Swift 2.0.
 * [InteractivePlayground](https://github.com/dasdom/InteractivePlayground) - A playground exploring the interactivity of Xcode 7.3 playgrounds.
 * [MAIKit](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and OS X.
 * [sbconstants](https://github.com/paulsamuels/SBConstants) - A nifty tool to generate constants file by grabbing identifiers from storyboards in a Swift project.
+* [swamp](https://github.com/robb/swamp) - Icon stamping in Swift.
 * [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the Swift compiler.
 * [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A suite of tools written in Swift to auto-generate Swift code for various assets of your project.
 * [SwiftHub](https://github.com/sahandnayebaziz/SwiftHub) - A universal app you can use to browse the newest Swift repositories on Github.
 * [swiftier](https://github.com/snej/swiftier) - Quick-and-dirty Objective-C to Swift translator.
-
-## Tools
-*Tools for Swift development*
-
-* [generator-swift-framework](https://github.com/cybertk/generator-swift-framework) - Scaffolds out a Xcode framework project based on Swift 2.0.
-* [swamp](https://github.com/robb/swamp) - Icon stamping in Swift.
 
 ## Libs
 *Here you can find a list of snippets and libs for your Swift projects.*

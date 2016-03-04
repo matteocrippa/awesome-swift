@@ -18,6 +18,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ### Contents
 
+- [Guides](#guides)
 - [Demo Apps](#demo-apps)
   - [iOS](#ios)
     - [Apple Watch](#watch)
@@ -25,7 +26,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [OS X](#os-x)
 - [Dependency Managers](#dependency-managers)
 - [Documentation](#documentation)
-- [Guides](#guides)
 - [Boilerplates](#boilerplates)
 - [Patterns](#patterns)
 - [Editor Support](#editor-support)
@@ -100,6 +100,38 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [UITableView](#uitableview)
   - [Utility](#utility)
   - [Video](#video)
+
+## Guides
+*An awesome list of Swift related guides.*
+
+### Official Guides
+* [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
+* [Apple Swift Guide](https://github.com/swifteducation) - Official guide by Apple about swift.
+
+### Third party Guides
+* [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - A cool 30 days tutorial for swift.
+* [A better way to learn Swift](https://github.com/GoThinkster/swift) - Learn Swift in a different way.
+* [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - An organized list of essential Swift Language Topics
+* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
+* [Hacking With Swift](https://www.hackingwithswift.com) - Complete Swift training course that teaches app development through 30 hands-on projects, for free. Everything is taught as part of a practical project, so you can immediately apply your knowledge as you learn ([projects source code](https://github.com/twostraws/HackingWithSwift)).
+* [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning Swift via playground.
+* [Natasha the Robot](https://www.natashatherobot.com/) - Weekly Newsletter on learning Swift
+* [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn Swift.
+* [RxSwift Community](http://community.rxswift.org/) - Libraries, guides & projects that support [`RxSwift`](https://github.com/ReactiveX/RxSwift)
+* [Swift A Day](https://github.com/lindadong/swift-a-day) - Daily swift experiments by Linda Dong.
+* [Swift Sandbox Newsletter](http://swiftsandbox.io) - Swift Sandbox is a weekly newsletter containing a collection of links to the best Swift **code** and **developer tools**. Every Friday. **Free**.
+* [Swift Tips](https://github.com/jbrennan/swift-tips) - Swift tips collection.
+* [Swift-Weekly](https://github.com/vandadnp/swift-weekly) - Weekly Swift Language Gems, Tips and Tricks.
+* [SwiftDoc](http://swiftdoc.org/) - Auto-generated documentation for Swift.
+* [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A Chinese written guide for Swift.
+* [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for Swift.
+* [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - App to learn to code in Swift.
+
+### Style Guides
+* [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
+* [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich Swift guide, a must read.
+* [SlideShare (LinkedIn)](https://github.com/SlideShareInc/swift-style-guide) - Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.
+* [Swift-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices/) - Best practices for software development with Swift.
 
 ## Demo Apps
 *Some interesting demo/poc apps written in Swift.*
@@ -196,38 +228,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C.
 * [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.
-
-## Guides
-*An awesome list of Swift related guides.*
-
-### Official Guides
-* [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
-* [Apple Swift Guide](https://github.com/swifteducation) - Official guide by Apple about swift.
-
-### Third party Guides
-* [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - A cool 30 days tutorial for swift.
-* [A better way to learn Swift](https://github.com/GoThinkster/swift) - Learn Swift in a different way.
-* [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - An organized list of essential Swift Language Topics
-* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
-* [Hacking With Swift](https://www.hackingwithswift.com) - Complete Swift training course that teaches app development through 30 hands-on projects, for free. Everything is taught as part of a practical project, so you can immediately apply your knowledge as you learn ([projects source code](https://github.com/twostraws/HackingWithSwift)).
-* [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning Swift via playground.
-* [Natasha the Robot](https://www.natashatherobot.com/) - Weekly Newsletter on learning Swift
-* [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn Swift.
-* [RxSwift Community](http://community.rxswift.org/) - Libraries, guides & projects that support [`RxSwift`](https://github.com/ReactiveX/RxSwift)
-* [Swift A Day](https://github.com/lindadong/swift-a-day) - Daily swift experiments by Linda Dong.
-* [Swift Sandbox Newsletter](http://swiftsandbox.io) - Swift Sandbox is a weekly newsletter containing a collection of links to the best Swift **code** and **developer tools**. Every Friday. **Free**.
-* [Swift Tips](https://github.com/jbrennan/swift-tips) - Swift tips collection.
-* [Swift-Weekly](https://github.com/vandadnp/swift-weekly) - Weekly Swift Language Gems, Tips and Tricks.
-* [SwiftDoc](http://swiftdoc.org/) - Auto-generated documentation for Swift.
-* [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A Chinese written guide for Swift.
-* [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for Swift.
-* [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - App to learn to code in Swift.
-
-### Style Guides
-* [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
-* [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich Swift guide, a must read.
-* [SlideShare (LinkedIn)](https://github.com/SlideShareInc/swift-style-guide) - Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.
-* [Swift-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices/) - Best practices for software development with Swift.
 
 ## Boilerplates
 * [SwiftBoilerplate](https://github.com/JeremyWeir/SwiftBoilerplate) - Swift boilerplate for communication between iOS app and watchKit.

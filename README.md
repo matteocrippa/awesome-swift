@@ -24,6 +24,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [tvOS](#tvos)
   - [OS X](#os-x)
 - [Dependency Managers](#dependency-managers)
+- [Documentation](#documentation)
 - [Guides](#guides)
 - [Boilerplates](#boilerplates)
 - [Patterns](#patterns)
@@ -32,7 +33,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Vim](#vim)
 - [Misc](#misc)
 - [Tools](#tools)
-  - [Documentation](#documentation)
 - [Libs](#libs)
   - [Animation](#animation)
   - [App Routing](#app-routing)
@@ -190,6 +190,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Conche](https://github.com/Conche/Conche) - Swift build system and dependency manager.
 * [swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language.
 
+## Documentation
+
+*Generate documentation for Swift code*
+
+* [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C.
+* [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.
+
 ## Guides
 *An awesome list of Swift related guides.*
 
@@ -260,12 +267,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [generator-swift-framework](https://github.com/cybertk/generator-swift-framework) - Scaffolds out a Xcode framework project based on Swift 2.0.
 * [swamp](https://github.com/robb/swamp) - Icon stamping in Swift.
-
-### Documentation
-*Generate documentation for Swift code*
-
-* [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C.
-* [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.
 
 ## Libs
 *Here you can find a list of snippets and libs for your Swift projects.*

@@ -115,6 +115,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [DeckRocket](https://github.com/jpsim/DeckRocket) - deckrocket porting in Swift.
 * [Edhita](https://github.com/tnantoka/edhita) - text edit app.
 * [Eidolon](https://github.com/artsy/eidolon) - The Artsy auction kiosk app.
+* [Emotion Note](https://github.com/Yogayu/EmotionNote) - a notebook which can feel your emotion.
 * [Federal Open Data](https://github.com/USDepartmentofLabor/Swift-Sample-App) - Get federal Open Data using the Federal Data SDK
 * [Feeds4U](https://github.com/EvgenyKarkan/Feeds4U) - Well architectured RSS reader app written in Swift.
 * [firefox-ios](https://github.com/mozilla/firefox-ios) - firefox for iOS being developed by Mozilla.
@@ -156,7 +157,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Valio](https://github.com/soffes/valio) - event time table app in Swift.
 * [VPNOn](https://github.com/lexrus/VPNOn) - vpn handler with Apple Watch support.
 * [Walk Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker) - GPS Walk Tracking app with Core Data.
-* [Emotion Note](https://github.com/Yogayu/EmotionNote) - a notebook which can feel your emotion.
+
 
 #### Watch
 *A list of Apple watch enabled projects*

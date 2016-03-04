@@ -30,6 +30,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [Editor Support](#editor-support)
   - [Emacs](#emacs)
   - [Vim](#vim)
+- [Misc](#misc)
+- [Tools](#tools)
+  - [Documentation](#documentation)
 - [Libs](#libs)
   - [Animation](#animation)
   - [App Routing](#app-routing)
@@ -97,9 +100,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [UITableView](#uitableview)
   - [Utility](#utility)
   - [Video](#video)
-- [Misc](#misc)
-- [Tools](#tools)
-  - [Documentation](#documentation)
 
 ## Demo Apps
 *Some interesting demo/poc apps written in Swift.*
@@ -243,6 +243,29 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [swift-vim](https://github.com/keith/swift.vim) - play Swift with vim editor.
 * [vim-polyglot](https://github.com/sheerun/vim-polyglot) - language pack for vim that includes vim-swift.
 * [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds Swift support to vim. It covers syntax, indenting, and more.
+
+## Misc
+*Miscellaneous Swift related projects*
+
+* [InteractivePlayground](https://github.com/dasdom/InteractivePlayground) - A playground exploring the interactivity of Xcode 7.3 playgrounds.
+* [MAIKit](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and OS X.
+* [sbconstants](https://github.com/paulsamuels/SBConstants) - A nifty tool to generate constants file by grabbing identifiers from storyboards in a Swift project.
+* [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the Swift compiler.
+* [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A suite of tools written in Swift to auto-generate Swift code for various assets of your project.
+* [SwiftHub](https://github.com/sahandnayebaziz/SwiftHub) - A universal app you can use to browse the newest Swift repositories on Github.
+* [swiftier](https://github.com/snej/swiftier) - Quick-and-dirty Objective-C to Swift translator.
+
+## Tools
+*Tools for Swift development*
+
+* [generator-swift-framework](https://github.com/cybertk/generator-swift-framework) - Scaffolds out a Xcode framework project based on Swift 2.0.
+* [swamp](https://github.com/robb/swamp) - Icon stamping in Swift.
+
+### Documentation
+*Generate documentation for Swift code*
+
+* [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C.
+* [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.
 
 ## Libs
 *Here you can find a list of snippets and libs for your Swift projects.*
@@ -1031,26 +1054,3 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Video
 
 * [Player](https://github.com/piemonte/Player) - iOS video player in Swift, simple drop in component for playing and streaming media.
-
-## Misc
-*Miscellaneous Swift related projects*
-
-* [InteractivePlayground](https://github.com/dasdom/InteractivePlayground) - A playground exploring the interactivity of Xcode 7.3 playgrounds.
-* [MAIKit](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and OS X.
-* [sbconstants](https://github.com/paulsamuels/SBConstants) - A nifty tool to generate constants file by grabbing identifiers from storyboards in a Swift project.
-* [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the Swift compiler.
-* [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A suite of tools written in Swift to auto-generate Swift code for various assets of your project.
-* [SwiftHub](https://github.com/sahandnayebaziz/SwiftHub) - A universal app you can use to browse the newest Swift repositories on Github.
-* [swiftier](https://github.com/snej/swiftier) - Quick-and-dirty Objective-C to Swift translator.
-
-## Tools
-*Tools for Swift development*
-
-* [generator-swift-framework](https://github.com/cybertk/generator-swift-framework) - Scaffolds out a Xcode framework project based on Swift 2.0.
-* [swamp](https://github.com/robb/swamp) - Icon stamping in Swift.
-
-### Documentation
-*Generate documentation for Swift code*
-
-* [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C.
-* [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.

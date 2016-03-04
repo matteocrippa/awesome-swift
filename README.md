@@ -150,6 +150,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Task](https://github.com/mbcrump/TasksForSwiftWithPersistingData) - a task app written in Swift that is published in the app store.
 * [TextEthan](https://github.com/thii/TextEthan) - a clone of TextEthan, a messaging app that allows anyone to message you.
 * [The Oakland Post](https://github.com/aclissold/the-oakland-post) - a full-fledged, 100%-Swift (minus dependencies) news reader.
+* [Tinylog](https://github.com/binarylevel/Tinylog-iOS) - a minimal TODO App written in swift.
 * [To Do App](https://github.com/goprimer/swift-off-todo) - Firebase powered to do app built in Swift, includes tutorial.
 * [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - trySwift! Conference app.
 * [Valio](https://github.com/soffes/valio) - event time table app in Swift.

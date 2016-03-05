@@ -160,6 +160,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [2048](https://github.com/austinzheng/swift-2048) - 2048 demo game in Swift.
 * [Alarm](https://github.com/ChrisChares/swift-alarm) - an alarm app in Swift.
 * [Cafe](https://github.com/flexih/Cafe) - Cafe App in Swift.
+* [Charter](https://github.com/matthewpalmer/Charter) - A Swift mailing list client for iPhone and iPad.
 * [Chat](https://github.com/acani/Chats) - chat like app implementation in Swift.
 * [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List) - a cloudkit based to do list.
 * [DeckRocket](https://github.com/jpsim/DeckRocket) - deckrocket porting in Swift.
@@ -640,6 +641,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ### Location
 * [SwiftLocation](https://github.com/malcommac/SwiftLocation) - iOS CoreLocation Wrapper made in Swift.
+* [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen in Swift.
 
 ### Math
 * [Arithmosophi](https://github.com/phimage/Arithmosophi) - Set of protocols for Arithmetic and Logical operations.
@@ -769,7 +771,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Testing
 *A collection of testing frameworks.*
 
-* [Buildasaur](https://github.com/czechboy0/Buildasaur) - Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. 
+* [Buildasaur](https://github.com/czechboy0/Buildasaur) - Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server.
 * [CatchingFire](https://github.com/mrackwitz/CatchingFire) - Test Library for Swift's Error Handling.
 * [DVR](https://github.com/venmo/DVR) - A simple network testing framework for Swift.
 * [Erik](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.

@@ -1,16 +1,9 @@
 # Awesome Swift
 ![Awesome Swift](https://raw.githubusercontent.com/matteocrippa/awesome-swift/master/.github/icon.png)
 
-[![Awesome Swift App](https://raw.githubusercontent.com/matteocrippa/awesome-swift/master/.github/appstore.png)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427?ls=1&mt=8)
-
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-
-A curated list of awesome Swift frameworks, libraries, and software for iOS / OSX / tvOS / watchOS and Linux.
-``` swift
-let 🐧 = Linux.Ready
-```
+|  Get the app      | Awesome             |  Linux   
+| --- | --- | --- 
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-lightgrey.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ``` 🐧 Linux Ready ```
 
 ### Contributing
 

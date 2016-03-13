@@ -211,6 +211,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 #### tvOS
 *Some cool opensource & swift based apps for tvOS*
+* [GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard) - AppleTv Dashboarding in swift.
 * [NarrativeClip tvOS](https://github.com/NarrativeOP/tvOS-app) - NarrativeClip tvOS app.
 
 

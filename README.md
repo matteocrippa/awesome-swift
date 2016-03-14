@@ -783,6 +783,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *A collection of text projects.*
 
 * [Format](https://github.com/marmelroy/Format) - Swift formatting kit for numbers, addresses and colors.
+* [Markdown](https://github.com/crossroadlabs/Markdown) 🐧 - Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown)
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
 * [Regex by brynbellomy](https://github.com/brynbellomy/Regex) - Swift wrapper class for `NSRegularExpression`.  Includes a `map()` override and an operator (`=~`) for a more Swift-like API.
 * [Regex by crossroadlabs](https://github.com/crossroadlabs/Regex) 🐧 - very easy to use, Regular Expressions library with rich functionality. Features both operator `=~` and method based APIs. Unit tests covered.

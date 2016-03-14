@@ -264,10 +264,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Easy to read and write chainable animations in Swift.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
-* [Morgan](https://github.com/RamonGilabert/Morgan) - An animation engine to make your animations easy and more readable.
+* [Morgan](https://github.com/RamonGilabert/Morgan) - An always growing animation set.
 * [Presentation](https://github.com/hyperoslo/Presentation) - A Swift library to help you to make tutorials, release notes and animated pages.
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
-* [Walker](https://github.com/RamonGilabert/Walker) - An always growing animation set.
+* [Walker](https://github.com/RamonGilabert/Walker) - An animation engine to make your animations easy and more readable.
 
 ### App Routing
 *Internal app routing systems.*

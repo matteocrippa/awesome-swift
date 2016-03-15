@@ -2,7 +2,7 @@
 ![Awesome Swift](https://raw.githubusercontent.com/matteocrippa/awesome-swift/master/.github/icon.png)
 
 |  Get the app      | Awesome             |  Linux   
-| --- | --- | --- 
+| --- | --- | ---
 | [![Download on the App Store](https://img.shields.io/badge/download-app%20store-lightgrey.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ``` 🐧 Linux Ready ```
 
 ### Contributing
@@ -264,8 +264,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Easy to read and write chainable animations in Swift.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
+* [Morgan](https://github.com/RamonGilabert/Morgan) - An always growing animation set.
 * [Presentation](https://github.com/hyperoslo/Presentation) - A Swift library to help you to make tutorials, release notes and animated pages.
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
+* [Walker](https://github.com/RamonGilabert/Walker) - An animation engine to make your animations easy and more readable.
 
 ### App Routing
 *Internal app routing systems.*
@@ -579,7 +581,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Kit
 *Libraries for coding with a simplified API*
 
-* [C4iOS](https://github.com/C4Framework/C4iOS) - Harnesses the power of native iOS programming with a simplified API. 
+* [C4iOS](https://github.com/C4Framework/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
 * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) - A collection of useful classes to develop Apps faster.
 
 ### Layout

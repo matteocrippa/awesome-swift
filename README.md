@@ -888,6 +888,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [StarryStars](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 * [SwiftValidator](https://github.com/jpotts18/SwiftValidator) - UIView validation framework.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) - Lightweight dropdown message bar in Swift.
+* [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps, powered by Swift.
 * [SYBlinkAnimationKit](https://github.com/shoheiyokoyama/SYBlinkAnimationKit) - A blink effect animation framework.
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
 * [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view.

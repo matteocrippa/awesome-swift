@@ -234,7 +234,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Carthage](https://github.com/Carthage/Carthage) - a new dependency manager for Swift.
 * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - the most used dependency manager for Objective-C and Swift (Swift supported since version 0.36.0).
 * [Conche](https://github.com/Conche/Conche) - Swift build system and dependency manager.
-* [swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language.
+* [swift-package-manager](https://github.com/apple/swift-package-manager) - SPM is the Package Manager for the Swift Programming Language.
 
 ## Patterns
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns implemented in Swift.

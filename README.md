@@ -531,6 +531,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - db path recognizer for letters.
 * [PeekPop](https://github.com/marmelroy/PeekPop) - Swift framework for backwards-compatible Peek and Pop.
 * [SwiftyGestureRecognition](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
+* [SwipyCell](https://github.com/moritzsternemann/SwipyCell) - Easy to use UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 * [Tactile](https://github.com/delba/Tactile) - Attach function handlers to gesture and control events in a more expressive and safer way.
 
 ### iBeacon

@@ -625,6 +625,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [CleanroomASL](https://github.com/emaloney/CleanroomASL) 🐧 — Low-level Swift API for writing to and reading from the Apple System Log daemon.
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) 🐧 — Configurable and extensible high-level logging API that is simple, lightweight and performant.
+* [Duration](https://github.com/SwiftStudies/Duration) 🐧 - Lightweight logging library focused on reporting timings for operations.
 * [HeliumLogger](https://github.com/IBM-Swift/HeliumLogger) 🐧 - IBM's lightweight logging framework.
 * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
 * [Puree](https://github.com/cookpad/puree-ios) - A log collector for iOS.
@@ -793,6 +794,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Regex by brynbellomy](https://github.com/brynbellomy/Regex) - Swift wrapper class for `NSRegularExpression`.  Includes a `map()` override and an operator (`=~`) for a more Swift-like API.
 * [Regex by crossroadlabs](https://github.com/crossroadlabs/Regex) 🐧 - very easy to use, Regular Expressions library with rich functionality. Features both operator `=~` and method based APIs. Unit tests covered.
 * [Roman](https://github.com/nvzqz/Roman) 🐧 - Seamless Roman numeral conversion in Swift.
+* [SmarkDown](https://github.com/SwiftStudies/SmarkDown) 🐧 - Markdown processing for Swift, conforming to Gruber's standards.
 * [SwiftString](https://github.com/amayne/SwiftString) - A lightweight string extension for Swift.
 * [SwiftVerbalExpressions](https://github.com/VerbalExpressions/SwiftVerbalExpressions) - VerbalExpressions porting for swift
 * [SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting.

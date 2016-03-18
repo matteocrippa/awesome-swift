@@ -198,6 +198,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Tinylog](https://github.com/binarylevel/Tinylog-iOS) - a minimal TODO App written in swift.
 * [To Do App](https://github.com/goprimer/swift-off-todo) - Firebase powered to do app built in Swift, includes tutorial.
 * [trySwiftApp](https://github.com/tryswift/trySwiftApp) - trySwift! Conference app.
+* [Tropos](https://github.com/thoughtbot/Tropos) - Weather app by toughtbot in swift MVVM.
 * [Valio](https://github.com/soffes/valio) - event time table app in Swift.
 * [VPNOn](https://github.com/lexrus/VPNOn) - vpn handler with Apple Watch support.
 * [Walk Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker) - GPS Walk Tracking app with Core Data.

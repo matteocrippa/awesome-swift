@@ -956,8 +956,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 #### Permissions
 
+* [Permission](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - A Periscope-inspired way to ask for iOS permissions.
-* [Sorry](https://github.com/delba/Sorry) - Ask for iOS permissions through a single, uniform interface.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) - A Swift library to design custom prompts with a great scope of options to choose from.
 
 #### Transition

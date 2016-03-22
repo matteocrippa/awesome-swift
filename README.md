@@ -972,7 +972,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AEAccordion](https://github.com/tadija/AEAccordion) - UITableViewController with accordion effect (expand / collapse cells).
 * [CKTextFieldTableCell](https://github.com/cybertk/CKTextFieldTableCell) - UITableViewCell drop-in replacement with support of UITextField.
-* [CollapsableTable](https://github.com/rob-nash/CollapsableTable-Swift) - Collapsable table view sections with custom section header views.
 * [Doppelganger-Swift](https://github.com/nahive/doppelganger-swift) - Animated UITableView/UICollectionView dataSource changes.
 * [folding-cell](https://github.com/Ramotion/folding-cell) - Folding cell transition.
 * [Hakuba](https://github.com/nghialv/Hakuba) - A new way to manage UITableView without the code of UITableViewDelegate and UITableViewDataSource.

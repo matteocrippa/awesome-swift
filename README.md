@@ -219,6 +219,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *A list of OSX Swift demo apps*
 
 * [Allkdic](https://github.com/devxoul/allkdic) - a status bar dictionary.
+* [BatteryNotifier](https://github.com/Kalvin126/BatteryNotifier) - iOS battery level notifier
 * [clock-saver](https://github.com/soffes/clock-saver) - a clock screen saver for osx written in Swift.
 * [Debter](https://github.com/Prontto/Debter) - simple personal debt manager for OS X.
 * [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift.

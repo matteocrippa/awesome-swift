@@ -769,6 +769,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library in Swift.
 * [SystemKit](https://github.com/beltex/SystemKit/) - OS X system library in Swift.
+* [Deviice](https://github.com/andrealufino/Deviice) - iOS library to detect the current device (and some other info)
 
 ### Testing
 *A collection of testing frameworks.*

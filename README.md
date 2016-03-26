@@ -504,6 +504,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library.
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa (RAC) is a Cocoa framework inspired by Functional Reactive Programming. It provides APIs for composing and transforming streams of values over time.
 * [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
+* [Reactor](https://github.com/MailOnline/Reactor) - Powering your RAC architecture.
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.
 * [Safe](https://github.com/tidwall/Safe) - A modern concurrency and synchronization for Swift.
 * [SignalKit](https://github.com/yankodimitrov/SignalKit) - Swift event and binding framework.

@@ -696,7 +696,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Webserver
 *Would you like host a webserver in your device? Here you can find how to do it.*
 
-* [Aeon](https://github.com/Zewo/Aeon) - GCD based HTTP server for Swift 2.
+* [Aeon](https://github.com/paulofaria/Aeon) - GCD based HTTP server for Swift 2.
 * [Curassow](https://github.com/kylef/Curassow) 🐧 - Swift HTTP server using the pre-fork worker model.
 * [Blackfish](https://github.com/elliottminns/blackfish) 🐧 - HTTP Webserver inspired by Express.js.
 * [Dynamo](https://github.com/johnno1962/Dynamo) & [DynamoLinux](https://github.com/johnno1962/DynamoLinux) 🐧 - High Performance (nearly)100% Swift Web server supporting dynamic content.

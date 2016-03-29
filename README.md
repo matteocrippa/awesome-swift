@@ -17,10 +17,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Emacs](#emacs)
   - [Vim](#vim)
 - [Demo Apps](#demo-apps)
-  - [iOS](#ios)
-    - [Apple Watch](#watch)
-    - [tvOS](#tvos)
-  - [OS X](#os-x)
 - [Dependency Managers](#dependency-managers)
 - [Patterns](#patterns)
 - [Misc](#misc)
@@ -145,88 +141,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds Swift support to vim. It covers syntax, indenting, and more.
 
 ## Demo Apps
-*Some interesting demo/poc apps written in Swift.*
 
-### iOS
-*A list of iOS Swift demo apps*
+Check out apps on these projects:
 
-* [2048](https://github.com/austinzheng/swift-2048) - 2048 demo game in Swift.
-* [Alarm](https://github.com/ChrisChares/swift-alarm) - an alarm app in Swift.
-* [Cafe](https://github.com/flexih/Cafe) - Cafe App in Swift.
-* [Charter](https://github.com/matthewpalmer/Charter) - A Swift mailing list client for iPhone and iPad.
-* [Chat](https://github.com/acani/Chats) - chat like app implementation in Swift.
-* [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List) - a cloudkit based to do list.
-* [DeckRocket](https://github.com/jpsim/DeckRocket) - deckrocket porting in Swift.
-* [Edhita](https://github.com/tnantoka/edhita) - text edit app.
-* [Eidolon](https://github.com/artsy/eidolon) - The Artsy auction kiosk app.
-* [Emotion Note](https://github.com/Yogayu/EmotionNote) - a notebook which can feel your emotion written in Swift 2.0.
-* [Federal Open Data](https://github.com/USDepartmentofLabor/Swift-Sample-App) - Get federal Open Data using the Federal Data SDK
-* [Feeds4U](https://github.com/EvgenyKarkan/Feeds4U) - Well architectured RSS reader app written in Swift.
-* [firefox-ios](https://github.com/mozilla/firefox-ios) - firefox for iOS being developed by Mozilla.
-* [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in Swift.
-* [GrubbyWorm](https://github.com/gamechina/GrubbyWorm) - gameplaykit and spritekit demo game.
-* [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in Swift.
-* [HackerNewsClient-iOS](https://github.com/NikantVohra/HackerNewsClient-iOS) - hackernews client in Swift.
-* [HausClock](https://github.com/nottombrown/HausClock) - chess stile clock app in Swift.
-* [HealthKitDemo](https://github.com/Darktt/HealthKit-Swift) - health kit demo app.
-* [HomeKitDemo](https://github.com/KhaosT/HomeKit-Demo) - homekit demo app.
-* [iContactU](https://github.com/rizal72/iContactU) - delivered on Apple Store: reminds you to contact people you ought to.
-* [iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler) - Code examples for the new features of iOS 9.
-* [KeychainDemo](https://github.com/dasdom/KeychainDemo) - keychain sharing between an App and it's share extension
-* [Layer Parse Sample Chat App](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example) - Swift sample app that integrates Layer and Atlas with Parse.
-* [LayerPlayer](https://github.com/scotteg/LayerPlayer) - explores CALayer and subclasses; written in Swift; also on App Store.
-* [Lucid Weather Clock](https://github.com/wrutkowski/Lucid-Weather-Clock) - Hyper-local weather app with precipitation clock developed in Swift.
-* [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) - checklist app in Swift.
-* [Path Logger](https://github.com/eugenpirogoff/pathlogger) - a GPS Path Logger with Core Data.
-* [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example) - typhoon weather example.
-* [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch) - an MVVM & ReactiveCocoa Flickr search app in Swift.
-* [Reusable Apps Code](https://github.com/beiOSDev/Swift) - a collection of reusable pieces of code in Swift.
-* [Round & Split](https://github.com/lukhnos/roundandsplit) - a tip calculator in Swift
-* [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest) - a demo showing how you can auto-login users to an iOS app (on iOS 9) based on Safari cookies.
-* [StateRestorationDemo](https://github.com/shagedorn/StateRestorationDemo) - learn how to implement state restoration in (Swift) code.
-* [Static-icon-shortcuts-sample](https://github.com/stringcode86/Static-icon-shortcuts-sample) - a sample app demonstrates how to add iOS 9’s Quick Actions shortcut support using 3D touch API.
-* [Stick Hero Swift](https://github.com/phpmaple/Stick-Hero-Swift) - an universal spritekit based game in Swift.
-* [Swift Radio](https://github.com/swiftcodex/Swift-Radio-Pro) - Professional Radio Station App, created w/ Swift 2.0.
-* [SwiftAnyPic](https://github.com/kwkhaw/SwiftAnyPic) - Parse's Anypic app in Swift.
-* [SwiftDemo](https://github.com/Lax/iOS-Swift-Demos) - a collection of demo for Swift.
-* [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp) - flickr app written in Swift.
-* [SwiftHN](https://github.com/Dimillian/SwiftHN) - hacker news app in Swift.
-* [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - a nice weather app written in Swift.
-* [Task](https://github.com/mbcrump/TasksForSwiftWithPersistingData) - a task app written in Swift that is published in the app store.
-* [TextEthan](https://github.com/thii/TextEthan) - a clone of TextEthan, a messaging app that allows anyone to message you.
-* [The Oakland Post](https://github.com/aclissold/the-oakland-post) - a full-fledged, 100%-Swift (minus dependencies) news reader.
-* [Tinylog](https://github.com/binarylevel/Tinylog-iOS) - a minimal TODO App written in swift.
-* [To Do App](https://github.com/goprimer/swift-off-todo) - Firebase powered to do app built in Swift, includes tutorial.
-* [trySwiftApp](https://github.com/tryswift/trySwiftApp) - trySwift! Conference app.
-* [Valio](https://github.com/soffes/valio) - event time table app in Swift.
-* [VPNOn](https://github.com/lexrus/VPNOn) - vpn handler with Apple Watch support.
-* [Walk Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker) - GPS Walk Tracking app with Core Data.
-
-#### Watch
-*A list of Apple watch enabled projects*
-
-* [Gulps](https://github.com/FancyPixel/gulps) - OS app for iOS and apple watch to monitor water consumption.
-* [Soon](https://github.com/sandofsky/soon) - Countdown app for apple watch.
-* [WatchOS 2 Sampler](https://github.com/shu223/watchOS-2-Sampler) - WatcOS 2 Samples.
-
-#### tvOS
-*Some cool opensource & swift based apps for tvOS*
-* [GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard) - AppleTv Dashboarding in swift.
-* [NarrativeClip tvOS](https://github.com/NarrativeOP/tvOS-app) - NarrativeClip tvOS app.
-
-
-### OS X
-*A list of OSX Swift demo apps*
-
-* [Allkdic](https://github.com/devxoul/allkdic) - a status bar dictionary.
-* [BatteryNotifier](https://github.com/Kalvin126/BatteryNotifier) - iOS battery level notifier
-* [clock-saver](https://github.com/soffes/clock-saver) - a clock screen saver for osx written in Swift.
-* [Debter](https://github.com/Prontto/Debter) - simple personal debt manager for OS X.
-* [dshb](https://github.com/beltex/dshb) - OS X system monitor in Swift.
-* [Helium](https://github.com/JadenGeller/Helium) - floating web browser.
-* [Markoff](https://github.com/thoughtbot/Markoff) - A light-weight Markdown (CommonMark) previewer for OSX.
-* [Panda](https://github.com/pablosproject/Panda-Mac-app) - a simple OSX menu bar application to enable/disable Yosemite dark mode.
-* [RetinAssets](https://github.com/delannoyk/RetinAssets) - a simple app that generates missing images from a scaled images (3x -> 2x and 1x scale).
+* https://github.com/dkhamsing/open-source-ios-apps
+* https://github.com/iCHAIT/awesome-osx 
 
 ## Dependency Managers
 

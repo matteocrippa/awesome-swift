@@ -20,10 +20,10 @@ When adding new items, please adhere to the following guidelines:
 - Use the following format: `[package](link) - Description.`
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
-- Avoid mentioning `Dart` in the description as it's usually implied.
 - Start the description with a capital and end with a full stop/period.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should include a link to the package and why it should be included.
+- Please sort any new entry in alphabetical order.
 
 Thank you for your suggestions!

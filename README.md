@@ -145,7 +145,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 Check out apps on these projects:
 
 * https://github.com/dkhamsing/open-source-ios-apps
-* https://github.com/iCHAIT/awesome-osx
+* https://github.com/iCHAIT/awesome-osx 
 
 ## Dependency Managers
 

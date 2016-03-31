@@ -145,7 +145,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 Check out apps on these projects:
 
 * https://github.com/dkhamsing/open-source-ios-apps
-* https://github.com/iCHAIT/awesome-osx 
+* https://github.com/iCHAIT/awesome-osx
 
 ## Dependency Managers
 
@@ -537,7 +537,7 @@ Check out apps on these projects:
 ### Localization
 *Frameworks that helps with localizing your app*
 
-* [BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - Internationalization (I18n) for Interface Builder: Storyboard/XIB localization strings update & translation tool.
+* [BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - Keep Storyboard/XIB localizations up-to-date or machine translate strings files with ease.
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [Swifternalization](https://github.com/tomkowz/Swifternalization) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [SwiftGen-L10n](https://github.com/AliSoftware/SwiftGen#localizablestrings) - A tool to auto-generate Swift `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`).

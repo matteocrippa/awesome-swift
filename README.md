@@ -488,6 +488,7 @@ Check out apps on these projects:
 * [Toucan](https://github.com/gavinbunney/Toucan) - Image processing api.
 * [UIImageView-BetterFace-Swift](https://github.com/croath/UIImageView-BetterFace-Swift) - autoresize images and if any face discovered refine the position of the image.
 * [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage) - XAnimatedImage is a performant animated GIF engine for iOS written in Swift based on FLAnimatedImage
+* [UIImageColors](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
 
 ### Keyboard
 *Do you want to create your own customized keyboard? Here are some interesting resources*

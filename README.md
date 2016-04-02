@@ -611,6 +611,7 @@ Check out apps on these projects:
 *Need to manipulate contents from html easily?*
 * [Ji](https://github.com/honghaoz/Ji) - an XML/HTML parser for Swift.
 * [Kanna](https://github.com/tid-kijyun/Kanna) - another XML/HTML parser for Swift.
+* [WKZombie](https://github.com/mkoehnke/WKZombie) - Headless browser
 
 
 #### Webserver

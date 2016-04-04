@@ -316,6 +316,7 @@ Check out apps on these projects:
 
 * [AlamofireJsonToObjects](https://github.com/evermeer/AlamofireJsonToObjects) - An Alamofire extension which converts JSON response data into swift objects using Reflection.
 * [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper.
+* [Alembic](https://github.com/ra1028/Alembic) - Functional JSON parsing, mapping to objects, and serialize to JSON.
 * [Alexander](https://github.com/hodinkee/alexander) - An extremely simple JSON helper written in Swift.
 * [Argo](https://github.com/thoughtbot/Argo) - Json parsing library.
 * [Decodable](https://github.com/Anviking/Decodable) 🐧 - JSON parsing for Swift 2.

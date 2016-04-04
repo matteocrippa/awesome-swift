@@ -98,6 +98,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ### Third party Guides
 * [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - A cool 30 days tutorial for swift.
+* [99 Swift Problems](http://www.enekoalonso.com/projects/99-swift-problems/) - Ninety-Nine Swift Problems, a good way to learn Swift while practicing data structures and algorithms.
 * [A better way to learn Swift](https://github.com/GoThinkster/swift) - Learn Swift in a different way.
 * [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - An organized list of essential Swift Language Topics
 * [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
@@ -145,7 +146,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 Check out apps on these projects:
 
 * https://github.com/dkhamsing/open-source-ios-apps
-* https://github.com/iCHAIT/awesome-osx 
+* https://github.com/iCHAIT/awesome-osx
 
 ## Dependency Managers
 
@@ -645,7 +646,7 @@ Check out apps on these projects:
 * [BlueSocket](https://github.com/IBM-Swift/BlueSocket) 🐧 - IBM's low level socket framework.
 * [Socket.IO](https://github.com/socketio/socket.io-client-swift) 🐧 - Socket.IO client for iOS/OS X.
 * [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
-* [Socks](https://github.com/czechboy0/Socks) 🐧 - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X. 
+* [Socks](https://github.com/czechboy0/Socks) 🐧 - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX.
 * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple TCP socket library.
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for swift.

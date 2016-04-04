@@ -122,7 +122,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Swift-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices/) - Best practices for software development with Swift.
 
 ### Problems & Challenges
-* [99 Swift Problems](http://www.enekoalonso.com/projects/99-swift-problems) - Ninety-Nine Swift Problems, a good way to learn Swift while practicing data structures and algorithms.
+* [99 Swift Problems](http://www.enekoalonso.com/projects/99-swift-problems/) - Ninety-Nine Swift Problems, a good way to learn Swift while practicing data structures and algorithms.
 
 ## Boilerplates
 * [SwiftBoilerplate](https://github.com/JeremyWeir/SwiftBoilerplate) - Swift boilerplate for communication between iOS app and watchKit.

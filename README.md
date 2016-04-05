@@ -548,6 +548,8 @@ Check out apps on these projects:
 ### Logging
 *Utilities for writing to and reading from the device log*
 
+* [AELog](https://github.com/tadija/AELog) - Simple, lightweight and flexible debug logging framework written in Swift.
+* [AEConsole](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
 * [CleanroomASL](https://github.com/emaloney/CleanroomASL) 🐧 — Low-level Swift API for writing to and reading from the Apple System Log daemon.
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) 🐧 — Configurable and extensible high-level logging API that is simple, lightweight and performant.
 * [Duration](https://github.com/SwiftStudies/Duration) 🐧 - Lightweight logging library focused on reporting timings for operations.
@@ -918,6 +920,7 @@ Check out apps on these projects:
 *Some interesting utilities to help you in your projects*
 
 * [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects.
+* [AEAppVersion](https://github.com/tadija/AEAppVersion) - Simple and Lightweight iOS App Version Tracking written in Swift.
 * [Alexandria](https://github.com/ovenbits/Alexandria) A large set of convenience extensions for UIKit and Foundation.
 * [ApplicationGroupKit](https://github.com/phimage/ApplicationGroupKit) - Share informations betweens your applications and your extensions using group identifier.
 * [AppVersionMonitor](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.

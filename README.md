@@ -83,6 +83,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Button](#button)
     - [Form](#form)
     - [Menu](#menu)
+    - [Payment](#payment)
     - [Permissions](#permissions)
     - [Transition](#transition)
     - [UITableView](#uitableview)
@@ -887,6 +888,10 @@ Check out apps on these projects:
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
+
+#### Payment
+
+* [Caishen](https://github.com/prolificinteractive/Caishen) - A Payment Card UI & Validator for iOS
 
 #### Permissions
 

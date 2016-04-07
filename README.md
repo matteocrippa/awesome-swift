@@ -731,6 +731,7 @@ Check out apps on these projects:
 * [SwiftString](https://github.com/amayne/SwiftString) - A lightweight string extension for Swift.
 * [SwiftVerbalExpressions](https://github.com/VerbalExpressions/SwiftVerbalExpressions) - VerbalExpressions porting for swift
 * [SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting.
+* [TextAttributes](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
 
 #### Phone Numbers
 

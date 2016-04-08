@@ -927,6 +927,7 @@ Check out apps on these projects:
 *Some interesting utilities to help you in your projects*
 
 * [__](https://github.com/lotz84/__.swift) - Underscore.js power in your Swift projects.
+* [AEAppVersion](https://github.com/tadija/AEAppVersion) - Simple and Lightweight iOS App Version Tracking written in Swift.
 * [Alexandria](https://github.com/ovenbits/Alexandria) A large set of convenience extensions for UIKit and Foundation.
 * [ApplicationGroupKit](https://github.com/phimage/ApplicationGroupKit) - Share informations betweens your applications and your extensions using group identifier.
 * [AppVersionMonitor](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.

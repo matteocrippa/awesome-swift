@@ -476,6 +476,7 @@ Check out apps on these projects:
 * [DePict](https://github.com/davidcairns/DePict) - functional wrapper for CoreGraphics.
 * [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - core image filter
 * [gifu](https://github.com/kaishin/gifu) - highly performant animated GIF support for iOS in Swift.
+* [GPUImage 2](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
 * [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 * [ImageLoader](https://github.com/hirohisa/ImageLoaderSwift) - A lightweight and fast image loader for iOS written in Swift.
 * [ImageScout](https://github.com/kaishin/ImageScout) - a Swift implementation of [fastimage](https://pypi.python.org/pypi/fastimage/0.2.1) - supports PNG, GIF, and JPEG.

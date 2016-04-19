@@ -532,6 +532,7 @@ Check out apps on these projects:
 
 * [AutoLayoutPlus](https://github.com/ruipfcosta/AutoLayoutPlus) - A bit of steroids for AutoLayout, powered by Swift.
 * [Cartography](https://github.com/robb/Cartography) - declarative auto layout lib for your project.
+* [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - Auto Layout made easy.
 * [FormationLayout](https://github.com/evan-liu/FormationLayout) - Auto Layout lib supports group layout and size classes.
 * [MisterFusion](https://github.com/szk-atmosphere/MisterFusion) - A Swift DSL for AutoLayout. It can be used in both Swift and Objective-C, in addition, it supports Size Class.
 * [Mortar](https://github.com/jmfieldman/Mortar) - A concise but flexible Swift DSL for creating Auto Layout constraints and adding subviews.

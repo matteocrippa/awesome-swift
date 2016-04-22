@@ -67,6 +67,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Html](#html)  
     - [Socket](#socket)
     - [Webserver](#webserver)
+    - [Messaging Protocol](#messaging-protocol)
   - [Quality](#quality)
   - [Security](#security)
     - [Cryptography](#cryptography)
@@ -651,6 +652,10 @@ Check out apps on these projects:
 * [Vapor](https://github.com/qutheory/vapor) 🐧 - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 * [Zewo](https://github.com/Zewo/Zewo) 🐧 - Server-Side Swift.
+
+#### Messaging Protocol
+
+* [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
 
 #### Socket
 

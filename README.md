@@ -624,6 +624,7 @@ Check out apps on these projects:
 
 #### Html
 *Need to manipulate contents from html easily?*
+
 * [Ji](https://github.com/honghaoz/Ji) - an XML/HTML parser for Swift.
 * [Kanna](https://github.com/tid-kijyun/Kanna) - another XML/HTML parser for Swift.
 * [WKZombie](https://github.com/mkoehnke/WKZombie) - Headless browser
@@ -631,6 +632,17 @@ Check out apps on these projects:
 #### Messaging Protocol
 
 * [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
+
+#### Socket
+
+* [BlueSocket](https://github.com/IBM-Swift/BlueSocket) 🐧 - IBM's low level socket framework.
+* [Socket.IO](https://github.com/socketio/socket.io-client-swift) 🐧 - Socket.IO client for iOS/OS X.
+* [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
+* [Socks](https://github.com/czechboy0/Socks) 🐧 - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.
+* [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX.
+* [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple TCP socket library.
+* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for swift.
+* [WebSocket](https://github.com/Zewo/WebSocket) 🐧 - WebSockets server for Swift 2.2 on Linux.
 
 #### Webserver
 *Would you like host a webserver in your device? Here you can find how to do it.*
@@ -655,17 +667,6 @@ Check out apps on these projects:
 * [Vapor](https://github.com/qutheory/vapor) 🐧 - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 * [Zewo](https://github.com/Zewo/Zewo) 🐧 - Server-Side Swift.
-
-#### Socket
-
-* [BlueSocket](https://github.com/IBM-Swift/BlueSocket) 🐧 - IBM's low level socket framework.
-* [Socket.IO](https://github.com/socketio/socket.io-client-swift) 🐧 - Socket.IO client for iOS/OS X.
-* [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
-* [Socks](https://github.com/czechboy0/Socks) 🐧 - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.
-* [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX.
-* [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple TCP socket library.
-* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for swift.
-* [WebSocket](https://github.com/Zewo/WebSocket) 🐧 - WebSockets server for Swift 2.2 on Linux.
 
 ### Quality
 

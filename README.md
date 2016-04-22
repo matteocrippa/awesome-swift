@@ -64,7 +64,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Maps](#maps)
   - [Math](#math)
   - [Network](#network)
-    - [Html](#html)  
+    - [Html](#html)
+    - [Messaging Protocol](#messaging-protocol)
     - [Socket](#socket)
     - [Webserver](#webserver)
   - [Quality](#quality)
@@ -627,6 +628,9 @@ Check out apps on these projects:
 * [Kanna](https://github.com/tid-kijyun/Kanna) - another XML/HTML parser for Swift.
 * [WKZombie](https://github.com/mkoehnke/WKZombie) - Headless browser
 
+#### Messaging Protocol
+
+* [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
 
 #### Webserver
 *Would you like host a webserver in your device? Here you can find how to do it.*

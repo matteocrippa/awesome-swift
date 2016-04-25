@@ -325,6 +325,7 @@ Check out apps on these projects:
 * [Alexander](https://github.com/hodinkee/alexander) - An extremely simple JSON helper written in Swift.
 * [Argo](https://github.com/thoughtbot/Argo) - Json parsing library.
 * [Arrow 🏹](https://github.com/s4cha/Arrow) - Elegant JSON Parsing in Swift.
+* [Brick](https://github.com/hyperoslo/Brick) - A generic view model for both basic and complex scenarios.
 * [Decodable](https://github.com/Anviking/Decodable) 🐧 - JSON parsing for Swift 2.
 * [EVReflection](https://github.com/evermeer/EVReflection) - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable
 * [Genome](https://github.com/LoganWright/Genome) - A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0.

@@ -279,7 +279,7 @@ Check out apps on these projects:
 * [Commander](https://github.com/kylef/Commander) 🐧 - Compose beautiful command line interfaces in Swift.
 * [CommandLine](https://github.com/jatoben/CommandLine) 🐧 - A pure Swift library for creating command-line interfaces.
 * [Phiole](https://github.com/phimage/Phiole) - Allow to write or read from standards stream in swift for CLI applications.
-* [Swiftline](https://github.com/Swiftline/Swiftline) - A set of tools to help you create command line applications.
+* [Swiftline](https://github.com/oarrabi/Swiftline) - A set of tools to help you create command line applications.
 * [SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) 🐧 - A lightweight library to generate text tables.
 
 ### Concurrency

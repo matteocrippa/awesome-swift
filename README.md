@@ -1,5 +1,5 @@
 # Awesome Swift
-![Awesome Swift](https://raw.githubusercontent.com/matteocrippa/awesome-swift/master/.github/icon.png)
+![Awesome Swift](https://raw.githubusercontent.com/matteocrippa/awesome-swift/master/.github/iconv2.png)
 
 |  Get the app      | Awesome             |  Linux   
 | --- | --- | ---

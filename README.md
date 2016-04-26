@@ -974,6 +974,7 @@ Check out apps on these projects:
 * [Inflection](https://github.com/zenangst/Inflection) - The Optimus Prime of string inflection.
 * [Lambdatron](https://github.com/austinzheng/Lambdatron) - Clojure(ish) interpreter in Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
+* [LangKit](https://github.com/xinranmsn/LangKit) - Natural Language Processing (NLP) toolkit for Swift.
 * [Mendel](https://github.com/saniul/Mendel) - Swift miliframework for implementing evolutionary/genetic algorithms.
 * [Money](https://github.com/danthorpe/Money) - Currency formatter in Swift.
 * [Oriole](https://github.com/tptee/Oriole) - A functional utility belt implemented as Swift 2.0 protocol extensions.

@@ -626,7 +626,7 @@ Check out apps on these projects:
 * [Transporter](https://github.com/nghialv/Transporter) - A tiny library makes uploading and downloading easier.
 * [YYHRequest-Swift](https://github.com/yayuhh/YYHRequest-Swift) - http request in async.
 
-#### Html
+#### HTML
 *Need to manipulate contents from html easily?*
 
 * [Ji](https://github.com/honghaoz/Ji) - an XML/HTML parser for Swift.

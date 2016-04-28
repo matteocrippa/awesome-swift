@@ -64,7 +64,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Maps](#maps)
   - [Math](#math)
   - [Network](#network)
-    - [Html](#html)
+    - [HTML](#html)
     - [Messaging Protocol](#messaging-protocol)
     - [Socket](#socket)
     - [Webserver](#webserver)

@@ -68,6 +68,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Messaging Protocol](#messaging-protocol)
     - [Socket](#socket)
     - [Webserver](#webserver)
+  - [OCR](#ocr)
   - [Quality](#quality)
   - [Security](#security)
     - [Cryptography](#cryptography)
@@ -672,6 +673,9 @@ Check out apps on these projects:
 * [Vapor](https://github.com/qutheory/vapor) 🐧 - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 * [Zewo](https://github.com/Zewo/Zewo) 🐧 - Server-Side Swift.
+
+### OCR
+* [SwiftOCR](https://github.com/garnele007/SwiftOCR) - OCR lib written in swift.
 
 ### Quality
 

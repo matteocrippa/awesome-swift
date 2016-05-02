@@ -745,6 +745,7 @@ Check out apps on these projects:
 * [Format](https://github.com/marmelroy/Format) - Swift formatting kit for numbers, addresses and colors.
 * [Markdown](https://github.com/crossroadlabs/Markdown) 🐧 - Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown)
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
+* [Reductio](https://github.com/fdzsergio/Reductio) - Automatic summarizer text in Swift.
 * [Regex by brynbellomy](https://github.com/brynbellomy/Regex) - Swift wrapper class for `NSRegularExpression`.  Includes a `map()` override and an operator (`=~`) for a more Swift-like API.
 * [Regex by crossroadlabs](https://github.com/crossroadlabs/Regex) 🐧 - very easy to use, Regular Expressions library with rich functionality. Features both operator `=~` and method based APIs. Unit tests covered.
 * [Roman](https://github.com/nvzqz/Roman) 🐧 - Seamless Roman numeral conversion in Swift.

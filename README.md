@@ -1030,6 +1030,7 @@ Check out apps on these projects:
 * [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS developed in Swift (inspired by validator.js).
 * [Swiftx](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
 * [SwiftyStateMachine](https://github.com/macoscope/SwiftyStateMachine) - Swift µframework for creating state machines.
+* [SwiftyUtils](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
 * [Swiftz](https://github.com/typelift/Swiftz) - Functional programming in Swift.
 * [Then](https://github.com/devxoul/Then) - ✨ Super sweet syntactic sugar for Swift initializers.
 * [undefined](https://github.com/weissi/swift-undefined) - Nano framework which defines Haskell's undefined in Swift.

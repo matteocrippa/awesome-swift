@@ -21,7 +21,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [Patterns](#patterns)
 - [Misc](#misc)
 - [Libs](#libs)
-  - [AI](#AI)
+  - [AI](#ai)
   - [Animation](#animation)
   - [App Routing](#app-routing)
   - [App Store](#app-store)

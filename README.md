@@ -180,6 +180,12 @@ Check out apps on these projects:
 ## Libs
 *Here you can find a list of snippets and libs for your Swift projects.*
 
+### AI
+*Libs for AI based projects (Machine Learning, Neural Networks etc).*
+
+* [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
+* [Swift-AI](https://github.com/collinhundley/Swift-AI) - An artificial intelligence and machine learning library in Swift.
+
 ### Animation
 *Libs to help with animation*
 

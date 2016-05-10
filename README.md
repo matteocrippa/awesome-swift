@@ -678,7 +678,7 @@ Check out apps on these projects:
 * [Zewo](https://github.com/Zewo/Zewo) 🐧 - Server-Side Swift.
 
 ### OCR
-* [SwiftOCR](https://github.com/garnele007/SwiftOCR) - OCR lib written in swift.
+* [SwiftOCR](https://github.com/garnele007/SwiftOCR) - Neural Network based OCR lib written in swift.
 
 ### Quality
 

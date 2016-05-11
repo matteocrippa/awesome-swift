@@ -566,7 +566,7 @@ Check out apps on these projects:
 ### Localization
 *Frameworks that helps with localizing your app*
 
-* [BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - Keep Storyboard/XIB localizations up-to-date or machine translate strings files with ease.
+* [BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - Incrementally update/translate your Strings files from Code and Storyboards/XIBs.
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [Swifternalization](https://github.com/tomkowz/Swifternalization) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [SwiftGen-L10n](https://github.com/AliSoftware/SwiftGen#localizablestrings) - A tool to auto-generate Swift `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`).

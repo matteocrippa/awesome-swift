@@ -220,12 +220,12 @@ Check out apps on these projects:
 ### Audio
 *Libs to work with audio*
 
+* [AudioKit](https://github.com/audiokit/AudioKit) - Powerful audio synthesis, processing and analysis, *without* the steep learning curve.
 * [AudioPlayer](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
 * [AudioPlayerSwift](https://github.com/recisio/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps
 * [Beethoven](https://github.com/vadymmarkov/Beethoven) - An audio processing Swift library for pitch detection of musical signals.
 * [MusicKit](https://github.com/benzguo/MusicKit) - A framework for composing and transforming music in Swift.
 * [TuningFork](https://github.com/comyarzaheri/TuningFork) - A Simple Tuner for iOS.
-* [AudioKit](https://github.com/audiokit/AudioKit) - Powerful audio synthesis, processing and analysis, *without* the steep learning curve.
 
 
 ### Authentication

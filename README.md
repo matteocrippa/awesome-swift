@@ -21,6 +21,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [Patterns](#patterns)
 - [Misc](#misc)
 - [Libs](#libs)
+  - [AI](#ai)
   - [Animation](#animation)
   - [App Routing](#app-routing)
   - [App Store](#app-store)
@@ -179,6 +180,12 @@ Check out apps on these projects:
 
 ## Libs
 *Here you can find a list of snippets and libs for your Swift projects.*
+
+### AI
+*Libs for AI based projects (Machine Learning, Neural Networks etc).*
+
+* [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
+* [Swift-AI](https://github.com/collinhundley/Swift-AI) - An artificial intelligence and machine learning library in Swift.
 
 ### Animation
 *Libs to help with animation*
@@ -678,7 +685,7 @@ Check out apps on these projects:
 * [Zewo](https://github.com/Zewo/Zewo) 🐧 - Server-Side Swift.
 
 ### OCR
-* [SwiftOCR](https://github.com/garnele007/SwiftOCR) - OCR lib written in swift.
+* [SwiftOCR](https://github.com/garnele007/SwiftOCR) - Neural Network based OCR lib written in swift.
 
 ### Quality
 
@@ -1018,7 +1025,6 @@ Check out apps on these projects:
 * [Stream](https://github.com/antitypical/Stream) - Lazy streams in Swift.
 * [Sugar](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
 * [Swift Sugar](https://github.com/RuiAAPeres/Swift-Sugar) - objsugar ported to Swift.
-* [Swift-AI](https://github.com/collinhundley/Swift-AI) - A high-performance AI and Machine Learning library written entirely in Swift.
 * [SwiftBitmask](https://github.com/brynbellomy/SwiftBitmask) - `Bitmask<T>` type intended as a replacement for `RawOptionSet`.
 * [SwiftExP](https://github.com/mrackwitz/SwiftExP) - Pure Swift 2.0 S-expression Parser.
 * [SwiftGen-Storyboard](https://github.com/AliSoftware/SwiftGen#uistoryboard) - A tool to auto-generate Swift `enums` for all your Storyboards, Scenes and Segues constants + appropriate convenience accessors.

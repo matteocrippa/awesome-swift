@@ -206,9 +206,9 @@ Check out apps on these projects:
 ### App Routing
 *Internal app routing systems.*
 
+* [Appz](https://github.com/SwiftKitz/Appz) - Launch external apps, and deeplink, with ease using Swift!
 * [IKRouter](https://github.com/IanKeen/IKRouter) - URLScheme router than supports auto creation of UIViewControllers.
 * [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing for Swift.
-* [Appz](https://github.com/SwiftKitz/Appz) - Launch external apps, and deeplink, with ease using Swift!
 
 ### App Store
 *Libs to help with apple app store, in app purchases and receipt validation.*

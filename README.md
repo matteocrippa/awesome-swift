@@ -48,6 +48,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Other](#other)
   - [Date](#date)
   - [Documentation](#documentation)
+  - [Editor](#editor)
   - [Embedded Systems](#embedded-systems)
     - [Peripherals](#peripherals)
   - [Events](#events)
@@ -419,6 +420,12 @@ Check out apps on these projects:
 
 * [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C.
 * [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.
+
+### Editor
+
+*Rich Text Editing*
+
+* [RichEditorView](https://github.com/cjwirth/RichEditorView) - RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
 
 ### Embedded Systems
 *Build your embedded Linux projects in Swift on a RaspberryPi, BeagleBone, C.H.I.P. and other boards.*

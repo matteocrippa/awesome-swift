@@ -425,6 +425,7 @@ Check out apps on these projects:
 
 *Rich Text Editing*
 
+* [edhita](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS written in Swift. http://edhita.bornneet.com/
 * [RichEditorView](https://github.com/cjwirth/RichEditorView) - RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
 
 ### Embedded Systems

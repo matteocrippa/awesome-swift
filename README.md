@@ -370,6 +370,7 @@ Check out apps on these projects:
 
 #### MongoDB
 * [SwiftMongoDB](https://github.com/Danappelxx/SwiftMongoDB) - MongoDB connector for Swift.
+* [MongoKitten](https://github.com/PlanTeam/MongoKitten) - Pure Swift MongoDB Connector
 
 #### SQLite
 *Are you interested in storing your app data using SQLite? Here are some interesting resources.*

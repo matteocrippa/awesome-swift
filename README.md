@@ -450,7 +450,6 @@ Check out apps on these projects:
 * [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
 * [Reactor](https://github.com/MailOnline/Reactor) - Powering your RAC architecture.
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.
-* [Safe](https://github.com/tidwall/Safe) - A modern concurrency and synchronization for Swift.
 * [SignalKit](https://github.com/yankodimitrov/SignalKit) - Swift event and binding framework.
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
 * [SSEventFlow](https://github.com/neoneye/SSEventFlow) - A type safe alternative to NSNotification, inspired by Flux.

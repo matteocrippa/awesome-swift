@@ -299,6 +299,7 @@ Check out apps on these projects:
 ### Concurrency
 *Easier ways to work with concurrency.*
 
+* [Safe](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization for Swift.
 * [Venice](https://github.com/VeniceX/Venice) 🐧 - Communicating sequential processes (CSP) for Swift 2 (Linux ready).
 
 ### Data Management

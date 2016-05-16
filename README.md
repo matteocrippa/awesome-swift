@@ -369,6 +369,7 @@ Check out apps on these projects:
 * [Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
 
 #### MongoDB
+* [MongoKitten](https://github.com/PlanTeam/MongoKitten) 🐧 - Pure Swift MongoDB Connector
 * [SwiftMongoDB](https://github.com/Danappelxx/SwiftMongoDB) - MongoDB connector for Swift.
 
 #### SQLite

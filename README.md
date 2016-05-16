@@ -335,6 +335,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Easier ways to work with concurrency.*
 
 * [Venice](https://github.com/Zewo/Venice) 🐧 - Communicating sequential processes (CSP) for Swift 2 (Linux ready).
+* [Safe](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization for Swift.
 
 ### Data Management
 #### Core Data

@@ -592,6 +592,7 @@ Check out apps on these projects:
 * [SwiftBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) 🐧 - Colorful, lightweight & fast logging in Swift 2.
 * [swiftRemoteLogger](https://github.com/matteocrippa/swiftRemoteLogger) - Remote logging easy as 1..2..3 in Swift.
 * [Watchdog](https://github.com/wojteklu/Watchdog) - A Swift utility for logging excessive blocking on the main thread.
+* [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
 
 ### Maps

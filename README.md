@@ -992,7 +992,7 @@ Check out apps on these projects:
 * [Carlos](https://github.com/WeltN24/Carlos) - A simple but flexible cache.
 * [Collection Each](https://github.com/oarrabi/Collection-Each) - add each func to collections.
 * [Compass](https://github.com/hyperoslo/Compass) - Compass helps you setup a central navigation system for your application.
-* [Conveyor](https://github.com/StevenLambion/Conveyor) - Declaratively chain small, reusable blocks of code like a conveyor system.
+* [Conveyor](https://github.com/StevenLambion/Conveyor) - Declaratively chains small, reusable blocks of code together like a conveyor system.
 * [Curry](https://github.com/thoughtbot/Curry) - Swift implementations for function currying.
 * [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.

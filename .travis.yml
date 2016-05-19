@@ -8,9 +8,4 @@ script:
   - json validate --schema-file=.github/schema.json --document-file=contents.json
 after_success:
   - ruby .github/convert.rb
-deploy:
-  skip_cleanup: true
-  provider: script
-  script: ./.github/deploy.sh
-  on:
-    branch: master
+  - ./.github/deploy.sh

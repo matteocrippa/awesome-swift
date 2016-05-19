@@ -2,7 +2,7 @@
 
 set -e
 
-if [[ $TRAVIS_BRANCH == 'master' ]]
+if [[ $TRAVIS_BRANCH != 'master' ]]
   exit
 fi
 

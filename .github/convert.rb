@@ -6,7 +6,6 @@ def get_json()
     JSON.parse(File.read CONTENTS)
 end
 
-
 def output_linux(tags)
   return '' if tags.nil?
   return ':penguin:' if tags.include? 'linux'
@@ -23,6 +22,20 @@ def output_projects(proj, id)
   o
 end
 
+def output_content_category(c, indent)
+  toc = "\n"
+
+  for i in 1..indent
+    toc << '#'
+  end
+
+  toc << " #{c['title']}\n"
+  toc << "*#{c['description']}*\n" unless c['description'].nil?
+  toc << "\n"
+
+  toc
+end
+
 def output_content(j)
   toc = ''
 
@@ -31,27 +44,20 @@ def output_content(j)
   parents, children = j['categories'].partition { |c| c['parent'].nil? }
   parents.each do |c|
     id = c['id']
-    toc << "\n## #{c['title']}\n"
-    toc << "*#{c['description']}*" unless c['description'].nil?
-    toc << "\n"
-
+    toc << output_content_category(c, 2)
     toc << output_projects(projects, id)
 
     children.sort_by {|k,v| k['id']}
       .select {|c| c['parent']==id}.each do |c|
       child_id = c['id']
-      toc << "\n### #{c['title']}\n\n"
 
+      toc << output_content_category(c, 3)
       toc << output_projects(projects, child_id)
-
 
       children.sort_by {|k,v| k['id']}
         .select {|c| c['parent']==child_id}.each do |c|
-        # toc << "    - [#{c['title']}](##{c['id']})\n"
-
-        toc << "\n#### #{c['title']}\n\n"
-
-        toc << output_projects(projects, c['id'])
+          toc << output_content_category(c, 4)
+          toc << output_projects(projects, c['id'])
       end
     end
   end

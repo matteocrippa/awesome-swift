@@ -392,7 +392,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AEXML](https://github.com/tadija/AEXML) - xml wrapper.
 * [AlamofireXmlToObjects](https://github.com/evermeer/AlamofireXmlToObjects) - An Alamofire extension for fetching an XML feed and parsing it into objects.
-* [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support in Swift 2.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift.
 * [XMLParser](https://github.com/Mozharovsky/XMLParser) - A lightweight XMLParser for assembling and parsing XML values written for iOS 8+ in Swift 2.
 
@@ -647,6 +646,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### HTML
 *Need to manipulate contents from html easily?*
 
+* [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
 * [Ji](https://github.com/honghaoz/Ji) - an XML/HTML parser for Swift.
 * [Kanna](https://github.com/tid-kijyun/Kanna) - another XML/HTML parser for Swift.
 * [WKZombie](https://github.com/mkoehnke/WKZombie) - Headless browser

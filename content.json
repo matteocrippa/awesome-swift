@@ -1,0 +1,3750 @@
+{
+	"title": "Awesome Swift",
+	"description": "# Awesome Swift\n![Awesome Swift](https://raw.githubusercontent.com/matteocrippa/awesome-swift/master/.github/IconV2.png)\n\n|  Get the app      | Awesome             |  Linux   \n| --- | --- | ---\n| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-lightgrey.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ``` 🐧 Linux Ready ```\n\n### Contributing\n\nPlease take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!",
+	"categories": [{
+		"title": "Guides",
+		"id": "guides",
+		"description": "An awesome list of Swift related guides."
+	}, {
+		"title": "Official Guides",
+		"id": "official-guides",
+		"parent": "guides"
+	}, {
+		"title": "Third party Guides",
+		"id": "third-party-guides",
+		"parent": "guides"
+	}, {
+		"title": "Style Guides",
+		"id": "style-guides",
+		"parent": "guides"
+	}, {
+		"title": "Boilerplates",
+		"id": "boilerplates"
+	}, {
+		"title": "Editor Support",
+		"id": "editor-support",
+		"description": "Support for your favorite editors."
+	}, {
+		"title": "Emacs",
+		"id": "emacs",
+		"parent": "editor-support"
+	}, {
+		"title": "Vim",
+		"id": "vim",
+		"parent": "editor-support"
+	}, {
+		"title": "Demo Apps",
+		"id": "demo-apps",
+		"description": "Check out apps on these projects:"
+	}, {
+		"title": "Dependency Managers",
+		"id": "dependency-managers",
+		"description": "Dependency manager software for Swift."
+	}, {
+		"title": "Patterns",
+		"id": "patterns"
+	}, {
+		"title": "Misc",
+		"id": "misc",
+		"description": "Miscellaneous Swift related projects"
+	}, {
+		"title": "Libs",
+		"id": "libs",
+		"description": "Here you can find a list of snippets and libs for your Swift projects."
+	}, {
+		"title": "AI",
+		"id": "ai",
+		"parent": "libs",
+		"description": "Libs for AI based projects (Machine Learning, Neural Networks etc)."
+	}, {
+		"title": "Animation",
+		"id": "animation",
+		"parent": "libs",
+		"description": "Libs to help with animation"
+	}, {
+		"title": "App Routing",
+		"id": "app-routing",
+		"parent": "libs",
+		"description": "Internal app routing systems."
+	}, {
+		"title": "App Store",
+		"id": "app-store",
+		"parent": "libs",
+		"description": "Libs to help with apple app store, in app purchases and receipt validation."
+	}, {
+		"title": "Audio",
+		"id": "audio",
+		"parent": "libs",
+		"description": "Libs to work with audio"
+	}, {
+		"title": "Authentication",
+		"id": "authentication",
+		"parent": "libs",
+		"description": "Easy way to manage auth in your apps."
+	}, {
+		"title": "API",
+		"id": "api",
+		"parent": "libs",
+		"description": "Quick libs to get access to third party API services"
+	}, {
+		"title": "Bluetooth",
+		"id": "bluetooth",
+		"parent": "libs",
+		"description": "Wrappers around CoreBluetooth"
+	}, {
+		"title": "Camera",
+		"id": "camera",
+		"parent": "libs",
+		"description": "Awesome camera libs"
+	}, {
+		"title": "Chat",
+		"id": "chat",
+		"parent": "libs",
+		"description": "Libs to get access to build chat app"
+	}, {
+		"title": "Colors",
+		"id": "colors",
+		"parent": "libs",
+		"description": "Interesting snippets related to color management and utility."
+	}, {
+		"title": "Command Line",
+		"id": "command-line",
+		"parent": "libs",
+		"description": "Create command line applications."
+	}, {
+		"title": "Concurrency",
+		"id": "concurrency",
+		"parent": "libs",
+		"description": "Easier ways to work with concurrency."
+	}, {
+		"title": "Data Management",
+		"id": "data-management",
+		"parent": "libs"
+	}, {
+		"title": "Core Data",
+		"id": "core-data",
+		"parent": "data-management",
+		"description": "No more pain with Core Data, here are some interesting libs to handle data management."
+	}, {
+		"title": "Data Structures",
+		"id": "data-structures",
+		"parent": "data-management"
+	}, {
+		"title": "Realm",
+		"id": "realm",
+		"parent": "data-management"
+	}, {
+		"title": "Files",
+		"id": "files",
+		"parent": "data-management"
+	}, {
+		"title": "JSON",
+		"id": "json",
+		"parent": "data-management",
+		"description": "Struggling using json data? Here are some interesting ways to handle it."
+	}, {
+		"title": "Key Value Store",
+		"id": "key-value-store",
+		"parent": "data-management"
+	}, {
+		"title": "MongoDB",
+		"id": "mongodb",
+		"parent": "data-management"
+	}, {
+		"title": "SQLite",
+		"id": "sqlite",
+		"parent": "data-management",
+		"description": "Are you interested in storing your app data using SQLite? Here are some interesting resources."
+	}, {
+		"title": "SQL drivers",
+		"id": "sql-drivers",
+		"parent": "data-management"
+	}, {
+		"title": "XML",
+		"id": "xml",
+		"parent": "data-management",
+		"description": "If you prefer to manage XML data formatted entries, here are some helpful libs"
+	}, {
+		"title": "ZIP",
+		"id": "zip",
+		"parent": "data-management"
+	}, {
+		"title": "Other",
+		"id": "other",
+		"parent": "data-management",
+		"description": "Other ways to persist data"
+	}, {
+		"title": "Date",
+		"id": "date",
+		"parent": "libs",
+		"description": "Handle data formatting easily."
+	}, {
+		"title": "Documentation",
+		"id": "documentation",
+		"parent": "libs",
+		"description": "Generate documentation for Swift code"
+	}, {
+		"title": "Embedded Systems",
+		"id": "embedded-systems",
+		"parent": "libs",
+		"description": "Build your embedded Linux projects in Swift on a RaspberryPi, BeagleBone, C.H.I.P. and other boards."
+	}, {
+		"title": "Peripherals",
+		"id": "peripherals",
+		"parent": "embedded-systems",
+		"description": "Interact with specific external peripherals."
+	}, {
+		"title": "Events",
+		"id": "events",
+		"parent": "libs",
+		"description": "Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation."
+	}, {
+		"title": "Fonts",
+		"id": "fonts",
+		"parent": "libs",
+		"description": "A collection of font related snippets."
+	}, {
+		"title": "Gesture",
+		"id": "gesture",
+		"parent": "libs"
+	}, {
+		"title": "iBeacon",
+		"id": "ibeacon",
+		"parent": "libs",
+		"description": "Interested in using iBeacon in your Swift project? Here some interesting resources."
+	}, {
+		"title": "Images",
+		"id": "images",
+		"parent": "libs",
+		"description": "An interesting list of image related libs.."
+	}, {
+		"title": "Keyboard",
+		"id": "keyboard",
+		"parent": "libs",
+		"description": "Do you want to create your own customized keyboard? Here are some interesting resources"
+	}, {
+		"title": "Key Value Coding",
+		"id": "key-value-coding",
+		"parent": "libs",
+		"description": "Libraries for key-value coding in Swift"
+	}, {
+		"title": "Kit",
+		"id": "kit",
+		"parent": "libs",
+		"description": "Libraries for coding with a simplified API"
+	}, {
+		"title": "Layout",
+		"id": "layout",
+		"parent": "libs",
+		"description": "Libs to help you with layout."
+	}, {
+		"title": "Auto Layout",
+		"id": "auto-layout",
+		"parent": "layout",
+		"description": "Bored of using storyboard? Give a try to declarative auto layout libs."
+	}, {
+		"title": "Localization",
+		"id": "localization",
+		"parent": "libs",
+		"description": "Frameworks that helps with localizing your app"
+	}, {
+		"title": "Logging",
+		"id": "logging",
+		"parent": "libs",
+		"description": "Utilities for writing to and reading from the device log"
+	}, {
+		"title": "Maps",
+		"id": "maps",
+		"parent": "libs"
+	}, {
+		"title": "Location",
+		"id": "location",
+		"parent": "libs"
+	}, {
+		"title": "Math",
+		"id": "math",
+		"parent": "libs"
+	}, {
+		"title": "Network",
+		"id": "network",
+		"parent": "libs",
+		"description": "A list of libs that allow you to decrease the amount of time spent dealing with http requests."
+	}, {
+		"title": "HTML",
+		"id": "html",
+		"parent": "network",
+		"description": "Need to manipulate contents from html easily?"
+	}, {
+		"title": "Messaging Protocol",
+		"id": "messaging-protocol",
+		"parent": "network"
+	}, {
+		"title": "Socket",
+		"id": "socket",
+		"parent": "network"
+	}, {
+		"title": "Webserver",
+		"id": "webserver",
+		"parent": "network",
+		"description": "Would you like host a webserver in your device? Here you can find how to do it."
+	}, {
+		"title": "OCR",
+		"id": "ocr",
+		"parent": "libs"
+	}, {
+		"title": "Quality",
+		"id": "quality",
+		"parent": "libs"
+	}, {
+		"title": "Security",
+		"id": "security",
+		"parent": "libs"
+	}, {
+		"title": "Cryptography",
+		"id": "cryptography",
+		"parent": "security",
+		"description": "Deal with cryptography method easily in Swift"
+	}, {
+		"title": "Keychain",
+		"id": "keychain",
+		"parent": "security"
+	}, {
+		"title": "TouchID",
+		"id": "touchid",
+		"parent": "security"
+	}, {
+		"title": "Sensors",
+		"id": "sensors",
+		"parent": "libs",
+		"description": "Manage your device sensors in a faster and easier way"
+	}, {
+		"title": "System",
+		"id": "system",
+		"parent": "libs"
+	}, {
+		"title": "Testing",
+		"id": "testing",
+		"parent": "libs",
+		"description": "A collection of testing frameworks."
+	}, {
+		"title": "Text",
+		"id": "text",
+		"parent": "libs",
+		"description": "A collection of text projects."
+	}, {
+		"title": "Phone Numbers",
+		"id": "phone-numbers",
+		"parent": "text"
+	}, {
+		"title": "Thread",
+		"id": "thread",
+		"parent": "libs",
+		"description": "Threading, task-based or asynchronous programming, Grand Central Dispatch (GCD) wrapper"
+	}, {
+		"title": "UI",
+		"id": "ui",
+		"parent": "libs",
+		"description": "A collection of pre-packaged transitions & cool ui stuffs."
+	}, {
+		"title": "Alert",
+		"id": "alert",
+		"parent": "ui",
+		"description": "Libs to display alert, action sheet, notification, popup."
+	}, {
+		"title": "Blur",
+		"id": "blur",
+		"parent": "ui"
+	}, {
+		"title": "Button",
+		"id": "button",
+		"parent": "ui"
+	}, {
+		"title": "Form",
+		"id": "form",
+		"parent": "ui"
+	}, {
+		"title": "Menu",
+		"id": "menu",
+		"parent": "ui"
+	}, {
+		"title": "Payment",
+		"id": "payment",
+		"parent": "ui"
+	}, {
+		"title": "Permissions",
+		"id": "permissions",
+		"parent": "ui"
+	}, {
+		"title": "StackView",
+		"id": "stackview",
+		"parent": "ui"
+	}, {
+		"title": "Transition",
+		"id": "transition",
+		"parent": "ui"
+	}, {
+		"title": "UITableView",
+		"id": "uitableview",
+		"parent": "ui"
+	}, {
+		"title": "Utility",
+		"id": "utility",
+		"parent": "libs",
+		"description": "Some interesting utilities to help you in your projects"
+	}, {
+		"title": "Video",
+		"id": "video",
+		"parent": "libs"
+	}],
+	"projects": [{
+		"title": "Apple eBook",
+		"category": "official-guides",
+		"description": "Official Apple eBook for swift beginners.",
+		"homepage": "https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11"
+	}, {
+		"title": "Apple Swift Guide",
+		"category": "official-guides",
+		"description": "Official guide by Apple about swift.",
+		"homepage": "https://github.com/swifteducation"
+	}, {
+		"title": "30 Days of Swift",
+		"category": "third-party-guides",
+		"description": "A cool 30 days tutorial for swift.",
+		"homepage": "https://github.com/allenwong/30DaysofSwift"
+	}, {
+		"title": "99 Swift Problems",
+		"category": "third-party-guides",
+		"description": "Ninety-Nine Swift Problems, a good way to learn Swift while practicing data structures and algorithms.",
+		"homepage": "http://www.enekoalonso.com/projects/99-swift-problems/"
+	}, {
+		"title": "A better way to learn Swift",
+		"category": "third-party-guides",
+		"description": "Learn Swift in a different way.",
+		"homepage": "https://github.com/GoThinkster/swift"
+	}, {
+		"title": "Awesome Swift Education",
+		"category": "third-party-guides",
+		"description": "An organized list of essential Swift Language Topics",
+		"homepage": "https://github.com/hsavit1/Awesome-Swift-Education"
+	}, {
+		"title": "Developing iOS 8 Apps with Swift",
+		"category": "third-party-guides",
+		"description": "Stanford course by Paul Hegarty.",
+		"homepage": "https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099"
+	}, {
+		"title": "Developing iOS 9 Apps with Swift",
+		"category": "third-party-guides",
+		"description": "Stanford course by Paul Hegarty. (Ongoing)",
+		"homepage": "https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961"
+	}, {
+		"title": "Hacking With Swift",
+		"category": "third-party-guides",
+		"description": "Complete Swift training course that teaches app development through 30 hands-on projects, for free. Everything is taught as part of a practical project, so you can immediately apply your knowledge as you learn ([projects source code](https://github.com/twostraws/HackingWithSwift)).",
+		"homepage": "https://www.hackingwithswift.com"
+	}, {
+		"title": "Learn Swift",
+		"category": "third-party-guides",
+		"description": "a collection of tuts that will help you learning Swift via playground.",
+		"homepage": "https://github.com/nettlep/learn-swift"
+	}, {
+		"title": "Natasha the Robot",
+		"category": "third-party-guides",
+		"description": "Weekly Newsletter on learning Swift",
+		"homepage": "https://www.natashatherobot.com/"
+	}, {
+		"title": "Practice Swift",
+		"category": "third-party-guides",
+		"description": "an interesting guide to learn Swift.",
+		"homepage": "https://github.com/domenicosolazzo/practice-swift"
+	}, {
+		"title": "RxSwift Community",
+		"category": "third-party-guides",
+		"description": "Libraries, guides & projects that support [`RxSwift`](https://github.com/ReactiveX/RxSwift)",
+		"homepage": "http://community.rxswift.org/"
+	}, {
+		"title": "Swift A Day",
+		"category": "third-party-guides",
+		"description": "Daily swift experiments by Linda Dong.",
+		"homepage": "https://github.com/lindadong/swift-a-day"
+	}, {
+		"title": "Swift Sandbox Newsletter",
+		"category": "third-party-guides",
+		"description": "Swift Sandbox is a weekly newsletter containing a collection of links to the best Swift **code** and **developer tools**. Every Friday. **Free**.",
+		"homepage": "http://swiftsandbox.io"
+	}, {
+		"title": "Swift Tips",
+		"category": "third-party-guides",
+		"description": "Swift tips collection.",
+		"homepage": "https://github.com/jbrennan/swift-tips"
+	}, {
+		"title": "Swift-Weekly",
+		"category": "third-party-guides",
+		"description": "Weekly Swift Language Gems, Tips and Tricks.",
+		"homepage": "https://github.com/vandadnp/swift-weekly"
+	}, {
+		"title": "SwiftDoc",
+		"category": "third-party-guides",
+		"description": "Auto-generated documentation for Swift.",
+		"homepage": "http://swiftdoc.org/"
+	}, {
+		"title": "SwiftGuide CN",
+		"category": "third-party-guides",
+		"description": "A Chinese written guide for Swift.",
+		"homepage": "https://github.com/ipader/SwiftGuide"
+	}, {
+		"title": "SwiftInFlux",
+		"category": "third-party-guides",
+		"description": "A well explained list of feature in flux for Swift.",
+		"homepage": "https://github.com/ksm/SwiftInFlux"
+	}, {
+		"title": "Swifty",
+		"category": "third-party-guides",
+		"description": "App to learn to code in Swift.",
+		"homepage": "https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617"
+	}, {
+		"title": "GitHub",
+		"category": "style-guides",
+		"description": "Style guide & coding conventions for Swift projects.",
+		"homepage": "https://github.com/github/swift-style-guide"
+	}, {
+		"title": "Raywenderlich",
+		"category": "style-guides",
+		"description": "Raywenderlich Swift guide, a must read.",
+		"homepage": "https://github.com/raywenderlich/swift-style-guide"
+	}, {
+		"title": "SlideShare (LinkedIn)",
+		"category": "style-guides",
+		"description": "Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.",
+		"homepage": "https://github.com/SlideShareInc/swift-style-guide"
+	}, {
+		"title": "Swift-Best-Practices",
+		"category": "style-guides",
+		"description": "Best practices for software development with Swift.",
+		"homepage": "https://github.com/schwa/Swift-Community-Best-Practices/"
+	}, {
+		"title": "SwiftBoilerplate",
+		"category": "boilerplates",
+		"description": "Swift boilerplate for communication between iOS app and watchKit.",
+		"homepage": "https://github.com/JeremyWeir/SwiftBoilerplate"
+	}, {
+		"title": "Swift Off",
+		"category": "boilerplates",
+		"description": "Swift starting point includes Firebase, Crashing Reporting, Signup & more.",
+		"homepage": "https://github.com/goprimer/swift-off"
+	}, {
+		"title": "Webview Boilerplate",
+		"category": "boilerplates",
+		"description": "Swift starting point for webview app.",
+		"homepage": "https://github.com/nabilfreeman/ios-universal-webview-boilerplate"
+	}, {
+		"title": "swift-mode",
+		"category": "emacs",
+		"description": "Emacs Swift support, including partial flycheck error support.",
+		"homepage": "https://github.com/chrisbarrett/swift-mode"
+	}, {
+		"title": "swift-vim",
+		"category": "vim",
+		"description": "play Swift with vim editor.",
+		"homepage": "https://github.com/keith/swift.vim"
+	}, {
+		"title": "vim-polyglot",
+		"category": "vim",
+		"description": "language pack for vim that includes vim-swift.",
+		"homepage": "https://github.com/sheerun/vim-polyglot"
+	}, {
+		"title": "vim-swift",
+		"category": "vim",
+		"description": "adds Swift support to vim. It covers syntax, indenting, and more.",
+		"homepage": "https://github.com/toyamarinyon/vim-swift"
+	}, {
+		"title": "open-source-ios-apps",
+		"category": "demo-apps",
+		"description": "A collaborative list of open-source iOS Apps.",
+		"homepage": "https://github.com/dkhamsing/open-source-ios-apps"
+	}, {
+		"title": "awesome-osx",
+		"category": "demo-apps",
+		"description": "A curated list of awesome applications, softwares, tools and shiny things for OS X.",
+		"homepage": "https://github.com/iCHAIT/awesome-osx"
+	}, {
+		"title": "Carthage",
+		"category": "dependency-managers",
+		"description": "a new dependency manager for Swift.",
+		"homepage": "https://github.com/Carthage/Carthage"
+	}, {
+		"title": "CocoaPods",
+		"category": "dependency-managers",
+		"description": "the most used dependency manager for Objective-C and Swift (Swift supported since version 0.36.0).",
+		"homepage": "https://github.com/CocoaPods/CocoaPods"
+	}, {
+		"title": "swift-package-manager",
+		"category": "dependency-managers",
+		"description": "SPM is the Package Manager for the Swift Programming Language.",
+		"homepage": "https://github.com/apple/swift-package-manager"
+	}, {
+		"title": "Design-Patterns-In-Swift",
+		"category": "patterns",
+		"description": "Design Patterns implemented in Swift.",
+		"homepage": "https://github.com/ochococo/Design-Patterns-In-Swift"
+	}, {
+		"title": "generator-swift-framework",
+		"category": "misc",
+		"description": "Scaffolds out a Xcode framework project based on Swift 2.0.",
+		"homepage": "https://github.com/cybertk/generator-swift-framework"
+	}, {
+		"title": "InteractivePlayground",
+		"category": "misc",
+		"description": "A playground exploring the interactivity of Xcode 7.3 playgrounds.",
+		"homepage": "https://github.com/dasdom/InteractivePlayground"
+	}, {
+		"title": "MAIKit",
+		"category": "misc",
+		"description": "A framework for sharing code between iOS and OS X.",
+		"homepage": "https://github.com/MichaelBuckley/MAIKit"
+	}, {
+		"title": "sbconstants",
+		"category": "misc",
+		"description": "A nifty tool to generate constants file by grabbing identifiers from storyboards in a Swift project.",
+		"homepage": "https://github.com/paulsamuels/SBConstants"
+	}, {
+		"title": "swamp",
+		"category": "misc",
+		"description": "Icon stamping in Swift.",
+		"homepage": "https://github.com/robb/swamp"
+	}, {
+		"title": "swift-compiler-crashes",
+		"category": "misc",
+		"description": "A collection of test cases crashing the Swift compiler.",
+		"homepage": "https://github.com/practicalswift/swift-compiler-crashes"
+	}, {
+		"title": "SwiftGen",
+		"category": "misc",
+		"description": "A suite of tools written in Swift to auto-generate Swift code for various assets of your project.",
+		"homepage": "https://github.com/AliSoftware/SwiftGen"
+	}, {
+		"title": "SwiftHub",
+		"category": "misc",
+		"description": "A universal app you can use to browse the newest Swift repositories on Github.",
+		"homepage": "https://github.com/sahandnayebaziz/SwiftHub"
+	}, {
+		"title": "swiftier",
+		"category": "misc",
+		"description": "Quick-and-dirty Objective-C to Swift translator.",
+		"homepage": "https://github.com/snej/swiftier"
+	}, {
+		"title": "BrainCore",
+		"category": "ai",
+		"description": "The iOS and OS X neural network framework",
+		"homepage": "https://github.com/aleph7/BrainCore"
+	}, {
+		"title": "Swift-AI",
+		"category": "ai",
+		"description": "An artificial intelligence and machine learning library in Swift.",
+		"homepage": "https://github.com/collinhundley/Swift-AI"
+	}, {
+		"title": "Advance",
+		"category": "animation",
+		"description": "A powerful animation framework for iOS.",
+		"homepage": "https://github.com/storehouse/Advance"
+	}, {
+		"title": "Animo",
+		"category": "animation",
+		"description": "SpriteKit-like animation builders for CALayers.",
+		"homepage": "https://github.com/eure/Animo"
+	}, {
+		"title": "Cheetah",
+		"category": "animation",
+		"description": "An animation library on iOS with Swift 2.",
+		"homepage": "https://github.com/suguru/Cheetah"
+	}, {
+		"title": "DKChainableAnimationKit",
+		"category": "animation",
+		"description": "Easy to read and write chainable animations in Swift.",
+		"homepage": "https://github.com/Draveness/DKChainableAnimationKit"
+	}, {
+		"title": "EasyAnimation",
+		"category": "animation",
+		"description": "A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level.",
+		"homepage": "https://github.com/icanzilb/EasyAnimation"
+	}, {
+		"title": "IBAnimatable",
+		"category": "animation",
+		"description": "Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.",
+		"homepage": "https://github.com/JakeLin/IBAnimatable"
+	}, {
+		"title": "Interpolate",
+		"category": "animation",
+		"description": "Swift Interpolation framework for creating interactive gesture-driven animations.",
+		"homepage": "https://github.com/marmelroy/Interpolate"
+	}, {
+		"title": "Morgan",
+		"category": "animation",
+		"description": "An always growing animation set.",
+		"homepage": "https://github.com/RamonGilabert/Morgan"
+	}, {
+		"title": "Presentation",
+		"category": "animation",
+		"description": "A Swift library to help you to make tutorials, release notes and animated pages.",
+		"homepage": "https://github.com/hyperoslo/Presentation"
+	}, {
+		"title": "Pulsator",
+		"category": "animation",
+		"description": "Pulse animation for iOS.",
+		"homepage": "https://github.com/shu223/pulsator"
+	}, {
+		"title": "Spring",
+		"category": "animation",
+		"description": "A library to simplify iOS animations in Swift.",
+		"homepage": "https://github.com/MengTo/Spring"
+	}, {
+		"title": "Walker",
+		"category": "animation",
+		"description": "An animation engine to make your animations easy and more readable.",
+		"homepage": "https://github.com/RamonGilabert/Walker"
+	}, {
+		"title": "Appz",
+		"category": "app-routing",
+		"description": "Launch external apps, and deeplink, with ease using Swift!",
+		"homepage": "https://github.com/SwiftKitz/Appz"
+	}, {
+		"title": "IKRouter",
+		"category": "app-routing",
+		"description": "URLScheme router than supports auto creation of UIViewControllers.",
+		"homepage": "https://github.com/IanKeen/IKRouter"
+	}, {
+		"title": "URLNavigator",
+		"category": "app-routing",
+		"description": "Elegant URL Routing for Swift.",
+		"homepage": "https://github.com/devxoul/URLNavigator"
+	}, {
+		"title": "InAppFw",
+		"category": "app-store",
+		"description": "In App Purchase Manager framework.",
+		"homepage": "https://github.com/sandorgyulai/InAppFramework"
+	}, {
+		"title": "SwiftInAppPurchase",
+		"category": "app-store",
+		"description": "A swift wrapper for iOS in app purchases.",
+		"homepage": "https://github.com/rpzzzzzz/SwiftInAppPurchase"
+	}, {
+		"title": "SwiftyStoreKit",
+		"category": "app-store",
+		"description": "Lightweight In App Purchases Swift framework.",
+		"homepage": "https://github.com/bizz84/SwiftyStoreKit"
+	}, {
+		"title": "AudioKit",
+		"category": "audio",
+		"description": "Powerful audio synthesis, processing and analysis, *without* the steep learning curve.",
+		"homepage": "https://github.com/audiokit/AudioKit"
+	}, {
+		"title": "AudioPlayer",
+		"category": "audio",
+		"description": "A wrapper around AVPlayer with some cool features.",
+		"homepage": "https://github.com/delannoyk/AudioPlayer"
+	}, {
+		"title": "AudioPlayerSwift",
+		"category": "audio",
+		"description": "AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps",
+		"homepage": "https://github.com/recisio/AudioPlayerSwift"
+	}, {
+		"title": "Beethoven",
+		"category": "audio",
+		"description": "An audio processing Swift library for pitch detection of musical signals.",
+		"homepage": "https://github.com/vadymmarkov/Beethoven"
+	}, {
+		"title": "MusicKit",
+		"category": "audio",
+		"description": "A framework for composing and transforming music in Swift.",
+		"homepage": "https://github.com/benzguo/MusicKit"
+	}, {
+		"title": "TuningFork",
+		"category": "audio",
+		"description": "A Simple Tuner for iOS.",
+		"homepage": "https://github.com/comyarzaheri/TuningFork"
+	}, {
+		"title": "Voucher",
+		"category": "authentication",
+		"description": "A simple library to make authenticating tvOS apps easy via their iOS counterparts.",
+		"homepage": "https://github.com/rsattar/Voucher"
+	}, {
+		"title": "Dip",
+		"category": "api",
+		"description": "A simple Dependency Injection Container.",
+		"homepage": "https://github.com/AliSoftware/Dip"
+	}, {
+		"title": "Federal Data SDK",
+		"category": "api",
+		"description": "Eases access to multiple federal government OpenGov APIs.",
+		"homepage": "https://github.com/USDepartmentofLabor/Swift-Federal-Data-SDK"
+	}, {
+		"title": "GooglePlacesAutocomplete",
+		"category": "api",
+		"description": "Simple Google Places address entry for iOS.",
+		"homepage": "https://github.com/watsonbox/ios_google_places_autocomplete"
+	}, {
+		"title": "Kraken",
+		"category": "api",
+		"description": "A Dependency Injection Container for Swift with easy-to-use syntax.",
+		"homepage": "https://github.com/sabirvirtuoso/Kraken"
+	}, {
+		"title": "PredictionIO SDK",
+		"category": "api",
+		"description": "A convenient API to communicate with PredictionIO's Event Server and ML Engines.",
+		"homepage": "https://github.com/minhtule/PredictionIO-Swift-SDK"
+	}, {
+		"title": "PXGoogleDirections",
+		"category": "api",
+		"description": "Google Directions API helper.",
+		"homepage": "https://github.com/poulpix/PXGoogleDirections"
+	}, {
+		"title": "reddift",
+		"category": "api",
+		"description": "reddit API wrapper.",
+		"homepage": "https://github.com/sonsongithub/reddift"
+	}, {
+		"title": "Swifter Twitter",
+		"category": "api",
+		"description": "Swifter Twitter framework for Swift.",
+		"homepage": "https://github.com/mattdonnelly/Swifter"
+	}, {
+		"title": "Swinject",
+		"category": "api",
+		"description": "A dependency injection framework for Swift.",
+		"homepage": "https://github.com/Swinject/Swinject"
+	}, {
+		"title": "Typhoon",
+		"category": "api",
+		"description": "Dependency injection toolkit in Swift.",
+		"homepage": "https://github.com/appsquickly/Typhoon"
+	}, {
+		"title": "BlueCap",
+		"category": "bluetooth",
+		"description": "BlueCap provides a swift wrapper around CoreBluetooth and much more.",
+		"homepage": "https://github.com/troystribling/BlueCap"
+	}, {
+		"title": "BluetoothKit",
+		"category": "bluetooth",
+		"description": "A much simpler, high-level Swift API to allow easy communication between iOS devices using Bluetooth 4.0 LE.",
+		"homepage": "https://github.com/rasmusth/BluetoothKit"
+	}, {
+		"title": "ALCameraViewController",
+		"category": "camera",
+		"description": "Camera view controller with custom image picker and image cropping.",
+		"homepage": "https://github.com/AlexLittlejohn/ALCameraViewController"
+	}, {
+		"title": "Fusuma",
+		"category": "camera",
+		"description": "Instagram-like photo browser and a camera feature.",
+		"homepage": "https://github.com/ytakzk/Fusuma"
+	}, {
+		"title": "Chatto",
+		"category": "chat",
+		"description": "A lightweight framework to build chat applications, made in Swift.",
+		"homepage": "https://github.com/badoo/Chatto"
+	}, {
+		"title": "AEConicalGradient",
+		"category": "colors",
+		"description": "Conical (angular) gradient in Swift.",
+		"homepage": "https://github.com/tadija/AEConicalGradient"
+	}, {
+		"title": "Chameleon",
+		"category": "colors",
+		"description": "Chameleon is a lightweight, yet powerful, color framework for iOS (Objective-C & Swift).",
+		"homepage": "https://github.com/ViccAlexander/Chameleon"
+	}, {
+		"title": "Colors",
+		"category": "colors",
+		"description": "A pure Swift library for using ANSI codes.",
+		"homepage": "https://github.com/icodeforlove/Colors"
+	}, {
+		"title": "DynamicColor",
+		"category": "colors",
+		"description": "An extension to manipulate colors in Swift easily.",
+		"homepage": "https://github.com/yannickl/DynamicColor"
+	}, {
+		"title": "FlatUIColors",
+		"category": "colors",
+		"description": "Flat UI color palette in Swift.",
+		"homepage": "https://github.com/brynbellomy/FlatUIColors"
+	}, {
+		"title": "Google Material Color",
+		"category": "colors",
+		"description": "Google Material Color Palette in Swift.",
+		"homepage": "https://github.com/katopz/google-material-color-swift"
+	}, {
+		"title": "HexColor",
+		"category": "colors",
+		"description": "Define UIColors as Hex integers.",
+		"homepage": "https://github.com/artman/HexColor"
+	}, {
+		"title": "Hue",
+		"category": "colors",
+		"description": "Hue is the all-in-one coloring utility that you'll ever need.",
+		"homepage": "https://github.com/hyperoslo/Hue"
+	}, {
+		"title": "PrettyColors",
+		"category": "colors",
+		"description": "Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.",
+		"homepage": "https://github.com/jdhealy/PrettyColors"
+	}, {
+		"title": "RandomColorSwift",
+		"category": "colors",
+		"description": "An attractive color generator for Swift (ported from randomColor.js).",
+		"homepage": "https://github.com/onevcat/RandomColorSwift"
+	}, {
+		"title": "SwiftGen-Colors",
+		"category": "colors",
+		"description": "A tool to auto-generate Swift `enums` for your `UIColor` constants.",
+		"homepage": "https://github.com/AliSoftware/SwiftGen#uicolor"
+	}, {
+		"title": "SwiftHEXColors",
+		"category": "colors",
+		"description": "HEX color handling as an extension for UIColor.",
+		"homepage": "https://github.com/thii/SwiftHEXColors"
+	}, {
+		"title": "UIColor-Hex-Swift",
+		"category": "colors",
+		"description": "Hex to UIColor converter.",
+		"homepage": "https://github.com/yeahdongcn/UIColor-Hex-Swift"
+	}, {
+		"title": "UIColorWDUtils",
+		"category": "colors",
+		"description": "Extension for Hex RGB(A).",
+		"homepage": "https://github.com/daktales/UIColorWDUtils"
+	}, {
+		"title": "ImagePalette",
+		"category": "colors",
+		"description": "Swift/iOS port of Android's Palette",
+		"homepage": "https://github.com/shnhrrsn/ImagePalette"
+	}, {
+		"title": "Commander",
+		"category": "command-line",
+		"description": "Compose beautiful command line interfaces in Swift.",
+		"homepage": "https://github.com/kylef/Commander",
+		"tags": ["linux"]
+	}, {
+		"title": "CommandLine",
+		"category": "command-line",
+		"description": "A pure Swift library for creating command-line interfaces.",
+		"homepage": "https://github.com/jatoben/CommandLine",
+		"tags": ["linux"]
+	}, {
+		"title": "Phiole",
+		"category": "command-line",
+		"description": "Allow to write or read from standards stream in swift for CLI applications.",
+		"homepage": "https://github.com/phimage/Phiole"
+	}, {
+		"title": "Swiftline",
+		"category": "command-line",
+		"description": "A set of tools to help you create command line applications.",
+		"homepage": "https://github.com/oarrabi/Swiftline"
+	}, {
+		"title": "SwiftyTextTable",
+		"category": "command-line",
+		"description": "A lightweight library to generate text tables.",
+		"homepage": "https://github.com/scottrhoyt/SwiftyTextTable",
+		"tags": ["linux"]
+	}, {
+		"title": "Safe",
+		"category": "concurrency",
+		"description": "Modern Concurrency and Synchronization for Swift.",
+		"homepage": "https://github.com/tidwall/Safe"
+	}, {
+		"title": "Venice",
+		"category": "concurrency",
+		"description": "Communicating sequential processes (CSP) for Swift 2 (Linux ready).",
+		"homepage": "https://github.com/VeniceX/Venice",
+		"tags": ["linux"]
+	}, {
+		"title": "AERecord",
+		"category": "core-data",
+		"description": "super awesome Core Data wrapper library for iOS written in Swift.",
+		"homepage": "https://github.com/tadija/AERecord"
+	}, {
+		"title": "AlecrimCoreData",
+		"category": "core-data",
+		"description": "a simple CoreData wrapper library written in Swift.",
+		"homepage": "https://github.com/Alecrim/AlecrimCoreData"
+	}, {
+		"title": "Cadmium",
+		"category": "core-data",
+		"description": "A Swift framework that hides the complexity of managed object contexts.",
+		"homepage": "https://github.com/jmfieldman/cadmium"
+	}, {
+		"title": "CoreDataOperation",
+		"category": "core-data",
+		"description": "a safe, asynchronous CoreData operation class.",
+		"homepage": "https://github.com/Adlai-Holler/CoreDataOperation"
+	}, {
+		"title": "CoreStore",
+		"category": "core-data",
+		"description": "simple and elegant way to handle CoreData in Swift.",
+		"homepage": "https://github.com/JohnEstropia/CoreStore"
+	}, {
+		"title": "CoreValue",
+		"category": "core-data",
+		"description": "Lightweight Framework for using Core Data with Value Types.",
+		"homepage": "https://github.com/terhechte/CoreValue"
+	}, {
+		"title": "Graph",
+		"category": "core-data",
+		"description": "An elegant data-driven framework for CoreData in Swift.",
+		"homepage": "https://github.com/CosmicMind/Graph"
+	}, {
+		"title": "JSQCoreDataKit",
+		"category": "core-data",
+		"description": "A swifter Core Data stack.",
+		"homepage": "https://github.com/jessesquires/JSQCoreDataKit"
+	}, {
+		"title": "QueryKit",
+		"category": "core-data",
+		"description": "an easy way to play with coredata filtering within your Swift projects.",
+		"homepage": "https://github.com/QueryKit/QueryKit"
+	}, {
+		"title": "SugarRecord",
+		"category": "core-data",
+		"description": "an easy with to work with coredata and realm.",
+		"homepage": "https://github.com/pepibumur/SugarRecord"
+	}, {
+		"title": "SuperRecord",
+		"category": "core-data",
+		"description": "A small set of utilities to make working with CoreData and Swift a bit easier.",
+		"homepage": "https://github.com/michaelarmstrong/SuperRecord"
+	}, {
+		"title": "Algorithm",
+		"category": "data-structures",
+		"description": "A toolset for writing algorithms and probability models in Swift.",
+		"homepage": "https://github.com/CosmicMind/Algorithm"
+	}, {
+		"title": "Realm",
+		"category": "realm",
+		"description": "Realm is a mobile database: a replacement for Core Data & SQLite (https://realm.io).",
+		"homepage": "https://github.com/realm/realm-cocoa"
+	}, {
+		"title": "Realm+JSON",
+		"category": "realm",
+		"description": "A concise Mantle-like way of working with Realm and JSON.",
+		"homepage": "https://github.com/matthewcheok/Realm-JSON"
+	}, {
+		"title": "CFileWrapper",
+		"category": "files",
+		"description": "Read/Write files in Swift without Foundation.",
+		"homepage": "https://github.com/divadretlaw/CFileWrapper",
+		"tags": ["linux"]
+	}, {
+		"title": "FileBrowser",
+		"category": "files",
+		"description": "Powerful Swift file browser for iOS.",
+		"homepage": "https://github.com/marmelroy/FileBrowser"
+	}, {
+		"title": "FileKit",
+		"category": "files",
+		"description": "Simple and expressive file management in Swift.",
+		"homepage": "https://github.com/nvzqz/FileKit"
+	}, {
+		"title": "PathKit",
+		"category": "files",
+		"description": "Effortless path operations in Swift.",
+		"homepage": "https://github.com/kylef/PathKit",
+		"tags": ["linux"]
+	}, {
+		"title": "AlamofireJsonToObjects",
+		"category": "json",
+		"description": "An Alamofire extension which converts JSON response data into swift objects using Reflection.",
+		"homepage": "https://github.com/evermeer/AlamofireJsonToObjects"
+	}, {
+		"title": "AlamofireObjectMapper",
+		"category": "json",
+		"description": "An Alamofire extension which converts JSON response data into swift objects using ObjectMapper.",
+		"homepage": "https://github.com/tristanhimmelman/AlamofireObjectMapper"
+	}, {
+		"title": "Alembic",
+		"category": "json",
+		"description": "Functional JSON parsing, mapping to objects, and serialize to JSON.",
+		"homepage": "https://github.com/ra1028/Alembic"
+	}, {
+		"title": "Alexander",
+		"category": "json",
+		"description": "An extremely simple JSON helper written in Swift.",
+		"homepage": "https://github.com/hodinkee/alexander"
+	}, {
+		"title": "Argo",
+		"category": "json",
+		"description": "Json parsing library.",
+		"homepage": "https://github.com/thoughtbot/Argo"
+	}, {
+		"title": "Arrow ",
+		"category": "json",
+		"description": "Elegant JSON Parsing in Swift.",
+		"homepage": "https://github.com/s4cha/Arrow"
+	}, {
+		"title": "Brick",
+		"category": "json",
+		"description": "A generic view model for both basic and complex scenarios.",
+		"homepage": "https://github.com/hyperoslo/Brick"
+	}, {
+		"title": "Decodable",
+		"category": "json",
+		"description": "JSON parsing for Swift 2.",
+		"homepage": "https://github.com/Anviking/Decodable",
+		"tags": ["linux"]
+	}, {
+		"title": "EVReflection",
+		"category": "json",
+		"description": "Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable",
+		"homepage": "https://github.com/evermeer/EVReflection"
+	}, {
+		"title": "Genome",
+		"category": "json",
+		"description": "A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0.",
+		"homepage": "https://github.com/LoganWright/Genome"
+	}, {
+		"title": "Gloss",
+		"category": "json",
+		"description": "shiny JSON parsing library.",
+		"homepage": "https://github.com/hkellaway/Gloss",
+		"tags": ["linux"]
+	}, {
+		"title": "Himotoki",
+		"category": "json",
+		"description": "A type-safe JSON decoding library purely written in Swift.",
+		"homepage": "https://github.com/ikesyo/Himotoki"
+	}, {
+		"title": "JASON",
+		"category": "json",
+		"description": "JSON parsing with outstanding performances and convenient operators.",
+		"homepage": "https://github.com/delba/JASON"
+	}, {
+		"title": "json-swift",
+		"category": "json",
+		"description": "A basic library for working with JSON in Swift.",
+		"homepage": "https://github.com/owensd/json-swift"
+	}, {
+		"title": "JSONCodable",
+		"category": "json",
+		"description": "Hassle-free JSON encoding and decoding in Swift.",
+		"homepage": "https://github.com/matthewcheok/JSONCodable"
+	}, {
+		"title": "JSONHelper",
+		"category": "json",
+		"description": "lightning fast JSON deserialization and value conversion library for iOS & OS X written in Swift.",
+		"homepage": "https://github.com/isair/JSONHelper"
+	}, {
+		"title": "JSONNeverDie",
+		"category": "json",
+		"description": "Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die.",
+		"homepage": "https://github.com/johnlui/JSONNeverDie"
+	}, {
+		"title": "ModelRocket",
+		"category": "json",
+		"description": "An iOS framework for creating JSON-based models.",
+		"homepage": "https://github.com/ovenbits/ModelRocket"
+	}, {
+		"title": "ObjectMapper",
+		"category": "json",
+		"description": "JSON object mapper.",
+		"homepage": "https://github.com/Hearst-DD/ObjectMapper"
+	}, {
+		"title": "Pistachio",
+		"category": "json",
+		"description": "Generic model framework for Swift.",
+		"homepage": "https://github.com/felixjendrusch/Pistachio"
+	}, {
+		"title": "PPJSONSerialization",
+		"category": "json",
+		"description": "Convert JSON string to Swift Class.",
+		"homepage": "https://github.com/PonyCui/PPJSONSerialization"
+	}, {
+		"title": "SwiftJSONParser",
+		"category": "json",
+		"description": "JSON parser.",
+		"homepage": "https://github.com/mrap/SwiftJSONParser"
+	}, {
+		"title": "SwiftMapper",
+		"category": "json",
+		"description": "JSON Mapper.",
+		"homepage": "https://github.com/kam800/SwiftMapper"
+	}, {
+		"title": "SwiftyJSON",
+		"category": "json",
+		"description": "A lib for JSON in Swift with error handling.",
+		"homepage": "https://github.com/SwiftyJSON/SwiftyJSON",
+		"tags": ["linux"]
+	}, {
+		"title": "Tailor",
+		"category": "json",
+		"description": "A super fast & convenient object mapper tailored for your needs.",
+		"homepage": "https://github.com/zenangst/Tailor"
+	}, {
+		"title": "Unbox",
+		"category": "json",
+		"description": "The easy to use Swift JSON decoder.",
+		"homepage": "https://github.com/JohnSundell/Unbox"
+	}, {
+		"title": "YamlSwift",
+		"category": "json",
+		"description": "Load YAML and JSON documents using Swift.",
+		"homepage": "https://github.com/behrang/YamlSwift"
+	}, {
+		"title": "Palau",
+		"category": "key-value-store",
+		"description": "Swift based typesafe NSUserDefaults with custom rules.",
+		"homepage": "https://github.com/symentis/Palau"
+	}, {
+		"title": "Prephirences",
+		"category": "key-value-store",
+		"description": "Manage application preferences, NSUserDefaults, iCloud, Keychain and more.",
+		"homepage": "https://github.com/phimage/Prephirences"
+	}, {
+		"title": "Storez",
+		"category": "key-value-store",
+		"description": "Safe, statically-typed, store-agnostic key-value storage.",
+		"homepage": "https://github.com/SwiftKitz/Storez"
+	}, {
+		"title": "SwiftStore",
+		"category": "key-value-store",
+		"description": "A Key-Value store for Swift backed by LevelDB.",
+		"homepage": "https://github.com/hemantasapkota/SwiftStore"
+	}, {
+		"title": "SwiftyUserDefaults",
+		"category": "key-value-store",
+		"description": "a cleaner, nicer syntax for NSUserDefaults.",
+		"homepage": "https://github.com/radex/SwiftyUserDefaults"
+	}, {
+		"title": "Zephyr",
+		"category": "key-value-store",
+		"description": "Effortlessly synchronize NSUserDefaults over iCloud.",
+		"homepage": "https://github.com/ArtSabintsev/Zephyr"
+	}, {
+		"title": "MongoKitten",
+		"category": "mongodb",
+		"description": "Pure Swift MongoDB Connector",
+		"homepage": "https://github.com/PlanTeam/MongoKitten",
+		"tags": ["linux"]
+	}, {
+		"title": "SwiftMongoDB",
+		"category": "mongodb",
+		"description": "MongoDB connector for Swift.",
+		"homepage": "https://github.com/Danappelxx/SwiftMongoDB"
+	}, {
+		"title": "GRDB.swift",
+		"category": "sqlite",
+		"description": "A versatile [SQLite](https://www.sqlite.org) toolkit for Swift.",
+		"homepage": "https://github.com/groue/GRDB.swift"
+	}, {
+		"title": "SQLite.swift",
+		"category": "sqlite",
+		"description": "A pure Swift framework wrapping SQLite3. Small. Simple. Safe.",
+		"homepage": "https://github.com/stephencelis/SQLite.swift"
+	}, {
+		"title": "SQLiteDB",
+		"category": "sqlite",
+		"description": "sqlite wrapper for Swift.",
+		"homepage": "https://github.com/FahimF/SQLiteDB"
+	}, {
+		"title": "SwiftData",
+		"category": "sqlite",
+		"description": "simple and Effective SQLite Handling in Swift.",
+		"homepage": "https://github.com/ryanfowler/SwiftData"
+	}, {
+		"title": "MySQL",
+		"category": "sql-drivers",
+		"description": "MySQL adapter for Swift 2.2.",
+		"homepage": "https://github.com/Zewo/MySQL",
+		"tags": ["linux"]
+	}, {
+		"title": "PostgreSQL",
+		"category": "sql-drivers",
+		"description": "PostgreSQL adapter for Swift 2.2.",
+		"homepage": "https://github.com/Zewo/PostgreSQL",
+		"tags": ["linux"]
+	}, {
+		"title": "AEXML",
+		"category": "xml",
+		"description": "xml wrapper.",
+		"homepage": "https://github.com/tadija/AEXML"
+	}, {
+		"title": "AlamofireXmlToObjects",
+		"category": "xml",
+		"description": "An Alamofire extension for fetching an XML feed and parsing it into objects.",
+		"homepage": "https://github.com/evermeer/AlamofireXmlToObjects"
+	}, {
+		"title": "Fuzi",
+		"category": "xml",
+		"description": "A fast & lightweight XML/HTML parser with XPath & CSS support in Swift 2.",
+		"homepage": "https://github.com/cezheng/Fuzi"
+	}, {
+		"title": "SWXMLHash",
+		"category": "xml",
+		"description": "Simple XML parsing in Swift.",
+		"homepage": "https://github.com/drmohundro/SWXMLHash"
+	}, {
+		"title": "XMLParser",
+		"category": "xml",
+		"description": "A lightweight XMLParser for assembling and parsing XML values written for iOS 8+ in Swift 2.",
+		"homepage": "https://github.com/Mozharovsky/XMLParser"
+	}, {
+		"title": "Zip",
+		"category": "zip",
+		"description": "Swift framework for zipping and unzipping files.",
+		"homepage": "https://github.com/marmelroy/Zip"
+	}, {
+		"title": "EVCloudKitDao",
+		"category": "other",
+		"description": "Simplified access to CloudKit with support for subscriptions and local caching.",
+		"homepage": "https://github.com/evermeer/EVCloudKitDao"
+	}, {
+		"title": "AFDateHelper",
+		"category": "date",
+		"description": "Simple date helper.",
+		"homepage": "https://github.com/melvitax/AFDateHelper"
+	}, {
+		"title": "Datez",
+		"category": "date",
+		"description": "Swift library for dealing with `NSDate`, `NSCalendar`, `NSDateComponents`, and `NSTimeInterval`.",
+		"homepage": "https://github.com/SwiftKitz/Datez"
+	}, {
+		"title": "Punctual.swift",
+		"category": "date",
+		"description": "Swift date handler.",
+		"homepage": "https://github.com/harlanhaskins/Punctual.swift",
+		"tags": ["linux"]
+	}, {
+		"title": "Swift-NSDate-Extensions",
+		"category": "date",
+		"description": "Swift Version of [Erica's NSDate Extensions](https://github.com/erica/NSDate-Extensions).",
+		"homepage": "https://github.com/fwhenin/Swift-NSDate-Extensions"
+	}, {
+		"title": "SwiftDate",
+		"category": "date",
+		"description": "Easy NSDate Management in Swift.",
+		"homepage": "https://github.com/malcommac/SwiftDate"
+	}, {
+		"title": "SwiftMoment",
+		"category": "date",
+		"description": "A time and calendar manipulation library.",
+		"homepage": "https://github.com/akosma/SwiftMoment"
+	}, {
+		"title": "SwiftyTimer",
+		"category": "date",
+		"description": "Swifty API for NSTimer",
+		"homepage": "https://github.com/radex/SwiftyTimer"
+	}, {
+		"title": "Tempo",
+		"category": "date",
+		"description": "Date and time manager for iOS/OSX written in Swift.",
+		"homepage": "https://github.com/remirobert/Tempo"
+	}, {
+		"title": "Timepiece",
+		"category": "date",
+		"description": "Intuitive NSDate extensions in Swift.",
+		"homepage": "https://github.com/naoty/Timepiece"
+	}, {
+		"title": "jazzy",
+		"category": "documentation",
+		"description": "Soulful docs for Swift & Objective-C.",
+		"homepage": "https://github.com/realm/jazzy/"
+	}, {
+		"title": "swiftdoc-parser",
+		"category": "documentation",
+		"description": "SwiftDoc.org header parsing and HTML generating utilities.",
+		"homepage": "https://github.com/SwiftDocOrg/swiftdoc-parser"
+	}, {
+		"title": "SMBus-swift",
+		"category": "embedded-systems",
+		"description": "Communicate with SMBus/I2C devices.",
+		"homepage": "https://github.com/Sephiroth87/SMBus-swift",
+		"tags": ["linux"]
+	}, {
+		"title": "SwiftyGPIO",
+		"category": "embedded-systems",
+		"description": "Interact with Linux GPIO/SPI/PWM on ARM.",
+		"homepage": "https://github.com/uraimo/SwiftyGPIO",
+		"tags": ["linux"]
+	}, {
+		"title": "Scroll-phat-swift",
+		"category": "peripherals",
+		"description": "Control the Pimoroni Scroll pHAT.",
+		"homepage": "https://github.com/Sephiroth87/scroll-phat-swift",
+		"tags": ["linux"]
+	}, {
+		"title": "5110LCD_PCD8544.swift",
+		"category": "peripherals",
+		"description": "Nokia3310/5110 PCD8544 Monochrome LCD display library.",
+		"homepage": "https://github.com/uraimo/5110LCD_PCD8544.swift",
+		"tags": ["linux"]
+	}, {
+		"title": "Bond",
+		"category": "events",
+		"description": "a Swift binding framework.",
+		"homepage": "https://github.com/SwiftBond/Bond"
+	}, {
+		"title": "BrightFutures",
+		"category": "events",
+		"description": "promise and future lib for swift.",
+		"homepage": "https://github.com/Thomvis/BrightFutures"
+	}, {
+		"title": "Caravel",
+		"category": "events",
+		"description": "A Swift event bus for UIWebView and JS.",
+		"homepage": "https://github.com/coshx/caravel"
+	}, {
+		"title": "EmitterKit",
+		"category": "events",
+		"description": "an implementation of event emitters and listeners in swift.",
+		"homepage": "https://github.com/aleclarson/emitter-kit"
+	}, {
+		"title": "Forbind",
+		"category": "events",
+		"description": "Functional chaining and Promises in Swift.",
+		"homepage": "https://github.com/ulrikdamm/Forbind"
+	}, {
+		"title": "Future",
+		"category": "events",
+		"description": "A micro framework providing Future<T, Error>.",
+		"homepage": "https://github.com/nghialv/Future"
+	}, {
+		"title": "FutureKit",
+		"category": "events",
+		"description": "A Swift based Future/Promises Library.",
+		"homepage": "https://github.com/FutureKit/FutureKit"
+	}, {
+		"title": "Notificationz",
+		"category": "events",
+		"description": "Helping you _own_ `NSNotificationCenter` by providing a simple, customizable adapter.",
+		"homepage": "https://github.com/SwiftKitz/Notificationz"
+	}, {
+		"title": "PromiseKit",
+		"category": "events",
+		"description": "async promise programming lib.",
+		"homepage": "https://github.com/mxcl/PromiseKit"
+	}, {
+		"title": "PureFutures",
+		"category": "events",
+		"description": "Futures and Promises library.",
+		"homepage": "https://github.com/wiruzx/PureFutures"
+	}, {
+		"title": "ReactiveCocoa",
+		"category": "events",
+		"description": "ReactiveCocoa (RAC) is a Cocoa framework inspired by Functional Reactive Programming. It provides APIs for composing and transforming streams of values over time.",
+		"homepage": "https://github.com/ReactiveCocoa/ReactiveCocoa"
+	}, {
+		"title": "ReactKit",
+		"category": "events",
+		"description": "Swift Reactive Programming.",
+		"homepage": "https://github.com/ReactKit/ReactKit"
+	}, {
+		"title": "Reactor",
+		"category": "events",
+		"description": "Powering your RAC architecture.",
+		"homepage": "https://github.com/MailOnline/Reactor"
+	}, {
+		"title": "RxSwift",
+		"category": "events",
+		"description": "Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.",
+		"homepage": "https://github.com/ReactiveX/RxSwift"
+	}, {
+		"title": "SignalKit",
+		"category": "events",
+		"description": "Swift event and binding framework.",
+		"homepage": "https://github.com/yankodimitrov/SignalKit"
+	}, {
+		"title": "Signals",
+		"category": "events",
+		"description": "replaces delegates and notifications.",
+		"homepage": "https://github.com/artman/Signals"
+	}, {
+		"title": "SSEventFlow",
+		"category": "events",
+		"description": "A type safe alternative to NSNotification, inspired by Flux.",
+		"homepage": "https://github.com/neoneye/SSEventFlow"
+	}, {
+		"title": "SwiftEventBus",
+		"category": "events",
+		"description": "A publish/subscribe event bus optimized for iOS.",
+		"homepage": "https://github.com/cesarferreira/SwiftEventBus"
+	}, {
+		"title": "When",
+		"category": "events",
+		"description": "A lightweight implementation of Promises in Swift.",
+		"homepage": "https://github.com/vadymmarkov/When"
+	}, {
+		"title": "Font-Awesome",
+		"category": "fonts",
+		"description": "Use Font Awesome in project written in Swift.",
+		"homepage": "https://github.com/hirohisa/Font-Awesome"
+	}, {
+		"title": "FontAwesome.swift",
+		"category": "fonts",
+		"description": "Use FontAwesome in your Swift projects.",
+		"homepage": "https://github.com/thii/FontAwesome.swift"
+	}, {
+		"title": "FontBlaster",
+		"category": "fonts",
+		"description": "Programmatically load custom fonts into your iOS app.",
+		"homepage": "https://github.com/ArtSabintsev/FontBlaster"
+	}, {
+		"title": "GoogleMaterialDesignIcons",
+		"category": "fonts",
+		"description": "google Material Design Icons Font for iOS.",
+		"homepage": "https://github.com/dekatotoro/GoogleMaterialDesignIcons"
+	}, {
+		"title": "GoogleMaterialIconFont",
+		"category": "fonts",
+		"description": "Google Material Icon Font for Swift and ObjC.",
+		"homepage": "https://github.com/kitasuke/GoogleMaterialIconFont"
+	}, {
+		"title": "MCFontAwesome",
+		"category": "fonts",
+		"description": "fontawesome porting for Swift.",
+		"homepage": "https://github.com/matteocrippa/MCFontAwesome"
+	}, {
+		"title": "OpenSansSwift",
+		"category": "fonts",
+		"description": "OpenSans for Swift.",
+		"homepage": "https://github.com/hemantasapkota/OpenSansSwift"
+	}, {
+		"title": "Swicon",
+		"category": "fonts",
+		"description": "Use 1600+ icons from FontAwesome and Google Material Icons (and even your own customized icons) in your swift/iOS project!",
+		"homepage": "https://github.com/UglyTroLL/Swicon"
+	}, {
+		"title": "SwiftFontName",
+		"category": "fonts",
+		"description": "OS font complements library. Localized font supported.",
+		"homepage": "https://github.com/morizotter/SwiftFontName"
+	}, {
+		"title": "SwiftFonts",
+		"category": "fonts",
+		"description": "render all the supported fonts in Swift.",
+		"homepage": "https://github.com/roadfire/SwiftFonts"
+	}, {
+		"title": "SwiftIconFont",
+		"category": "fonts",
+		"description": "Fontawesome, Iconic, Ionicons, Octicon porting for Swift.",
+		"homepage": "https://github.com/0x73/SwiftIconFont"
+	}, {
+		"title": "DBPathRecognizer",
+		"category": "gesture",
+		"description": "db path recognizer for letters.",
+		"homepage": "https://github.com/didierbrun/DBPathRecognizer"
+	}, {
+		"title": "NiceGesture",
+		"category": "gesture",
+		"description": "Using UIGestureRecognizers in a intuitive way.",
+		"homepage": "https://github.com/lacklock/NiceGesture"
+	}, {
+		"title": "PeekPop",
+		"category": "gesture",
+		"description": "Swift framework for backwards-compatible Peek and Pop.",
+		"homepage": "https://github.com/marmelroy/PeekPop"
+	}, {
+		"title": "SwiftyGestureRecognition",
+		"category": "gesture",
+		"description": "UIGestureRecognizers in Xcode Playgrounds.",
+		"homepage": "https://github.com/b3ll/SwiftyGestureRecognition"
+	}, {
+		"title": "SwipyCell",
+		"category": "gesture",
+		"description": "Easy to use UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).",
+		"homepage": "https://github.com/moritzsternemann/SwipyCell"
+	}, {
+		"title": "Tactile",
+		"category": "gesture",
+		"description": "Attach function handlers to gesture and control events in a more expressive and safer way.",
+		"homepage": "https://github.com/delba/Tactile"
+	}, {
+		"title": "iBeacon",
+		"category": "ibeacon",
+		"description": "iBeacon implementation in Swift.",
+		"homepage": "https://github.com/gemtot/iBeacon"
+	}, {
+		"title": "Agrume",
+		"category": "images",
+		"description": "A lemony fresh iOS image viewer written in Swift.",
+		"homepage": "https://github.com/JanGorman/Agrume"
+	}, {
+		"title": "AlamofireImage",
+		"category": "images",
+		"description": "AlamofireImage is an image component library for Alamofire.",
+		"homepage": "https://github.com/Alamofire/AlamofireImage"
+	}, {
+		"title": "APNGKit",
+		"category": "images",
+		"description": "High performance and delightful way to play with APNG format in iOS.",
+		"homepage": "https://github.com/onevcat/APNGKit"
+	}, {
+		"title": "CYFastImage",
+		"category": "images",
+		"description": "display images from web.",
+		"homepage": "https://github.com/lihei12345/CYFastImage"
+	}, {
+		"title": "DePict",
+		"category": "images",
+		"description": "functional wrapper for CoreGraphics.",
+		"homepage": "https://github.com/davidcairns/DePict"
+	}, {
+		"title": "Filterpedia",
+		"category": "images",
+		"description": "core image filter",
+		"homepage": "https://github.com/FlexMonkey/Filterpedia"
+	}, {
+		"title": "gifu",
+		"category": "images",
+		"description": "highly performant animated GIF support for iOS in Swift.",
+		"homepage": "https://github.com/kaishin/gifu"
+	}, {
+		"title": "GPUImage 2",
+		"category": "images",
+		"description": "GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.",
+		"homepage": "https://github.com/BradLarson/GPUImage2"
+	}, {
+		"title": "HanekeSwift",
+		"category": "images",
+		"description": "A lightweight generic cache for iOS written in Swift with extra love for images.",
+		"homepage": "https://github.com/Haneke/HanekeSwift"
+	}, {
+		"title": "ImageLoader",
+		"category": "images",
+		"description": "A lightweight and fast image loader for iOS written in Swift.",
+		"homepage": "https://github.com/hirohisa/ImageLoaderSwift"
+	}, {
+		"title": "ImageScout",
+		"category": "images",
+		"description": "a Swift implementation of [fastimage](https://pypi.python.org/pypi/fastimage/0.2.1) - supports PNG, GIF, and JPEG.",
+		"homepage": "https://github.com/kaishin/ImageScout"
+	}, {
+		"title": "JLStickerTextView",
+		"category": "images",
+		"description": "A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.",
+		"homepage": "https://github.com/luiyezheng/JLStickerTextView"
+	}, {
+		"title": "KFSwiftImageLoader",
+		"category": "images",
+		"description": "An extremely high-performance, lightweight, and energy-efficient pure Swift async web image loader with memory and disk caching for iOS and  Watch.",
+		"homepage": "https://github.com/kiavashfaisali/KFSwiftImageLoader"
+	}, {
+		"title": "Kingfisher",
+		"category": "images",
+		"description": "a lib for image download and caching.",
+		"homepage": "https://github.com/onevcat/Kingfisher"
+	}, {
+		"title": "MapleBacon",
+		"category": "images",
+		"description": "Swift image download and caching library.",
+		"homepage": "https://github.com/zalando/MapleBacon"
+	}, {
+		"title": "Misen",
+		"category": "images",
+		"description": "A script to support using Xcode Asset Catalog in Swift.",
+		"homepage": "https://github.com/tasanobu/Misen"
+	}, {
+		"title": "Nuke",
+		"category": "images",
+		"description": "Advanced pure Swift framework for loading, caching, processing, displaying and preheating images.",
+		"homepage": "https://github.com/kean/Nuke"
+	}, {
+		"title": "PASImageView",
+		"category": "images",
+		"description": "async remote download your image and round them. automatically.",
+		"homepage": "https://github.com/abiaad/PASImageView"
+	}, {
+		"title": "PassportScanner",
+		"category": "images",
+		"description": "Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.",
+		"homepage": "https://github.com/evermeer/PassportScanner"
+	}, {
+		"title": "SkyFloatingLabelTextField",
+		"category": "images",
+		"description": "A beautiful and flexible text field control implementation of \"Float Label Pattern\".",
+		"homepage": "https://github.com/Skyscanner/SkyFloatingLabelTextField"
+	}, {
+		"title": "SwiftColorArt",
+		"category": "images",
+		"description": "font schema generator according image colours.",
+		"homepage": "https://github.com/Jan0707/SwiftColorArt"
+	}, {
+		"title": "SwiftGen-Assets",
+		"category": "images",
+		"description": "A tool to auto-generate Swift `enums` for all your `UIImages` from your Assets Catalogs.",
+		"homepage": "https://github.com/AliSoftware/SwiftGen#assets-catalogs"
+	}, {
+		"title": "SwiftGif",
+		"category": "images",
+		"description": "A small UIImage extension with gif support.",
+		"homepage": "https://github.com/bahlo/SwiftGif"
+	}, {
+		"title": "SwiftSVG",
+		"category": "images",
+		"description": "A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView)",
+		"homepage": "https://github.com/mchoe/SwiftSVG"
+	}, {
+		"title": "SwiftyGif",
+		"category": "images",
+		"description": "High performance GIF engine.",
+		"homepage": "https://github.com/kirualex/SwiftyGif"
+	}, {
+		"title": "TextDrawer",
+		"category": "images",
+		"description": "A UIView allows you to add text with gesture on UIView or UIImage, support resize, rotate, move and edit.",
+		"homepage": "https://github.com/remirobert/TextDrawer"
+	}, {
+		"title": "Toucan",
+		"category": "images",
+		"description": "Image processing api.",
+		"homepage": "https://github.com/gavinbunney/Toucan"
+	}, {
+		"title": "UIImageColors",
+		"category": "images",
+		"description": "iTunes style color fetcher for UIImage.",
+		"homepage": "https://github.com/jathu/UIImageColors"
+	}, {
+		"title": "UIImageView-BetterFace-Swift",
+		"category": "images",
+		"description": "autoresize images and if any face discovered refine the position of the image.",
+		"homepage": "https://github.com/croath/UIImageView-BetterFace-Swift"
+	}, {
+		"title": "WDImagePicker",
+		"category": "images",
+		"description": "Image picker with customizable crop rectangle (getting update).",
+		"homepage": "https://github.com/justwudi/WDImagePicker"
+	}, {
+		"title": "XAnimatedImage",
+		"category": "images",
+		"description": "XAnimatedImage is a performant animated GIF engine for iOS written in Swift based on FLAnimatedImage",
+		"homepage": "https://github.com/khaledmtaha/XAnimatedImage"
+	}, {
+		"title": "Hodor Keyboard",
+		"category": "keyboard",
+		"description": "poc for custom keyboard implementation.",
+		"homepage": "https://github.com/jonomuller/Hodor-Keyboard"
+	}, {
+		"title": "SwiftKVC",
+		"category": "key-value-coding",
+		"description": "Key-Value Coding (KVC) for native Swift classes and structs.",
+		"homepage": "https://github.com/bradhilton/SwiftKVC"
+	}, {
+		"title": "C4iOS",
+		"category": "kit",
+		"description": "Harnesses the power of native iOS programming with a simplified API.",
+		"homepage": "https://github.com/C4Framework/C4iOS"
+	}, {
+		"title": "BFKit-Swift",
+		"category": "kit",
+		"description": "A collection of useful classes to develop Apps faster.",
+		"homepage": "https://github.com/FabrizioBrancati/BFKit-Swift"
+	}, {
+		"title": "ManualLayout",
+		"category": "layout",
+		"description": "Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.",
+		"homepage": "https://github.com/isair/ManualLayout"
+	}, {
+		"title": "Neon",
+		"category": "layout",
+		"description": "A powerful Swift programmatic UI layout framework.",
+		"homepage": "https://github.com/mamaral/Neon"
+	}, {
+		"title": "Static",
+		"category": "layout",
+		"description": "A simple static table views for iOS in Swift.",
+		"homepage": "https://github.com/venmo/Static"
+	}, {
+		"title": "Stevia",
+		"category": "layout",
+		"description": "Elegant way to manage layout.",
+		"homepage": "https://github.com/s4cha/Stevia"
+	}, {
+		"title": "SwiftBox",
+		"category": "layout",
+		"description": "Flexbox in Swift, using Facebook's css-layout.",
+		"homepage": "https://github.com/joshaber/SwiftBox"
+	}, {
+		"title": "UIViewprint",
+		"category": "layout",
+		"description": "Swift iOS view layout reimagined.",
+		"homepage": "https://github.com/alexwinston/UIViewprint"
+	}, {
+		"title": "ViewMonitor",
+		"category": "layout",
+		"description": "Confirm view positions with executing app.",
+		"homepage": "https://github.com/daisuke0131/ViewMonitor"
+	}, {
+		"title": "AutoLayoutPlus",
+		"category": "auto-layout",
+		"description": "A bit of steroids for AutoLayout, powered by Swift.",
+		"homepage": "https://github.com/ruipfcosta/AutoLayoutPlus"
+	}, {
+		"title": "Cartography",
+		"category": "auto-layout",
+		"description": "declarative auto layout lib for your project.",
+		"homepage": "https://github.com/robb/Cartography"
+	}, {
+		"title": "EasyPeasy",
+		"category": "auto-layout",
+		"description": "Auto Layout made easy.",
+		"homepage": "https://github.com/nakiostudio/EasyPeasy"
+	}, {
+		"title": "FormationLayout",
+		"category": "auto-layout",
+		"description": "Auto Layout lib supports group layout and size classes.",
+		"homepage": "https://github.com/evan-liu/FormationLayout"
+	}, {
+		"title": "MisterFusion",
+		"category": "auto-layout",
+		"description": "A Swift DSL for AutoLayout. It can be used in both Swift and Objective-C, in addition, it supports Size Class.",
+		"homepage": "https://github.com/szk-atmosphere/MisterFusion"
+	}, {
+		"title": "Mortar",
+		"category": "auto-layout",
+		"description": "A concise but flexible Swift DSL for creating Auto Layout constraints and adding subviews.",
+		"homepage": "https://github.com/jmfieldman/Mortar"
+	}, {
+		"title": "PureLayout",
+		"category": "auto-layout",
+		"description": "The ultimate API for iOS & OS X Auto Layout.",
+		"homepage": "https://github.com/PureLayout/PureLayout"
+	}, {
+		"title": "Restraint",
+		"category": "auto-layout",
+		"description": "Minimal Auto Layout in Swift.",
+		"homepage": "https://github.com/puffinsupply/Restraint"
+	}, {
+		"title": "SnapKit",
+		"category": "auto-layout",
+		"description": "A Swift Autolayout DSL for iOS & OS X.",
+		"homepage": "https://github.com/SnapKit/SnapKit"
+	}, {
+		"title": "Swift-iOS-Localize-Constraint",
+		"category": "auto-layout",
+		"description": "localize constraint on the fly to support RTL and LTR with same view.",
+		"homepage": "https://github.com/dimohamdy/Swift-iOS-Localize-Constraint"
+	}, {
+		"title": "SwiftAutoLayout",
+		"category": "auto-layout",
+		"description": "a small DSL for autolayout.",
+		"homepage": "https://github.com/indragiek/SwiftAutoLayout"
+	}, {
+		"title": "Swiftstraints",
+		"category": "auto-layout",
+		"description": "Powerful auto-layout framework that lets you write constraints in one line of code.",
+		"homepage": "https://github.com/Skyvive/Swiftstraints"
+	}, {
+		"title": "SwiftyLayout",
+		"category": "auto-layout",
+		"description": "Lightweight mathematical declarative auto-layout framework for Swift.",
+		"homepage": "https://github.com/fhisa/SwiftyLayout"
+	}, {
+		"title": "Tails",
+		"category": "auto-layout",
+		"description": "declarative autolayout for ios app written in swift.",
+		"homepage": "https://github.com/nickynick/Tails"
+	}, {
+		"title": "VFLToolbox",
+		"category": "auto-layout",
+		"description": "fancy Swift implementation of the Visual Format Language.",
+		"homepage": "https://github.com/0xc010d/VFLToolbox"
+	}, {
+		"title": "BartyCrouch",
+		"category": "localization",
+		"description": "Incrementally update/translate your Strings files from Code and Storyboards/XIBs.",
+		"homepage": "https://github.com/Flinesoft/BartyCrouch"
+	}, {
+		"title": "Localize-Swift",
+		"category": "localization",
+		"description": "Localize apps using e.g. regular expressions in Localizable.strings.",
+		"homepage": "https://github.com/marmelroy/Localize-Swift"
+	}, {
+		"title": "Swifternalization",
+		"category": "localization",
+		"description": "Localize apps using e.g. regular expressions in Localizable.strings.",
+		"homepage": "https://github.com/tomkowz/Swifternalization"
+	}, {
+		"title": "SwiftGen-L10n",
+		"category": "localization",
+		"description": "A tool to auto-generate Swift `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`).",
+		"homepage": "https://github.com/AliSoftware/SwiftGen#localizablestrings"
+	}, {
+		"title": "AELog",
+		"category": "logging",
+		"description": "Simple, lightweight and flexible debug logging framework written in Swift.",
+		"homepage": "https://github.com/tadija/AELog"
+	}, {
+		"title": "AEConsole",
+		"category": "logging",
+		"description": "Customizable Console UI overlay with debug log on top of your iOS App.",
+		"homepage": "https://github.com/tadija/AEConsole"
+	}, {
+		"title": "CleanroomASL",
+		"category": "logging",
+		"description": "Low-level Swift API for writing to and reading from the Apple System Log daemon.",
+		"homepage": "https://github.com/emaloney/CleanroomASL",
+		"tags": ["linux"]
+	}, {
+		"title": "CleanroomLogger",
+		"category": "logging",
+		"description": "Configurable and extensible high-level logging API that is simple, lightweight and performant.",
+		"homepage": "https://github.com/emaloney/CleanroomLogger",
+		"tags": ["linux"]
+	}, {
+		"title": "Duration",
+		"category": "logging",
+		"description": "Lightweight logging library focused on reporting timings for operations.",
+		"homepage": "https://github.com/SwiftStudies/Duration",
+		"tags": ["linux"]
+	}, {
+		"title": "HeliumLogger",
+		"category": "logging",
+		"description": "IBM's lightweight logging framework.",
+		"homepage": "https://github.com/IBM-Swift/HeliumLogger",
+		"tags": ["linux"]
+	}, {
+		"title": "Log",
+		"category": "logging",
+		"description": "A logging tool with built-in themes, formatters, and a nice API to define your owns.",
+		"homepage": "https://github.com/delba/Log"
+	}, {
+		"title": "Puree",
+		"category": "logging",
+		"description": "A log collector for iOS.",
+		"homepage": "https://github.com/cookpad/puree-ios"
+	}, {
+		"title": "QorumLogs",
+		"category": "logging",
+		"description": "Swift Logging Utility for Xcode & Google Docs.",
+		"homepage": "https://github.com/goktugyil/QorumLogs"
+	}, {
+		"title": "Rainbow",
+		"category": "logging",
+		"description": "Delightful console output for Swift developers.",
+		"homepage": "https://github.com/onevcat/Rainbow",
+		"tags": ["linux"]
+	}, {
+		"title": "Swell",
+		"category": "logging",
+		"description": "a logging utility for Swift.",
+		"homepage": "https://github.com/hubertr/Swell"
+	}, {
+		"title": "SwiftBeaver",
+		"category": "logging",
+		"description": "Colorful, lightweight & fast logging in Swift 2.",
+		"homepage": "https://github.com/SwiftyBeaver/SwiftyBeaver",
+		"tags": ["linux"]
+	}, {
+		"title": "swiftRemoteLogger",
+		"category": "logging",
+		"description": "Remote logging easy as 1..2..3 in Swift.",
+		"homepage": "https://github.com/matteocrippa/swiftRemoteLogger"
+	}, {
+		"title": "Watchdog",
+		"category": "logging",
+		"description": "A Swift utility for logging excessive blocking on the main thread.",
+		"homepage": "https://github.com/wojteklu/Watchdog"
+	}, {
+		"title": "WatchdogInspector",
+		"category": "logging",
+		"description": "A logging tool to show the current framerate (fps) in the status bar of your iOS app.",
+		"homepage": "https://github.com/tapwork/WatchdogInspector"
+	}, {
+		"title": "XCGLogger",
+		"category": "logging",
+		"description": "Full featured & Configurable logging utility with log levels, timestamps, and line numbers.",
+		"homepage": "https://github.com/DaveWoodCom/XCGLogger"
+	}, {
+		"title": "GEOSwift",
+		"category": "maps",
+		"description": "The Swift Geographic Engine, make it easier to work with geographic models and calculate intersections, overlapping, projections etc.",
+		"homepage": "https://github.com/andreacremaschi/GEOSwift"
+	}, {
+		"title": "SwiftLocation",
+		"category": "location",
+		"description": "iOS CoreLocation Wrapper made in Swift.",
+		"homepage": "https://github.com/malcommac/SwiftLocation"
+	}, {
+		"title": "STLocationRequest",
+		"category": "location",
+		"description": "An elegant and simple 3D Flyover Location Request Screen in Swift.",
+		"homepage": "https://github.com/SvenTiigi/STLocationRequest"
+	}, {
+		"title": "Arithmosophi",
+		"category": "math",
+		"description": "Set of protocols for Arithmetic and Logical operations.",
+		"homepage": "https://github.com/phimage/Arithmosophi"
+	}, {
+		"title": "DDMathParser",
+		"category": "math",
+		"description": "DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.",
+		"homepage": "https://github.com/davedelong/DDMathParser"
+	}, {
+		"title": "Easy-Cal-Swift",
+		"category": "math",
+		"description": "Overload +-*/ operator for Swift, make it easier to use (and not so strict).",
+		"homepage": "https://github.com/onevcat/Easy-Cal-Swift"
+	}, {
+		"title": "PlotKit",
+		"category": "math",
+		"description": "Plots made easy.",
+		"homepage": "https://github.com/aleph7/PlotKit"
+	}, {
+		"title": "swix",
+		"category": "math",
+		"description": "A general matrix language.",
+		"homepage": "https://github.com/stsievert/swix"
+	}, {
+		"title": "Upsurge",
+		"category": "math",
+		"description": "Simple and fast matrix and vector math for Swift.",
+		"homepage": "https://github.com/aleph7/Upsurge"
+	}, {
+		"title": "agent",
+		"category": "network",
+		"description": "http request agent.",
+		"homepage": "https://github.com/hallas/agent"
+	}, {
+		"title": "Alamofire",
+		"category": "network",
+		"description": "elegant networking in Swift.",
+		"homepage": "https://github.com/Alamofire/Alamofire",
+		"tags": ["linux"]
+	}, {
+		"title": "APIKit",
+		"category": "network",
+		"description": "a library for building type-safe web API client.",
+		"homepage": "https://github.com/ishkawa/APIKit"
+	}, {
+		"title": "BigBrother",
+		"category": "network",
+		"description": "Automatically sets the network activity indicator for any performed request.",
+		"homepage": "https://github.com/marcelofabri/BigBrother"
+	}, {
+		"title": "Endpoint",
+		"category": "network",
+		"description": ":rocket: Elegant API Abstraction for Swift.",
+		"homepage": "https://github.com/devxoul/Endpoint"
+	}, {
+		"title": "GRequest",
+		"category": "network",
+		"description": "http request handler.",
+		"homepage": "https://github.com/lingoer/GRequest"
+	}, {
+		"title": "Heimdallr.swift",
+		"category": "network",
+		"description": "Easy to use OAuth 2 library for iOS, written in Swift.",
+		"homepage": "https://github.com/rheinfabrik/Heimdallr.swift"
+	}, {
+		"title": "Just",
+		"category": "network",
+		"description": "HTTP for Humans (a python-requests style HTTP library in Swift).",
+		"homepage": "https://github.com/JustHTTP/Just"
+	}, {
+		"title": "ModestProposal",
+		"category": "network",
+		"description": "an HTTP toolbox.",
+		"homepage": "https://github.com/jkolb/ModestProposal"
+	}, {
+		"title": "Moya",
+		"category": "network",
+		"description": "network abstraction layer.",
+		"homepage": "https://github.com/Moya/Moya"
+	}, {
+		"title": "Net",
+		"category": "network",
+		"description": "an httprequest wrapper.",
+		"homepage": "https://github.com/nghialv/Net"
+	}, {
+		"title": "Netfox",
+		"category": "network",
+		"description": "A lightweight, one line setup, network debugging library in Swift.",
+		"homepage": "https://github.com/kasketis/netfox"
+	}, {
+		"title": "NetKit",
+		"category": "network",
+		"description": "A Concise HTTP Framework in Swift.",
+		"homepage": "https://github.com/azizuysal/NetKit"
+	}, {
+		"title": "NKMultipeer",
+		"category": "network",
+		"description": "A testable abstraction over multipeer connectivity",
+		"homepage": "https://github.com/nathankot/NKMultipeer"
+	}, {
+		"title": "OAuth2",
+		"category": "network",
+		"description": "oauth2 auth lib.",
+		"homepage": "https://github.com/p2/OAuth2"
+	}, {
+		"title": "OAuthSwift",
+		"category": "network",
+		"description": "Swift based OAuth library for iOS.",
+		"homepage": "https://github.com/OAuthSwift/OAuthSwift"
+	}, {
+		"title": "PeerKit",
+		"category": "network",
+		"description": "An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps.",
+		"homepage": "https://github.com/jpsim/PeerKit"
+	}, {
+		"title": "Pitaya",
+		"category": "network",
+		"description": "A Swift HTTP / HTTPS networking library just incidentally execute on machines.",
+		"homepage": "https://github.com/johnlui/Pitaya",
+		"tags": ["linux"]
+	}, {
+		"title": "Reach",
+		"category": "network",
+		"description": "A simple class to check for internet connection availability in Swift.",
+		"homepage": "https://github.com/Isuru-Nanayakkara/Reach"
+	}, {
+		"title": "Reachability.swift",
+		"category": "network",
+		"description": "A replacement for Apple's Reachability re-written in Swift with closures.",
+		"homepage": "https://github.com/ashleymills/Reachability.swift"
+	}, {
+		"title": "ResponseDetective",
+		"category": "network",
+		"description": "A non-intrusive framework for intercepting any outgoing requests and incoming responses between your app and server for debugging purposes.",
+		"homepage": "https://github.com/netguru/ResponseDetective"
+	}, {
+		"title": "RestEssentials",
+		"category": "network",
+		"description": "An extremely lightweight REST and JSON library for Swift.",
+		"homepage": "https://github.com/sean7512/RestEssentials"
+	}, {
+		"title": "RSNetworking",
+		"category": "network",
+		"description": "Network library written purely in Swift.",
+		"homepage": "https://github.com/hoffmanjon/RSNetworking"
+	}, {
+		"title": "Siesta",
+		"category": "network",
+		"description": "egant abstraction for REST APIs that untangles stateful messes. An alternative to callback- and delegate-based networking.",
+		"homepage": "https://bustoutsolutions.github.io/siesta/"
+	}, {
+		"title": "Stargate",
+		"category": "network",
+		"description": "A communication channel from your Mac to your watch.",
+		"homepage": "https://github.com/contentful-labs/Stargate"
+	}, {
+		"title": "SwiftHTTP",
+		"category": "network",
+		"description": "NSURLSession wrapper.",
+		"homepage": "https://github.com/daltoniam/SwiftHTTP"
+	}, {
+		"title": "Transporter",
+		"category": "network",
+		"description": "A tiny library makes uploading and downloading easier.",
+		"homepage": "https://github.com/nghialv/Transporter"
+	}, {
+		"title": "YYHRequest-Swift",
+		"category": "network",
+		"description": "http request in async.",
+		"homepage": "https://github.com/yayuhh/YYHRequest-Swift"
+	}, {
+		"title": "Ji",
+		"category": "html",
+		"description": "an XML/HTML parser for Swift.",
+		"homepage": "https://github.com/honghaoz/Ji"
+	}, {
+		"title": "Kanna",
+		"category": "html",
+		"description": "another XML/HTML parser for Swift.",
+		"homepage": "https://github.com/tid-kijyun/Kanna"
+	}, {
+		"title": "WKZombie",
+		"category": "html",
+		"description": "Headless browser",
+		"homepage": "https://github.com/mkoehnke/WKZombie"
+	}, {
+		"title": "CocoaMQTT",
+		"category": "messaging-protocol",
+		"description": "MQTT for iOS and OS X written with Swift.",
+		"homepage": "https://github.com/emqtt/CocoaMQTT"
+	}, {
+		"title": "BlueSocket",
+		"category": "socket",
+		"description": "IBM's low level socket framework.",
+		"homepage": "https://github.com/IBM-Swift/BlueSocket",
+		"tags": ["linux"]
+	}, {
+		"title": "Socket.IO",
+		"category": "socket",
+		"description": "Socket.IO client for iOS/OS X.",
+		"homepage": "https://github.com/socketio/socket.io-client-swift",
+		"tags": ["linux"]
+	}, {
+		"title": "SocketIO-Kit",
+		"category": "socket",
+		"description": "Socket.io iOS and OSX Client.",
+		"homepage": "https://github.com/ricardopereira/SocketIO-Kit"
+	}, {
+		"title": "Socks",
+		"category": "socket",
+		"description": "Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.",
+		"homepage": "https://github.com/czechboy0/Socks",
+		"tags": ["linux"]
+	}, {
+		"title": "Starscream",
+		"category": "socket",
+		"description": "Websockets in swift for iOS and OSX.",
+		"homepage": "https://github.com/daltoniam/Starscream"
+	}, {
+		"title": "SwiftSocket",
+		"category": "socket",
+		"description": "simple TCP socket library.",
+		"homepage": "https://github.com/swiftsocket/SwiftSocket"
+	}, {
+		"title": "SwiftWebSocket",
+		"category": "socket",
+		"description": "A high performance WebSocket client library for swift.",
+		"homepage": "https://github.com/tidwall/SwiftWebSocket"
+	}, {
+		"title": "WebSocket",
+		"category": "socket",
+		"description": "WebSockets server for Swift 2.2 on Linux.",
+		"homepage": "https://github.com/Zewo/WebSocket",
+		"tags": ["linux"]
+	}, {
+		"title": "Aeon",
+		"category": "webserver",
+		"description": "GCD based HTTP server for Swift 2.",
+		"homepage": "https://github.com/paulofaria/Aeon"
+	}, {
+		"title": "Curassow",
+		"category": "webserver",
+		"description": "Swift HTTP server using the pre-fork worker model.",
+		"homepage": "https://github.com/kylef/Curassow",
+		"tags": ["linux"]
+	}, {
+		"title": "Blackfish",
+		"category": "webserver",
+		"description": "HTTP Webserver inspired by Express.js.",
+		"homepage": "https://github.com/elliottminns/blackfish",
+		"tags": ["linux"]
+	}, {
+		"title": "Dynamo",
+		"category": "webserver",
+		"description": "[DynamoLinux](https://github.com/johnno1962/DynamoLinux)  - High Performance (nearly)100% Swift Web server supporting dynamic content.",
+		"homepage": "https://github.com/johnno1962/Dynamo",
+		"tags": ["linux"]
+	}, {
+		"title": "Express",
+		"category": "webserver",
+		"description": "Swift Web Application framework, supporting both Synchronous and Asynchronous (Futures based) styles. Inspired by Play framework and Express.js.",
+		"homepage": "https://github.com/crossroadlabs/Express",
+		"tags": ["linux"]
+	}, {
+		"title": "Frank",
+		"category": "webserver",
+		"description": "Frank is a DSL for quickly writing web applications in Swift.",
+		"homepage": "https://github.com/nestproject/Frank",
+		"tags": ["linux"]
+	}, {
+		"title": "http4swift",
+		"category": "webserver",
+		"description": "A simple HTTP server written in Swift.",
+		"homepage": "https://github.com/takebayashi/http4swift",
+		"tags": ["linux"]
+	}, {
+		"title": "Kitura",
+		"category": "webserver",
+		"description": "IBM's web framework and server for web services written in Swift.",
+		"homepage": "https://github.com/IBM-Swift/Kitura",
+		"tags": ["linux"]
+	}, {
+		"title": "Kunugi",
+		"category": "webserver",
+		"description": "Minimal web framework and middleware for Swift.",
+		"homepage": "https://github.com/novi/Kunugi",
+		"tags": ["linux"]
+	}, {
+		"title": "NetworkObjects",
+		"category": "webserver",
+		"description": "REST HTTP Server written in Swift. Builds REST API from Core Data.",
+		"homepage": "https://github.com/colemancda/NetworkObjects"
+	}, {
+		"title": "Perfect",
+		"category": "webserver",
+		"description": "Server-side Swift. The Perfect library, application server, connectors and example apps.",
+		"homepage": "https://github.com/PerfectlySoft/Perfect",
+		"tags": ["linux"]
+	}, {
+		"title": "Swift-Server",
+		"category": "webserver",
+		"description": "Currently, a very basic proof-of-concept Swift HTTP server that does not require Foundation.",
+		"homepage": "https://github.com/cezarywojcik/Swift-Server"
+	}, {
+		"title": "swifter",
+		"category": "webserver",
+		"description": "Http server written in Swift with routing handler.",
+		"homepage": "https://github.com/httpswift/swifter",
+		"tags": ["linux"]
+	}, {
+		"title": "SwiftyHTTP",
+		"category": "webserver",
+		"description": "A simple GCD based HTTP client and server, written in 'pure' Swift.",
+		"homepage": "https://github.com/AlwaysRightInstitute/SwiftyHTTP"
+	}, {
+		"title": "Swifton",
+		"category": "webserver",
+		"description": "A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X.",
+		"homepage": "https://github.com/necolt/Swifton",
+		"tags": ["linux"]
+	}, {
+		"title": "Taylor",
+		"category": "webserver",
+		"description": "A lightweight library for writing HTTP web servers with Swift.",
+		"homepage": "https://github.com/izqui/Taylor"
+	}, {
+		"title": "Trevi",
+		"category": "webserver",
+		"description": "A powerful Swift Web Application Server Framework Project.",
+		"homepage": "https://github.com/Yoseob/Trevi"
+	}, {
+		"title": "Vapor",
+		"category": "webserver",
+		"description": "Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.",
+		"homepage": "https://github.com/qutheory/vapor",
+		"tags": ["linux"]
+	}, {
+		"title": "XcodeServerSDK",
+		"category": "webserver",
+		"description": "Access Xcode Server API with native Swift objects.",
+		"homepage": "https://github.com/czechboy0/XcodeServerSDK"
+	}, {
+		"title": "Zewo",
+		"category": "webserver",
+		"description": "Server-Side Swift.",
+		"homepage": "https://github.com/Zewo/Zewo",
+		"tags": ["linux"]
+	}, {
+		"title": "SwiftOCR",
+		"category": "ocr",
+		"description": "Neural Network based OCR lib written in swift.",
+		"homepage": "https://github.com/garnele007/SwiftOCR"
+	}, {
+		"title": "SwiftFormat",
+		"category": "quality",
+		"description": "Auto formatting Swift code, similar to Clang format.",
+		"homepage": "https://github.com/haaakon/SwiftFormat"
+	}, {
+		"title": "SwiftLint",
+		"category": "quality",
+		"description": "A tool to enforce Swift coding conventions for your Swift code.",
+		"homepage": "https://github.com/realm/SwiftLint"
+	}, {
+		"title": "Swimat",
+		"category": "quality",
+		"description": "XCode plugin to format Swift code.",
+		"homepage": "https://github.com/Jintin/Swimat"
+	}, {
+		"title": "Tailor",
+		"category": "quality",
+		"description": "Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.",
+		"homepage": "https://github.com/sleekbyte/tailor",
+		"tags": ["linux"]
+	}, {
+		"title": "CryptoSwift",
+		"category": "cryptography",
+		"description": "Crypto related functions and helpers for Swift implemented in Swift programming language.",
+		"homepage": "https://github.com/krzyzanowskim/CryptoSwift",
+		"tags": ["linux"]
+	}, {
+		"title": "IDZSwiftCommonCrypto",
+		"category": "cryptography",
+		"description": "A wrapper for Apple's Common Crypto library written in Swift.",
+		"homepage": "https://github.com/iosdevzone/IDZSwiftCommonCrypto"
+	}, {
+		"title": "OpenSSL",
+		"category": "cryptography",
+		"description": "OpenSSL helpers for Swift 2.2 on Linux.",
+		"homepage": "https://github.com/Zewo/OpenSSL",
+		"tags": ["linux"]
+	}, {
+		"title": "SweetHMAC",
+		"category": "cryptography",
+		"description": "A tiny and easy to use Swift class to encrypt strings using HMAC algorithms.",
+		"homepage": "https://github.com/jancassio/SweetHMAC"
+	}, {
+		"title": "Swift-Sodium",
+		"category": "cryptography",
+		"description": "Swift interface to the Sodium library for common crypto operations for iOS and OS X.",
+		"homepage": "https://github.com/jedisct1/swift-sodium"
+	}, {
+		"title": "SwiftSSL",
+		"category": "cryptography",
+		"description": "add crypto toolkit in Swift.",
+		"homepage": "https://github.com/SwiftP2P/SwiftSSL"
+	}, {
+		"title": "keychain-swift",
+		"category": "keychain",
+		"description": "Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.",
+		"homepage": "https://github.com/marketplacer/keychain-swift"
+	}, {
+		"title": "KeychainAccess",
+		"category": "keychain",
+		"description": "Simple Swift wrapper for Keychain that works on iOS and OS X.",
+		"homepage": "https://github.com/kishikawakatsumi/KeychainAccess"
+	}, {
+		"title": "KeyClip",
+		"category": "keychain",
+		"description": "Keychain framework for iOS written in Swift.",
+		"homepage": "https://github.com/s-aska/KeyClip"
+	}, {
+		"title": "Latch",
+		"category": "keychain",
+		"description": "A simple Swift Keychain Wrapper for iOS.",
+		"homepage": "https://github.com/DanielTomlinson/Latch"
+	}, {
+		"title": "Locksmith",
+		"category": "keychain",
+		"description": "A powerful, protocol-oriented library for working with the iOS Keychain in Swift.",
+		"homepage": "https://github.com/matthewpalmer/Locksmith"
+	}, {
+		"title": "SwiftKeychainWrapper",
+		"category": "keychain",
+		"description": "a simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.",
+		"homepage": "https://github.com/jrendel/SwiftKeychainWrapper"
+	}, {
+		"title": "iOS-TouchID-Swift",
+		"category": "touchid",
+		"description": "TouchID for Swift.",
+		"homepage": "https://github.com/gabrieltheodoropoulos/iOS-TouchID-Swift"
+	}, {
+		"title": "JMEasyTouchID",
+		"category": "touchid",
+		"description": "TouchID one line wrapper.",
+		"homepage": "https://github.com/ulidev/JMEasyTouchID"
+	}, {
+		"title": "MotionKit",
+		"category": "sensors",
+		"description": "iOS device sensors wrapper.",
+		"homepage": "https://github.com/MHaroonBaig/MotionKit"
+	}, {
+		"title": "Deviice",
+		"category": "system",
+		"description": "iOS library to detect the current device (and some other info)",
+		"homepage": "https://github.com/andrealufino/Deviice"
+	}, {
+		"title": "SMCKit",
+		"category": "system",
+		"description": "Apple SMC library in Swift.",
+		"homepage": "https://github.com/beltex/SMCKit"
+	}, {
+		"title": "SystemKit",
+		"category": "system",
+		"description": "OS X system library in Swift.",
+		"homepage": "https://github.com/beltex/SystemKit/"
+	}, {
+		"title": "Buildasaur",
+		"category": "testing",
+		"description": "Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server.",
+		"homepage": "https://github.com/czechboy0/Buildasaur"
+	}, {
+		"title": "CatchingFire",
+		"category": "testing",
+		"description": "Test Library for Swift's Error Handling.",
+		"homepage": "https://github.com/mrackwitz/CatchingFire"
+	}, {
+		"title": "DVR",
+		"category": "testing",
+		"description": "A simple network testing framework for Swift.",
+		"homepage": "https://github.com/venmo/DVR"
+	}, {
+		"title": "Erik",
+		"category": "testing",
+		"description": "An headless browser to access and manipulate webpages using javascript allowing to run functional tests.",
+		"homepage": "https://github.com/phimage/Erik"
+	}, {
+		"title": "Fakery",
+		"category": "testing",
+		"description": "Swift fake data generator.",
+		"homepage": "https://github.com/vadymmarkov/Fakery"
+	}, {
+		"title": "Mockingjay",
+		"category": "testing",
+		"description": "An elegant library for stubbing HTTP requests with ease in Swift.",
+		"homepage": "https://github.com/kylef/Mockingjay"
+	}, {
+		"title": "OHHTTPStubs",
+		"category": "testing",
+		"description": "A testing library designed to stub your network requests easily.",
+		"homepage": "https://github.com/AliSoftware/OHHTTPStubs"
+	}, {
+		"title": "Quick",
+		"category": "testing",
+		"description": "Quick is a behavior-driven development framework for Swift and Objective-C.",
+		"homepage": "https://github.com/Quick/Quick",
+		"tags": ["linux"]
+	}, {
+		"title": "Sleipnir",
+		"category": "testing",
+		"description": "BDD-style framework for Swift.",
+		"homepage": "https://github.com/railsware/Sleipnir"
+	}, {
+		"title": "Spectre",
+		"category": "testing",
+		"description": "BDD Framework for Swift.",
+		"homepage": "https://github.com/kylef/Spectre",
+		"tags": ["linux"]
+	}, {
+		"title": "SwiftCheck",
+		"category": "testing",
+		"description": "A testing library that automatically generates random data for testing program properties.",
+		"homepage": "https://github.com/typelift/SwiftCheck"
+	}, {
+		"title": "SwiftMock",
+		"category": "testing",
+		"description": "A mocking framework for Swift",
+		"homepage": "https://github.com/mflint/SwiftMock"
+	}, {
+		"title": "Format",
+		"category": "text",
+		"description": "Swift formatting kit for numbers, addresses and colors.",
+		"homepage": "https://github.com/marmelroy/Format"
+	}, {
+		"title": "Markdown",
+		"category": "text",
+		"description": "Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown)",
+		"homepage": "https://github.com/crossroadlabs/Markdown",
+		"tags": ["linux"]
+	}, {
+		"title": "PySwiftyRegex",
+		"category": "text",
+		"description": "Easily deal with Regex in Swift in a Pythonic way.",
+		"homepage": "https://github.com/cezheng/PySwiftyRegex"
+	}, {
+		"title": "Reductio",
+		"category": "text",
+		"description": "Automatic summarizer text in Swift.",
+		"homepage": "https://github.com/fdzsergio/Reductio"
+	}, {
+		"title": "Regex by brynbellomy",
+		"category": "text",
+		"description": "Swift wrapper class for `NSRegularExpression`.  Includes a `map()` override and an operator (`=~`) for a more Swift-like API.",
+		"homepage": "https://github.com/brynbellomy/Regex"
+	}, {
+		"title": "Regex by crossroadlabs",
+		"category": "text",
+		"description": "very easy to use, Regular Expressions library with rich functionality. Features both operator `=~` and method based APIs. Unit tests covered.",
+		"homepage": "https://github.com/crossroadlabs/Regex",
+		"tags": ["linux"]
+	}, {
+		"title": "Roman",
+		"category": "text",
+		"description": "Seamless Roman numeral conversion in Swift.",
+		"homepage": "https://github.com/nvzqz/Roman",
+		"tags": ["linux"]
+	}, {
+		"title": "SmarkDown",
+		"category": "text",
+		"description": "Markdown processing for Swift, conforming to Gruber's standards.",
+		"homepage": "https://github.com/SwiftStudies/SmarkDown",
+		"tags": ["linux"]
+	}, {
+		"title": "SwiftString",
+		"category": "text",
+		"description": "A lightweight string extension for Swift.",
+		"homepage": "https://github.com/amayne/SwiftString"
+	}, {
+		"title": "SwiftVerbalExpressions",
+		"category": "text",
+		"description": "VerbalExpressions porting for swift",
+		"homepage": "https://github.com/VerbalExpressions/SwiftVerbalExpressions"
+	}, {
+		"title": "SyntaxKit",
+		"category": "text",
+		"description": "TextMate-style syntax highlighting.",
+		"homepage": "https://github.com/soffes/SyntaxKit"
+	}, {
+		"title": "TextAttributes",
+		"category": "text",
+		"description": "An easier way to compose attributed strings.",
+		"homepage": "https://github.com/delba/TextAttributes"
+	}, {
+		"title": "PhoneNumberKit",
+		"category": "phone-numbers",
+		"description": "Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.",
+		"homepage": "https://github.com/marmelroy/PhoneNumberKit"
+	}, {
+		"title": "Async",
+		"category": "thread",
+		"description": "Syntactic Swift sugar for Grand Central Dispatch.",
+		"homepage": "https://github.com/duemunk/Async"
+	}, {
+		"title": "Async.legacy",
+		"category": "thread",
+		"description": "Syntactic Swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork).",
+		"homepage": "https://github.com/josephlord/Async.legacy"
+	}, {
+		"title": "Atomic",
+		"category": "thread",
+		"description": "fast, flexible, well-tested wrapper for making values thread-safe.",
+		"homepage": "https://github.com/Adlai-Holler/Atomic"
+	}, {
+		"title": "Chronos",
+		"category": "thread",
+		"description": "Grand Central Dispatch Utilities.",
+		"homepage": "https://github.com/comyarzaheri/Chronos-Swift"
+	}, {
+		"title": "Dispatcher",
+		"category": "thread",
+		"description": "Queues, timers, and task groups in Swift.",
+		"homepage": "https://github.com/aleclarson/dispatcher"
+	}, {
+		"title": "EKI",
+		"category": "thread",
+		"description": "Make Grand Central Dispatch easy and fun to use (queue, task, group, timer and semaphore).",
+		"homepage": "https://github.com/kodlian/Eki"
+	}, {
+		"title": "GCD",
+		"category": "thread",
+		"description": "A wrapper of Grand Central Dispatch written in Swift.",
+		"homepage": "https://github.com/nghialv/GCD"
+	}, {
+		"title": "GCDKit",
+		"category": "thread",
+		"description": "Grand Central Dispatch simplified with Swift.",
+		"homepage": "https://github.com/JohnEstropia/GCDKit"
+	}, {
+		"title": "AAWindow",
+		"category": "ui",
+		"description": "UIWindow subclass to enable behavior like adaptive round-corners & detecting when Control Center is opened.",
+		"homepage": "https://github.com/aaronabentheuer/AAWindow"
+	}, {
+		"title": "ActiveLabel",
+		"category": "ui",
+		"description": "UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://).",
+		"homepage": "https://github.com/optonaut/ActiveLabel.swift"
+	}, {
+		"title": "Adaptive Tab Bar",
+		"category": "ui",
+		"description": "Adaptive tab bar.",
+		"homepage": "https://github.com/Ramotion/adaptive-tab-bar"
+	}, {
+		"title": "AECoreDataUI",
+		"category": "ui",
+		"description": "Core Data driven UI made in Swift.",
+		"homepage": "https://github.com/tadija/AERecord"
+	}, {
+		"title": "AIFlatSwitch",
+		"category": "ui",
+		"description": "Flat animated switch.",
+		"homepage": "https://github.com/cocoatoucher/AIFlatSwitch"
+	}, {
+		"title": "AMScrollingNavbar",
+		"category": "ui",
+		"description": "Scrollable UINavigationBar that follows the scrolling of a UIScrollView.",
+		"homepage": "https://github.com/andreamazz/AMScrollingNavbar"
+	}, {
+		"title": "BreakOutToRefresh",
+		"category": "ui",
+		"description": "A playable pull to refresh view using SpriteKit.",
+		"homepage": "https://github.com/dasdom/BreakOutToRefresh"
+	}, {
+		"title": "BusyNavigationBar",
+		"category": "ui",
+		"description": "A UINavigationBar extension to show loading effects.",
+		"homepage": "https://github.com/gmertk/BusyNavigationBar"
+	}, {
+		"title": "BWWalkthrough",
+		"category": "ui",
+		"description": "A class to build custom walkthroughs for your iOS App.",
+		"homepage": "https://github.com/ariok/BWWalkthrough"
+	}, {
+		"title": "CalendarView",
+		"category": "ui",
+		"description": "A Calendar Component in Swift.",
+		"homepage": "https://github.com/mmick66/CalendarView"
+	}, {
+		"title": "CharacterText",
+		"category": "ui",
+		"description": "Perform fx on UILabel.",
+		"homepage": "https://github.com/android1989/CharacterText"
+	}, {
+		"title": "Charts",
+		"category": "ui",
+		"description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+		"homepage": "https://github.com/danielgindi/Charts"
+	}, {
+		"title": "CKPickerView",
+		"category": "ui",
+		"description": "A UIPickerView drop-in replacement with support for titles and Selection Indicator customization.",
+		"homepage": "https://github.com/cybertk/CKPickerView"
+	}, {
+		"title": "CountdownLabel",
+		"category": "ui",
+		"description": "Simple countdown UILabel with morphing animation, and some useful function.",
+		"homepage": "https://github.com/suzuki-0000/CountdownLabel"
+	}, {
+		"title": "Drag and Drop UICollectionView",
+		"category": "ui",
+		"description": "Dragging and Dropping data across multiple UICollectionViews (in Swift).",
+		"homepage": "https://github.com/mmick66/KDDragAndDropCollectionView"
+	}, {
+		"title": "Dodo",
+		"category": "ui",
+		"description": "A message bar for iOS written in Swift.",
+		"homepage": "https://github.com/marketplacer/Dodo"
+	}, {
+		"title": "EPShapes",
+		"category": "ui",
+		"description": "Create shapes(Polygons, Stars, Hearts, Arrows) in Interface builder.",
+		"homepage": "https://github.com/ipraba/EPShapes"
+	}, {
+		"title": "EstMusicIndicator",
+		"category": "ui",
+		"description": "Music play indicator like iTunes",
+		"homepage": "https://github.com/Aufree/ESTMusicIndicator"
+	}, {
+		"title": "EZLoadingActivity",
+		"category": "ui",
+		"description": "Lightweight loading activity HUD.",
+		"homepage": "https://github.com/goktugyil/EZLoadingActivity"
+	}, {
+		"title": "EZSwipeController",
+		"category": "ui",
+		"description": ":point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages.",
+		"homepage": "https://github.com/goktugyil/EZSwipeController"
+	}, {
+		"title": "Fashion",
+		"category": "ui",
+		"description": "Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way.",
+		"homepage": "https://github.com/vadymmarkov/Fashion"
+	}, {
+		"title": "Few.swift",
+		"category": "ui",
+		"description": "Views as functions of their state.",
+		"homepage": "https://github.com/joshaber/Few.swift"
+	}, {
+		"title": "FillableLoaders",
+		"category": "ui",
+		"description": "Fillable loaders progress.",
+		"homepage": "https://github.com/poolqf/FillableLoaders"
+	}, {
+		"title": "FlagKit",
+		"category": "ui",
+		"description": "Beautiful flag icons for usage in apps and on the web.",
+		"homepage": "https://github.com/madebybowtie/FlagKit"
+	}, {
+		"title": "FloatLabelFields",
+		"category": "ui",
+		"description": "Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.",
+		"homepage": "https://github.com/FahimF/FloatLabelFields"
+	}, {
+		"title": "FloatRatingView",
+		"category": "ui",
+		"description": "Floating rating system.",
+		"homepage": "https://github.com/glenyi/FloatRatingView"
+	}, {
+		"title": "GaugeKit",
+		"category": "ui",
+		"description": "Customizable gauges. Easy reproduce Apple's style gauges.",
+		"homepage": "https://github.com/skywinder/GaugeKit"
+	}, {
+		"title": "Gecco",
+		"category": "ui",
+		"description": "Spotlight view for iOS",
+		"homepage": "https://github.com/yukiasai/Gecco"
+	}, {
+		"title": "Geometry",
+		"category": "ui",
+		"description": "extensions for UIView.",
+		"homepage": "https://github.com/artman/Geometry"
+	}, {
+		"title": "GIFRefreshControl",
+		"category": "ui",
+		"description": "A pull to refresh that supports GIF images as track animations.",
+		"homepage": "https://github.com/delannoyk/GIFRefreshControl"
+	}, {
+		"title": "GlitchLabel",
+		"category": "ui",
+		"description": "Glitching UILabel for iOS.",
+		"homepage": "https://github.com/kciter/GlitchLabel"
+	}, {
+		"title": "GMStepper",
+		"category": "ui",
+		"description": "A stepper with a sliding label in the middle.",
+		"homepage": "https://github.com/gmertk/GMStepper"
+	}, {
+		"title": "GRMustache",
+		"category": "ui",
+		"description": "Flexible Mustache templates for Swift.",
+		"homepage": "https://github.com/groue/GRMustache.swift"
+	}, {
+		"title": "Hexacon",
+		"category": "ui",
+		"description": "A new way to display content in your app like the Apple Watch SpringBoard.",
+		"homepage": "https://github.com/gautier-gdx/Hexacon"
+	}, {
+		"title": "HoneycombView",
+		"category": "ui",
+		"description": "HoneycombView is the iOS UIView for displaying like Honyecomb layout written by swift.",
+		"homepage": "https://github.com/suzuki-0000/HoneycombView"
+	}, {
+		"title": "HUDKit",
+		"category": "ui",
+		"description": "HUD interface as UIPresentationController.",
+		"homepage": "https://github.com/cockscomb/HUDKit"
+	}, {
+		"title": "HTYTextField",
+		"category": "ui",
+		"description": "A UITextField with bouncy placeholder in Swift.",
+		"homepage": "https://github.com/hanton/HTYTextField"
+	}, {
+		"title": "ImagePicker",
+		"category": "ui",
+		"description": "A nicely designed and super easy to use ImagePicker.",
+		"homepage": "https://github.com/hyperoslo/ImagePicker"
+	}, {
+		"title": "ImagePickerSheetController",
+		"category": "ui",
+		"description": "A component that replicates the custom photo action sheet in iMessage.",
+		"homepage": "https://github.com/larcus94/ImagePickerSheetController"
+	}, {
+		"title": "Instructions",
+		"category": "ui",
+		"description": "A Swift library to create app walkthroughs and guided tours.",
+		"homepage": "https://github.com/ephread/Instructions"
+	}, {
+		"title": "IncrementableLabel",
+		"category": "ui",
+		"description": "An UILabel subclass to (de)increment numbers in an UILabel",
+		"homepage": "https://github.com/recisio/IncrementableLabel"
+	}, {
+		"title": "JLToast",
+		"category": "ui",
+		"description": "Toast for Swift.",
+		"homepage": "https://github.com/devxoul/JLToast"
+	}, {
+		"title": "KCHorizontalDial",
+		"category": "ui",
+		"description": "A horizontal scroll dial like Instagram.",
+		"homepage": "https://github.com/kciter/KCHorizontalDial"
+	}, {
+		"title": "KCSelectionDialog",
+		"category": "ui",
+		"description": "Simple selection dialog.",
+		"homepage": "https://github.com/kciter/KCSelectionDialog"
+	}, {
+		"title": "KDEDateLabel",
+		"category": "ui",
+		"description": "An UILabel subclass that updates itself to make time ago's format easier.",
+		"homepage": "https://github.com/delannoyk/KDEDateLabel"
+	}, {
+		"title": "KDInteractiveNavigationController",
+		"category": "ui",
+		"description": "A UINavigationController subclass that support pop interactive UINavigationBar with hidden or show.",
+		"homepage": "https://github.com/kingiol/KDInteractiveNavigationController"
+	}, {
+		"title": "KMNavigationBarTransition",
+		"category": "ui",
+		"description": "A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations. And you don't need to write any line of code for it, it all happens automatically.",
+		"homepage": "https://github.com/MoZhouqi/KMNavigationBarTransition"
+	}, {
+		"title": "KMPlaceholderTextView",
+		"category": "ui",
+		"description": "A UITextView subclass that adds support for multiline placeholder.",
+		"homepage": "https://github.com/MoZhouqi/KMPlaceholderTextView"
+	}, {
+		"title": "KRProgressHUD",
+		"category": "ui",
+		"description": "A beautiful and customizable progress HUD.",
+		"homepage": "https://github.com/krimpedance/KRProgressHUD"
+	}, {
+		"title": "LiquidLoader",
+		"category": "ui",
+		"description": "Spinner loader components with liquid animation.",
+		"homepage": "https://github.com/yoavlt/LiquidLoader"
+	}, {
+		"title": "LTJelloSwitch",
+		"category": "ui",
+		"description": "UISwitch prototype.",
+		"homepage": "https://github.com/lexrus/LTJelloSwitch"
+	}, {
+		"title": "LTMorphingLabel",
+		"category": "ui",
+		"description": "Graceful morphing effects for UILabel written in Swift.",
+		"homepage": "https://github.com/lexrus/LTMorphingLabel"
+	}, {
+		"title": "MantleModal",
+		"category": "ui",
+		"description": "A simple modal resource that uses a UIScrollView to allow the user to close the modal by dragging it down.",
+		"homepage": "https://github.com/canalesb93/MantleModal"
+	}, {
+		"title": "Material",
+		"category": "ui",
+		"description": "Express your creativity with Material, an animation and graphics framework for Google's Material Design and Apple's Flat UI in Swift.",
+		"homepage": "https://github.com/CosmicMind/Material"
+	}, {
+		"title": "MaterialKit",
+		"category": "ui",
+		"description": "Material design components.",
+		"homepage": "https://github.com/nghialv/MaterialKit"
+	}, {
+		"title": "MediumScrollFullScreen",
+		"category": "ui",
+		"description": "Medium scroll style menubar.",
+		"homepage": "https://github.com/pixyzehn/MediumScrollFullScreen"
+	}, {
+		"title": "MICountryPicker",
+		"category": "ui",
+		"description": "Swift country picker with search option.",
+		"homepage": "https://github.com/mustafaibrahim989/MICountryPicker"
+	}, {
+		"title": "MPParallaxView",
+		"category": "ui",
+		"description": "Apple TV Parallax effect in Swift.",
+		"homepage": "https://github.com/DroidsOnRoids/MPParallaxView"
+	}, {
+		"title": "MXParallaxHeader",
+		"category": "ui",
+		"description": "Simple parallax header in Swift for UIScrollView.",
+		"homepage": "https://github.com/maxep/MXParallaxHeader"
+	}, {
+		"title": "MZFormSheetPresentationController",
+		"category": "ui",
+		"description": "MZFormSheetPresentationController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.",
+		"homepage": "https://github.com/m1entus/MZFormSheetPresentationController"
+	}, {
+		"title": "NextGrowingTextView",
+		"category": "ui",
+		"description": "The next in the generations of 'growing textviews' optimized for iOS 7 and above.",
+		"homepage": "https://github.com/muukii/NextGrowingTextView"
+	}, {
+		"title": "NSPageControl",
+		"category": "ui",
+		"description": "PageControl Component for OS X.",
+		"homepage": "https://github.com/nerd0geek1/NSPageControl"
+	}, {
+		"title": "NumberMorphView",
+		"category": "ui",
+		"description": "A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.",
+		"homepage": "https://github.com/me-abhinav/NumberMorphView"
+	}, {
+		"title": "NVActivityIndicatorView",
+		"category": "ui",
+		"description": "Collection of nice loading animations.",
+		"homepage": "https://github.com/ninjaprox/NVActivityIndicatorView"
+	}, {
+		"title": "Otafuku",
+		"category": "ui",
+		"description": "Some utility classes to use WKWebView in Swift.",
+		"homepage": "https://github.com/tasanobu/Otafuku"
+	}, {
+		"title": "PageController",
+		"category": "ui",
+		"description": "Infinite paging controller.",
+		"homepage": "https://github.com/hirohisa/PageController"
+	}, {
+		"title": "Panoramic",
+		"category": "ui",
+		"description": "Panoramic facebook story clone.",
+		"homepage": "https://github.com/iSame7/Panoramic"
+	}, {
+		"title": "PKHUD",
+		"category": "ui",
+		"description": "Reimplementation of the Apple HUD.",
+		"homepage": "https://github.com/pkluz/PKHUD"
+	}, {
+		"title": "PNChart-Swift",
+		"category": "ui",
+		"description": "A simple and beautiful chart lib with animation.",
+		"homepage": "https://github.com/kevinzhow/PNChart-Swift"
+	}, {
+		"title": "PPSwiftGifs",
+		"category": "ui",
+		"description": "a convenient way to show animated GIF images as a part of iOS GUI.",
+		"homepage": "https://github.com/peterprokop/PPSwiftGifs"
+	}, {
+		"title": "Reel search",
+		"category": "ui",
+		"description": "Option list managed as a reel.",
+		"homepage": "https://github.com/Ramotion/reel-search"
+	}, {
+		"title": "RubberBandEffect",
+		"category": "ui",
+		"description": "Recreating Apples rubber band effect in Swift.",
+		"homepage": "https://github.com/Produkt/RubberBandEffect"
+	}, {
+		"title": "SAHistoryNavigationViewController",
+		"category": "ui",
+		"description": "iOS task manager like UI in UINavigationContoller.",
+		"homepage": "https://github.com/szk-atmosphere/SAHistoryNavigationViewController"
+	}, {
+		"title": "Sapporo",
+		"category": "ui",
+		"description": "A cellmodel-driven CollectionView manager for Swift.",
+		"homepage": "https://github.com/nghialv/Sapporo"
+	}, {
+		"title": "SevenSwitch",
+		"category": "ui",
+		"description": "iOS7 style drop in replacement for UISwitch.",
+		"homepage": "https://github.com/hyperoslo/SevenSwitch"
+	}, {
+		"title": "Siren",
+		"category": "ui",
+		"description": "Inform users when App Store updates are available.",
+		"homepage": "https://github.com/ArtSabintsev/Siren"
+	}, {
+		"title": "SKPhotoBrowser",
+		"category": "ui",
+		"description": "Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written in Swift.",
+		"homepage": "https://github.com/suzuki-0000/SKPhotoBrowser"
+	}, {
+		"title": "Sonar",
+		"category": "ui",
+		"description": "Cool radar-style view",
+		"homepage": "https://github.com/thefuntasty/Sonar"
+	}, {
+		"title": "Spots",
+		"category": "ui",
+		"description": "Spots is a view controller framework that makes your setup and future development blazingly fast.",
+		"homepage": "https://github.com/hyperoslo"
+	}, {
+		"title": "StarryStars",
+		"category": "ui",
+		"description": "Display & edit ratings, fully customizable from interface builder.",
+		"homepage": "https://github.com/peterprokop/StarryStars"
+	}, {
+		"title": "SwiftValidator",
+		"category": "ui",
+		"description": "UIView validation framework.",
+		"homepage": "https://github.com/jpotts18/SwiftValidator"
+	}, {
+		"title": "SwiftyDrop",
+		"category": "ui",
+		"description": "Lightweight dropdown message bar in Swift.",
+		"homepage": "https://github.com/morizotter/SwiftyDrop"
+	}, {
+		"title": "SwiftyWalkthrough",
+		"category": "ui",
+		"description": "The easiest way to create a great walkthrough experience in your apps, powered by Swift.",
+		"homepage": "https://github.com/ruipfcosta/SwiftyWalkthrough"
+	}, {
+		"title": "SYBlinkAnimationKit",
+		"category": "ui",
+		"description": "A blink effect animation framework.",
+		"homepage": "https://github.com/shoheiyokoyama/SYBlinkAnimationKit"
+	}, {
+		"title": "TabPageViewController",
+		"category": "ui",
+		"description": "Paging view controller and scroll tab view",
+		"homepage": "https://github.com/EndouMari/TabPageViewController"
+	}, {
+		"title": "TagCellLayout",
+		"category": "ui",
+		"description": "UICollectionView layout for Tags with Left, Center & Right alignments.",
+		"homepage": "https://github.com/riteshhgupta/TagCellLayout"
+	}, {
+		"title": "TagListView",
+		"category": "ui",
+		"description": "Simple but highly customizable iOS tag list view.",
+		"homepage": "https://github.com/xhacker/TagListView"
+	}, {
+		"title": "TCDInputView",
+		"category": "ui",
+		"description": "A custom input view which is displayed when a text field becomes the first responder.",
+		"homepage": "https://github.com/tomdiggle/TCDInputView"
+	}, {
+		"title": "TextFieldEffects",
+		"category": "ui",
+		"description": "Several ready to use effects for UITextFields",
+		"homepage": "https://github.com/raulriera/TextFieldEffects"
+	}, {
+		"title": "TouchVisualizer",
+		"category": "ui",
+		"description": "Lightweight touch visualization library in Swift. A single line of code and visualize your touches.",
+		"homepage": "https://github.com/morizotter/TouchVisualizer"
+	}, {
+		"title": "Twinkle",
+		"category": "ui",
+		"description": "a Swift and easy way to make elements in your iOS app twinkle.",
+		"homepage": "https://github.com/piemonte/Twinkle"
+	}, {
+		"title": "URLEmbeddedView",
+		"category": "ui",
+		"description": "Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.",
+		"homepage": "https://github.com/szk-atmosphere/URLEmbeddedView"
+	}, {
+		"title": "WWElasticTextField",
+		"category": "ui",
+		"description": "UITextField with elastic bounce effect on touch.",
+		"homepage": "https://github.com/shuuchen/WWElasticTextField"
+	}, {
+		"title": "AlertKit",
+		"category": "alert",
+		"homepage": "https://github.com/thii/AlertKit"
+	}, {
+		"title": "EZAlertController",
+		"category": "alert",
+		"description": "Easy Swift UIAlertController.",
+		"homepage": "https://github.com/thellimist/EZAlertController"
+	}, {
+		"title": "GoogleWearAlert",
+		"category": "alert",
+		"description": "Google Wear Alert style.",
+		"homepage": "https://github.com/AshRobinson/GoogleWearAlert"
+	}, {
+		"title": "GSAlert",
+		"category": "alert",
+		"description": "If you want to use UIAlertController, but still need to support iOS 7 this project is for you.",
+		"homepage": "https://github.com/wxxsw/GSAlert"
+	}, {
+		"title": "GSMessage",
+		"category": "alert",
+		"description": "A simple style messages/notifications for iOS 7+.",
+		"homepage": "https://github.com/wxxsw/GSMessages"
+	}, {
+		"title": "Hokusai",
+		"category": "alert",
+		"description": "A library for a cool bouncy action sheet.",
+		"homepage": "https://github.com/ytakzk/Hokusai"
+	}, {
+		"title": "Kamagari",
+		"category": "alert",
+		"description": "Simple UIAlertController builder class in Swift.",
+		"homepage": "https://github.com/tasanobu/Kamagari"
+	}, {
+		"title": "Notie",
+		"category": "alert",
+		"description": "In-app notification in Swift, with customizable buttons and input text field.",
+		"homepage": "https://github.com/thii/Notie"
+	}, {
+		"title": "SCLAlertView",
+		"category": "alert",
+		"description": "Animated Alert view.",
+		"homepage": "https://github.com/vikmeup/SCLAlertView-Swift"
+	}, {
+		"title": "SweetAlert",
+		"category": "alert",
+		"description": "Alert system.",
+		"homepage": "https://github.com/codestergit/SweetAlert-iOS"
+	}, {
+		"title": "SwiftOverlays",
+		"category": "alert",
+		"description": "various popups and notifications.",
+		"homepage": "https://github.com/peterprokop/SwiftOverlays"
+	}, {
+		"title": "Whisper",
+		"category": "alert",
+		"description": "Messages and in-app notification made easy.",
+		"homepage": "https://github.com/hyperoslo/Whisper"
+	}, {
+		"title": "XLActionController",
+		"category": "alert",
+		"description": "Fully customizable and extensible action sheet controller written in Swift 2.",
+		"homepage": "https://github.com/xmartlabs/XLActionController"
+	}, {
+		"title": "Blurable",
+		"category": "blur",
+		"description": "Apply a Gaussian Blur to any UIView with Swift Protocol Extensions.",
+		"homepage": "https://github.com/FlexMonkey/Blurable"
+	}, {
+		"title": "PCLBlurEffectAlert",
+		"category": "blur",
+		"description": "Swift AlertController with UIVisualeffectview.",
+		"homepage": "https://github.com/hryk224/PCLBlurEffectAlert"
+	}, {
+		"title": "AnimatablePlayButton",
+		"category": "button",
+		"description": "Animated Play and Pause Button using CALayer, CAKeyframeAnimation.",
+		"homepage": "https://github.com/suzuki-0000/AnimatablePlayButton"
+	}, {
+		"title": "DOFavoriteButton",
+		"category": "button",
+		"description": "Cute Animated Button written in Swift.",
+		"homepage": "https://github.com/okmr-d/DOFavoriteButton"
+	}, {
+		"title": "Hamburger button transition",
+		"category": "button",
+		"description": "Hamburger button transition.",
+		"homepage": "https://github.com/robb/hamburger-button"
+	}, {
+		"title": "HamburgerButton",
+		"category": "button",
+		"description": "Hamburger button with a slick animation.",
+		"homepage": "https://github.com/fastred/HamburgerButton"
+	}, {
+		"title": "KCFloatingActionButton",
+		"category": "button",
+		"description": "Floating Action Button for iOS.",
+		"homepage": "https://github.com/kciter/KCFloatingActionButton"
+	}, {
+		"title": "MIBadgeButton",
+		"category": "button",
+		"description": "Notification badge for UIButtons.",
+		"homepage": "https://github.com/mustafaibrahim989/MIBadgeButton-Swift"
+	}, {
+		"title": "SDevBootstrapButton",
+		"category": "button",
+		"description": "Twitter Bootstrap buttons for Swift.",
+		"homepage": "https://github.com/0x73/SDevBootstrapButton"
+	}, {
+		"title": "TVButton",
+		"category": "button",
+		"description": "Recreating the cool parallax icons from Apple TV as iOS UIButtons.",
+		"homepage": "https://github.com/marmelroy/TVButton"
+	}, {
+		"title": "ZFRippleButton",
+		"category": "button",
+		"description": "A ripple button animation.",
+		"homepage": "https://github.com/zoonooz/ZFRippleButton"
+	}, {
+		"title": "Eureka",
+		"category": "form",
+		"description": "Elegant iOS form builder in swift.",
+		"homepage": "https://github.com/xmartlabs/Eureka"
+	}, {
+		"title": "Former",
+		"category": "form",
+		"description": "A fully customizable Swift 2 library for easy creating UITableView based form.",
+		"homepage": "https://github.com/ra1028/Former"
+	}, {
+		"title": "SwiftForms",
+		"category": "form",
+		"description": "form are now easy as 1.2.3!",
+		"homepage": "https://github.com/ortuman/SwiftForms"
+	}, {
+		"title": "SwiftyFORM",
+		"category": "form",
+		"description": "Forms that can be validated.",
+		"homepage": "https://github.com/neoneye/SwiftyFORM"
+	}, {
+		"title": "AKSwiftSlideMenu",
+		"category": "menu",
+		"description": "Slide Menu (Drawer) in Swift",
+		"homepage": "https://github.com/ashishkakkad8/AKSwiftSlideMenu"
+	}, {
+		"title": "ENSwiftSideMenu",
+		"category": "menu",
+		"description": "Sliding side menu.",
+		"homepage": "https://github.com/evnaz/ENSwiftSideMenu"
+	}, {
+		"title": "FrostedSidebar",
+		"category": "menu",
+		"description": "Hamburger Menu using Swift and iOS 8 API's.",
+		"homepage": "https://github.com/edekhayser/FrostedSidebar"
+	}, {
+		"title": "GuillotineMenu",
+		"category": "menu",
+		"description": "Guillotine style menu.",
+		"homepage": "https://github.com/Yalantis/GuillotineMenu"
+	}, {
+		"title": "MediumMenu",
+		"category": "menu",
+		"description": "A menu based on Medium iOS app.",
+		"homepage": "https://github.com/pixyzehn/MediumMenu"
+	}, {
+		"title": "Pagemenu",
+		"category": "menu",
+		"description": "Pagination enabled view controller.",
+		"homepage": "https://github.com/HighBay/PageMenu"
+	}, {
+		"title": "PagingMenuController",
+		"category": "menu",
+		"description": "Paging view controller with customizable menu in Swift.",
+		"homepage": "https://github.com/kitasuke/PagingMenuController"
+	}, {
+		"title": "MenuItemKit",
+		"category": "menu",
+		"description": "`UIMenuItem` with image and block (closure) support.",
+		"homepage": "https://github.com/cxa/MenuItemKit"
+	}, {
+		"title": "XLPagerTabStrip",
+		"category": "menu",
+		"description": "Android PagerTabStrip for iOS.",
+		"homepage": "https://github.com/xmartlabs/XLPagerTabStrip"
+	}, {
+		"title": "Caishen",
+		"category": "payment",
+		"description": "A Payment Card UI & Validator for iOS",
+		"homepage": "https://github.com/prolificinteractive/Caishen"
+	}, {
+		"title": "Permission",
+		"category": "permissions",
+		"description": "A unified API to ask for permissions on iOS.",
+		"homepage": "https://github.com/delba/Permission"
+	}, {
+		"title": "PermissionScope",
+		"category": "permissions",
+		"description": "A Periscope-inspired way to ask for iOS permissions.",
+		"homepage": "https://github.com/nickoneill/PermissionScope"
+	}, {
+		"title": "Swift-Prompts",
+		"category": "permissions",
+		"description": "A Swift library to design custom prompts with a great scope of options to choose from.",
+		"homepage": "https://github.com/GabrielAlva/Swift-Prompts"
+	}, {
+		"title": "StackViewController",
+		"category": "stackview",
+		"description": "Simplify the use of UIStackView.",
+		"homepage": "https://github.com/seedco/StackViewController"
+	}, {
+		"title": "TZStackView",
+		"category": "stackview",
+		"description": "An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.",
+		"homepage": "https://github.com/tomvanzummeren/TZStackView"
+	}, {
+		"title": "BubbleTransition",
+		"category": "transition",
+		"description": "Bubble transition in an easy way.",
+		"homepage": "https://github.com/andreamazz/BubbleTransition"
+	}, {
+		"title": "ElasticTransition",
+		"category": "transition",
+		"description": "An interactive transition that simulates an elastic drag.",
+		"homepage": "https://github.com/lkzhao/ElasticTransition"
+	}, {
+		"title": "MusicPlayerTransition",
+		"category": "transition",
+		"description": "Custom interactive transition like Apple Music iOS App. written in Swift.",
+		"homepage": "https://github.com/xxxAIRINxxx/MusicPlayerTransition"
+	}, {
+		"title": "PinterestSwift",
+		"category": "transition",
+		"description": "Pinterest style transition.",
+		"homepage": "https://github.com/demonnico/PinterestSwift"
+	}, {
+		"title": "StarWars.iOS",
+		"category": "transition",
+		"description": "Transition animation to crumble view-controller into tiny pieces.",
+		"homepage": "https://github.com/Yalantis/StarWars.iOS"
+	}, {
+		"title": "TransitionManager",
+		"category": "transition",
+		"description": "Painless custom transitioning. Easy extend, easy setup, just focus on animations.",
+		"homepage": "https://github.com/cemolcay/TransitionManager"
+	}, {
+		"title": "AEAccordion",
+		"category": "uitableview",
+		"description": "UITableViewController with accordion effect (expand / collapse cells).",
+		"homepage": "https://github.com/tadija/AEAccordion"
+	}, {
+		"title": "CKTextFieldTableCell",
+		"category": "uitableview",
+		"description": "UITableViewCell drop-in replacement with support of UITextField.",
+		"homepage": "https://github.com/cybertk/CKTextFieldTableCell"
+	}, {
+		"title": "Doppelganger-Swift",
+		"category": "uitableview",
+		"description": "Animated UITableView/UICollectionView dataSource changes.",
+		"homepage": "https://github.com/nahive/doppelganger-swift"
+	}, {
+		"title": "folding-cell",
+		"category": "uitableview",
+		"description": "Folding cell transition.",
+		"homepage": "https://github.com/Ramotion/folding-cell"
+	}, {
+		"title": "Hakuba",
+		"category": "uitableview",
+		"description": "A new way to manage UITableView without the code of UITableViewDelegate and UITableViewDataSource.",
+		"homepage": "https://github.com/nghialv/Hakuba"
+	}, {
+		"title": "Persei",
+		"category": "uitableview",
+		"description": "Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift.",
+		"homepage": "https://github.com/Yalantis/Persei"
+	}, {
+		"title": "PullToRefreshSwift",
+		"category": "uitableview",
+		"description": "PullToRefresh library.",
+		"homepage": "https://github.com/dekatotoro/PullToRefreshSwift"
+	}, {
+		"title": "Shoyu",
+		"category": "uitableview",
+		"description": "Easier way to represent the structure of UITableView.",
+		"homepage": "https://github.com/yukiasai/Shoyu"
+	}, {
+		"title": "__",
+		"category": "utility",
+		"description": "Underscore.js power in your Swift projects.",
+		"homepage": "https://github.com/lotz84/__.swift"
+	}, {
+		"title": "AEAppVersion",
+		"category": "utility",
+		"description": "Simple and Lightweight iOS App Version Tracking written in Swift.",
+		"homepage": "https://github.com/tadija/AEAppVersion"
+	}, {
+		"title": "Alexandria",
+		"category": "utility",
+		"description": "A large set of convenience extensions for UIKit and Foundation.",
+		"homepage": "https://github.com/ovenbits/Alexandria"
+	}, {
+		"title": "ApplicationGroupKit",
+		"category": "utility",
+		"description": "Share informations betweens your applications and your extensions using group identifier.",
+		"homepage": "https://github.com/phimage/ApplicationGroupKit"
+	}, {
+		"title": "AppVersionMonitor",
+		"category": "utility",
+		"description": "Monitor iOS app version easily.",
+		"homepage": "https://github.com/eure/AppVersionMonitor"
+	}, {
+		"title": "ArrayDiff",
+		"category": "utility",
+		"description": "a fast, UITableView/UICollectionView-compatible array diffing microframework.",
+		"homepage": "https://github.com/Adlai-Holler/ArrayDiff"
+	}, {
+		"title": "AwesomeCache",
+		"category": "utility",
+		"description": "manage cache easy in your Swift project.",
+		"homepage": "https://github.com/aschuch/AwesomeCache"
+	}, {
+		"title": "Basis",
+		"category": "utility",
+		"description": "Pure Declarative Programming in Swift.",
+		"homepage": "https://github.com/typelift/Basis"
+	}, {
+		"title": "Butterfly",
+		"category": "utility",
+		"description": "A lightweight library for integrating bug-report and feedback features with shake-motion event.",
+		"homepage": "https://github.com/wongzigii/Butterfly"
+	}, {
+		"title": "Cache",
+		"category": "utility",
+		"description": "Nothing but Cache.",
+		"homepage": "https://github.com/hyperoslo/Cache"
+	}, {
+		"title": "CacheIsKing",
+		"category": "utility",
+		"description": "A light memory caching library with native Swift support (structs/enums/etc.)",
+		"homepage": "https://github.com/nuudles/CacheIsKing"
+	}, {
+		"title": "CallbackURLKit",
+		"category": "utility",
+		"description": "Implementation of x-callback-url (Inter app communication) in swift",
+		"homepage": "https://github.com/phimage/CallbackURLKit"
+	}, {
+		"title": "Carlos",
+		"category": "utility",
+		"description": "A simple but flexible cache.",
+		"homepage": "https://github.com/WeltN24/Carlos"
+	}, {
+		"title": "Collection Each",
+		"category": "utility",
+		"description": "add each func to collections.",
+		"homepage": "https://github.com/oarrabi/Collection-Each"
+	}, {
+		"title": "Compass",
+		"category": "utility",
+		"description": "Compass helps you setup a central navigation system for your application.",
+		"homepage": "https://github.com/hyperoslo/Compass"
+	}, {
+		"title": "Conveyor",
+		"category": "utility",
+		"description": "Declaratively chains small, reusable blocks of code together like a conveyor system.",
+		"homepage": "https://github.com/StevenLambion/Conveyor"
+	}, {
+		"title": "Curry",
+		"category": "utility",
+		"description": "Swift implementations for function currying.",
+		"homepage": "https://github.com/thoughtbot/Curry"
+	}, {
+		"title": "Device.swift",
+		"category": "utility",
+		"description": "Super-lightweight library to detect used device.",
+		"homepage": "https://github.com/schickling/Device.swift"
+	}, {
+		"title": "Device",
+		"category": "utility",
+		"description": "Light weight tool for detecting the current device and screen size written in swift.",
+		"homepage": "https://github.com/Ekhoo/Device"
+	}, {
+		"title": "Dollar",
+		"category": "utility",
+		"description": "a lib similar to Lo-Dash or Underscore in Javascript.",
+		"homepage": "https://github.com/ankurp/Dollar"
+	}, {
+		"title": "EVURLCache",
+		"category": "utility",
+		"description": "if you want to make your app still works when it's offline.",
+		"homepage": "https://github.com/evermeer/EVURLCache"
+	}, {
+		"title": "ExSwift",
+		"category": "utility",
+		"description": "a set of Swift extensions for standard types and classes.",
+		"homepage": "https://github.com/pNre/ExSwift"
+	}, {
+		"title": "EZSwiftExtensions",
+		"category": "utility",
+		"description": ":smirk: How Swift standard types and classes were supposed to work.",
+		"homepage": "https://github.com/goktugyil/EZSwiftExtensions"
+	}, {
+		"title": "Focus",
+		"category": "utility",
+		"description": "an Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.",
+		"homepage": "https://github.com/typelift/Focus"
+	}, {
+		"title": "Funky",
+		"category": "utility",
+		"description": "Functions and operators for functional programming in Swift.",
+		"homepage": "https://github.com/brynbellomy/Funky"
+	}, {
+		"title": "Honour",
+		"category": "utility",
+		"description": "Simple and powerful Validation Library.",
+		"homepage": "https://github.com/jeanpimentel/Honour"
+	}, {
+		"title": "Hookah",
+		"category": "utility",
+		"description": "Hookah is a functional library for Swift.",
+		"homepage": "https://github.com/HookahSwift/Hookah"
+	}, {
+		"title": "Inflection",
+		"category": "utility",
+		"description": "The Optimus Prime of string inflection.",
+		"homepage": "https://github.com/zenangst/Inflection"
+	}, {
+		"title": "Lambdatron",
+		"category": "utility",
+		"description": "Clojure(ish) interpreter in Swift.",
+		"homepage": "https://github.com/austinzheng/Lambdatron"
+	}, {
+		"title": "LlamaKit",
+		"category": "utility",
+		"description": "Collection of must-have functional Swift tools.",
+		"homepage": "https://github.com/LlamaKit/LlamaKit"
+	}, {
+		"title": "LangKit",
+		"category": "utility",
+		"description": "Natural Language Processing (NLP) toolkit for Swift.",
+		"homepage": "https://github.com/xinranmsn/LangKit"
+	}, {
+		"title": "Mendel",
+		"category": "utility",
+		"description": "Swift miliframework for implementing evolutionary/genetic algorithms.",
+		"homepage": "https://github.com/saniul/Mendel"
+	}, {
+		"title": "Money",
+		"category": "utility",
+		"description": "Currency formatter in Swift.",
+		"homepage": "https://github.com/danthorpe/Money"
+	}, {
+		"title": "Oriole",
+		"category": "utility",
+		"description": "A functional utility belt implemented as Swift 2.0 protocol extensions.",
+		"homepage": "https://github.com/tptee/Oriole"
+	}, {
+		"title": "PDFGenerator",
+		"category": "utility",
+		"description": "A simple Generator of PDF in Swift. Generate PDF from view(s) or image(s).",
+		"homepage": "https://github.com/sgr-ksmt/PDFGenerator"
+	}, {
+		"title": "Pitchy",
+		"category": "utility",
+		"description": "A simple way to get a music pitch from a frequency.",
+		"homepage": "https://github.com/vadymmarkov/Pitchy"
+	}, {
+		"title": "Pluralize.swift",
+		"category": "utility",
+		"description": "Great Swift String Pluralize Extension.",
+		"homepage": "https://github.com/joshualat/Pluralize.swift"
+	}, {
+		"title": "Popsicle",
+		"category": "utility",
+		"description": "Delightful, extensible Swift value interpolation framework.",
+		"homepage": "https://github.com/DavdRoman/Popsicle"
+	}, {
+		"title": "Prelude",
+		"category": "utility",
+		"description": "Swift framework of simple functional programming tools.",
+		"homepage": "https://github.com/robrix/Prelude"
+	}, {
+		"title": "protobuf-swift",
+		"category": "utility",
+		"description": "ProtocolBuffers for Swift.",
+		"homepage": "https://github.com/alexeyxo/protobuf-swift"
+	}, {
+		"title": "Prototope",
+		"category": "utility",
+		"description": "Swift library of lightweight interfaces for prototyping, bridged to JS.",
+		"homepage": "http://khan.github.io/Prototope/"
+	}, {
+		"title": "Pythonic.swift",
+		"category": "utility",
+		"description": "Pythonic tool-belt for Swift: a Swift implementation of selected parts of Python standard library.",
+		"homepage": "https://github.com/practicalswift/Pythonic.swift"
+	}, {
+		"title": "R.swift",
+		"category": "utility",
+		"description": "Tool to get strong typed, autocompleted resources like images, cells and segues.",
+		"homepage": "https://github.com/mac-cain13/R.swift"
+	}, {
+		"title": "RandomKit",
+		"category": "utility",
+		"description": "Random data generation in Swift.",
+		"homepage": "https://github.com/nvzqz/RandomKit/"
+	}, {
+		"title": "ReactiveArray",
+		"category": "utility",
+		"description": "An array class implemented in Swift that can be observed using ReactiveCocoa's Signals.",
+		"homepage": "https://github.com/Wolox/ReactiveArray"
+	}, {
+		"title": "ResourceKit",
+		"category": "utility",
+		"description": "Enable autocomplete use resources in swift project.",
+		"homepage": "https://github.com/bannzai/ResourceKit"
+	}, {
+		"title": "Result",
+		"category": "utility",
+		"description": "Swift type modelling the success/failure of arbitrary operations.",
+		"homepage": "https://github.com/antitypical/Result"
+	}, {
+		"title": "Runes",
+		"category": "utility",
+		"description": "Functional operators for Swift - flatMap, map, apply, pure.",
+		"homepage": "https://github.com/thoughtbot/Runes"
+	}, {
+		"title": "seguecode",
+		"category": "utility",
+		"description": "seguecode is a support tool that provides compile-time safeties around building with UIStoryboards by exporting code regarding Scenes, Segues, Table and Collection Views and more.",
+		"homepage": "https://github.com/Adorkable/seguecode"
+	}, {
+		"title": "SimplePDF",
+		"category": "utility",
+		"description": "Create a simple PDF effortlessly.",
+		"homepage": "https://github.com/nRewik/SimplePDF"
+	}, {
+		"title": "SpecificationPattern",
+		"category": "utility",
+		"description": "chainable rules useful for form validation.",
+		"homepage": "https://github.com/neoneye/SpecificationPattern"
+	}, {
+		"title": "SpriteKit+Spring",
+		"category": "utility",
+		"description": "SpriteKit API reproducing UIView's spring animations with SKAction.",
+		"homepage": "https://github.com/ataugeron/SpriteKit-Spring"
+	}, {
+		"title": "Stream",
+		"category": "utility",
+		"description": "Lazy streams in Swift.",
+		"homepage": "https://github.com/antitypical/Stream"
+	}, {
+		"title": "Sugar",
+		"category": "utility",
+		"description": "Something sweet that goes great with your Cocoa.",
+		"homepage": "https://github.com/hyperoslo/Sugar"
+	}, {
+		"title": "Swift Sugar",
+		"category": "utility",
+		"description": "objsugar ported to Swift.",
+		"homepage": "https://github.com/RuiAAPeres/Swift-Sugar"
+	}, {
+		"title": "SwiftBitmask",
+		"category": "utility",
+		"description": "`Bitmask<T>` type intended as a replacement for `RawOptionSet`.",
+		"homepage": "https://github.com/brynbellomy/SwiftBitmask"
+	}, {
+		"title": "SwiftExP",
+		"category": "utility",
+		"description": "Pure Swift 2.0 S-expression Parser.",
+		"homepage": "https://github.com/mrackwitz/SwiftExP"
+	}, {
+		"title": "SwiftGen-Storyboard",
+		"category": "utility",
+		"description": "A tool to auto-generate Swift `enums` for all your Storyboards, Scenes and Segues constants + appropriate convenience accessors.",
+		"homepage": "https://github.com/AliSoftware/SwiftGen#uistoryboard"
+	}, {
+		"title": "SwiftMemCache",
+		"category": "utility",
+		"description": "Swift Memory Cache with namespace & TTL support.",
+		"homepage": "https://github.com/ctews/SwiftMemCache"
+	}, {
+		"title": "SwiftRandom",
+		"category": "utility",
+		"description": "A tiny generator of random data for swift.",
+		"homepage": "https://github.com/thellimist/SwiftRandom"
+	}, {
+		"title": "SwiftRouter",
+		"category": "utility",
+		"description": "A URL Router for iOS written in Swift 2.0",
+		"homepage": "https://github.com/skyline75489/SwiftRouter"
+	}, {
+		"title": "SwiftSequence",
+		"category": "utility",
+		"description": "A framework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools.",
+		"homepage": "https://github.com/oisdk/SwiftSequence"
+	}, {
+		"title": "SwiftSortUtils",
+		"category": "utility",
+		"description": "Useful functions and extensions for sorting in Swift.",
+		"homepage": "https://github.com/dsmatter/SwiftSortUtils"
+	}, {
+		"title": "SwiftTweaks",
+		"category": "utility",
+		"description": "Tweak your iOS app without recompiling.",
+		"homepage": "https://github.com/khan/swifttweaks"
+	}, {
+		"title": "SwiftValidators",
+		"category": "utility",
+		"description": "String validation for iOS developed in Swift (inspired by validator.js).",
+		"homepage": "https://github.com/gkaimakas/SwiftValidators"
+	}, {
+		"title": "Swiftx",
+		"category": "utility",
+		"description": "Functional data types and functions for any project.",
+		"homepage": "https://github.com/typelift/Swiftx"
+	}, {
+		"title": "SwiftyStateMachine",
+		"category": "utility",
+		"description": "Swift framework for creating state machines.",
+		"homepage": "https://github.com/macoscope/SwiftyStateMachine"
+	}, {
+		"title": "SwiftyUtils",
+		"category": "utility",
+		"description": "All the reusable code that we need in each project.",
+		"homepage": "https://github.com/tbaranes/SwiftyUtils"
+	}, {
+		"title": "Swiftz",
+		"category": "utility",
+		"description": "Functional programming in Swift.",
+		"homepage": "https://github.com/typelift/Swiftz"
+	}, {
+		"title": "Then",
+		"category": "utility",
+		"description": "Super sweet syntactic sugar for Swift initializers.",
+		"homepage": "https://github.com/devxoul/Then"
+	}, {
+		"title": "undefined",
+		"category": "utility",
+		"description": "Nano framework which defines Haskell's undefined in Swift.",
+		"homepage": "https://github.com/weissi/swift-undefined"
+	}, {
+		"title": "UTIKit",
+		"category": "utility",
+		"description": "an UTI (Uniform Type Identifier) wrapper for Swift.",
+		"homepage": "https://github.com/cockscomb/UTIKit"
+	}, {
+		"title": "Versions",
+		"category": "utility",
+		"description": "Helping you find inner peace when comparing version numbers in Swift.",
+		"homepage": "https://github.com/zenangst/Versions"
+	}, {
+		"title": "VersionsTracker",
+		"category": "utility",
+		"description": "Keeping track of version installation history including dates.",
+		"homepage": "https://github.com/martnst/VersionsTracker"
+	}, {
+		"title": "VersionTrackerSwift",
+		"category": "utility",
+		"description": "Track which versions of your app a user has previously installed. Available for iOS, OS X and tvOS.",
+		"homepage": "https://github.com/tbaranes/VersionTrackerSwift"
+	}, {
+		"title": "Wyrd",
+		"category": "utility",
+		"description": "Asynchronous programming in Swift made easy. Wyrd is inspired by Promises/A+.",
+		"homepage": "https://github.com/explicitcall/Wyrd"
+	}, {
+		"title": "MobilePlayer",
+		"category": "video",
+		"description": "A powerful and completely customizable media player for iOS.",
+		"homepage": "https://github.com/mobileplayer/mobileplayer-ios"
+	}, {
+		"title": "Player",
+		"category": "video",
+		"description": "iOS video player in Swift, simple drop in component for playing and streaming media.",
+		"homepage": "https://github.com/piemonte/Player"
+	}, {
+		"title": "PlayerView",
+		"category": "video",
+		"description": "Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.",
+		"homepage": "https://github.com/davidlondono/PlayerView"
+	}]
+}

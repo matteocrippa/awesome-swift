@@ -1,8 +1,8 @@
 #!/bin/bash
 
-ruby .github/convert.rb
-
 set -e
+
+git checkout master
 
 git config user.name "CI"
 git config user.email "dkhamsing@users.noreply.github.com"

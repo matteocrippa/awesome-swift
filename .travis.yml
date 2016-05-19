@@ -1,7 +1,13 @@
 language: ruby
-rvm:
-  - 2.2
+rvm: 2.2
 before_script:
   - gem install awesome_bot
+  - sudo pip install json-spec
 script:
-  - awesome_bot README.md --white-list AERecord,RxSwift,swift-cheatsheet
+  - awesome_bot contents.json -w ReactiveX/RxSwift,AERecord
+  - json validate --schema-file=.github/schema.json --document-file=contents.json
+deploy:
+  provider: script
+  script: ./.github/deploy.sh
+  on:
+    branch: master

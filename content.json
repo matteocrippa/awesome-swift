@@ -1269,11 +1269,6 @@
 		"description": "An Alamofire extension for fetching an XML feed and parsing it into objects.",
 		"homepage": "https://github.com/evermeer/AlamofireXmlToObjects"
 	}, {
-		"title": "Fuzi",
-		"category": "xml",
-		"description": "A fast & lightweight XML/HTML parser with XPath & CSS support in Swift 2.",
-		"homepage": "https://github.com/cezheng/Fuzi"
-	}, {
 		"title": "SWXMLHash",
 		"category": "xml",
 		"description": "Simple XML parsing in Swift.",
@@ -2136,6 +2131,11 @@
 		"category": "network",
 		"description": "http request in async.",
 		"homepage": "https://github.com/yayuhh/YYHRequest-Swift"
+	}, {
+		"title": "Fuzi",
+		"category": "html",
+		"description": "A fast & lightweight XML/HTML parser with XPath & CSS support.",
+		"homepage": "https://github.com/cezheng/Fuzi"
 	}, {
 		"title": "Ji",
 		"category": "html",

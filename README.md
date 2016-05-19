@@ -149,10 +149,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## Demo Apps
 
-Check out apps on these projects:
+*Check out apps on these projects:*
 
-* https://github.com/dkhamsing/open-source-ios-apps
-* https://github.com/iCHAIT/awesome-osx
+* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+* [awesome-osx](https://github.com/iCHAIT/awesome-osx) - A curated list of awesome applications, softwares, tools and shiny things for OS X.
 
 ## Dependency Managers
 
@@ -250,7 +250,7 @@ Check out apps on these projects:
 
 ### Bluetooth
 
-*Wrappers around CoreBluetooth
+*Wrappers around CoreBluetooth*
 
 * [BlueCap](https://github.com/troystribling/BlueCap) - BlueCap provides a swift wrapper around CoreBluetooth and much more.
 * [BluetoothKit](https://github.com/rasmusth/BluetoothKit) - A much simpler, high-level Swift API to allow easy communication between iOS devices using Bluetooth 4.0 LE.

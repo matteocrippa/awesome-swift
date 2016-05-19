@@ -3,6 +3,7 @@
 set -e
 
 if [[ $TRAVIS_BRANCH != 'master' ]]
+then
   exit
 fi
 

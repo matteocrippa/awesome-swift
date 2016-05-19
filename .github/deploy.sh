@@ -2,6 +2,10 @@
 
 set -e
 
+if [[ $TRAVIS_BRANCH == 'master' ]]
+  exit
+fi
+
 git checkout master
 
 git config user.name "CI"

@@ -744,7 +744,7 @@
 	}, {
 		"title": "AudioPlayerSwift",
 		"category": "audio",
-		"description": "AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps",
+		"description": "AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.",
 		"homepage": "https://github.com/recisio/AudioPlayerSwift"
 	}, {
 		"title": "Beethoven",

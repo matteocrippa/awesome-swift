@@ -757,6 +757,11 @@
 		"description": "A Simple Tuner for iOS.",
 		"homepage": "https://github.com/comyarzaheri/TuningFork"
 	}, {
+		"title": "Simplicity",
+		"category": "authentication",
+		"description": "A simple way to implement Facebook and Google login in your iOS and OS X apps.",
+		"homepage": "https://github.com/SimplicityMobile/Simplicity"
+	}, {
 		"title": "Voucher",
 		"category": "authentication",
 		"description": "A simple library to make authenticating tvOS apps easy via their iOS counterparts.",

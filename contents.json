@@ -169,8 +169,8 @@
 		"id": "zip",
 		"parent": "data-management"
 	}, {
-		"title": "Other",
-		"id": "other",
+		"title": "Other Data",
+		"id": "other-data",
 		"parent": "data-management",
 		"description": "Other ways to persist data"
 	}, {
@@ -1280,7 +1280,7 @@
 		"homepage": "https://github.com/marmelroy/Zip"
 	}, {
 		"title": "EVCloudKitDao",
-		"category": "other",
+		"category": "other-data",
 		"description": "Simplified access to CloudKit with support for subscriptions and local caching.",
 		"homepage": "https://github.com/evermeer/EVCloudKitDao"
 	}, {

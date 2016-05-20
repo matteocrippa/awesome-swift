@@ -1,4 +1,11 @@
 # Awesome Swift
+ 
+<!-- 
+
+PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
+
+ -->
+
 ![Awesome Swift](https://raw.githubusercontent.com/matteocrippa/awesome-swift/master/.github/IconV2.png)
 
 |  Get the app      | Awesome             |  Linux   
@@ -185,7 +192,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [swamp](https://github.com/robb/swamp) - Icon stamping in Swift.
 * [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the Swift compiler.
 * [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A suite of tools written in Swift to auto-generate Swift code for various assets of your project.
-* [SwiftHub](https://github.com/sahandnayebaziz/SwiftHub) - A universal app you can use to browse the newest Swift repositories on Github.
 * [swiftier](https://github.com/snej/swiftier) - Quick-and-dirty Objective-C to Swift translator.
 
 ## Libs

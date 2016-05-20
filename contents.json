@@ -622,11 +622,6 @@
 		"description": "A suite of tools written in Swift to auto-generate Swift code for various assets of your project.",
 		"homepage": "https://github.com/AliSoftware/SwiftGen"
 	}, {
-		"title": "SwiftHub",
-		"category": "misc",
-		"description": "A universal app you can use to browse the newest Swift repositories on Github.",
-		"homepage": "https://github.com/sahandnayebaziz/SwiftHub"
-	}, {
 		"title": "swiftier",
 		"category": "misc",
 		"description": "Quick-and-dirty Objective-C to Swift translator.",

@@ -51,7 +51,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [JSON](#json)
     - [Key Value Store](#key-value-store)
     - [MongoDB](#mongodb)
-    - [Other](#other)
+    - [Other Data](#other-data)
     - [Realm](#realm)
     - [SQL drivers](#sql-drivers)
     - [SQLite](#sqlite)
@@ -261,6 +261,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Authentication
 *Easy way to manage auth in your apps.*
 
+* [Simplicity](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps.
 * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
 
 ### Bluetooth
@@ -388,7 +389,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [MongoKitten](https://github.com/PlanTeam/MongoKitten) :penguin:- Pure Swift MongoDB Connector
 * [SwiftMongoDB](https://github.com/Danappelxx/SwiftMongoDB) - MongoDB connector for Swift.
 
-#### Other
+#### Other Data
 *Other ways to persist data*
 
 * [EVCloudKitDao](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.

@@ -587,6 +587,11 @@
 		"description": "Design Patterns implemented in Swift.",
 		"homepage": "https://github.com/ochococo/Design-Patterns-In-Swift"
 	}, {
+		"title": "Storyboard-Reference",
+		"category": "patterns",
+		"description": "Storyboard reference structure/pattern in Swift.",
+		"homepage": "https://github.com/kafejo/Storyboard-reference"
+	}, {
 		"title": "generator-swift-framework",
 		"category": "misc",
 		"description": "Scaffolds out a Xcode framework project based on Swift 2.0.",

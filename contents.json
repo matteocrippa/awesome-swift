@@ -2733,6 +2733,11 @@
 		"description": "Floating rating system.",
 		"homepage": "https://github.com/glenyi/FloatRatingView"
 	}, {
+		"title": "Focus",
+		"category": "ui",
+		"description": "Easily focus on or highlight UI elements.",
+		"homepage": "https://github.com/sudeepag/Focus"
+	}, {
 		"title": "GaugeKit",
 		"category": "ui",
 		"description": "Customizable gauges. Easy reproduce Apple's style gauges.",
@@ -2962,6 +2967,11 @@
 		"category": "ui",
 		"description": "Recreating Apples rubber band effect in Swift.",
 		"homepage": "https://github.com/Produkt/RubberBandEffect"
+	}, {
+		"title": "SAConfettiView",
+		"category": "ui",
+		"description": "Easily add fun, multi-colored confetti to your app.",
+		"homepage": "https://github.com/sudeepag/SAConfettiView"
 	}, {
 		"title": "SAHistoryNavigationViewController",
 		"category": "ui",

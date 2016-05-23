@@ -59,7 +59,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [ZIP](#zip)
   - [Date](#date)
   - [Documentation](#documentation)
-  - [Editor](#editor)
   - [Embedded Systems](#embedded-systems)
     - [Peripherals](#peripherals)
   - [Events](#events)
@@ -445,13 +444,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C.
 * [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.
 
-### Editor
-
-*Rich Text Editing*
-
-* [edhita](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS written in Swift. http://edhita.bornneet.com/
-* [RichEditorView](https://github.com/cjwirth/RichEditorView) - RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
-
 ### Embedded Systems
 *Build your embedded Linux projects in Swift on a RaspberryPi, BeagleBone, C.H.I.P. and other boards.*
 
@@ -790,12 +782,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Text
 *A collection of text projects.*
 
+* [edhita](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS written in Swift. http://edhita.bornneet.com/
 * [Format](https://github.com/marmelroy/Format) - Swift formatting kit for numbers, addresses and colors.
 * [Markdown](https://github.com/crossroadlabs/Markdown) :penguin:- Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown)
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
 * [Reductio](https://github.com/fdzsergio/Reductio) - Automatic summarizer text in Swift.
 * [Regex by brynbellomy](https://github.com/brynbellomy/Regex) - Swift wrapper class for `NSRegularExpression`.  Includes a `map()` override and an operator (`=~`) for a more Swift-like API.
 * [Regex by crossroadlabs](https://github.com/crossroadlabs/Regex) :penguin:- very easy to use, Regular Expressions library with rich functionality. Features both operator `=~` and method based APIs. Unit tests covered.
+* [RichEditorView](https://github.com/cjwirth/RichEditorView) - RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
 * [Roman](https://github.com/nvzqz/Roman) :penguin:- Seamless Roman numeral conversion in Swift.
 * [SmarkDown](https://github.com/SwiftStudies/SmarkDown) :penguin:- Markdown processing for Swift, conforming to Gruber's standards.
 * [SwiftString](https://github.com/amayne/SwiftString) - A lightweight string extension for Swift.

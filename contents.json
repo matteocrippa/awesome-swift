@@ -1013,6 +1013,11 @@
 		"description": "A small set of utilities to make working with CoreData and Swift a bit easier.",
 		"homepage": "https://github.com/michaelarmstrong/SuperRecord"
 	}, {
+		"title": "DataKernel",
+		"category": "core-data",
+		"description": "DataKernel is a minimalistic wrapper around CoreData stack to ease persistence operations. No external dependencies.",
+		"homepage": "https://github.com/mrdekk/DataKernel"
+	}, {
 		"title": "Algorithm",
 		"category": "data-structures",
 		"description": "A toolset for writing algorithms and probability models in Swift.",

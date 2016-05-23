@@ -3013,10 +3013,10 @@
 		"description": "Display & edit ratings, fully customizable from interface builder.",
 		"homepage": "https://github.com/peterprokop/StarryStars"
 	}, {
-		"title": "SwiftTheme”,
+		"title": "SwiftTheme",
 		"category": "ui",
-		"description": "Powerful theme/skin manager for iOS 7+, written in swift.”,
-		"homepage": "https://github.com/jiecao-fm/SwiftTheme”
+		"description": "Powerful theme/skin manager for iOS 7+, written in swift.",
+		"homepage": "https://github.com/jiecao-fm/SwiftTheme"
 	}, {
 		"title": "SwiftValidator",
 		"category": "ui",

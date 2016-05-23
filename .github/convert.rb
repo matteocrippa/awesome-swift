@@ -30,6 +30,8 @@ def output_content_category(c, indent)
   end
 
   toc << " #{c['title']}\n"
+  toc << "[back to top](#readme) \n" if indent>2
+
   toc << "*#{c['description']}*\n" unless c['description'].nil?
   toc << "\n"
 

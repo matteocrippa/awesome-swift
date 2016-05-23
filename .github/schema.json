@@ -6,13 +6,13 @@
 		"title": {
 			"type": "string"
 		},
-		"description": {
+		"header_contributing": {
 			"type": "string"
 		},
 		"header": {
 			"type": "string"
 		},
-		"footer": {
+		"ios_app_link": {
 			"type": "string"
 		},
 		"categories": {

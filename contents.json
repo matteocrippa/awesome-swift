@@ -824,8 +824,8 @@
 	}, {
 		"title": "BluetoothKit",
 		"category": "bluetooth",
-		"description": "A much simpler, high-level Swift API to allow easy communication between iOS devices using Bluetooth 4.0 LE.",
-		"homepage": "https://github.com/rasmusth/BluetoothKit"
+		"description": "Easily communicate between iOS/OSX devices using BLE.",
+		"homepage": "https://github.com/rhummelmose/BluetoothKit"
 	}, {
 		"title": "ALCameraViewController",
 		"category": "camera",

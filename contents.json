@@ -474,11 +474,6 @@
 		"description": "Swift Sandbox is a weekly newsletter containing a collection of links to the best Swift **code** and **developer tools**. Every Friday. **Free**.",
 		"homepage": "http://swiftsandbox.io"
 	}, {
-		"title": "Swift Tips",
-		"category": "third-party-guides",
-		"description": "Swift tips collection.",
-		"homepage": "https://github.com/jbrennan/swift-tips"
-	}, {
 		"title": "Swift-Weekly",
 		"category": "third-party-guides",
 		"description": "Weekly Swift Language Gems, Tips and Tricks.",
@@ -523,11 +518,6 @@
 		"category": "style-guides",
 		"description": "Best practices for software development with Swift.",
 		"homepage": "https://github.com/schwa/Swift-Community-Best-Practices/"
-	}, {
-		"title": "SwiftBoilerplate",
-		"category": "boilerplates",
-		"description": "Swift boilerplate for communication between iOS app and watchKit.",
-		"homepage": "https://github.com/JeremyWeir/SwiftBoilerplate"
 	}, {
 		"title": "Swift Off",
 		"category": "boilerplates",
@@ -623,11 +613,6 @@
 		"category": "misc",
 		"description": "A suite of tools written in Swift to auto-generate Swift code for various assets of your project.",
 		"homepage": "https://github.com/AliSoftware/SwiftGen"
-	}, {
-		"title": "swiftier",
-		"category": "misc",
-		"description": "Quick-and-dirty Objective-C to Swift translator.",
-		"homepage": "https://github.com/snej/swiftier"
 	}, {
 		"title": "BrainCore",
 		"category": "ai",
@@ -909,11 +894,6 @@
 		"description": "Hex to UIColor converter.",
 		"homepage": "https://github.com/yeahdongcn/UIColor-Hex-Swift"
 	}, {
-		"title": "UIColorWDUtils",
-		"category": "colors",
-		"description": "Extension for Hex RGB(A).",
-		"homepage": "https://github.com/daktales/UIColorWDUtils"
-	}, {
 		"title": "ImagePalette",
 		"category": "colors",
 		"description": "Swift/iOS port of Android's Palette",
@@ -1166,11 +1146,6 @@
 		"category": "json",
 		"description": "JSON parser.",
 		"homepage": "https://github.com/mrap/SwiftJSONParser"
-	}, {
-		"title": "SwiftMapper",
-		"category": "json",
-		"description": "JSON Mapper.",
-		"homepage": "https://github.com/kam800/SwiftMapper"
 	}, {
 		"title": "SwiftyJSON",
 		"category": "json",
@@ -1496,11 +1471,6 @@
 		"description": "Google Material Icon Font for Swift and ObjC.",
 		"homepage": "https://github.com/kitasuke/GoogleMaterialIconFont"
 	}, {
-		"title": "MCFontAwesome",
-		"category": "fonts",
-		"description": "fontawesome porting for Swift.",
-		"homepage": "https://github.com/matteocrippa/MCFontAwesome"
-	}, {
 		"title": "OpenSansSwift",
 		"category": "fonts",
 		"description": "OpenSans for Swift.",
@@ -1661,11 +1631,6 @@
 		"description": "A beautiful and flexible text field control implementation of \"Float Label Pattern\".",
 		"homepage": "https://github.com/Skyscanner/SkyFloatingLabelTextField"
 	}, {
-		"title": "SwiftColorArt",
-		"category": "images",
-		"description": "font schema generator according image colours.",
-		"homepage": "https://github.com/Jan0707/SwiftColorArt"
-	}, {
 		"title": "SwiftGen-Assets",
 		"category": "images",
 		"description": "A tool to auto-generate Swift `enums` for all your `UIImages` from your Assets Catalogs.",
@@ -1715,11 +1680,6 @@
 		"category": "images",
 		"description": "XAnimatedImage is a performant animated GIF engine for iOS written in Swift based on FLAnimatedImage",
 		"homepage": "https://github.com/khaledmtaha/XAnimatedImage"
-	}, {
-		"title": "Hodor Keyboard",
-		"category": "keyboard",
-		"description": "poc for custom keyboard implementation.",
-		"homepage": "https://github.com/jonomuller/Hodor-Keyboard"
 	}, {
 		"title": "SwiftKVC",
 		"category": "key-value-coding",
@@ -1835,16 +1795,6 @@
 		"category": "auto-layout",
 		"description": "Lightweight mathematical declarative auto-layout framework for Swift.",
 		"homepage": "https://github.com/fhisa/SwiftyLayout"
-	}, {
-		"title": "Tails",
-		"category": "auto-layout",
-		"description": "declarative autolayout for ios app written in swift.",
-		"homepage": "https://github.com/nickynick/Tails"
-	}, {
-		"title": "VFLToolbox",
-		"category": "auto-layout",
-		"description": "fancy Swift implementation of the Visual Format Language.",
-		"homepage": "https://github.com/0xc010d/VFLToolbox"
 	}, {
 		"title": "BartyCrouch",
 		"category": "localization",
@@ -1977,11 +1927,6 @@
 		"description": "DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.",
 		"homepage": "https://github.com/davedelong/DDMathParser"
 	}, {
-		"title": "Easy-Cal-Swift",
-		"category": "math",
-		"description": "Overload +-*/ operator for Swift, make it easier to use (and not so strict).",
-		"homepage": "https://github.com/onevcat/Easy-Cal-Swift"
-	}, {
 		"title": "PlotKit",
 		"category": "math",
 		"description": "Plots made easy.",
@@ -2022,11 +1967,6 @@
 		"category": "network",
 		"description": ":rocket: Elegant API Abstraction for Swift.",
 		"homepage": "https://github.com/devxoul/Endpoint"
-	}, {
-		"title": "GRequest",
-		"category": "network",
-		"description": "http request handler.",
-		"homepage": "https://github.com/lingoer/GRequest"
 	}, {
 		"title": "Heimdallr.swift",
 		"category": "network",
@@ -2133,11 +2073,6 @@
 		"category": "network",
 		"description": "A tiny library makes uploading and downloading easier.",
 		"homepage": "https://github.com/nghialv/Transporter"
-	}, {
-		"title": "YYHRequest-Swift",
-		"category": "network",
-		"description": "http request in async.",
-		"homepage": "https://github.com/yayuhh/YYHRequest-Swift"
 	}, {
 		"title": "Fuzi",
 		"category": "html",
@@ -2409,16 +2344,6 @@
 		"description": "a simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.",
 		"homepage": "https://github.com/jrendel/SwiftKeychainWrapper"
 	}, {
-		"title": "iOS-TouchID-Swift",
-		"category": "touchid",
-		"description": "TouchID for Swift.",
-		"homepage": "https://github.com/gabrieltheodoropoulos/iOS-TouchID-Swift"
-	}, {
-		"title": "JMEasyTouchID",
-		"category": "touchid",
-		"description": "TouchID one line wrapper.",
-		"homepage": "https://github.com/ulidev/JMEasyTouchID"
-	}, {
 		"title": "MotionKit",
 		"category": "sensors",
 		"description": "iOS device sensors wrapper.",
@@ -2575,11 +2500,6 @@
 		"description": "Syntactic Swift sugar for Grand Central Dispatch.",
 		"homepage": "https://github.com/duemunk/Async"
 	}, {
-		"title": "Async.legacy",
-		"category": "thread",
-		"description": "Syntactic Swift sugar for Grand Central Dispatch (iOS 7 and OS X 10.9 Mavericks compatible fork).",
-		"homepage": "https://github.com/josephlord/Async.legacy"
-	}, {
 		"title": "Atomic",
 		"category": "thread",
 		"description": "fast, flexible, well-tested wrapper for making values thread-safe.",
@@ -2609,11 +2529,6 @@
 		"category": "thread",
 		"description": "Grand Central Dispatch simplified with Swift.",
 		"homepage": "https://github.com/JohnEstropia/GCDKit"
-	}, {
-		"title": "AAWindow",
-		"category": "ui",
-		"description": "UIWindow subclass to enable behavior like adaptive round-corners & detecting when Control Center is opened.",
-		"homepage": "https://github.com/aaronabentheuer/AAWindow"
 	}, {
 		"title": "ActiveLabel",
 		"category": "ui",
@@ -3374,11 +3289,6 @@
 		"description": "Easier way to represent the structure of UITableView.",
 		"homepage": "https://github.com/yukiasai/Shoyu"
 	}, {
-		"title": "__",
-		"category": "utility",
-		"description": "Underscore.js power in your Swift projects.",
-		"homepage": "https://github.com/lotz84/__.swift"
-	}, {
 		"title": "AEAppVersion",
 		"category": "utility",
 		"description": "Simple and Lightweight iOS App Version Tracking written in Swift.",
@@ -3438,11 +3348,6 @@
 		"category": "utility",
 		"description": "A simple but flexible cache.",
 		"homepage": "https://github.com/WeltN24/Carlos"
-	}, {
-		"title": "Collection Each",
-		"category": "utility",
-		"description": "add each func to collections.",
-		"homepage": "https://github.com/oarrabi/Collection-Each"
 	}, {
 		"title": "Compass",
 		"category": "utility",
@@ -3508,11 +3413,6 @@
 		"category": "utility",
 		"description": "Hookah is a functional library for Swift.",
 		"homepage": "https://github.com/HookahSwift/Hookah"
-	}, {
-		"title": "Inflection",
-		"category": "utility",
-		"description": "The Optimus Prime of string inflection.",
-		"homepage": "https://github.com/zenangst/Inflection"
 	}, {
 		"title": "Lambdatron",
 		"category": "utility",
@@ -3748,11 +3648,6 @@
 		"category": "utility",
 		"description": "Track which versions of your app a user has previously installed. Available for iOS, OS X and tvOS.",
 		"homepage": "https://github.com/tbaranes/VersionTrackerSwift"
-	}, {
-		"title": "Wyrd",
-		"category": "utility",
-		"description": "Asynchronous programming in Swift made easy. Wyrd is inspired by Promises/A+.",
-		"homepage": "https://github.com/explicitcall/Wyrd"
 	}, {
 		"title": "MobilePlayer",
 		"category": "video",

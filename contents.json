@@ -3064,6 +3064,11 @@
 		"description": "In-app notification in Swift, with customizable buttons and input text field.",
 		"homepage": "https://github.com/thii/Notie"
 	}, {
+		"title": "PMAlertController",
+		"category": "alert",
+		"description": "PMAlertController is a great and customizable substitute to UIAlertController",
+		"homepage": "https://github.com/Codeido/PMAlertController"
+	},{
 		"title": "SCLAlertView",
 		"category": "alert",
 		"description": "Animated Alert view.",

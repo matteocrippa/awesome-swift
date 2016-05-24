@@ -836,6 +836,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [edhita](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS written in Swift. http://edhita.bornneet.com/
 * [Format](https://github.com/marmelroy/Format) - Swift formatting kit for numbers, addresses and colors.
 * [Markdown](https://github.com/crossroadlabs/Markdown) :penguin:- Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown)
+* [PrediKit](https://github.com/KrakenDev/PrediKit) - An NSPredicate DSL for iOS & OS X inspired by SnapKit and written in Swift.
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
 * [Reductio](https://github.com/fdzsergio/Reductio) - Automatic summarizer text in Swift.
 * [Regex by brynbellomy](https://github.com/brynbellomy/Regex) - Swift wrapper class for `NSRegularExpression`.  Includes a `map()` override and an operator (`=~`) for a more Swift-like API.

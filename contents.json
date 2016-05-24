@@ -2447,6 +2447,11 @@
 		"homepage": "https://github.com/crossroadlabs/Markdown",
 		"tags": ["linux"]
 	}, {
+		"title": "PrediKit",
+		"category": "text",
+		"description": "An NSPredicate DSL for iOS & OS X inspired by SnapKit and written in Swift.",
+		"homepage": "https://github.com/KrakenDev/PrediKit"
+	},{
 		"title": "PySwiftyRegex",
 		"category": "text",
 		"description": "Easily deal with Regex in Swift in a Pythonic way.",

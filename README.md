@@ -1019,6 +1019,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Pagemenu](https://github.com/HighBay/PageMenu) - Pagination enabled view controller.
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
+* [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure swift.
 
 #### Payment
 [back to top](#readme) 

@@ -292,7 +292,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Libs to get access to build chat app*
 
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
-* [MessageKit](https://github.com/MessageKit/MessageKit) - Eventually, a Swift re-write of JSQMessagesViewController.
 
 ### Colors
 [back to top](#readme) 
@@ -833,15 +832,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 *A collection of text projects.*
 
-* [edhita](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS written in Swift. http://edhita.bornneet.com/
 * [Format](https://github.com/marmelroy/Format) - Swift formatting kit for numbers, addresses and colors.
 * [Markdown](https://github.com/crossroadlabs/Markdown) :penguin:- Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown)
-* [PrediKit](https://github.com/KrakenDev/PrediKit) - An NSPredicate DSL for iOS & OS X inspired by SnapKit and written in Swift.
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
 * [Reductio](https://github.com/fdzsergio/Reductio) - Automatic summarizer text in Swift.
 * [Regex by brynbellomy](https://github.com/brynbellomy/Regex) - Swift wrapper class for `NSRegularExpression`.  Includes a `map()` override and an operator (`=~`) for a more Swift-like API.
 * [Regex by crossroadlabs](https://github.com/crossroadlabs/Regex) :penguin:- very easy to use, Regular Expressions library with rich functionality. Features both operator `=~` and method based APIs. Unit tests covered.
-* [RichEditorView](https://github.com/cjwirth/RichEditorView) - RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
 * [Roman](https://github.com/nvzqz/Roman) :penguin:- Seamless Roman numeral conversion in Swift.
 * [SmarkDown](https://github.com/SwiftStudies/SmarkDown) :penguin:- Markdown processing for Swift, conforming to Gruber's standards.
 * [SwiftString](https://github.com/amayne/SwiftString) - A lightweight string extension for Swift.
@@ -911,7 +907,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
 * [IncrementableLabel](https://github.com/recisio/IncrementableLabel) - An UILabel subclass to (de)increment numbers in an UILabel
 * [Instructions](https://github.com/ephread/Instructions) - A Swift library to create app walkthroughs and guided tours.
-* [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final Apple calendar you will ever try. Built for iOS in Swift.
 * [JLToast](https://github.com/devxoul/JLToast) - Toast for Swift.
 * [KCHorizontalDial](https://github.com/kciter/KCHorizontalDial) - A horizontal scroll dial like Instagram.
 * [KCSelectionDialog](https://github.com/kciter/KCSelectionDialog) - Simple selection dialog.
@@ -979,7 +974,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Hokusai](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet.
 * [Kamagari](https://github.com/tasanobu/Kamagari) - Simple UIAlertController builder class in Swift.
 * [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
-* [PMAlertController](https://github.com/Codeido/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.

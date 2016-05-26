@@ -404,9 +404,9 @@
 		"description": "Official Apple eBook for swift beginners.",
 		"homepage": "https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11"
 	}, {
-		"title": "Apple Swift Guide",
-		"category": "official-guides",
-		"description": "Official guide by Apple about swift.",
+		"title": "Swift Education",
+		"category": "third-party-guides",
+		"description": "A community of educators sharing materials for teaching Swift and app development.",
 		"homepage": "https://github.com/swifteducation"
 	}, {
 		"title": "30 Days of Swift",

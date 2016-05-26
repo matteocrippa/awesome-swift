@@ -829,6 +829,11 @@
 		"description": "A lightweight framework to build chat applications, made in Swift.",
 		"homepage": "https://github.com/badoo/Chatto"
 	}, {
+		"title": "MessageKit",
+		"category": "chat",
+		"description": "Eventually, a Swift re-write of JSQMessagesViewController.",
+		"homepage": "https://github.com/MessageKit/MessageKit"
+	},{
 		"title": "AEConicalGradient",
 		"category": "colors",
 		"description": "Conical (angular) gradient in Swift.",
@@ -2426,6 +2431,11 @@
 		"description": "A mocking framework for Swift",
 		"homepage": "https://github.com/mflint/SwiftMock"
 	}, {
+		"title": "edhita",
+		"category": "text",
+		"description": "Fully open source text editor for iOS written in Swift.",
+		"homepage": "https://github.com/tnantoka/edhita"
+	},{
 		"title": "Format",
 		"category": "text",
 		"description": "Swift formatting kit for numbers, addresses and colors.",
@@ -2437,6 +2447,11 @@
 		"homepage": "https://github.com/crossroadlabs/Markdown",
 		"tags": ["linux"]
 	}, {
+		"title": "PrediKit",
+		"category": "text",
+		"description": "An NSPredicate DSL for iOS & OS X inspired by SnapKit and written in Swift.",
+		"homepage": "https://github.com/KrakenDev/PrediKit"
+	},{
 		"title": "PySwiftyRegex",
 		"category": "text",
 		"description": "Easily deal with Regex in Swift in a Pythonic way.",
@@ -2458,6 +2473,11 @@
 		"homepage": "https://github.com/crossroadlabs/Regex",
 		"tags": ["linux"]
 	}, {
+		"title": "RichEditorView",
+		"category": "text",
+		"description": " RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.",
+		"homepage": "https://github.com/cjwirth/RichEditorView"
+	},{
 		"title": "Roman",
 		"category": "text",
 		"description": "Seamless Roman numeral conversion in Swift.",
@@ -2735,6 +2755,11 @@
 		"description": "An UILabel subclass to (de)increment numbers in an UILabel",
 		"homepage": "https://github.com/recisio/IncrementableLabel"
 	}, {
+		"title": "JTAppleCalendar",
+		"category": "ui",
+		"description": "The final Apple calendar you will ever try. Built for iOS in Swift.",
+		"homepage": "https://github.com/patchthecode/JTAppleCalendar"
+	},{
 		"title": "JLToast",
 		"category": "ui",
 		"description": "Toast for Swift.",
@@ -3044,6 +3069,11 @@
 		"description": "In-app notification in Swift, with customizable buttons and input text field.",
 		"homepage": "https://github.com/thii/Notie"
 	}, {
+		"title": "PMAlertController",
+		"category": "alert",
+		"description": "PMAlertController is a great and customizable substitute to UIAlertController",
+		"homepage": "https://github.com/Codeido/PMAlertController"
+	},{
 		"title": "SCLAlertView",
 		"category": "alert",
 		"description": "Animated Alert view.",

@@ -1199,6 +1199,12 @@
 		"homepage": "https://github.com/Zewo/MySQL",
 		"tags": ["linux"]
 	}, {
+		"title": "MySQL Swift",
+		"category": "sql-drivers",
+		"description": "MySQL client library for Swift 2.2.",
+		"homepage": "https://github.com/novi/mysql-swift",
+		"tags": ["linux"]
+	}, {
 		"title": "PostgreSQL",
 		"category": "sql-drivers",
 		"description": "PostgreSQL adapter for Swift 2.2.",

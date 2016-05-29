@@ -1968,6 +1968,11 @@
 		"description": "NSURLSession wrapper.",
 		"homepage": "https://github.com/daltoniam/SwiftHTTP"
 	}, {
+	        "title": "SwiftyOAuth",
+	        "category": "network",
+	        "description": "A small OAuth library with a built-in set of providers",
+	        "homepage": "https://github.com/delba/SwiftyOAuth"
+	}, {
 		"title": "Transporter",
 		"category": "network",
 		"description": "A tiny library makes uploading and downloading easier.",

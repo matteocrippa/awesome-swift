@@ -2967,6 +2967,11 @@
 		"category": "blur",
 		"description": "Swift AlertController with UIVisualeffectview.",
 		"homepage": "https://github.com/hryk224/PCLBlurEffectAlert"
+    }, {
+        "title": "VisualEffectView",
+        "category": "blur",
+        "description": "UIVisualEffectView subclass with tint color.",
+        "homepage": "https://github.com/efremidze/VisualEffectView"
 	}, {
 		"title": "AnimatablePlayButton",
 		"category": "button",

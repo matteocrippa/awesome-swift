@@ -3193,6 +3193,11 @@
 		"description": "Pure Declarative Programming in Swift.",
 		"homepage": "https://github.com/typelift/Basis"
 	}, {
+		"title": "Benchmark",
+		"category": "utility",
+		"description": "The Benchmark module provides methods to measure and report the time used to execute Swift code.",
+		"homepage": "https://github.com/WorldDownTown/Benchmark"
+	}, {
 		"title": "Butterfly",
 		"category": "utility",
 		"description": "A lightweight library for integrating bug-report and feedback features with shake-motion event.",

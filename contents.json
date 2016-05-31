@@ -3502,5 +3502,11 @@
 		"category": "video",
 		"description": "Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.",
 		"homepage": "https://github.com/davidlondono/PlayerView"
-	}]
+	}, {
+		"title": "SlideMenuControllerSwift",
+		"category": "menu",
+		"description": "iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.",
+		"homepage": "https://github.com/dekatotoro/SlideMenuControllerSwift"
+	}
+]
 }

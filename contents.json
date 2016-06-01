@@ -153,6 +153,10 @@
 		"id": "mongodb",
 		"parent": "data-management"
 	}, {
+		"title": "ORM",
+		"id": "orm",
+		"parent": "data-management"
+	},{
 		"title": "SQLite",
 		"id": "sqlite",
 		"parent": "data-management",
@@ -1173,6 +1177,12 @@
 		"description": "MongoDB connector for Swift.",
 		"homepage": "https://github.com/Danappelxx/SwiftMongoDB"
 	}, {
+		"title": "CoreModel",
+		"category": "orm",
+		"description": "Pure Swift ORM (Supports Linux)",
+		"homepage": "https://github.com/PureSwift/CoreModel",
+		"tags": ["linux"]
+	},{
 		"title": "GRDB.swift",
 		"category": "sqlite",
 		"description": "A versatile [SQLite](https://www.sqlite.org) toolkit for Swift.",

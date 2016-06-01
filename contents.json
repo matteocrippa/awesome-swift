@@ -2293,6 +2293,11 @@
 		"description": "An elegant library for stubbing HTTP requests with ease in Swift.",
 		"homepage": "https://github.com/kylef/Mockingjay"
 	}, {
+		"title": "Mockit",
+		"category": "testing",
+		"description": "A simple mocking framework for Swift, inspired by the famous Mockito for Java.",
+		"homepage": "https://github.com/sabirvirtuoso/Mockit"
+	}, {
 		"title": "OHHTTPStubs",
 		"category": "testing",
 		"description": "A testing library designed to stub your network requests easily.",

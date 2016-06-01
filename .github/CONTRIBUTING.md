@@ -12,6 +12,7 @@ To be added to the list, software should meet the following criteria:
 - Used by the community
 - Well documented
 - Work with the latest SDK
+- Have at least 15 stars on (GitHub project)
 
 If an item on the list no longer meets the above criteria, open an issue to have it be removed.
 

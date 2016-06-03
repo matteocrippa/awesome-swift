@@ -2340,6 +2340,11 @@
 		"description": "A mocking framework for Swift",
 		"homepage": "https://github.com/mflint/SwiftMock"
 	}, {
+		"title": "UI Testing Cheat Sheet",
+		"category": "testing",
+		"description": "Answers to common \"How do I test this with UI Testing?\" questions with a working example app.",
+		"homepage": "https://github.com/joemasilotti/UI-Testing-Cheat-Sheet"
+	}, {
 		"title": "edhita",
 		"category": "text",
 		"description": "Fully open source text editor for iOS written in Swift.",

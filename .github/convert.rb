@@ -8,7 +8,7 @@ end
 
 def output_linux(tags)
   return '' if tags.nil?
-  return ':penguin:' if tags.include? 'linux'
+  return ':penguin: ' if tags.include? 'linux'
   ''
 end
 

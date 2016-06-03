@@ -1183,6 +1183,12 @@
 		"homepage": "https://github.com/PureSwift/CoreModel",
 		"tags": ["linux"]
 	},{
+		"title": "fluent",
+		"category": "orm",
+		"description": "Simple ActiveRecord implementation for Swift",
+		"homepage": "https://github.com/qutheory/fluent",
+		"tags": ["linux"]
+	},{
 		"title": "GRDB.swift",
 		"category": "sqlite",
 		"description": "A versatile [SQLite](https://www.sqlite.org) toolkit for Swift.",

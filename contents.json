@@ -763,6 +763,11 @@
 		"description": "Eases access to multiple federal government OpenGov APIs.",
 		"homepage": "https://github.com/USDepartmentofLabor/Swift-Federal-Data-SDK"
 	}, {
+		"title": "GithubPilot",
+		"category": "api",
+		"description": "Github API V3 wrapper.",
+		"homepage": "https://github.com/jindulys/GithubPilot"
+	}, {
 		"title": "GooglePlacesAutocomplete",
 		"category": "api",
 		"description": "Simple Google Places address entry for iOS.",

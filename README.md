@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-616-orange.svg) | June 03, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-617-orange.svg) | June 04, 2016
 
 ### Contributing
 
@@ -295,16 +295,16 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Command Line
 *Create command line applications.* [back to top](#readme) 
 
-* [Commander](https://github.com/kylef/Commander) :penguin:- Compose beautiful command line interfaces in Swift.
-* [CommandLine](https://github.com/jatoben/CommandLine) :penguin:- A pure Swift library for creating command-line interfaces.
+* [Commander](https://github.com/kylef/Commander) :penguin: - Compose beautiful command line interfaces in Swift.
+* [CommandLine](https://github.com/jatoben/CommandLine) :penguin: - A pure Swift library for creating command-line interfaces.
 * [Swiftline](https://github.com/oarrabi/Swiftline) - A set of tools to help you create command line applications.
-* [SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) :penguin:- A lightweight library to generate text tables.
+* [SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) :penguin: - A lightweight library to generate text tables.
 
 ### Concurrency
 *Easier ways to work with concurrency.* [back to top](#readme) 
 
 * [Safe](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization for Swift.
-* [Venice](https://github.com/VeniceX/Venice) :penguin:- Communicating sequential processes (CSP) for Swift 2 (Linux ready).
+* [Venice](https://github.com/VeniceX/Venice) :penguin: - Communicating sequential processes (CSP) for Swift 2 (Linux ready).
 
 ### Data Management
 [back to top](#readme) 
@@ -335,7 +335,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [FileBrowser](https://github.com/marmelroy/FileBrowser) - Powerful Swift file browser for iOS.
 * [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift.
-* [PathKit](https://github.com/kylef/PathKit) :penguin:- Effortless path operations in Swift.
+* [PathKit](https://github.com/kylef/PathKit) :penguin: - Effortless path operations in Swift.
 
 #### JSON
 *Struggling using json data? Here are some interesting ways to handle it.* [back to top](#readme) 
@@ -347,10 +347,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Argo](https://github.com/thoughtbot/Argo) - Json parsing library.
 * [Arrow ](https://github.com/s4cha/Arrow) - Elegant JSON Parsing in Swift.
 * [Brick](https://github.com/hyperoslo/Brick) - A generic view model for both basic and complex scenarios.
-* [Decodable](https://github.com/Anviking/Decodable) :penguin:- JSON parsing for Swift 2.
+* [Decodable](https://github.com/Anviking/Decodable) :penguin: - JSON parsing for Swift 2.
 * [EVReflection](https://github.com/evermeer/EVReflection) - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable
 * [Genome](https://github.com/LoganWright/Genome) - A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0.
-* [Gloss](https://github.com/hkellaway/Gloss) :penguin:- shiny JSON parsing library.
+* [Gloss](https://github.com/hkellaway/Gloss) :penguin: - shiny JSON parsing library.
 * [Himotoki](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library purely written in Swift.
 * [JASON](https://github.com/delba/JASON) - JSON parsing with outstanding performances and convenient operators.
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
@@ -362,7 +362,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Pistachio](https://github.com/felixjendrusch/Pistachio) - Generic model framework for Swift.
 * [PPJSONSerialization](https://github.com/PonyCui/PPJSONSerialization) - Convert JSON string to Swift Class.
 * [SwiftJSONParser](https://github.com/mrap/SwiftJSONParser) - JSON parser.
-* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) :penguin:- A lib for JSON in Swift with error handling.
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) :penguin: - A lib for JSON in Swift with error handling.
 * [Tailor](https://github.com/zenangst/Tailor) - A super fast & convenient object mapper tailored for your needs.
 * [Unbox](https://github.com/JohnSundell/Unbox) - The easy to use Swift JSON decoder.
 * [YamlSwift](https://github.com/behrang/YamlSwift) - Load YAML and JSON documents using Swift.
@@ -380,14 +380,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### MongoDB
 [back to top](#readme) 
 
-* [MongoKitten](https://github.com/PlanTeam/MongoKitten) :penguin:- Pure Swift MongoDB Connector
+* [MongoKitten](https://github.com/PlanTeam/MongoKitten) :penguin: - Pure Swift MongoDB Connector
 * [SwiftMongoDB](https://github.com/Danappelxx/SwiftMongoDB) - MongoDB connector for Swift.
 
 #### ORM
 [back to top](#readme) 
 
-* [CoreModel](https://github.com/PureSwift/CoreModel) :penguin:- Pure Swift ORM (Supports Linux)
-* [fluent](https://github.com/qutheory/fluent) :penguin:- Simple ActiveRecord implementation for Swift
+* [CoreModel](https://github.com/PureSwift/CoreModel) :penguin: - Pure Swift ORM (Supports Linux)
+* [fluent](https://github.com/qutheory/fluent) :penguin: - Simple ActiveRecord implementation for Swift
 
 #### Other Data
 *Other ways to persist data* [back to top](#readme) 
@@ -403,9 +403,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### SQL drivers
 [back to top](#readme) 
 
-* [MySQL](https://github.com/Zewo/MySQL) :penguin:- MySQL adapter for Swift 2.2.
-* [MySQL Swift](https://github.com/novi/mysql-swift) :penguin:- MySQL client library for Swift 2.2.
-* [PostgreSQL](https://github.com/Zewo/PostgreSQL) :penguin:- PostgreSQL adapter for Swift 2.2.
+* [MySQL](https://github.com/Zewo/MySQL) :penguin: - MySQL adapter for Swift 2.2.
+* [MySQL Swift](https://github.com/novi/mysql-swift) :penguin: - MySQL client library for Swift 2.2.
+* [PostgreSQL](https://github.com/Zewo/PostgreSQL) :penguin: - PostgreSQL adapter for Swift 2.2.
 
 #### SQLite
 *Are you interested in storing your app data using SQLite? Here are some interesting resources.* [back to top](#readme) 
@@ -433,7 +433,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Simple date helper.
 * [Datez](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, `NSDateComponents`, and `NSTimeInterval`.
-* [Punctual.swift](https://github.com/harlanhaskins/Punctual.swift) :penguin:- Swift date handler.
+* [Punctual.swift](https://github.com/harlanhaskins/Punctual.swift) :penguin: - Swift date handler.
 * [Swift-NSDate-Extensions](https://github.com/fwhenin/Swift-NSDate-Extensions) - Swift Version of [Erica's NSDate Extensions](https://github.com/erica/NSDate-Extensions).
 * [SwiftDate](https://github.com/malcommac/SwiftDate) - Easy NSDate Management in Swift.
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
@@ -450,13 +450,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Embedded Systems
 *Build your embedded Linux projects in Swift on a RaspberryPi, BeagleBone, C.H.I.P. and other boards.* [back to top](#readme) 
 
-* [SMBus-swift](https://github.com/Sephiroth87/SMBus-swift) :penguin:- Communicate with SMBus/I2C devices.
-* [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) :penguin:- Interact with Linux GPIO/SPI/PWM on ARM.
+* [SMBus-swift](https://github.com/Sephiroth87/SMBus-swift) :penguin: - Communicate with SMBus/I2C devices.
+* [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) :penguin: - Interact with Linux GPIO/SPI/PWM on ARM.
 
 #### Peripherals
 *Interact with specific external peripherals.* [back to top](#readme) 
 
-* [5110LCD_PCD8544.swift](https://github.com/uraimo/5110LCD_PCD8544.swift) :penguin:- Nokia3310/5110 PCD8544 Monochrome LCD display library.
+* [5110LCD_PCD8544.swift](https://github.com/uraimo/5110LCD_PCD8544.swift) :penguin: - Nokia3310/5110 PCD8544 Monochrome LCD display library.
 
 ### Events
 *Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.* [back to top](#readme) 
@@ -598,16 +598,16 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Utilities for writing to and reading from the device log* [back to top](#readme) 
 
 * [AEConsole](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
-* [CleanroomASL](https://github.com/emaloney/CleanroomASL) :penguin:- Low-level Swift API for writing to and reading from the Apple System Log daemon.
-* [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) :penguin:- Configurable and extensible high-level logging API that is simple, lightweight and performant.
-* [Duration](https://github.com/SwiftStudies/Duration) :penguin:- Lightweight logging library focused on reporting timings for operations.
-* [HeliumLogger](https://github.com/IBM-Swift/HeliumLogger) :penguin:- IBM's lightweight logging framework.
+* [CleanroomASL](https://github.com/emaloney/CleanroomASL) :penguin: - Low-level Swift API for writing to and reading from the Apple System Log daemon.
+* [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) :penguin: - Configurable and extensible high-level logging API that is simple, lightweight and performant.
+* [Duration](https://github.com/SwiftStudies/Duration) :penguin: - Lightweight logging library focused on reporting timings for operations.
+* [HeliumLogger](https://github.com/IBM-Swift/HeliumLogger) :penguin: - IBM's lightweight logging framework.
 * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
 * [Puree](https://github.com/cookpad/puree-ios) - A log collector for iOS.
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs.
-* [Rainbow](https://github.com/onevcat/Rainbow) :penguin:- Delightful console output for Swift developers.
+* [Rainbow](https://github.com/onevcat/Rainbow) :penguin: - Delightful console output for Swift developers.
 * [Swell](https://github.com/hubertr/Swell) - a logging utility for Swift.
-* [SwiftBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) :penguin:- Colorful, lightweight & fast logging in Swift 2.
+* [SwiftBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) :penguin: - Colorful, lightweight & fast logging in Swift 2.
 * [Watchdog](https://github.com/wojteklu/Watchdog) - A Swift utility for logging excessive blocking on the main thread.
 * [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
@@ -630,7 +630,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *A list of libs that allow you to decrease the amount of time spent dealing with http requests.* [back to top](#readme) 
 
 * [agent](https://github.com/hallas/agent) - http request agent.
-* [Alamofire](https://github.com/Alamofire/Alamofire) :penguin:- elegant networking in Swift.
+* [Alamofire](https://github.com/Alamofire/Alamofire) :penguin: - elegant networking in Swift.
 * [APIKit](https://github.com/ishkawa/APIKit) - a library for building type-safe web API client.
 * [BigBrother](https://github.com/marcelofabri/BigBrother) - Automatically sets the network activity indicator for any performed request.
 * [Endpoint](https://github.com/devxoul/Endpoint) - :rocket: Elegant API Abstraction for Swift.
@@ -642,7 +642,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
 * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS.
 * [PeerKit](https://github.com/jpsim/PeerKit) - An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps.
-* [Pitaya](https://github.com/johnlui/Pitaya) :penguin:- A Swift HTTP / HTTPS networking library just incidentally execute on machines.
+* [Pitaya](https://github.com/johnlui/Pitaya) :penguin: - A Swift HTTP / HTTPS networking library just incidentally execute on machines.
 * [Reach](https://github.com/Isuru-Nanayakkara/Reach) - A simple class to check for internet connection availability in Swift.
 * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - A replacement for Apple's Reachability re-written in Swift with closures.
 * [ResponseDetective](https://github.com/netguru/ResponseDetective) - A non-intrusive framework for intercepting any outgoing requests and incoming responses between your app and server for debugging purposes.
@@ -669,38 +669,38 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Socket
 [back to top](#readme) 
 
-* [BlueSocket](https://github.com/IBM-Swift/BlueSocket) :penguin:- IBM's low level socket framework.
-* [Socket.IO](https://github.com/socketio/socket.io-client-swift) :penguin:- Socket.IO client for iOS/OS X.
+* [BlueSocket](https://github.com/IBM-Swift/BlueSocket) :penguin: - IBM's low level socket framework.
+* [Socket.IO](https://github.com/socketio/socket.io-client-swift) :penguin: - Socket.IO client for iOS/OS X.
 * [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
-* [Socks](https://github.com/czechboy0/Socks) :penguin:- Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.
+* [Socks](https://github.com/czechboy0/Socks) :penguin: - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX.
 * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple TCP socket library.
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for swift.
-* [WebSocket](https://github.com/Zewo/WebSocket) :penguin:- WebSockets server for Swift 2.2 on Linux.
+* [WebSocket](https://github.com/Zewo/WebSocket) :penguin: - WebSockets server for Swift 2.2 on Linux.
 
 #### Webserver
 *Would you like host a webserver in your device? Here you can find how to do it.* [back to top](#readme) 
 
 * [Aeon](https://github.com/paulofaria/Aeon) - GCD based HTTP server for Swift 2.
-* [Blackfish](https://github.com/elliottminns/blackfish) :penguin:- HTTP Webserver inspired by Express.js.
-* [Curassow](https://github.com/kylef/Curassow) :penguin:- Swift HTTP server using the pre-fork worker model.
-* [Dynamo](https://github.com/johnno1962/Dynamo) :penguin:- [DynamoLinux](https://github.com/johnno1962/DynamoLinux)  - High Performance (nearly)100% Swift Web server supporting dynamic content.
-* [Express](https://github.com/crossroadlabs/Express) :penguin:- Swift Web Application framework, supporting both Synchronous and Asynchronous (Futures based) styles. Inspired by Play framework and Express.js.
-* [Frank](https://github.com/nestproject/Frank) :penguin:- Frank is a DSL for quickly writing web applications in Swift.
-* [http4swift](https://github.com/takebayashi/http4swift) :penguin:- A simple HTTP server written in Swift.
-* [Kitura](https://github.com/IBM-Swift/Kitura) :penguin:- IBM's web framework and server for web services written in Swift.
-* [Kunugi](https://github.com/novi/Kunugi) :penguin:- Minimal web framework and middleware for Swift.
+* [Blackfish](https://github.com/elliottminns/blackfish) :penguin: - HTTP Webserver inspired by Express.js.
+* [Curassow](https://github.com/kylef/Curassow) :penguin: - Swift HTTP server using the pre-fork worker model.
+* [Dynamo](https://github.com/johnno1962/Dynamo) :penguin: - [DynamoLinux](https://github.com/johnno1962/DynamoLinux)  - High Performance (nearly)100% Swift Web server supporting dynamic content.
+* [Express](https://github.com/crossroadlabs/Express) :penguin: - Swift Web Application framework, supporting both Synchronous and Asynchronous (Futures based) styles. Inspired by Play framework and Express.js.
+* [Frank](https://github.com/nestproject/Frank) :penguin: - Frank is a DSL for quickly writing web applications in Swift.
+* [http4swift](https://github.com/takebayashi/http4swift) :penguin: - A simple HTTP server written in Swift.
+* [Kitura](https://github.com/IBM-Swift/Kitura) :penguin: - IBM's web framework and server for web services written in Swift.
+* [Kunugi](https://github.com/novi/Kunugi) :penguin: - Minimal web framework and middleware for Swift.
 * [NetworkObjects](https://github.com/colemancda/NetworkObjects) - REST HTTP Server written in Swift. Builds REST API from Core Data.
-* [Perfect](https://github.com/PerfectlySoft/Perfect) :penguin:- Server-side Swift. The Perfect library, application server, connectors and example apps.
+* [Perfect](https://github.com/PerfectlySoft/Perfect) :penguin: - Server-side Swift. The Perfect library, application server, connectors and example apps.
 * [Swift-Server](https://github.com/cezarywojcik/Swift-Server) - Currently, a very basic proof-of-concept Swift HTTP server that does not require Foundation.
-* [swifter](https://github.com/httpswift/swifter) :penguin:- Http server written in Swift with routing handler.
-* [Swifton](https://github.com/necolt/Swifton) :penguin:- A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X.
+* [swifter](https://github.com/httpswift/swifter) :penguin: - Http server written in Swift with routing handler.
+* [Swifton](https://github.com/necolt/Swifton) :penguin: - A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X.
 * [SwiftyHTTP](https://github.com/AlwaysRightInstitute/SwiftyHTTP) - A simple GCD based HTTP client and server, written in 'pure' Swift.
 * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift.
 * [Trevi](https://github.com/Yoseob/Trevi) - A powerful Swift Web Application Server Framework Project.
-* [Vapor](https://github.com/qutheory/vapor) :penguin:- Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.
+* [Vapor](https://github.com/qutheory/vapor) :penguin: - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
-* [Zewo](https://github.com/Zewo/Zewo) :penguin:- Server-Side Swift.
+* [Zewo](https://github.com/Zewo/Zewo) :penguin: - Server-Side Swift.
 
 ### OCR
 [back to top](#readme) 
@@ -713,7 +713,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftFormat](https://github.com/haaakon/SwiftFormat) - Auto formatting Swift code, similar to Clang format.
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift coding conventions for your Swift code.
 * [Swimat](https://github.com/Jintin/Swimat) - XCode plugin to format Swift code.
-* [Tailor](https://github.com/sleekbyte/tailor) :penguin:- Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
+* [Tailor](https://github.com/sleekbyte/tailor) :penguin: - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
 
 ### Security
 [back to top](#readme) 
@@ -722,9 +722,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Cryptography
 *Deal with cryptography method easily in Swift* [back to top](#readme) 
 
-* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) :penguin:- Crypto related functions and helpers for Swift implemented in Swift programming language.
+* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) :penguin: - Crypto related functions and helpers for Swift implemented in Swift programming language.
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library written in Swift.
-* [OpenSSL](https://github.com/Zewo/OpenSSL) :penguin:- OpenSSL helpers for Swift 2.2 on Linux.
+* [OpenSSL](https://github.com/Zewo/OpenSSL) :penguin: - OpenSSL helpers for Swift 2.2 on Linux.
 * [SweetHMAC](https://github.com/jancassio/SweetHMAC) - A tiny and easy to use Swift class to encrypt strings using HMAC algorithms.
 * [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and OS X.
 * [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - add crypto toolkit in Swift.
@@ -765,9 +765,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease in Swift.
 * [Mockit](https://github.com/sabirvirtuoso/Mockit) - A simple mocking framework for Swift, inspired by the famous Mockito for Java.
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - A testing library designed to stub your network requests easily.
-* [Quick](https://github.com/Quick/Quick) :penguin:- Quick is a behavior-driven development framework for Swift and Objective-C.
+* [Quick](https://github.com/Quick/Quick) :penguin: - Quick is a behavior-driven development framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
-* [Spectre](https://github.com/kylef/Spectre) :penguin:- BDD Framework for Swift.
+* [Spectre](https://github.com/kylef/Spectre) :penguin: - BDD Framework for Swift.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck) - A testing library that automatically generates random data for testing program properties.
 * [SwiftMock](https://github.com/mflint/SwiftMock) - A mocking framework for Swift
 * [UI Testing Cheat Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet) - Answers to common "How do I test this with UI Testing?" questions with a working example app.
@@ -777,15 +777,15 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [edhita](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS written in Swift.
 * [Format](https://github.com/marmelroy/Format) - Swift formatting kit for numbers, addresses and colors.
-* [Markdown](https://github.com/crossroadlabs/Markdown) :penguin:- Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown)
+* [Markdown](https://github.com/crossroadlabs/Markdown) :penguin: - Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown)
 * [PrediKit](https://github.com/KrakenDev/PrediKit) - An NSPredicate DSL for iOS & OS X inspired by SnapKit and written in Swift.
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
 * [Reductio](https://github.com/fdzsergio/Reductio) - Automatic summarizer text in Swift.
 * [Regex by brynbellomy](https://github.com/brynbellomy/Regex) - Swift wrapper class for `NSRegularExpression`.  Includes a `map()` override and an operator (`=~`) for a more Swift-like API.
-* [Regex by crossroadlabs](https://github.com/crossroadlabs/Regex) :penguin:- very easy to use, Regular Expressions library with rich functionality. Features both operator `=~` and method based APIs. Unit tests covered.
+* [Regex by crossroadlabs](https://github.com/crossroadlabs/Regex) :penguin: - very easy to use, Regular Expressions library with rich functionality. Features both operator `=~` and method based APIs. Unit tests covered.
 * [RichEditorView](https://github.com/cjwirth/RichEditorView) -  RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
-* [Roman](https://github.com/nvzqz/Roman) :penguin:- Seamless Roman numeral conversion in Swift.
-* [SmarkDown](https://github.com/SwiftStudies/SmarkDown) :penguin:- Markdown processing for Swift, conforming to Gruber's standards.
+* [Roman](https://github.com/nvzqz/Roman) :penguin: - Seamless Roman numeral conversion in Swift.
+* [SmarkDown](https://github.com/SwiftStudies/SmarkDown) :penguin: - Markdown processing for Swift, conforming to Gruber's standards.
 * [SwiftString](https://github.com/amayne/SwiftString) - A lightweight string extension for Swift.
 * [SwiftVerbalExpressions](https://github.com/VerbalExpressions/SwiftVerbalExpressions) - VerbalExpressions porting for swift
 * [SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting.
@@ -844,7 +844,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [HTYTextField](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder in Swift.
 * [HUDKit](https://github.com/cockscomb/HUDKit) - HUD interface as UIPresentationController.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - A nicely designed and super easy to use ImagePicker.
-* [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
+* [ImagePickerSheetController](https://github.com/lbrndnr/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
 * [IncrementableLabel](https://github.com/recisio/IncrementableLabel) - An UILabel subclass to (de)increment numbers in an UILabel
 * [Instructions](https://github.com/ephread/Instructions) - A Swift library to create app walkthroughs and guided tours.
 * [JLToast](https://github.com/devxoul/JLToast) - Toast for Swift.
@@ -881,6 +881,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Easily add fun, multi-colored confetti to your app.
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller.
 * [Sapporo](https://github.com/nghialv/Sapporo) - A cellmodel-driven CollectionView manager for Swift.
+* [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift. Originally written for a small personal project.
 * [SevenSwitch](https://github.com/hyperoslo/SevenSwitch) - iOS7 style drop in replacement for UISwitch.
 * [Siren](https://github.com/ArtSabintsev/Siren) - Inform users when App Store updates are available.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written in Swift.

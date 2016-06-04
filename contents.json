@@ -2825,6 +2825,11 @@
 		"description": "A cellmodel-driven CollectionView manager for Swift.",
 		"homepage": "https://github.com/nghialv/Sapporo"
 	}, {
+		"title": "Scrollable-GraphView",
+		"category": "ui",
+		"description": "An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift. Originally written for a small personal project.",
+		"homepage": "https://github.com/philackm/Scrollable-GraphView"
+	}, {
 		"title": "SevenSwitch",
 		"category": "ui",
 		"description": "iOS7 style drop in replacement for UISwitch.",

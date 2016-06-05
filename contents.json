@@ -2257,7 +2257,7 @@
 		"title": "Latch",
 		"category": "keychain",
 		"description": "A simple Swift Keychain Wrapper for iOS.",
-		"homepage": "https://github.com/DanielTomlinson/Latch"
+		"homepage": "https://github.com/DanToml/Latch"
 	}, {
 		"title": "Locksmith",
 		"category": "keychain",

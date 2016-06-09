@@ -2160,7 +2160,7 @@
 	}, {
 		"title": "Tailor",
 		"category": "webserver",
-		"description": "A framework for building web apps using Apple's Swift programming language",
+		"description": "A framework for building web apps using Apple's Swift programming language.",
 		"homepage": "https://tailorframe.work"
 	}, {
 		"title": "Taylor",

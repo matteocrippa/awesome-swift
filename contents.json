@@ -1178,7 +1178,7 @@
 		"title": "MongoKitten",
 		"category": "mongodb",
 		"description": "Pure Swift MongoDB Connector",
-		"homepage": "https://github.com/PlanTeam/MongoKitten",
+		"homepage": "https://github.com/OpenKitten/MongoKitten",
 		"tags": ["linux"]
 	}, {
 		"title": "SwiftMongoDB",

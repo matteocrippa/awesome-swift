@@ -3552,6 +3552,11 @@
 		"category": "menu",
 		"description": "iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.",
 		"homepage": "https://github.com/dekatotoro/SlideMenuControllerSwift"
+	}, {
+		"title": "SBShortcutMenuSimulator",
+		"category": "Gesture",
+		"description": "Allow the iPhone Simulator to test 3D Touch",
+		"homepage": "https://github.com/DeskConnect/SBShortcutMenuSimulator"
 	}
 ]
 }

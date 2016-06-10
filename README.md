@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-619-orange.svg) | June 09, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-620-orange.svg) | June 10, 2016
 
 ### Contributing
 
@@ -698,7 +698,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [swifter](https://github.com/httpswift/swifter) :penguin: - Http server written in Swift with routing handler.
 * [Swifton](https://github.com/necolt/Swifton) :penguin: - A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X.
 * [SwiftyHTTP](https://github.com/AlwaysRightInstitute/SwiftyHTTP) - A simple GCD based HTTP client and server, written in 'pure' Swift.
-* [Tailor](https://tailorframe.work) - A framework for building web apps using Apple's Swift programming language
+* [Tailor](https://tailorframe.work) - A framework for building web apps using Apple's Swift programming language.
 * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift.
 * [Trevi](https://github.com/Yoseob/Trevi) - A powerful Swift Web Application Server Framework Project.
 * [Vapor](https://github.com/qutheory/vapor) :penguin: - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.

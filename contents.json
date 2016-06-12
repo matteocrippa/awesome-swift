@@ -3559,9 +3559,15 @@
 		"homepage": "https://github.com/dekatotoro/SlideMenuControllerSwift"
 	}, {
 		"title": "SBShortcutMenuSimulator",
-		"category": "Gesture",
+		"category": "gesture",
 		"description": "Allow the iPhone Simulator to test 3D Touch",
 		"homepage": "https://github.com/DeskConnect/SBShortcutMenuSimulator"
+	},
+	{
+		"title": "LeeGo",
+		"category": "ui",
+		"description": "Declarative, configurable & highly reusable UI development as making Lego bricks.",
+		"homepage": "https://github.com/wangshengjia/LeeGo"
 	}
 ]
 }

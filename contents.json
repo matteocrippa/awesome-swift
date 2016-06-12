@@ -373,6 +373,10 @@
 		"id": "label",
 		"parent": "ui"
 	}, {
+		"title": "Switch",
+		"id": "switch",
+		"parent": "ui"
+	}, {
 		"title": "Menu",
 		"id": "menu",
 		"parent": "ui"
@@ -2500,7 +2504,7 @@
 		"homepage": "https://github.com/tadija/AERecord"
 	}, {
 		"title": "AIFlatSwitch",
-		"category": "ui",
+		"category": "switch",
 		"description": "Flat animated switch.",
 		"homepage": "https://github.com/cocoatoucher/AIFlatSwitch"
 	}, {
@@ -2725,7 +2729,7 @@
 		"homepage": "https://github.com/yoavlt/LiquidLoader"
 	}, {
 		"title": "LTJelloSwitch",
-		"category": "ui",
+		"category": "switch",
 		"description": "UISwitch prototype.",
 		"homepage": "https://github.com/lexrus/LTJelloSwitch"
 	}, {
@@ -2850,7 +2854,7 @@
 		"homepage": "https://github.com/philackm/Scrollable-GraphView"
 	}, {
 		"title": "SevenSwitch",
-		"category": "ui",
+		"category": "switch",
 		"description": "iOS7 style drop in replacement for UISwitch.",
 		"homepage": "https://github.com/hyperoslo/SevenSwitch"
 	}, {

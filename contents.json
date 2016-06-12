@@ -2898,7 +2898,7 @@
 		"homepage": "https://github.com/jpotts18/SwiftValidator"
 	}, {
 		"title": "SwiftyDrop",
-		"category": "ui",
+		"category": "alert",
 		"description": "Lightweight dropdown message bar in Swift.",
 		"homepage": "https://github.com/morizotter/SwiftyDrop"
 	}, {
@@ -2949,6 +2949,7 @@
 	}, {
 		"title": "AlertKit",
 		"category": "alert",
+		"description": "Alert with a single line of Swift.",
 		"homepage": "https://github.com/thii/AlertKit"
 	}, {
 		"title": "EZAlertController",

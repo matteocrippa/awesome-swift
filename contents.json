@@ -2533,7 +2533,7 @@
 		"homepage": "https://github.com/ariok/BWWalkthrough"
 	}, {
 		"title": "CharacterText",
-		"category": "ui",
+		"category": "label",
 		"description": "Perform fx on UILabel.",
 		"homepage": "https://github.com/android1989/CharacterText"
 	}, {
@@ -2613,7 +2613,7 @@
 		"homepage": "https://github.com/skywinder/GaugeKit"
 	}, {
 		"title": "Gecco",
-		"category": "ui",
+		"category": "walkthrough",
 		"description": "Spotlight view for iOS",
 		"homepage": "https://github.com/yukiasai/Gecco"
 	}, {

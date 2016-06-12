@@ -104,8 +104,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Payment](#payment)
     - [Permissions](#permissions)
     - [StackView](#stackview)
+    - [Switch](#switch)
     - [Transition](#transition)
     - [UITableView](#uitableview)
+    - [Walkthrough](#walkthrough)
   - [Utility](#utility)
   - [Video](#video)
 
@@ -816,11 +818,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - Adaptive tab bar.
 * [AECoreDataUI](https://github.com/tadija/AERecord) - Core Data driven UI made in Swift.
-* [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch) - Flat animated switch.
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - A playable pull to refresh view using SpriteKit.
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects.
-* [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
 * [CharacterText](https://github.com/android1989/CharacterText) - Perform fx on UILabel.
 * [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 * [Dodo](https://github.com/marketplacer/Dodo) - A message bar for iOS written in Swift.
@@ -846,7 +846,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [HUDKit](https://github.com/cockscomb/HUDKit) - HUD interface as UIPresentationController.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - A nicely designed and super easy to use ImagePicker.
 * [ImagePickerSheetController](https://github.com/lbrndnr/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
-* [Instructions](https://github.com/ephread/Instructions) - A Swift library to create app walkthroughs and guided tours.
 * [JLToast](https://github.com/devxoul/JLToast) - Toast for Swift.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final Apple calendar you will ever try. Built for iOS in Swift.
 * [KCHorizontalDial](https://github.com/kciter/KCHorizontalDial) - A horizontal scroll dial like Instagram.
@@ -857,7 +856,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [KRProgressHUD](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
 * [LeeGo](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
-* [LTJelloSwitch](https://github.com/lexrus/LTJelloSwitch) - UISwitch prototype.
 * [MantleModal](https://github.com/canalesb93/MantleModal) - A simple modal resource that uses a UIScrollView to allow the user to close the modal by dragging it down.
 * [Material](https://github.com/CosmicMind/Material) - Express your creativity with Material, an animation and graphics framework for Google's Material Design and Apple's Flat UI in Swift.
 * [MaterialKit](https://github.com/nghialv/MaterialKit) - Material design components.
@@ -880,7 +878,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller.
 * [Sapporo](https://github.com/nghialv/Sapporo) - A cellmodel-driven CollectionView manager for Swift.
 * [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift. Originally written for a small personal project.
-* [SevenSwitch](https://github.com/hyperoslo/SevenSwitch) - iOS7 style drop in replacement for UISwitch.
 * [Siren](https://github.com/ArtSabintsev/Siren) - Inform users when App Store updates are available.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written in Swift.
 * [Sonar](https://github.com/thefuntasty/Sonar) - Cool radar-style view
@@ -888,8 +885,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [StarryStars](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 * [SwiftTheme](https://github.com/jiecao-fm/SwiftTheme) - Powerful theme/skin manager for iOS 7+, written in swift.
 * [SwiftValidator](https://github.com/jpotts18/SwiftValidator) - UIView validation framework.
-* [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) - Lightweight dropdown message bar in Swift.
-* [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps, powered by Swift.
 * [SYBlinkAnimationKit](https://github.com/shoheiyokoyama/SYBlinkAnimationKit) - A blink effect animation framework.
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
@@ -902,7 +897,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Alert
 *Libs to display alert, action sheet, notification, popup.* [back to top](#readme) 
 
-* [AlertKit](https://github.com/thii/AlertKit) - 
+* [AlertKit](https://github.com/thii/AlertKit) - Alert with a single line of Swift.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController.
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [GSAlert](https://github.com/wxxsw/GSAlert) - If you want to use UIAlertController, but still need to support iOS 7 this project is for you.
@@ -914,6 +909,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
+* [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) - Lightweight dropdown message bar in Swift.
 * [Whisper](https://github.com/hyperoslo/Whisper) - Messages and in-app notification made easy.
 * [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift 2.
 
@@ -988,6 +984,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [StackViewController](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
 * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 
+#### Switch
+[back to top](#readme) 
+
+* [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch) - Flat animated switch.
+* [LTJelloSwitch](https://github.com/lexrus/LTJelloSwitch) - UISwitch prototype.
+* [SevenSwitch](https://github.com/hyperoslo/SevenSwitch) - iOS7 style drop in replacement for UISwitch.
+
 #### Transition
 [back to top](#readme) 
 
@@ -1007,6 +1010,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Persei](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift.
 * [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 * [Shoyu](https://github.com/yukiasai/Shoyu) - Easier way to represent the structure of UITableView.
+
+#### Walkthrough
+[back to top](#readme) 
+
+* [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
+* [Instructions](https://github.com/ephread/Instructions) - A Swift library to create app walkthroughs and guided tours.
+* [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps, powered by Swift.
 
 ### Utility
 *Some interesting utilities to help you in your projects* [back to top](#readme) 

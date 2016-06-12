@@ -377,6 +377,10 @@
 		"id": "switch",
 		"parent": "ui"
 	}, {
+		"title": "Walkthrough",
+		"id": "walkthrough",
+		"parent": "ui"
+	}, {
 		"title": "Menu",
 		"id": "menu",
 		"parent": "ui"
@@ -2524,7 +2528,7 @@
 		"homepage": "https://github.com/gmertk/BusyNavigationBar"
 	}, {
 		"title": "BWWalkthrough",
-		"category": "ui",
+		"category": "walkthrough",
 		"description": "A class to build custom walkthroughs for your iOS App.",
 		"homepage": "https://github.com/ariok/BWWalkthrough"
 	}, {
@@ -2669,7 +2673,7 @@
 		"homepage": "https://github.com/lbrndnr/ImagePickerSheetController"
 	}, {
 		"title": "Instructions",
-		"category": "ui",
+		"category": "walkthrough",
 		"description": "A Swift library to create app walkthroughs and guided tours.",
 		"homepage": "https://github.com/ephread/Instructions"
 	}, {
@@ -2899,7 +2903,7 @@
 		"homepage": "https://github.com/morizotter/SwiftyDrop"
 	}, {
 		"title": "SwiftyWalkthrough",
-		"category": "ui",
+		"category": "walkthrough",
 		"description": "The easiest way to create a great walkthrough experience in your apps, powered by Swift.",
 		"homepage": "https://github.com/ruipfcosta/SwiftyWalkthrough"
 	}, {

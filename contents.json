@@ -3577,10 +3577,10 @@
 		"description": "Declarative, configurable & highly reusable UI development as making Lego bricks.",
 		"homepage": "https://github.com/wangshengjia/LeeGo"
 	}, {
-        "title": "VisualEffectView",
-        "category": "blur",
-        "description": "UIVisualEffectView subclass with tint color.",
-        "homepage": "https://github.com/efremidze/VisualEffectView"
-    }
+		"title": "VisualEffectView",
+		"category": "blur",
+		"description": "UIVisualEffectView subclass with tint color.",
+		"homepage": "https://github.com/efremidze/VisualEffectView"
+	}
 ]
 }

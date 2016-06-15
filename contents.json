@@ -1940,6 +1940,11 @@
 		"description": "HTTP for Humans (a python-requests style HTTP library in Swift).",
 		"homepage": "https://github.com/JustHTTP/Just"
 	}, {
+		"title": "Malibu",
+		"category": "network",
+		"description": "A networking library built on promises.",
+		"homepage": "https://github.com/hyperoslo/Malibu"
+	}, {
 		"title": "Moya",
 		"category": "network",
 		"description": "network abstraction layer.",

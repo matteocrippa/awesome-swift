@@ -2522,6 +2522,11 @@
 		"description": "A playable pull to refresh view using SpriteKit.",
 		"homepage": "https://github.com/dasdom/BreakOutToRefresh"
 	}, {
+		"title": "SurfingRefreshControl",
+		"category": "ui",
+		"description": "Customizable pull-to-refresh control.",
+		"homepage": "https://github.com/peiweichen/SurfingRefreshControl"
+	}, {
 		"title": "BusyNavigationBar",
 		"category": "ui",
 		"description": "A UINavigationBar extension to show loading effects.",

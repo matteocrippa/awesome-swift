@@ -770,6 +770,11 @@
 		"description": "A simple library to make authenticating tvOS apps easy via their iOS counterparts.",
 		"homepage": "https://github.com/rsattar/Voucher"
 	}, {
+		"title": "Cleanse",
+		"category": "api",
+		"description": "A Lightweight Swift Dependency Injection Framework by Square.",
+		"homepage": "https://github.com/square/Cleanse"
+	}, {
 		"title": "Dip",
 		"category": "api",
 		"description": "A simple Dependency Injection Container.",

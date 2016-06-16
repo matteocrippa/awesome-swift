@@ -357,6 +357,10 @@
 		"parent": "ui",
 		"description": "Libs to display alert, action sheet, notification, popup."
 	}, {
+		"title": "ApplicationDelegate",
+		"id": "applicationdelegate",
+		"parent": "ui"
+	}, {
 		"title": "Blur",
 		"id": "blur",
 		"parent": "ui"
@@ -3031,6 +3035,11 @@
 		"category": "alert",
 		"description": "Fully customizable and extensible action sheet controller written in Swift 2.",
 		"homepage": "https://github.com/xmartlabs/XLActionController"
+	}, {
+		"title": "SuperDelegate",
+		"category": "applicationdelegate",
+		"description": "SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.",
+		"homepage": "https://github.com/Square/SuperDelegate"
 	}, {
 		"title": "Blurable",
 		"category": "blur",

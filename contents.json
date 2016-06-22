@@ -3372,10 +3372,10 @@
 		"description": "Hookah is a functional library for Swift.",
 		"homepage": "https://github.com/HookahSwift/Hookah"
 	}, {
-		"title": "Lambdatron",
+		"title": "Cormorant",
 		"category": "utility",
 		"description": "Clojure(ish) interpreter in Swift.",
-		"homepage": "https://github.com/austinzheng/Lambdatron"
+		"homepage": "https://github.com/austinzheng/Cormorant"
 	}, {
 		"title": "LlamaKit",
 		"category": "utility",

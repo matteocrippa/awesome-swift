@@ -2915,7 +2915,13 @@
 		"category": "ui",
 		"description": "Powerful theme/skin manager for iOS 7+, written in swift.",
 		"homepage": "https://github.com/jiecao-fm/SwiftTheme"
-	}, {
+	}, 
+	{
+		"title": "DropDown",
+		"category": "ui",
+		"description": "A Material Design drop down for iOS written in Swift.",
+		"homepage": "https://github.com/AssistoLab/DropDown"
+	},{
 		"title": "SwiftValidator",
 		"category": "ui",
 		"description": "UIView validation framework.",

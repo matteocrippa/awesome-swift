@@ -648,6 +648,11 @@
 		"category": "ai",
 		"description": "An artificial intelligence and machine learning library in Swift.",
 		"homepage": "https://github.com/collinhundley/Swift-AI"
+	},{
+		"title": "Stellar",
+		"category": "animation",
+		"description": "A Physical animation library for swift.",
+		"homepage": "https://github.com/AugustRush/Stellar"
 	}, {
 		"title": "Advance",
 		"category": "animation",

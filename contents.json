@@ -3292,6 +3292,11 @@
 		"description": "The Benchmark module provides methods to measure and report the time used to execute Swift code.",
 		"homepage": "https://github.com/WorldDownTown/Benchmark"
 	}, {
+		"title": "PinpointKit",
+		"category": "utility",
+		"description": "An open-source iOS library in Swift that lets your testers and users send feedback with annotated screenshots and logs using a simple gesture.",
+		"homepage": "https://github.com/Lickability/PinpointKit"
+	}, {
 		"title": "Butterfly",
 		"category": "utility",
 		"description": "A lightweight library for integrating bug-report and feedback features with shake-motion event.",

@@ -3621,6 +3621,11 @@
 		"category": "blur",
 		"description": "UIVisualEffectView subclass with tint color.",
 		"homepage": "https://github.com/efremidze/VisualEffectView"
+	}, {
+		"title": "SwiftLinkPreview",
+		"category": "utility",
+		"description": "It makes a preview from an url, grabbing all information such as title, relevant texts and images.",
+		"homepage": "https://github.com/LeonardoCardoso/Swift-Link-Preview"
 	}
 ]
 }

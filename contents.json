@@ -1903,6 +1903,11 @@
 		"description": "Plots made easy.",
 		"homepage": "https://github.com/aleph7/PlotKit"
 	}, {
+		"title": "SigmaSwiftStatistics",
+		"category": "math",
+		"description": "A collection of functions for statistical calculation.",
+		"homepage": "https://github.com/evgenyneu/SigmaSwiftStatistics"
+	}, {
 		"title": "swix",
 		"category": "math",
 		"description": "A general matrix language.",

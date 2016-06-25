@@ -3016,6 +3016,11 @@
 		"category": "alert",
 		"description": "Simple UIAlertController builder class in Swift.",
 		"homepage": "https://github.com/tasanobu/Kamagari"
+	},{
+		"title": "KRAlertController",
+		"category": "alert",
+		"description": "A beautiful alert controller for your iOS.",
+		"homepage": "https://github.com/krimpedance/KRAlertController"
 	}, {
 		"title": "Notie",
 		"category": "alert",

@@ -2920,7 +2920,7 @@
 		"category": "ui",
 		"description": "Powerful theme/skin manager for iOS 7+, written in swift.",
 		"homepage": "https://github.com/jiecao-fm/SwiftTheme"
-	}, 
+	},
 	{
 		"title": "DropDown",
 		"category": "ui",
@@ -3631,6 +3631,16 @@
 		"category": "utility",
 		"description": "It makes a preview from an url, grabbing all information such as title, relevant texts and images.",
 		"homepage": "https://github.com/LeonardoCardoso/Swift-Link-Preview"
+	}, {
+		"title": "InfoView",
+		"category": "ui",
+		"description": "Swift based simple information view with pointed arrow.",
+		"homepage": "https://github.com/anatoliyv/InfoView"
+	}, {
+		"title": "IconLabel",
+		"category": "label",
+		"description": "UILabel with image placed from left or right.",
+		"homepage": "https://github.com/anatoliyv/IconLabel"
 	}
 ]
 }

@@ -3630,7 +3630,7 @@
 		"title": "SwiftLinkPreview",
 		"category": "utility",
 		"description": "It makes a preview from an url, grabbing all information such as title, relevant texts and images.",
-		"homepage": "https://github.com/LeonardoCardoso/Swift-Link-Preview"
+		"homepage": "https://github.com/LeonardoCardoso/SwiftLinkPreview"
 	}, {
 		"title": "InfoView",
 		"category": "ui",

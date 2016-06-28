@@ -1607,6 +1607,11 @@
 		"description": "A script to support using Xcode Asset Catalog in Swift.",
 		"homepage": "https://github.com/tasanobu/Misen"
 	}, {
+		"title": "Moa",
+		"category": "images",
+		"description": "An image download extension of the image view for iOS, tvOS and macOS.",
+		"homepage": "https://github.com/evgenyneu/moa"
+	}, {
 		"title": "Nuke",
 		"category": "images",
 		"description": "Advanced pure Swift framework for loading, caching, processing, displaying and preheating images.",

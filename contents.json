@@ -2249,7 +2249,7 @@
 	}, {
 		"title": "Swimat",
 		"category": "quality",
-		"description": "XCode plugin to format Swift code.",
+		"description": "Xcode plugin to format Swift code.",
 		"homepage": "https://github.com/Jintin/Swimat"
 	}, {
 		"title": "Tailor",

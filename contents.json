@@ -1857,7 +1857,7 @@
 		"description": "a logging utility for Swift.",
 		"homepage": "https://github.com/hubertr/Swell"
 	}, {
-		"title": "SwiftBeaver",
+		"title": "SwiftyBeaver",
 		"category": "logging",
 		"description": "Colorful, lightweight & fast logging in Swift 2.",
 		"homepage": "https://github.com/SwiftyBeaver/SwiftyBeaver",

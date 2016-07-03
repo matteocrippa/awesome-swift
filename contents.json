@@ -3372,6 +3372,12 @@
 		"description": ":smirk: How Swift standard types and classes were supposed to work.",
 		"homepage": "https://github.com/goktugyil/EZSwiftExtensions"
 	}, {
+		"title": "Fischer",
+		"category": "utility",
+		"description": "A cross-platform chess library for Swift.",
+		"homepage": "https://github.com/nvzqz/Fischer",
+		"tags": ["linux"]
+	}, {
 		"title": "Focus",
 		"category": "utility",
 		"description": "an Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.",

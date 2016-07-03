@@ -1506,10 +1506,10 @@
 		"description": "Fontawesome, Iconic, Ionicons, Octicon porting for Swift.",
 		"homepage": "https://github.com/0x73/SwiftIconFont"
 	}, {
-		"title": "Fischer",
+		"title": "Sage",
 		"category": "games",
 		"description": "A cross-platform chess library for Swift.",
-		"homepage": "https://github.com/nvzqz/Fischer",
+		"homepage": "https://github.com/nvzqz/Sage",
 		"tags": ["linux"]
 	}, {
 		"title": "DBPathRecognizer",

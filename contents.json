@@ -210,6 +210,10 @@
 		"parent": "libs",
 		"description": "A collection of font related snippets."
 	}, {
+		"title": "Games",
+		"id": "games",
+		"parent": "libs"
+	}, {
 		"title": "Gesture",
 		"id": "gesture",
 		"parent": "libs"
@@ -1501,6 +1505,12 @@
 		"category": "fonts",
 		"description": "Fontawesome, Iconic, Ionicons, Octicon porting for Swift.",
 		"homepage": "https://github.com/0x73/SwiftIconFont"
+	}, {
+		"title": "Fischer",
+		"category": "games",
+		"description": "A cross-platform chess library for Swift.",
+		"homepage": "https://github.com/nvzqz/Fischer",
+		"tags": ["linux"]
 	}, {
 		"title": "DBPathRecognizer",
 		"category": "gesture",
@@ -3371,12 +3381,6 @@
 		"category": "utility",
 		"description": ":smirk: How Swift standard types and classes were supposed to work.",
 		"homepage": "https://github.com/goktugyil/EZSwiftExtensions"
-	}, {
-		"title": "Fischer",
-		"category": "utility",
-		"description": "A cross-platform chess library for Swift.",
-		"homepage": "https://github.com/nvzqz/Fischer",
-		"tags": ["linux"]
 	}, {
 		"title": "Focus",
 		"category": "utility",

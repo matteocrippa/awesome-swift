@@ -64,6 +64,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Peripherals](#peripherals)
   - [Events](#events)
   - [Fonts](#fonts)
+  - [Games](#games)
   - [Gesture](#gesture)
   - [iBeacon](#ibeacon)
   - [Images](#images)
@@ -500,6 +501,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftFontName](https://github.com/morizotter/SwiftFontName) - OS font complements library. Localized font supported.
 * [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in Swift.
 * [SwiftIconFont](https://github.com/0x73/SwiftIconFont) - Fontawesome, Iconic, Ionicons, Octicon porting for Swift.
+
+### Games
+[back to top](#readme) 
+
+* [Sage](https://github.com/nvzqz/Sage) :penguin: - A cross-platform chess library for Swift.
 
 ### Gesture
 [back to top](#readme) 
@@ -1057,7 +1063,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [EVURLCache](https://github.com/evermeer/EVURLCache) - if you want to make your app still works when it's offline.
 * [ExSwift](https://github.com/pNre/ExSwift) - a set of Swift extensions for standard types and classes.
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
-* [Fischer](https://github.com/nvzqz/Fischer) :penguin: - A cross-platform chess library for Swift.
 * [Focus](https://github.com/typelift/Focus) - an Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
 * [Honour](https://github.com/jeanpimentel/Honour) - Simple and powerful Validation Library.
 * [Hookah](https://github.com/HookahSwift/Hookah) - Hookah is a functional library for Swift.

@@ -523,6 +523,11 @@
 		"description": "A well explained list of feature in flux for Swift.",
 		"homepage": "https://github.com/ksm/SwiftInFlux"
 	}, {
+		"title": "SwiftIntro",
+		"category": "third-party-guides",
+		"description": "**Memory game** in Swift fetching images from any Instagram account. Lists **tasks** for you to do in order to learn Swift - at three difficulty levels.",
+		"homepage": "https://github.com/Sajjon/SwiftIntro"
+	}, {
 		"title": "Swifty",
 		"category": "third-party-guides",
 		"description": "App to learn to code in Swift.",

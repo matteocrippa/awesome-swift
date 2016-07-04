@@ -210,6 +210,10 @@
 		"parent": "libs",
 		"description": "A collection of font related snippets."
 	}, {
+		"title": "Games",
+		"id": "games",
+		"parent": "libs"
+	}, {
 		"title": "Gesture",
 		"id": "gesture",
 		"parent": "libs"
@@ -1502,6 +1506,12 @@
 		"description": "Fontawesome, Iconic, Ionicons, Octicon porting for Swift.",
 		"homepage": "https://github.com/0x73/SwiftIconFont"
 	}, {
+		"title": "Sage",
+		"category": "games",
+		"description": "A cross-platform chess library for Swift.",
+		"homepage": "https://github.com/nvzqz/Sage",
+		"tags": ["linux"]
+	}, {
 		"title": "DBPathRecognizer",
 		"category": "gesture",
 		"description": "db path recognizer for letters.",
@@ -1606,6 +1616,11 @@
 		"category": "images",
 		"description": "A script to support using Xcode Asset Catalog in Swift.",
 		"homepage": "https://github.com/tasanobu/Misen"
+	}, {
+		"title": "Moa",
+		"category": "images",
+		"description": "An image download extension of the image view for iOS, tvOS and macOS.",
+		"homepage": "https://github.com/evgenyneu/moa"
 	}, {
 		"title": "Nuke",
 		"category": "images",
@@ -1852,7 +1867,7 @@
 		"description": "a logging utility for Swift.",
 		"homepage": "https://github.com/hubertr/Swell"
 	}, {
-		"title": "SwiftBeaver",
+		"title": "SwiftyBeaver",
 		"category": "logging",
 		"description": "Colorful, lightweight & fast logging in Swift 2.",
 		"homepage": "https://github.com/SwiftyBeaver/SwiftyBeaver",
@@ -2244,7 +2259,7 @@
 	}, {
 		"title": "Swimat",
 		"category": "quality",
-		"description": "XCode plugin to format Swift code.",
+		"description": "Xcode plugin to format Swift code.",
 		"homepage": "https://github.com/Jintin/Swimat"
 	}, {
 		"title": "Tailor",
@@ -2920,7 +2935,7 @@
 		"category": "ui",
 		"description": "Powerful theme/skin manager for iOS 7+, written in swift.",
 		"homepage": "https://github.com/jiecao-fm/SwiftTheme"
-	}, 
+	},
 	{
 		"title": "DropDown",
 		"category": "ui",
@@ -2981,6 +2996,11 @@
 		"category": "ui",
 		"description": "Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.",
 		"homepage": "https://github.com/szk-atmosphere/URLEmbeddedView"
+	}, {
+		"title": "UITextField-Navigation",
+		"category": "ui",
+		"description": "UITextField-Navigation adds next, previous and done buttons to the keyboard for your UITextFields. Highly customizable!",
+		"homepage": "https://github.com/T-Pham/UITextField-Navigation"
 	}, {
 		"title": "AlertKit",
 		"category": "alert",
@@ -3635,7 +3655,17 @@
 		"title": "SwiftLinkPreview",
 		"category": "utility",
 		"description": "It makes a preview from an url, grabbing all information such as title, relevant texts and images.",
-		"homepage": "https://github.com/LeonardoCardoso/Swift-Link-Preview"
+		"homepage": "https://github.com/LeonardoCardoso/SwiftLinkPreview"
+	}, {
+		"title": "InfoView",
+		"category": "ui",
+		"description": "Swift based simple information view with pointed arrow.",
+		"homepage": "https://github.com/anatoliyv/InfoView"
+	}, {
+		"title": "IconLabel",
+		"category": "label",
+		"description": "UILabel with image placed from left or right.",
+		"homepage": "https://github.com/anatoliyv/IconLabel"
 	}
 ]
 }

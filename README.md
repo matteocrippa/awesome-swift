@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-632-orange.svg) | June 24, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-637-orange.svg) | July 03, 2016
 
 ### Contributing
 
@@ -64,6 +64,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Peripherals](#peripherals)
   - [Events](#events)
   - [Fonts](#fonts)
+  - [Games](#games)
   - [Gesture](#gesture)
   - [iBeacon](#ibeacon)
   - [Images](#images)
@@ -501,6 +502,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftFonts](https://github.com/roadfire/SwiftFonts) - render all the supported fonts in Swift.
 * [SwiftIconFont](https://github.com/0x73/SwiftIconFont) - Fontawesome, Iconic, Ionicons, Octicon porting for Swift.
 
+### Games
+[back to top](#readme) 
+
+* [Sage](https://github.com/nvzqz/Sage) :penguin: - A cross-platform chess library for Swift.
+
 ### Gesture
 [back to top](#readme) 
 
@@ -534,6 +540,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - a lib for image download and caching.
 * [MapleBacon](https://github.com/zalando/MapleBacon) - Swift image download and caching library.
 * [Misen](https://github.com/tasanobu/Misen) - A script to support using Xcode Asset Catalog in Swift.
+* [Moa](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
 * [Nuke](https://github.com/kean/Nuke) - Advanced pure Swift framework for loading, caching, processing, displaying and preheating images.
 * [PASImageView](https://github.com/abiaad/PASImageView) - async remote download your image and round them. automatically.
 * [PassportScanner](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
@@ -616,7 +623,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs.
 * [Rainbow](https://github.com/onevcat/Rainbow) :penguin: - Delightful console output for Swift developers.
 * [Swell](https://github.com/hubertr/Swell) - a logging utility for Swift.
-* [SwiftBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) :penguin: - Colorful, lightweight & fast logging in Swift 2.
+* [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) :penguin: - Colorful, lightweight & fast logging in Swift 2.
 * [Watchdog](https://github.com/wojteklu/Watchdog) - A Swift utility for logging excessive blocking on the main thread.
 * [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
@@ -724,7 +731,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [SwiftFormat](https://github.com/haaakon/SwiftFormat) - Auto formatting Swift code, similar to Clang format.
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift coding conventions for your Swift code.
-* [Swimat](https://github.com/Jintin/Swimat) - XCode plugin to format Swift code.
+* [Swimat](https://github.com/Jintin/Swimat) - Xcode plugin to format Swift code.
 * [Tailor](https://github.com/sleekbyte/tailor) :penguin: - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
 
 ### Security
@@ -850,6 +857,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [HUDKit](https://github.com/cockscomb/HUDKit) - HUD interface as UIPresentationController.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - A nicely designed and super easy to use ImagePicker.
 * [ImagePickerSheetController](https://github.com/lbrndnr/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
+* [InfoView](https://github.com/anatoliyv/InfoView) - Swift based simple information view with pointed arrow.
 * [JLToast](https://github.com/devxoul/JLToast) - Toast for Swift.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final Apple calendar you will ever try. Built for iOS in Swift.
 * [KCHorizontalDial](https://github.com/kciter/KCHorizontalDial) - A horizontal scroll dial like Instagram.
@@ -897,6 +905,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Several ready to use effects for UITextFields
 * [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library in Swift. A single line of code and visualize your touches.
 * [Twinkle](https://github.com/piemonte/Twinkle) - a Swift and easy way to make elements in your iOS app twinkle.
+* [UITextField-Navigation](https://github.com/T-Pham/UITextField-Navigation) - UITextField-Navigation adds next, previous and done buttons to the keyboard for your UITextFields. Highly customizable!
 * [URLEmbeddedView](https://github.com/szk-atmosphere/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 
 #### Alert
@@ -959,6 +968,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.
 * [GlitchLabel](https://github.com/kciter/GlitchLabel) - Glitching UILabel for iOS.
+* [IconLabel](https://github.com/anatoliyv/IconLabel) - UILabel with image placed from left or right.
 * [IncrementableLabel](https://github.com/recisio/IncrementableLabel) - An UILabel subclass to (de)increment numbers in an UILabel
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
@@ -1083,7 +1093,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Swift Sugar](https://github.com/RuiAAPeres/Swift-Sugar) - objsugar ported to Swift.
 * [SwiftBitmask](https://github.com/brynbellomy/SwiftBitmask) - `Bitmask<T>` type intended as a replacement for `RawOptionSet`.
 * [SwiftGen-Storyboard](https://github.com/AliSoftware/SwiftGen#uistoryboard) - A tool to auto-generate Swift `enums` for all your Storyboards, Scenes and Segues constants + appropriate convenience accessors.
-* [SwiftLinkPreview](https://github.com/LeonardoCardoso/Swift-Link-Preview) - It makes a preview from an url, grabbing all information such as title, relevant texts and images.
+* [SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all information such as title, relevant texts and images.
 * [SwiftMemCache](https://github.com/ctews/SwiftMemCache) - Swift Memory Cache with namespace & TTL support.
 * [SwiftRandom](https://github.com/thellimist/SwiftRandom) - A tiny generator of random data for swift.
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS written in Swift 2.0

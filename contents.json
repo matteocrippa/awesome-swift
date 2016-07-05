@@ -853,6 +853,11 @@
 		"description": "Instagram-like photo browser and a camera feature.",
 		"homepage": "https://github.com/ytakzk/Fusuma"
 	}, {
+		"title": "BarcodeScanner",
+		"category": "camera",
+		"description": "A simple and beautiful barcode scanner view controller.",
+		"homepage": "https://github.com/hyperoslo/BarcodeScanner"
+	}, {
 		"title": "Chatto",
 		"category": "chat",
 		"description": "A lightweight framework to build chat applications, made in Swift.",

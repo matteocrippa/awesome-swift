@@ -683,6 +683,11 @@
 		"description": "A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level.",
 		"homepage": "https://github.com/icanzilb/EasyAnimation"
 	}, {
+		"title": "FlightAnimator",
+		"category": "animation",
+		"description": "Natural Blocks Based Core Animation Framework in Swift",
+		"homepage": "https://github.com/AntonTheDev/FlightAnimator"
+	}, {
 		"title": "IBAnimatable",
 		"category": "animation",
 		"description": "Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.",

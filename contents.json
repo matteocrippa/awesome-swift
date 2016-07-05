@@ -2360,6 +2360,11 @@
 		"description": "Test Library for Swift's Error Handling.",
 		"homepage": "https://github.com/mrackwitz/CatchingFire"
 	}, {
+		"title": "Cuckoo",
+		"category": "testing",
+		"description": "First boilerplate-free mocking framework for Swift",
+		"homepage": "https://github.com/SwiftKit/Cuckoo"
+	}, {
 		"title": "DVR",
 		"category": "testing",
 		"description": "A simple network testing framework for Swift.",

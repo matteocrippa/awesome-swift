@@ -855,7 +855,7 @@
 	}, {
 		"title": "BarcodeScanner",
 		"category": "camera",
-		"description": "A simple and beautiful barcode scanner.",
+		"description": "A simple and beautiful barcode scanner view controller.",
 		"homepage": "https://github.com/hyperoslo/BarcodeScanner"
 	}, {
 		"title": "Chatto",

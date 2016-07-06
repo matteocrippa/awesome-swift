@@ -1,5 +1,7 @@
 # Contribution Guidelines
 
+In order to contribute to this repository you need to **fork** it, then you can create a pull request.
+
 The README is generated from **contents.json**, please update the JSON file instead of the README :smile:
 
 - **To add to the list:** Submit a pull request

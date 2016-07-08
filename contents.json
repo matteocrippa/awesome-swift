@@ -185,6 +185,11 @@
 		"parent": "libs",
 		"description": "Handle data formatting easily."
 	}, {
+		"title": "Dependency Injection",
+		"id": "dependency-injection",
+		"parent": "libs",
+		"description": "Use dependency injection to reduce coupling and increase flexibility in your apps."
+	}, {
 		"title": "Documentation",
 		"id": "documentation",
 		"parent": "libs",
@@ -1357,6 +1362,11 @@
 		"category": "date",
 		"description": "Intuitive NSDate extensions in Swift.",
 		"homepage": "https://github.com/naoty/Timepiece"
+	}, {
+		"title": "Dip",
+		"category": "dependency-injection",
+		"description": "Dip is a simple Dependency Injection Container.",
+		"homepage": "https://github.com/AliSoftware/Dip"
 	}, {
 		"title": "jazzy",
 		"category": "documentation",

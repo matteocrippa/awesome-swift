@@ -588,10 +588,10 @@
 		"description": "A collaborative list of open-source iOS Apps.",
 		"homepage": "https://github.com/dkhamsing/open-source-ios-apps"
 	}, {
-		"title": "awesome-osx",
+		"title": "awesome-macOS",
 		"category": "demo-apps",
-		"description": "A curated list of awesome applications, softwares, tools and shiny things for OS X.",
-		"homepage": "https://github.com/iCHAIT/awesome-osx"
+		"description": "A curated list of awesome applications, softwares, tools and shiny things for macOS.",
+		"homepage": "https://github.com/iCHAIT/awesome-macOS"
 	}, {
 		"title": "Carthage",
 		"category": "dependency-managers",

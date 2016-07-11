@@ -798,12 +798,12 @@
 		"homepage": "https://github.com/rsattar/Voucher"
 	}, {
 		"title": "Cleanse",
-		"category": "api",
+		"category": "dependency-injection",
 		"description": "A Lightweight Swift Dependency Injection Framework by Square.",
 		"homepage": "https://github.com/square/Cleanse"
 	}, {
 		"title": "Dip",
-		"category": "api",
+		"category": "dependency-injection",
 		"description": "A simple Dependency Injection Container.",
 		"homepage": "https://github.com/AliSoftware/Dip"
 	}, {
@@ -838,12 +838,12 @@
 		"homepage": "https://github.com/mattdonnelly/Swifter"
 	}, {
 		"title": "Swinject",
-		"category": "api",
+		"category": "dependency-injection",
 		"description": "A dependency injection framework for Swift.",
 		"homepage": "https://github.com/Swinject/Swinject"
 	}, {
 		"title": "Typhoon",
-		"category": "api",
+		"category": "dependency-injection",
 		"description": "Dependency injection toolkit in Swift.",
 		"homepage": "https://github.com/appsquickly/Typhoon"
 	}, {

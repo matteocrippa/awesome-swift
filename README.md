@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-642-orange.svg) | July 06, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-642-orange.svg) | July 11, 2016
 
 ### Contributing
 
@@ -59,6 +59,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [XML](#xml)
     - [ZIP](#zip)
   - [Date](#date)
+  - [Dependency Injection](#dependency-injection)
   - [Documentation](#documentation)
   - [Embedded Systems](#embedded-systems)
     - [Peripherals](#peripherals)
@@ -176,7 +177,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## Demo Apps
 *Check out apps on these projects:* 
-* [awesome-osx](https://github.com/iCHAIT/awesome-osx) - A curated list of awesome applications, softwares, tools and shiny things for OS X.
+* [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ## Dependency Managers
@@ -229,16 +230,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### API
 *Quick libs to get access to third party API services* [back to top](#readme) 
 
-* [Cleanse](https://github.com/square/Cleanse) - A Lightweight Swift Dependency Injection Framework by Square.
-* [Dip](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 * [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Federal-Data-SDK) - Eases access to multiple federal government OpenGov APIs.
 * [GithubPilot](https://github.com/jindulys/GithubPilot) - Github API V3 wrapper.
 * [GooglePlacesAutocomplete](https://github.com/watsonbox/ios_google_places_autocomplete) - Simple Google Places address entry for iOS.
 * [PXGoogleDirections](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
 * [reddift](https://github.com/sonsongithub/reddift) - reddit API wrapper.
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Swifter Twitter framework for Swift.
-* [Swinject](https://github.com/Swinject/Swinject) - A dependency injection framework for Swift.
-* [Typhoon](https://github.com/appsquickly/Typhoon) - Dependency injection toolkit in Swift.
 
 ### App Routing
 *Internal app routing systems.* [back to top](#readme) 
@@ -452,6 +449,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer
 * [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions in Swift.
+
+### Dependency Injection
+*Dependency injection libs* [back to top](#readme) 
+
+* [Cleanse](https://github.com/square/Cleanse) - A Lightweight Swift Dependency Injection Framework by Square.
+* [Dip](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
+* [Swinject](https://github.com/Swinject/Swinject) - A dependency injection framework for Swift.
+* [Typhoon](https://github.com/appsquickly/Typhoon) - Dependency injection toolkit in Swift.
 
 ### Documentation
 *Generate documentation for Swift code* [back to top](#readme) 

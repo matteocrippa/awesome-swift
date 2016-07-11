@@ -185,6 +185,10 @@
 		"parent": "libs",
 		"description": "Handle data formatting easily."
 	}, {
+		"title": "Dependency Injection",
+		"id": "dependency-injection",
+		"parent": "libs",
+	}, {
 		"title": "Documentation",
 		"id": "documentation",
 		"parent": "libs",

@@ -188,6 +188,7 @@
 		"title": "Dependency Injection",
 		"id": "dependency-injection",
 		"parent": "libs",
+		"description": "Dependency injection libs"
 	}, {
 		"title": "Documentation",
 		"id": "documentation",

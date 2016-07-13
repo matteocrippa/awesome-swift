@@ -3526,6 +3526,11 @@
 		"description": "Create a simple PDF effortlessly.",
 		"homepage": "https://github.com/nRewik/SimplePDF"
 	}, {
+		"title": "Solar",
+		"category": "utility",
+		"description": "Calculate sunrise and sunset times given a location.",
+		"homepage": "https://github.com/ceeK/Solar"
+	}, {
 		"title": "SpecificationPattern",
 		"category": "utility",
 		"description": "chainable rules useful for form validation.",

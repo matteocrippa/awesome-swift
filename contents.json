@@ -423,6 +423,10 @@
 		"parent": "libs",
 		"description": "Some interesting utilities to help you in your projects"
 	}, {
+		"title": "Version Manager",
+		"id": "version-manager",
+		"parent": "libs"
+	, {
 		"title": "Video",
 		"id": "video",
 		"parent": "libs"
@@ -2937,7 +2941,7 @@
 		"homepage": "https://github.com/hyperoslo/SevenSwitch"
 	}, {
 		"title": "Siren",
-		"category": "ui",
+		"category": "version-manager",
 		"description": "Inform users when App Store updates are available.",
 		"homepage": "https://github.com/ArtSabintsev/Siren"
 	}, {
@@ -3691,6 +3695,32 @@
 		"category": "label",
 		"description": "UILabel with image placed from left or right.",
 		"homepage": "https://github.com/anatoliyv/IconLabel"
+	}, {
+		"title": "Version Update",
+		"category": "version-manager",
+		"description": "Check and update app's version for both AppStore & Fir.",
+		"homepage": "https://github.com/tenric/VersionUpdate"
+	}, {
+		"title": "Version",
+		"category": "version-manager",
+		"description": "Version represents and compares semantic versions in Swift.",
+		"homepage": "https://github.com/mrackwitz/Version"
+	}, {
+		"title": "AppVersionMonitor",
+		"category": "version-manager",
+		"description": "Monitor iOS app version easily.",
+		"homepage": "https://github.com/eure/AppVersionMonitor"
+	}, {
+		"title": "Versions",
+		"category": "version-manager",
+		"description": "Helping you find inner peace when comparing version numbers in Swift.",
+		"homepage": "https://github.com/zenangst/Versions"
+	}, {
+		"title": "Version Tracker Swift",
+		"category": "version-manager",
+		"description": "Versions tracker for your iOS, OS X, and tvOS app.",
+		"homepage": "https://github.com/tbaranes/VersionTrackerSwift"
 	}
+	
 ]
 }

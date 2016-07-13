@@ -3326,11 +3326,6 @@
 		"description": "A large set of convenience extensions for UIKit and Foundation.",
 		"homepage": "https://github.com/ovenbits/Alexandria"
 	}, {
-		"title": "AppVersionMonitor",
-		"category": "utility",
-		"description": "Monitor iOS app version easily.",
-		"homepage": "https://github.com/eure/AppVersionMonitor"
-	}, {
 		"title": "ArrayDiff",
 		"category": "utility",
 		"description": "a fast, UITableView/UICollectionView-compatible array diffing microframework.",
@@ -3635,16 +3630,6 @@
 		"category": "utility",
 		"description": "an UTI (Uniform Type Identifier) wrapper for Swift.",
 		"homepage": "https://github.com/cockscomb/UTIKit"
-	}, {
-		"title": "Versions",
-		"category": "utility",
-		"description": "Helping you find inner peace when comparing version numbers in Swift.",
-		"homepage": "https://github.com/zenangst/Versions"
-	}, {
-		"title": "VersionTrackerSwift",
-		"category": "utility",
-		"description": "Track which versions of your app a user has previously installed. Available for iOS, OS X and tvOS.",
-		"homepage": "https://github.com/tbaranes/VersionTrackerSwift"
 	}, {
 		"title": "MobilePlayer",
 		"category": "video",

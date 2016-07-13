@@ -426,7 +426,7 @@
 		"title": "Version Manager",
 		"id": "version-manager",
 		"parent": "libs"
-	, {
+	}, {
 		"title": "Video",
 		"id": "video",
 		"parent": "libs"

@@ -23,7 +23,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Style Guides](#style-guides)
   - [Third party Guides](#third-party-guides)
 - [Boilerplates](#boilerplates)
-- [Cache](#cache)
 - [Editor Support](#editor-support)
   - [Emacs](#emacs)
   - [Vim](#vim)
@@ -40,6 +39,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Audio](#audio)
   - [Authentication](#authentication)
   - [Bluetooth](#bluetooth)
+  - [Cache](#cache)
   - [Camera](#camera)
   - [Chat](#chat)
   - [Colors](#colors)
@@ -103,6 +103,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Blur](#blur)
     - [Button](#button)
     - [Form](#form)
+    - [HUD](#hud)
     - [Label](#label)
     - [Menu](#menu)
     - [Payment](#payment)
@@ -161,13 +162,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Swift Off](https://github.com/goprimer/swift-off) - Swift starting point includes Firebase, Crashing Reporting, Signup & more.
 * [Webview Boilerplate](https://github.com/nabilfreeman/ios-universal-webview-boilerplate) - Swift starting point for webview app.
-
-## Cache
-
-* [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your Swift project.
-* [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache.
-* [EVURLCache](https://github.com/evermeer/EVURLCache) - if you want to make your app still works when it's offline.
-* [SwiftMemCache](https://github.com/ctews/SwiftMemCache) - Swift Memory Cache with namespace & TTL support.
 
 ## Editor Support
 *Support for your favorite editors.* 
@@ -280,6 +274,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [BlueCap](https://github.com/troystribling/BlueCap) - BlueCap provides a swift wrapper around CoreBluetooth and much more.
 * [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
+
+### Cache
+[back to top](#readme) 
+
+* [AwesomeCache](https://github.com/aschuch/AwesomeCache) - manage cache easy in your Swift project.
+* [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache.
+* [EVURLCache](https://github.com/evermeer/EVURLCache) - if you want to make your app still works when it's offline.
+* [SwiftMemCache](https://github.com/ctews/SwiftMemCache) - Swift Memory Cache with namespace & TTL support.
 
 ### Camera
 *Awesome camera libs* [back to top](#readme) 
@@ -858,7 +860,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [DropDown](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS written in Swift.
 * [EPShapes](https://github.com/ipraba/EPShapes) - Create shapes(Polygons, Stars, Hearts, Arrows) in Interface builder.
 * [EstMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) - Music play indicator like iTunes
-* [EZLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD.
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController) - :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages.
 * [Fashion](https://github.com/vadymmarkov/Fashion) - Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way.
 * [Few.swift](https://github.com/joshaber/Few.swift) - Views as functions of their state.
@@ -873,7 +874,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A new way to display content in your app like the Apple Watch SpringBoard.
 * [HoneycombView](https://github.com/suzuki-0000/HoneycombView) - HoneycombView is the iOS UIView for displaying like Honyecomb layout written by swift.
 * [HTYTextField](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder in Swift.
-* [HUDKit](https://github.com/cockscomb/HUDKit) - HUD interface as UIPresentationController.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - A nicely designed and super easy to use ImagePicker.
 * [ImagePickerSheetController](https://github.com/lbrndnr/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
 * [InfoView](https://github.com/anatoliyv/InfoView) - Swift based simple information view with pointed arrow.
@@ -884,7 +884,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) - A UINavigationController subclass that support pop interactive UINavigationBar with hidden or show.
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations. And you don't need to write any line of code for it, it all happens automatically.
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
-* [KRProgressHUD](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
 * [LeeGo](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [MantleModal](https://github.com/canalesb93/MantleModal) - A simple modal resource that uses a UIScrollView to allow the user to close the modal by dragging it down.
@@ -900,7 +899,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Otafuku](https://github.com/tasanobu/Otafuku) - Some utility classes to use WKWebView in Swift.
 * [PageController](https://github.com/hirohisa/PageController) - Infinite paging controller.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Panoramic facebook story clone.
-* [PKHUD](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation.
 * [PPSwiftGifs](https://github.com/peterprokop/PPSwiftGifs) - a convenient way to show animated GIF images as a part of iOS GUI.
 * [Reel search](https://github.com/Ramotion/reel-search) - Option list managed as a reel.
@@ -977,6 +975,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Former](https://github.com/ra1028/Former) - A fully customizable Swift 2 library for easy creating UITableView based form.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - form are now easy as 1.2.3!
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - Forms that can be validated.
+
+#### HUD
+[back to top](#readme) 
+
+* [EZLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD.
+* [HUDKit](https://github.com/cockscomb/HUDKit) - HUD interface as UIPresentationController.
+* [KRProgressHUD](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
+* [PKHUD](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 
 #### Label
 [back to top](#readme) 

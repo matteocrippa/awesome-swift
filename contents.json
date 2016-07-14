@@ -398,6 +398,10 @@
 		"id": "walkthrough",
 		"parent": "ui"
 	}, {
+		"title": "HUD",
+		"id": "hud",
+		"parent": "ui"
+	}, {
 		"title": "Menu",
 		"id": "menu",
 		"parent": "ui"
@@ -2650,7 +2654,7 @@
 		"homepage": "https://github.com/Aufree/ESTMusicIndicator"
 	}, {
 		"title": "EZLoadingActivity",
-		"category": "ui",
+		"category": "hud",
 		"description": "Lightweight loading activity HUD.",
 		"homepage": "https://github.com/goktugyil/EZLoadingActivity"
 	}, {
@@ -2735,7 +2739,7 @@
 		"homepage": "https://github.com/suzuki-0000/HoneycombView"
 	}, {
 		"title": "HUDKit",
-		"category": "ui",
+		"category": "hud",
 		"description": "HUD interface as UIPresentationController.",
 		"homepage": "https://github.com/cockscomb/HUDKit"
 	}, {
@@ -2805,7 +2809,7 @@
 		"homepage": "https://github.com/MoZhouqi/KMPlaceholderTextView"
 	}, {
 		"title": "KRProgressHUD",
-		"category": "ui",
+		"category": "hud",
 		"description": "A beautiful and customizable progress HUD.",
 		"homepage": "https://github.com/krimpedance/KRProgressHUD"
 	}, {
@@ -2895,7 +2899,7 @@
 		"homepage": "https://github.com/iSame7/Panoramic"
 	}, {
 		"title": "PKHUD",
-		"category": "ui",
+		"category": "hud",
 		"description": "Reimplementation of the Apple HUD.",
 		"homepage": "https://github.com/pkluz/PKHUD"
 	}, {

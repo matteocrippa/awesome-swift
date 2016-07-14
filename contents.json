@@ -22,6 +22,9 @@
 	}, {
 		"title": "Boilerplates",
 		"id": "boilerplates"
+		}, {
+			"title": "Cache",
+			"id": "cache"
 	}, {
 		"title": "Editor Support",
 		"id": "editor-support",
@@ -3332,7 +3335,7 @@
 		"homepage": "https://github.com/Adlai-Holler/ArrayDiff"
 	}, {
 		"title": "AwesomeCache",
-		"category": "utility",
+		"category": "cache",
 		"description": "manage cache easy in your Swift project.",
 		"homepage": "https://github.com/aschuch/AwesomeCache"
 	}, {
@@ -3357,7 +3360,7 @@
 		"homepage": "https://github.com/wongzigii/Butterfly"
 	}, {
 		"title": "Cache",
-		"category": "utility",
+		"category": "cache",
 		"description": "Nothing but Cache.",
 		"homepage": "https://github.com/hyperoslo/Cache"
 	}, {
@@ -3397,7 +3400,7 @@
 		"homepage": "https://github.com/ankurp/Dollar"
 	}, {
 		"title": "EVURLCache",
-		"category": "utility",
+		"category": "cache",
 		"description": "if you want to make your app still works when it's offline.",
 		"homepage": "https://github.com/evermeer/EVURLCache"
 	}, {
@@ -3567,7 +3570,7 @@
 		"homepage": "https://github.com/AliSoftware/SwiftGen#uistoryboard"
 	}, {
 		"title": "SwiftMemCache",
-		"category": "utility",
+		"category": "cache",
 		"description": "Swift Memory Cache with namespace & TTL support.",
 		"homepage": "https://github.com/ctews/SwiftMemCache"
 	}, {
@@ -3711,6 +3714,6 @@
 		"description": "Versions tracker for your iOS, OS X, and tvOS app.",
 		"homepage": "https://github.com/tbaranes/VersionTrackerSwift"
 	}
-	
+
 ]
 }

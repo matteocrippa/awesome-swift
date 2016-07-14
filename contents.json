@@ -1530,6 +1530,12 @@
 		"description": "Fontawesome, Iconic, Ionicons, Octicon porting for Swift.",
 		"homepage": "https://github.com/0x73/SwiftIconFont"
 	}, {
+		"title": "Alienblast",
+		"category": "games",
+		"description": "Cute and sweet game developed by Swift, Coco2d and Spritebuilder.",
+		"homepage": "https://github.com/etamity/AlienBlast",
+		"tags": ["iOS"]
+	}, {
 		"title": "Sage",
 		"category": "games",
 		"description": "A cross-platform chess library for Swift.",

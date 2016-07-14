@@ -24,7 +24,8 @@
 		"id": "boilerplates"
 		}, {
 			"title": "Cache",
-			"id": "cache"
+			"id": "cache",
+			"parent": "libs"
 	}, {
 		"title": "Editor Support",
 		"id": "editor-support",

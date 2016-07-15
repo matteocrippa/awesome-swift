@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-647-orange.svg) | July 15, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-648-orange.svg) | July 15, 2016
 
 ### Contributing
 
@@ -41,6 +41,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Bluetooth](#bluetooth)
   - [Cache](#cache)
   - [Camera](#camera)
+  - [Chart](#chart)
   - [Chat](#chat)
   - [Colors](#colors)
   - [Command Line](#command-line)
@@ -292,6 +293,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - Camera view controller with custom image picker and image cropping.
 * [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner view controller.
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
+
+### Chart
+[back to top](#readme) 
+
+* [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
+* [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation.
+* [TKRadarChart](https://github.com/TBXark/TKRadarChart) - A customizable radar chart in Swift
 
 ### Chat
 *Libs to get access to build chat app* [back to top](#readme) 
@@ -864,7 +872,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - A playable pull to refresh view using SpriteKit.
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects.
-* [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 * [Dodo](https://github.com/marketplacer/Dodo) - A message bar for iOS written in Swift.
 * [Drag and Drop UICollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews (in Swift).
 * [DropDown](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS written in Swift.
@@ -909,7 +916,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Otafuku](https://github.com/tasanobu/Otafuku) - Some utility classes to use WKWebView in Swift.
 * [PageController](https://github.com/hirohisa/PageController) - Infinite paging controller.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Panoramic facebook story clone.
-* [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation.
 * [PPSwiftGifs](https://github.com/peterprokop/PPSwiftGifs) - a convenient way to show animated GIF images as a part of iOS GUI.
 * [Reel search](https://github.com/Ramotion/reel-search) - Option list managed as a reel.
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect) - Recreating Apples rubber band effect in Swift.

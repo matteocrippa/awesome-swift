@@ -449,6 +449,10 @@
 		"title": "Video",
 		"id": "video",
 		"parent": "libs"
+	}, {
+		"title": "Streaming",
+		"id": "streaming",
+		"parent": "libs"
 	}],
 	"projects": [{
 		"title": "Apple eBook",
@@ -3734,6 +3738,11 @@
 		"category": "version-manager",
 		"description": "Versions tracker for your iOS, OS X, and tvOS app.",
 		"homepage": "https://github.com/tbaranes/VersionTrackerSwift"
+	}, {
+		"title": "Live",
+		"category": "streaming",
+		"description": "Demonstrate how to build a live broadcast app.",
+		"homepage": "https://github.com/ltebean/Live"
 	}
 
 ]

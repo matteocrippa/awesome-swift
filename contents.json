@@ -127,6 +127,10 @@
 		"id": "data-management",
 		"parent": "libs"
 	}, {
+		"title": "Device",
+		"id": "device",
+		"parent": "libs"
+	}, {
 		"title": "Core Data",
 		"id": "core-data",
 		"parent": "data-management",

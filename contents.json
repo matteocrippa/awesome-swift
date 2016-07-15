@@ -3623,7 +3623,7 @@
 		"homepage": "https://github.com/thellimist/SwiftRandom"
 	}, {
 		"title": "SwiftRouter",
-		"category": "utility",
+		"category": "app-routing",
 		"description": "A URL Router for iOS written in Swift 2.0",
 		"homepage": "https://github.com/skyline75489/SwiftRouter"
 	}, {

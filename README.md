@@ -96,7 +96,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [System](#system)
   - [Testing](#testing)
   - [Text](#text)
-    - [Phone Numbers](#phone-numbers)
   - [Thread](#thread)
   - [UI](#ui)
     - [Alert](#alert)
@@ -115,6 +114,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [UITableView](#uitableview)
     - [Walkthrough](#walkthrough)
   - [Utility](#utility)
+  - [Validation](#validation)
+    - [Phone Numbers](#phone-numbers)
   - [Version Manager](#version-manager)
   - [Video](#video)
 
@@ -472,8 +473,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Typhoon](https://github.com/appsquickly/Typhoon) - Dependency injection toolkit in Swift.
 
 ### Device
-[back to top](#readme) 
+*A collection of libs to recognize your device.* [back to top](#readme) 
 
+* [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
+* [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
 
 ### Documentation
 *Generate documentation for Swift code* [back to top](#readme) 
@@ -836,11 +839,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting.
 * [TextAttributes](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
 
-#### Phone Numbers
-[back to top](#readme) 
-
-* [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
-
 ### Thread
 *Threading, task-based or asynchronous programming, Grand Central Dispatch (GCD) wrapper* [back to top](#readme) 
 
@@ -919,7 +917,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [StarryStars](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 * [SurfingRefreshControl](https://github.com/peiweichen/SurfingRefreshControl) - Customizable pull-to-refresh control.
 * [SwiftTheme](https://github.com/jiecao-fm/SwiftTheme) - Powerful theme/skin manager for iOS 7+, written in swift.
-* [SwiftValidator](https://github.com/jpotts18/SwiftValidator) - UIView validation framework.
 * [SYBlinkAnimationKit](https://github.com/shoheiyokoyama/SYBlinkAnimationKit) - A blink effect animation framework.
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
@@ -1084,13 +1081,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Compass](https://github.com/hyperoslo/Compass) - Compass helps you setup a central navigation system for your application.
 * [Cormorant](https://github.com/austinzheng/Cormorant) - Clojure(ish) interpreter in Swift.
 * [Curry](https://github.com/thoughtbot/Curry) - Swift implementations for function currying.
-* [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
-* [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
 * [Dollar](https://github.com/ankurp/Dollar) - a lib similar to Lo-Dash or Underscore in Javascript.
 * [ExSwift](https://github.com/pNre/ExSwift) - a set of Swift extensions for standard types and classes.
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
 * [Focus](https://github.com/typelift/Focus) - an Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
-* [Honour](https://github.com/jeanpimentel/Honour) - Simple and powerful Validation Library.
 * [Hookah](https://github.com/HookahSwift/Hookah) - Hookah is a functional library for Swift.
 * [LangKit](https://github.com/xinranmsn/LangKit) - Natural Language Processing (NLP) toolkit for Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
@@ -1113,7 +1107,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [seguecode](https://github.com/Adorkable/seguecode) - seguecode is a support tool that provides compile-time safeties around building with UIStoryboards by exporting code regarding Scenes, Segues, Table and Collection Views and more.
 * [SimplePDF](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
 * [Solar](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
-* [SpecificationPattern](https://github.com/neoneye/SpecificationPattern) - chainable rules useful for form validation.
 * [SpriteKit+Spring](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
 * [Stream](https://github.com/antitypical/Stream) - Lazy streams in Swift.
 * [Sugar](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
@@ -1126,7 +1119,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftSequence](https://github.com/oisdk/SwiftSequence) - A framework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools.
 * [SwiftSortUtils](https://github.com/dsmatter/SwiftSortUtils) - Useful functions and extensions for sorting in Swift.
 * [SwiftTweaks](https://github.com/khan/swifttweaks) - Tweak your iOS app without recompiling.
-* [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS developed in Swift (inspired by validator.js).
 * [Swiftx](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
 * [SwiftyStateMachine](https://github.com/macoscope/SwiftyStateMachine) - Swift framework for creating state machines.
 * [SwiftyUtils](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
@@ -1134,6 +1126,19 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Then](https://github.com/devxoul/Then) - Super sweet syntactic sugar for Swift initializers.
 * [undefined](https://github.com/weissi/swift-undefined) - Nano framework which defines Haskell's undefined in Swift.
 * [UTIKit](https://github.com/cockscomb/UTIKit) - an UTI (Uniform Type Identifier) wrapper for Swift.
+
+### Validation
+*A collection of validation libs.* [back to top](#readme) 
+
+* [Honour](https://github.com/jeanpimentel/Honour) - Simple and powerful Validation Library.
+* [SpecificationPattern](https://github.com/neoneye/SpecificationPattern) - chainable rules useful for form validation.
+* [SwiftValidator](https://github.com/jpotts18/SwiftValidator) - UIView validation framework.
+* [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS developed in Swift (inspired by validator.js).
+
+#### Phone Numbers
+[back to top](#readme) 
+
+* [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
 
 ### Version Manager
 [back to top](#readme) 

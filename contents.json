@@ -39,6 +39,9 @@
 		"id": "vim",
 		"parent": "editor-support"
 	}, {
+		"title": "Benchmark",
+		"id": "benchmark"
+	}, {
 		"title": "Demo Apps",
 		"id": "demo-apps",
 		"description": "Check out apps on these projects:"
@@ -3388,7 +3391,7 @@
 		"homepage": "https://github.com/typelift/Basis"
 	}, {
 		"title": "Benchmark",
-		"category": "utility",
+		"category": "benchmark",
 		"description": "The Benchmark module provides methods to measure and report the time used to execute Swift code.",
 		"homepage": "https://github.com/WorldDownTown/Benchmark"
 	}, {

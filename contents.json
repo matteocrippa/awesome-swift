@@ -22,10 +22,10 @@
 	}, {
 		"title": "Boilerplates",
 		"id": "boilerplates"
-		}, {
-			"title": "Cache",
-			"id": "cache",
-			"parent": "libs"
+	}, {
+		"title": "Cache",
+		"id": "cache",
+		"parent": "libs"
 	}, {
 		"title": "Editor Support",
 		"id": "editor-support",
@@ -142,7 +142,6 @@
 		"id": "device",
 		"parent": "libs",
 		"description": "A collection of libs to recognize your device."
-
 	}, {
 		"title": "Core Data",
 		"id": "core-data",
@@ -152,6 +151,10 @@
 		"title": "Data Structures",
 		"id": "data-structures",
 		"parent": "data-management"
+	}, {
+		"title": "PDF",
+		"id": "pdf",
+		"parent": "libs"
 	}, {
 		"title": "Realm",
 		"id": "realm",
@@ -3501,7 +3504,7 @@
 		"homepage": "https://github.com/danthorpe/Money"
 	}, {
 		"title": "PDFGenerator",
-		"category": "utility",
+		"category": "pdf",
 		"description": "A simple Generator of PDF in Swift. Generate PDF from view(s) or image(s).",
 		"homepage": "https://github.com/sgr-ksmt/PDFGenerator"
 	}, {
@@ -3571,7 +3574,7 @@
 		"homepage": "https://github.com/Adorkable/seguecode"
 	}, {
 		"title": "SimplePDF",
-		"category": "utility",
+		"category": "pdf",
 		"description": "Create a simple PDF effortlessly.",
 		"homepage": "https://github.com/nRewik/SimplePDF"
 	}, {

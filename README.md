@@ -87,6 +87,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Messaging Protocol](#messaging-protocol)
     - [Socket](#socket)
     - [Webserver](#webserver)
+  - [Natural Language Processing](#nlp)
   - [OCR](#ocr)
   - [Quality](#quality)
   - [Security](#security)
@@ -758,6 +759,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 * [Zewo](https://github.com/Zewo/Zewo) :penguin: - Server-Side Swift.
 
+### Natural Language Processing
+[back to top](#readme) 
+
+* [LangKit](https://github.com/xinranmsn/LangKit) - Natural Language Processing (NLP) toolkit for Swift.
+
 ### OCR
 [back to top](#readme) 
 
@@ -1098,7 +1104,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
 * [Focus](https://github.com/typelift/Focus) - an Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
 * [Hookah](https://github.com/HookahSwift/Hookah) - Hookah is a functional library for Swift.
-* [LangKit](https://github.com/xinranmsn/LangKit) - Natural Language Processing (NLP) toolkit for Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
 * [Mendel](https://github.com/saniul/Mendel) - Swift miliframework for implementing evolutionary/genetic algorithms.
 * [Money](https://github.com/danthorpe/Money) - Currency formatter in Swift.

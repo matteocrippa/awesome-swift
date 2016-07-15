@@ -1075,6 +1075,11 @@
 		"homepage": "https://github.com/kylef/PathKit",
 		"tags": ["linux"]
 	}, {
+		"title": "FileProvider",
+		"category": "files",
+		"description": "NSFileManager replacement for Local and Remote (WebDAV/Dropbox/SMB2) files.",
+		"homepage": "https://github.com/amosavian/FileProvider"
+	}, {
 		"title": "AlamofireJsonToObjects",
 		"category": "json",
 		"description": "An Alamofire extension which converts JSON response data into swift objects using Reflection.",

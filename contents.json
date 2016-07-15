@@ -3399,12 +3399,12 @@
 		"homepage": "https://github.com/thoughtbot/Curry"
 	}, {
 		"title": "Device.swift",
-		"category": "utility",
+		"category": "device",
 		"description": "Super-lightweight library to detect used device.",
 		"homepage": "https://github.com/schickling/Device.swift"
 	}, {
 		"title": "Device",
-		"category": "utility",
+		"category": "device",
 		"description": "Light weight tool for detecting the current device and screen size written in swift.",
 		"homepage": "https://github.com/Ekhoo/Device"
 	}, {

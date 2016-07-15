@@ -91,6 +91,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Webserver](#webserver)
   - [Natural Language Processing](#nlp)
   - [OCR](#ocr)
+  - [PDF](#pdf)
   - [Quality](#quality)
   - [Security](#security)
     - [Cryptography](#cryptography)
@@ -255,6 +256,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Internal app routing systems.* [back to top](#readme) 
 
 * [Appz](https://github.com/SwiftKitz/Appz) - Launch external apps, and deeplink, with ease using Swift!
+* [Compass](https://github.com/hyperoslo/Compass) - Compass helps you setup a central navigation system for your application.
 * [IKRouter](https://github.com/IanKeen/IKRouter) - URLScheme router than supports auto creation of UIViewControllers.
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS written in Swift 2.0
 * [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing for Swift.
@@ -781,6 +783,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - Neural Network based OCR lib written in swift.
 
+### PDF
+[back to top](#readme) 
+
+* [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator) - A simple Generator of PDF in Swift. Generate PDF from view(s) or image(s).
+* [SimplePDF](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
+
 ### Quality
 [back to top](#readme) 
 
@@ -845,6 +853,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease in Swift.
 * [Mockit](https://github.com/sabirvirtuoso/Mockit) - A simple mocking framework for Swift, inspired by the famous Mockito for Java.
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - A testing library designed to stub your network requests easily.
+* [PinpointKit](https://github.com/Lickability/PinpointKit) - An open-source iOS library in Swift that lets your testers and users send feedback with annotated screenshots and logs using a simple gesture.
 * [Quick](https://github.com/Quick/Quick) :penguin: - Quick is a behavior-driven development framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
 * [Spectre](https://github.com/kylef/Spectre) :penguin: - BDD Framework for Swift.
@@ -858,6 +867,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [edhita](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS written in Swift.
 * [Format](https://github.com/marmelroy/Format) - Swift formatting kit for numbers, addresses and colors.
 * [Markdown](https://github.com/crossroadlabs/Markdown) :penguin: - Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown)
+* [Pluralize.swift](https://github.com/joshualat/Pluralize.swift) - Great Swift String Pluralize Extension.
 * [PrediKit](https://github.com/KrakenDev/PrediKit) - An NSPredicate DSL for iOS & OS X inspired by SnapKit and written in Swift.
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
 * [Reductio](https://github.com/fdzsergio/Reductio) - Automatic summarizer text in Swift.
@@ -1107,7 +1117,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
 * [CallbackURLKit](https://github.com/phimage/CallbackURLKit) - Implementation of x-callback-url (Inter app communication) in swift
 * [Carlos](https://github.com/WeltN24/Carlos) - A simple but flexible cache.
-* [Compass](https://github.com/hyperoslo/Compass) - Compass helps you setup a central navigation system for your application.
 * [Cormorant](https://github.com/austinzheng/Cormorant) - Clojure(ish) interpreter in Swift.
 * [Curry](https://github.com/thoughtbot/Curry) - Swift implementations for function currying.
 * [Dollar](https://github.com/ankurp/Dollar) - a lib similar to Lo-Dash or Underscore in Javascript.
@@ -1117,9 +1126,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Hookah](https://github.com/HookahSwift/Hookah) - Hookah is a functional library for Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
 * [Mendel](https://github.com/saniul/Mendel) - Swift miliframework for implementing evolutionary/genetic algorithms.
-* [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator) - A simple Generator of PDF in Swift. Generate PDF from view(s) or image(s).
-* [PinpointKit](https://github.com/Lickability/PinpointKit) - An open-source iOS library in Swift that lets your testers and users send feedback with annotated screenshots and logs using a simple gesture.
-* [Pluralize.swift](https://github.com/joshualat/Pluralize.swift) - Great Swift String Pluralize Extension.
 * [Popsicle](https://github.com/DavdRoman/Popsicle) - Delightful, extensible Swift value interpolation framework.
 * [Prelude](https://github.com/robrix/Prelude) - Swift framework of simple functional programming tools.
 * [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - ProtocolBuffers for Swift.
@@ -1132,7 +1138,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Result](https://github.com/antitypical/Result) - Swift type modelling the success/failure of arbitrary operations.
 * [Runes](https://github.com/thoughtbot/Runes) - Functional operators for Swift - flatMap, map, apply, pure.
 * [seguecode](https://github.com/Adorkable/seguecode) - seguecode is a support tool that provides compile-time safeties around building with UIStoryboards by exporting code regarding Scenes, Segues, Table and Collection Views and more.
-* [SimplePDF](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
 * [Solar](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
 * [SpriteKit+Spring](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
 * [Stream](https://github.com/antitypical/Stream) - Lazy streams in Swift.

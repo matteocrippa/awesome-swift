@@ -61,6 +61,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [ZIP](#zip)
   - [Date](#date)
   - [Dependency Injection](#dependency-injection)
+  - [Device](#device)
   - [Documentation](#documentation)
   - [Embedded Systems](#embedded-systems)
     - [Peripherals](#peripherals)
@@ -469,6 +470,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Dip](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 * [Swinject](https://github.com/Swinject/Swinject) - A dependency injection framework for Swift.
 * [Typhoon](https://github.com/appsquickly/Typhoon) - Dependency injection toolkit in Swift.
+
+### Device
+[back to top](#readme) 
+
 
 ### Documentation
 *Generate documentation for Swift code* [back to top](#readme) 

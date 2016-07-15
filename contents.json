@@ -63,6 +63,10 @@
 		"parent": "libs",
 		"description": "Libs for AI based projects (Machine Learning, Neural Networks etc)."
 	}, {
+		"title": "Currency",
+		"id": "currency",
+		"parent": "libs"
+	}, {
 		"title": "Animation",
 		"id": "animation",
 		"parent": "libs",
@@ -3489,7 +3493,7 @@
 		"homepage": "https://github.com/saniul/Mendel"
 	}, {
 		"title": "Money",
-		"category": "utility",
+		"category": "currency",
 		"description": "Currency formatter in Swift.",
 		"homepage": "https://github.com/danthorpe/Money"
 	}, {

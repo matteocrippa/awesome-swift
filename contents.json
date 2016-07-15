@@ -93,6 +93,10 @@
 		"parent": "libs",
 		"description": "Quick libs to get access to third party API services"
 	}, {
+		"title": "Natural Language Processing",
+		"id": "nlp",
+		"parent": "libs"
+	}, {
 		"title": "Bluetooth",
 		"id": "bluetooth",
 		"parent": "libs",
@@ -3475,7 +3479,7 @@
 		"homepage": "https://github.com/LlamaKit/LlamaKit"
 	}, {
 		"title": "LangKit",
-		"category": "utility",
+		"category": "nlp",
 		"description": "Natural Language Processing (NLP) toolkit for Swift.",
 		"homepage": "https://github.com/xinranmsn/LangKit"
 	}, {

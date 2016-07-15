@@ -3421,7 +3421,7 @@
 		"homepage": "https://github.com/WeltN24/Carlos"
 	}, {
 		"title": "Compass",
-		"category": "utility",
+		"category": "app-routing",
 		"description": "Compass helps you setup a central navigation system for your application.",
 		"homepage": "https://github.com/hyperoslo/Compass"
 	}, {

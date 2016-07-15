@@ -129,7 +129,9 @@
 	}, {
 		"title": "Device",
 		"id": "device",
-		"parent": "libs"
+		"parent": "libs",
+		"description": "A collection of libs to recognize your device."
+
 	}, {
 		"title": "Core Data",
 		"id": "core-data",
@@ -355,9 +357,14 @@
 		"parent": "libs",
 		"description": "A collection of text projects."
 	}, {
+		"title": "Validation",
+		"id": "validation",
+		"parent": "libs",
+		"description": "A collection of validation libs."
+	}, {
 		"title": "Phone Numbers",
 		"id": "phone-numbers",
-		"parent": "text"
+		"parent": "validation"
 	}, {
 		"title": "Thread",
 		"id": "thread",
@@ -2994,7 +3001,7 @@
 		"homepage": "https://github.com/AssistoLab/DropDown"
 	},{
 		"title": "SwiftValidator",
-		"category": "ui",
+		"category": "validation",
 		"description": "UIView validation framework.",
 		"homepage": "https://github.com/jpotts18/SwiftValidator"
 	}, {
@@ -3434,7 +3441,7 @@
 		"homepage": "https://github.com/typelift/Focus"
 	}, {
 		"title": "Honour",
-		"category": "utility",
+		"category": "validation",
 		"description": "Simple and powerful Validation Library.",
 		"homepage": "https://github.com/jeanpimentel/Honour"
 	}, {
@@ -3549,7 +3556,7 @@
 		"homepage": "https://github.com/ceeK/Solar"
 	}, {
 		"title": "SpecificationPattern",
-		"category": "utility",
+		"category": "validation",
 		"description": "chainable rules useful for form validation.",
 		"homepage": "https://github.com/neoneye/SpecificationPattern"
 	}, {
@@ -3614,7 +3621,7 @@
 		"homepage": "https://github.com/khan/swifttweaks"
 	}, {
 		"title": "SwiftValidators",
-		"category": "utility",
+		"category": "validation",
 		"description": "String validation for iOS developed in Swift (inspired by validator.js).",
 		"homepage": "https://github.com/gkaimakas/SwiftValidators"
 	}, {

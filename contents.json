@@ -3396,7 +3396,7 @@
 		"homepage": "https://github.com/WorldDownTown/Benchmark"
 	}, {
 		"title": "PinpointKit",
-		"category": "utility",
+		"category": "testing",
 		"description": "An open-source iOS library in Swift that lets your testers and users send feedback with annotated screenshots and logs using a simple gesture.",
 		"homepage": "https://github.com/Lickability/PinpointKit"
 	}, {
@@ -3506,7 +3506,7 @@
 		"homepage": "https://github.com/sgr-ksmt/PDFGenerator"
 	}, {
 		"title": "Pluralize.swift",
-		"category": "utility",
+		"category": "text",
 		"description": "Great Swift String Pluralize Extension.",
 		"homepage": "https://github.com/joshualat/Pluralize.swift"
 	}, {

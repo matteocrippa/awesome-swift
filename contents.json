@@ -278,6 +278,10 @@
 		"parent": "libs",
 		"description": "Utilities for writing to and reading from the device log"
 	}, {
+		"title": "Chart",
+		"id": "chart",
+		"parent": "libs"
+	}, {
 		"title": "Maps",
 		"id": "maps",
 		"parent": "libs"
@@ -2644,7 +2648,7 @@
 		"homepage": "https://github.com/android1989/CharacterText"
 	}, {
 		"title": "Charts",
-		"category": "ui",
+		"category": "chart",
 		"description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
 		"homepage": "https://github.com/danielgindi/Charts"
 	}, {
@@ -2924,9 +2928,15 @@
 		"homepage": "https://github.com/pkluz/PKHUD"
 	}, {
 		"title": "PNChart-Swift",
-		"category": "ui",
+		"category": "chart",
 		"description": "A simple and beautiful chart lib with animation.",
 		"homepage": "https://github.com/kevinzhow/PNChart-Swift"
+	}
+	, {
+		"title": "TKRadarChart",
+		"category": "chart",
+		"description": "A customizable radar chart in Swift",
+		"homepage": "https://github.com/TBXark/TKRadarChart"
 	}, {
 		"title": "PPSwiftGifs",
 		"category": "ui",

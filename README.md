@@ -26,6 +26,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [Editor Support](#editor-support)
   - [Emacs](#emacs)
   - [Vim](#vim)
+- [Benchmark](#benchmark)
 - [Demo Apps](#demo-apps)
 - [Dependency Managers](#dependency-managers)
 - [Patterns](#patterns)
@@ -46,6 +47,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Colors](#colors)
   - [Command Line](#command-line)
   - [Concurrency](#concurrency)
+  - [Currency](#currency)
   - [Data Management](#data-management)
     - [Core Data](#core-data)
     - [Data Structures](#data-structures)
@@ -183,6 +185,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [vim-polyglot](https://github.com/sheerun/vim-polyglot) - language pack for vim that includes vim-swift.
 * [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds Swift support to vim. It covers syntax, indenting, and more.
 
+## Benchmark
+
+* [Benchmark](https://github.com/WorldDownTown/Benchmark) - The Benchmark module provides methods to measure and report the time used to execute Swift code.
+
 ## Demo Apps
 *Check out apps on these projects:* 
 * [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -250,6 +256,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Appz](https://github.com/SwiftKitz/Appz) - Launch external apps, and deeplink, with ease using Swift!
 * [IKRouter](https://github.com/IanKeen/IKRouter) - URLScheme router than supports auto creation of UIViewControllers.
+* [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS written in Swift 2.0
 * [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing for Swift.
 
 ### App Store
@@ -337,6 +344,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Safe](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization for Swift.
 * [Venice](https://github.com/VeniceX/Venice) :penguin: - Communicating sequential processes (CSP) for Swift 2 (Linux ready).
+
+### Currency
+[back to top](#readme) 
+
+* [Money](https://github.com/danthorpe/Money) - Currency formatter in Swift.
 
 ### Data Management
 [back to top](#readme) 
@@ -1092,7 +1104,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Alexandria](https://github.com/ovenbits/Alexandria) - A large set of convenience extensions for UIKit and Foundation.
 * [ArrayDiff](https://github.com/Adlai-Holler/ArrayDiff) - a fast, UITableView/UICollectionView-compatible array diffing microframework.
 * [Basis](https://github.com/typelift/Basis) - Pure Declarative Programming in Swift.
-* [Benchmark](https://github.com/WorldDownTown/Benchmark) - The Benchmark module provides methods to measure and report the time used to execute Swift code.
 * [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
 * [CallbackURLKit](https://github.com/phimage/CallbackURLKit) - Implementation of x-callback-url (Inter app communication) in swift
 * [Carlos](https://github.com/WeltN24/Carlos) - A simple but flexible cache.
@@ -1106,7 +1117,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Hookah](https://github.com/HookahSwift/Hookah) - Hookah is a functional library for Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
 * [Mendel](https://github.com/saniul/Mendel) - Swift miliframework for implementing evolutionary/genetic algorithms.
-* [Money](https://github.com/danthorpe/Money) - Currency formatter in Swift.
 * [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator) - A simple Generator of PDF in Swift. Generate PDF from view(s) or image(s).
 * [PinpointKit](https://github.com/Lickability/PinpointKit) - An open-source iOS library in Swift that lets your testers and users send feedback with annotated screenshots and logs using a simple gesture.
 * [Pluralize.swift](https://github.com/joshualat/Pluralize.swift) - Great Swift String Pluralize Extension.
@@ -1132,7 +1142,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftGen-Storyboard](https://github.com/AliSoftware/SwiftGen#uistoryboard) - A tool to auto-generate Swift `enums` for all your Storyboards, Scenes and Segues constants + appropriate convenience accessors.
 * [SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all information such as title, relevant texts and images.
 * [SwiftRandom](https://github.com/thellimist/SwiftRandom) - A tiny generator of random data for swift.
-* [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS written in Swift 2.0
 * [SwiftSequence](https://github.com/oisdk/SwiftSequence) - A framework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools.
 * [SwiftSortUtils](https://github.com/dsmatter/SwiftSortUtils) - Useful functions and extensions for sorting in Swift.
 * [SwiftTweaks](https://github.com/khan/swifttweaks) - Tweak your iOS app without recompiling.

@@ -23,6 +23,10 @@
 		"title": "Boilerplates",
 		"id": "boilerplates"
 	}, {
+		"title": "Cache",
+		"id": "cache",
+		"parent": "libs"
+	}, {
 		"title": "Editor Support",
 		"id": "editor-support",
 		"description": "Support for your favorite editors."
@@ -34,6 +38,9 @@
 		"title": "Vim",
 		"id": "vim",
 		"parent": "editor-support"
+	}, {
+		"title": "Benchmark",
+		"id": "benchmark"
 	}, {
 		"title": "Demo Apps",
 		"id": "demo-apps",
@@ -58,6 +65,10 @@
 		"id": "ai",
 		"parent": "libs",
 		"description": "Libs for AI based projects (Machine Learning, Neural Networks etc)."
+	}, {
+		"title": "Currency",
+		"id": "currency",
+		"parent": "libs"
 	}, {
 		"title": "Animation",
 		"id": "animation",
@@ -88,6 +99,10 @@
 		"id": "api",
 		"parent": "libs",
 		"description": "Quick libs to get access to third party API services"
+	}, {
+		"title": "Natural Language Processing",
+		"id": "nlp",
+		"parent": "libs"
 	}, {
 		"title": "Bluetooth",
 		"id": "bluetooth",
@@ -123,6 +138,11 @@
 		"id": "data-management",
 		"parent": "libs"
 	}, {
+		"title": "Device",
+		"id": "device",
+		"parent": "libs",
+		"description": "A collection of libs to recognize your device."
+	}, {
 		"title": "Core Data",
 		"id": "core-data",
 		"parent": "data-management",
@@ -131,6 +151,10 @@
 		"title": "Data Structures",
 		"id": "data-structures",
 		"parent": "data-management"
+	}, {
+		"title": "PDF",
+		"id": "pdf",
+		"parent": "libs"
 	}, {
 		"title": "Realm",
 		"id": "realm",
@@ -184,6 +208,11 @@
 		"id": "date",
 		"parent": "libs",
 		"description": "Handle data formatting easily."
+	}, {
+		"title": "Dependency Injection",
+		"id": "dependency-injection",
+		"parent": "libs",
+		"description": "Dependency injection libs"
 	}, {
 		"title": "Documentation",
 		"id": "documentation",
@@ -262,6 +291,10 @@
 		"id": "logging",
 		"parent": "libs",
 		"description": "Utilities for writing to and reading from the device log"
+	}, {
+		"title": "Chart",
+		"id": "chart",
+		"parent": "libs"
 	}, {
 		"title": "Maps",
 		"id": "maps",
@@ -342,9 +375,14 @@
 		"parent": "libs",
 		"description": "A collection of text projects."
 	}, {
+		"title": "Validation",
+		"id": "validation",
+		"parent": "libs",
+		"description": "A collection of validation libs."
+	}, {
 		"title": "Phone Numbers",
 		"id": "phone-numbers",
-		"parent": "text"
+		"parent": "validation"
 	}, {
 		"title": "Thread",
 		"id": "thread",
@@ -389,6 +427,10 @@
 		"id": "walkthrough",
 		"parent": "ui"
 	}, {
+		"title": "HUD",
+		"id": "hud",
+		"parent": "ui"
+	}, {
 		"title": "Menu",
 		"id": "menu",
 		"parent": "ui"
@@ -418,8 +460,16 @@
 		"parent": "libs",
 		"description": "Some interesting utilities to help you in your projects"
 	}, {
+		"title": "Version Manager",
+		"id": "version-manager",
+		"parent": "libs"
+	}, {
 		"title": "Video",
 		"id": "video",
+		"parent": "libs"
+	}, {
+		"title": "Streaming",
+		"id": "streaming",
 		"parent": "libs"
 	}],
 	"projects": [{
@@ -523,6 +573,11 @@
 		"description": "A well explained list of feature in flux for Swift.",
 		"homepage": "https://github.com/ksm/SwiftInFlux"
 	}, {
+		"title": "SwiftIntro",
+		"category": "third-party-guides",
+		"description": "**Memory game** in Swift fetching images from any Instagram account. Lists **tasks** for you to do in order to learn Swift - at three difficulty levels.",
+		"homepage": "https://github.com/Sajjon/SwiftIntro"
+	}, {
 		"title": "Swifty",
 		"category": "third-party-guides",
 		"description": "App to learn to code in Swift.",
@@ -583,10 +638,10 @@
 		"description": "A collaborative list of open-source iOS Apps.",
 		"homepage": "https://github.com/dkhamsing/open-source-ios-apps"
 	}, {
-		"title": "awesome-osx",
+		"title": "awesome-macOS",
 		"category": "demo-apps",
-		"description": "A curated list of awesome applications, softwares, tools and shiny things for OS X.",
-		"homepage": "https://github.com/iCHAIT/awesome-osx"
+		"description": "A curated list of awesome applications, softwares, tools and shiny things for macOS.",
+		"homepage": "https://github.com/iCHAIT/awesome-macOS"
 	}, {
 		"title": "Carthage",
 		"category": "dependency-managers",
@@ -682,6 +737,11 @@
 		"category": "animation",
 		"description": "A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level.",
 		"homepage": "https://github.com/icanzilb/EasyAnimation"
+	}, {
+		"title": "FlightAnimator",
+		"category": "animation",
+		"description": "Natural Blocks Based Core Animation Framework in Swift",
+		"homepage": "https://github.com/AntonTheDev/FlightAnimator"
 	}, {
 		"title": "IBAnimatable",
 		"category": "animation",
@@ -784,12 +844,12 @@
 		"homepage": "https://github.com/rsattar/Voucher"
 	}, {
 		"title": "Cleanse",
-		"category": "api",
+		"category": "dependency-injection",
 		"description": "A Lightweight Swift Dependency Injection Framework by Square.",
 		"homepage": "https://github.com/square/Cleanse"
 	}, {
 		"title": "Dip",
-		"category": "api",
+		"category": "dependency-injection",
 		"description": "A simple Dependency Injection Container.",
 		"homepage": "https://github.com/AliSoftware/Dip"
 	}, {
@@ -824,12 +884,12 @@
 		"homepage": "https://github.com/mattdonnelly/Swifter"
 	}, {
 		"title": "Swinject",
-		"category": "api",
+		"category": "dependency-injection",
 		"description": "A dependency injection framework for Swift.",
 		"homepage": "https://github.com/Swinject/Swinject"
 	}, {
 		"title": "Typhoon",
-		"category": "api",
+		"category": "dependency-injection",
 		"description": "Dependency injection toolkit in Swift.",
 		"homepage": "https://github.com/appsquickly/Typhoon"
 	}, {
@@ -852,6 +912,11 @@
 		"category": "camera",
 		"description": "Instagram-like photo browser and a camera feature.",
 		"homepage": "https://github.com/ytakzk/Fusuma"
+	}, {
+		"title": "BarcodeScanner",
+		"category": "camera",
+		"description": "A simple and beautiful barcode scanner view controller.",
+		"homepage": "https://github.com/hyperoslo/BarcodeScanner"
 	}, {
 		"title": "Chatto",
 		"category": "chat",
@@ -1042,6 +1107,11 @@
 		"description": "Effortless path operations in Swift.",
 		"homepage": "https://github.com/kylef/PathKit",
 		"tags": ["linux"]
+	}, {
+		"title": "FileProvider",
+		"category": "files",
+		"description": "NSFileManager replacement for Local and Remote (WebDAV/Dropbox/SMB2) files.",
+		"homepage": "https://github.com/amosavian/FileProvider"
 	}, {
 		"title": "AlamofireJsonToObjects",
 		"category": "json",
@@ -2355,6 +2425,11 @@
 		"description": "Test Library for Swift's Error Handling.",
 		"homepage": "https://github.com/mrackwitz/CatchingFire"
 	}, {
+		"title": "Cuckoo",
+		"category": "testing",
+		"description": "First boilerplate-free mocking framework for Swift",
+		"homepage": "https://github.com/SwiftKit/Cuckoo"
+	}, {
 		"title": "DVR",
 		"category": "testing",
 		"description": "A simple network testing framework for Swift.",
@@ -2531,6 +2606,11 @@
 		"description": "Grand Central Dispatch simplified with Swift.",
 		"homepage": "https://github.com/JohnEstropia/GCDKit"
 	}, {
+		"title": "GCDTimer",
+		"category": "thread",
+		"description": "A well-tested GCD timer in Swift.",
+		"homepage": "https://github.com/hemantasapkota/GCDTimer"
+	}, {
 		"title": "ActiveLabel",
 		"category": "label",
 		"description": "UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://).",
@@ -2582,7 +2662,7 @@
 		"homepage": "https://github.com/android1989/CharacterText"
 	}, {
 		"title": "Charts",
-		"category": "ui",
+		"category": "chart",
 		"description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
 		"homepage": "https://github.com/danielgindi/Charts"
 	}, {
@@ -2612,7 +2692,7 @@
 		"homepage": "https://github.com/Aufree/ESTMusicIndicator"
 	}, {
 		"title": "EZLoadingActivity",
-		"category": "ui",
+		"category": "hud",
 		"description": "Lightweight loading activity HUD.",
 		"homepage": "https://github.com/goktugyil/EZLoadingActivity"
 	}, {
@@ -2697,7 +2777,7 @@
 		"homepage": "https://github.com/suzuki-0000/HoneycombView"
 	}, {
 		"title": "HUDKit",
-		"category": "ui",
+		"category": "hud",
 		"description": "HUD interface as UIPresentationController.",
 		"homepage": "https://github.com/cockscomb/HUDKit"
 	}, {
@@ -2767,7 +2847,7 @@
 		"homepage": "https://github.com/MoZhouqi/KMPlaceholderTextView"
 	}, {
 		"title": "KRProgressHUD",
-		"category": "ui",
+		"category": "hud",
 		"description": "A beautiful and customizable progress HUD.",
 		"homepage": "https://github.com/krimpedance/KRProgressHUD"
 	}, {
@@ -2857,14 +2937,20 @@
 		"homepage": "https://github.com/iSame7/Panoramic"
 	}, {
 		"title": "PKHUD",
-		"category": "ui",
+		"category": "hud",
 		"description": "Reimplementation of the Apple HUD.",
 		"homepage": "https://github.com/pkluz/PKHUD"
 	}, {
 		"title": "PNChart-Swift",
-		"category": "ui",
+		"category": "chart",
 		"description": "A simple and beautiful chart lib with animation.",
 		"homepage": "https://github.com/kevinzhow/PNChart-Swift"
+	}
+	, {
+		"title": "TKRadarChart",
+		"category": "chart",
+		"description": "A customizable radar chart in Swift",
+		"homepage": "https://github.com/TBXark/TKRadarChart"
 	}, {
 		"title": "PPSwiftGifs",
 		"category": "ui",
@@ -2907,7 +2993,7 @@
 		"homepage": "https://github.com/hyperoslo/SevenSwitch"
 	}, {
 		"title": "Siren",
-		"category": "ui",
+		"category": "version-manager",
 		"description": "Inform users when App Store updates are available.",
 		"homepage": "https://github.com/ArtSabintsev/Siren"
 	}, {
@@ -2943,7 +3029,7 @@
 		"homepage": "https://github.com/AssistoLab/DropDown"
 	},{
 		"title": "SwiftValidator",
-		"category": "ui",
+		"category": "validation",
 		"description": "UIView validation framework.",
 		"homepage": "https://github.com/jpotts18/SwiftValidator"
 	}, {
@@ -3297,18 +3383,13 @@
 		"description": "A large set of convenience extensions for UIKit and Foundation.",
 		"homepage": "https://github.com/ovenbits/Alexandria"
 	}, {
-		"title": "AppVersionMonitor",
-		"category": "utility",
-		"description": "Monitor iOS app version easily.",
-		"homepage": "https://github.com/eure/AppVersionMonitor"
-	}, {
 		"title": "ArrayDiff",
 		"category": "utility",
 		"description": "a fast, UITableView/UICollectionView-compatible array diffing microframework.",
 		"homepage": "https://github.com/Adlai-Holler/ArrayDiff"
 	}, {
 		"title": "AwesomeCache",
-		"category": "utility",
+		"category": "cache",
 		"description": "manage cache easy in your Swift project.",
 		"homepage": "https://github.com/aschuch/AwesomeCache"
 	}, {
@@ -3318,12 +3399,12 @@
 		"homepage": "https://github.com/typelift/Basis"
 	}, {
 		"title": "Benchmark",
-		"category": "utility",
+		"category": "benchmark",
 		"description": "The Benchmark module provides methods to measure and report the time used to execute Swift code.",
 		"homepage": "https://github.com/WorldDownTown/Benchmark"
 	}, {
 		"title": "PinpointKit",
-		"category": "utility",
+		"category": "testing",
 		"description": "An open-source iOS library in Swift that lets your testers and users send feedback with annotated screenshots and logs using a simple gesture.",
 		"homepage": "https://github.com/Lickability/PinpointKit"
 	}, {
@@ -3333,7 +3414,7 @@
 		"homepage": "https://github.com/wongzigii/Butterfly"
 	}, {
 		"title": "Cache",
-		"category": "utility",
+		"category": "cache",
 		"description": "Nothing but Cache.",
 		"homepage": "https://github.com/hyperoslo/Cache"
 	}, {
@@ -3348,7 +3429,7 @@
 		"homepage": "https://github.com/WeltN24/Carlos"
 	}, {
 		"title": "Compass",
-		"category": "utility",
+		"category": "app-routing",
 		"description": "Compass helps you setup a central navigation system for your application.",
 		"homepage": "https://github.com/hyperoslo/Compass"
 	}, {
@@ -3358,12 +3439,12 @@
 		"homepage": "https://github.com/thoughtbot/Curry"
 	}, {
 		"title": "Device.swift",
-		"category": "utility",
+		"category": "device",
 		"description": "Super-lightweight library to detect used device.",
 		"homepage": "https://github.com/schickling/Device.swift"
 	}, {
 		"title": "Device",
-		"category": "utility",
+		"category": "device",
 		"description": "Light weight tool for detecting the current device and screen size written in swift.",
 		"homepage": "https://github.com/Ekhoo/Device"
 	}, {
@@ -3373,7 +3454,7 @@
 		"homepage": "https://github.com/ankurp/Dollar"
 	}, {
 		"title": "EVURLCache",
-		"category": "utility",
+		"category": "cache",
 		"description": "if you want to make your app still works when it's offline.",
 		"homepage": "https://github.com/evermeer/EVURLCache"
 	}, {
@@ -3393,7 +3474,7 @@
 		"homepage": "https://github.com/typelift/Focus"
 	}, {
 		"title": "Honour",
-		"category": "utility",
+		"category": "validation",
 		"description": "Simple and powerful Validation Library.",
 		"homepage": "https://github.com/jeanpimentel/Honour"
 	}, {
@@ -3413,7 +3494,7 @@
 		"homepage": "https://github.com/LlamaKit/LlamaKit"
 	}, {
 		"title": "LangKit",
-		"category": "utility",
+		"category": "nlp",
 		"description": "Natural Language Processing (NLP) toolkit for Swift.",
 		"homepage": "https://github.com/xinranmsn/LangKit"
 	}, {
@@ -3423,17 +3504,17 @@
 		"homepage": "https://github.com/saniul/Mendel"
 	}, {
 		"title": "Money",
-		"category": "utility",
+		"category": "currency",
 		"description": "Currency formatter in Swift.",
 		"homepage": "https://github.com/danthorpe/Money"
 	}, {
 		"title": "PDFGenerator",
-		"category": "utility",
+		"category": "pdf",
 		"description": "A simple Generator of PDF in Swift. Generate PDF from view(s) or image(s).",
 		"homepage": "https://github.com/sgr-ksmt/PDFGenerator"
 	}, {
 		"title": "Pluralize.swift",
-		"category": "utility",
+		"category": "text",
 		"description": "Great Swift String Pluralize Extension.",
 		"homepage": "https://github.com/joshualat/Pluralize.swift"
 	}, {
@@ -3498,12 +3579,17 @@
 		"homepage": "https://github.com/Adorkable/seguecode"
 	}, {
 		"title": "SimplePDF",
-		"category": "utility",
+		"category": "pdf",
 		"description": "Create a simple PDF effortlessly.",
 		"homepage": "https://github.com/nRewik/SimplePDF"
 	}, {
-		"title": "SpecificationPattern",
+		"title": "Solar",
 		"category": "utility",
+		"description": "Calculate sunrise and sunset times given a location.",
+		"homepage": "https://github.com/ceeK/Solar"
+	}, {
+		"title": "SpecificationPattern",
+		"category": "validation",
 		"description": "chainable rules useful for form validation.",
 		"homepage": "https://github.com/neoneye/SpecificationPattern"
 	}, {
@@ -3538,7 +3624,7 @@
 		"homepage": "https://github.com/AliSoftware/SwiftGen#uistoryboard"
 	}, {
 		"title": "SwiftMemCache",
-		"category": "utility",
+		"category": "cache",
 		"description": "Swift Memory Cache with namespace & TTL support.",
 		"homepage": "https://github.com/ctews/SwiftMemCache"
 	}, {
@@ -3548,7 +3634,7 @@
 		"homepage": "https://github.com/thellimist/SwiftRandom"
 	}, {
 		"title": "SwiftRouter",
-		"category": "utility",
+		"category": "app-routing",
 		"description": "A URL Router for iOS written in Swift 2.0",
 		"homepage": "https://github.com/skyline75489/SwiftRouter"
 	}, {
@@ -3568,7 +3654,7 @@
 		"homepage": "https://github.com/khan/swifttweaks"
 	}, {
 		"title": "SwiftValidators",
-		"category": "utility",
+		"category": "validation",
 		"description": "String validation for iOS developed in Swift (inspired by validator.js).",
 		"homepage": "https://github.com/gkaimakas/SwiftValidators"
 	}, {
@@ -3606,16 +3692,6 @@
 		"category": "utility",
 		"description": "an UTI (Uniform Type Identifier) wrapper for Swift.",
 		"homepage": "https://github.com/cockscomb/UTIKit"
-	}, {
-		"title": "Versions",
-		"category": "utility",
-		"description": "Helping you find inner peace when comparing version numbers in Swift.",
-		"homepage": "https://github.com/zenangst/Versions"
-	}, {
-		"title": "VersionTrackerSwift",
-		"category": "utility",
-		"description": "Track which versions of your app a user has previously installed. Available for iOS, OS X and tvOS.",
-		"homepage": "https://github.com/tbaranes/VersionTrackerSwift"
 	}, {
 		"title": "MobilePlayer",
 		"category": "video",
@@ -3666,6 +3742,37 @@
 		"category": "label",
 		"description": "UILabel with image placed from left or right.",
 		"homepage": "https://github.com/anatoliyv/IconLabel"
+	}, {
+		"title": "Version Update",
+		"category": "version-manager",
+		"description": "Check and update app's version for both AppStore & Fir.",
+		"homepage": "https://github.com/tenric/VersionUpdate"
+	}, {
+		"title": "Version",
+		"category": "version-manager",
+		"description": "Version represents and compares semantic versions in Swift.",
+		"homepage": "https://github.com/mrackwitz/Version"
+	}, {
+		"title": "AppVersionMonitor",
+		"category": "version-manager",
+		"description": "Monitor iOS app version easily.",
+		"homepage": "https://github.com/eure/AppVersionMonitor"
+	}, {
+		"title": "Versions",
+		"category": "version-manager",
+		"description": "Helping you find inner peace when comparing version numbers in Swift.",
+		"homepage": "https://github.com/zenangst/Versions"
+	}, {
+		"title": "Version Tracker Swift",
+		"category": "version-manager",
+		"description": "Versions tracker for your iOS, OS X, and tvOS app.",
+		"homepage": "https://github.com/tbaranes/VersionTrackerSwift"
+	}, {
+		"title": "Live",
+		"category": "streaming",
+		"description": "Demonstrate how to build a live broadcast app.",
+		"homepage": "https://github.com/ltebean/Live"
 	}
+
 ]
 }

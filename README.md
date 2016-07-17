@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-649-orange.svg) | July 17, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-654-orange.svg) | July 17, 2016
 
 ### Contributing
 
@@ -39,9 +39,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [App Store](#app-store)
   - [Audio](#audio)
   - [Authentication](#authentication)
-  - [Bluetooth](#bluetooth)
   - [Cache](#cache)
-  - [Camera](#camera)
   - [Chart](#chart)
   - [Chat](#chat)
   - [Colors](#colors)
@@ -72,7 +70,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Fonts](#fonts)
   - [Games](#games)
   - [Gesture](#gesture)
-  - [iBeacon](#ibeacon)
+  - [Hardware](#hardware)
+    - [Bluetooth](#bluetooth)
+    - [Camera](#camera)
+    - [Force Touch](#force-touch)
+    - [iBeacon](#ibeacon)
+    - [Sensors](#sensors)
   - [Images](#images)
   - [Key Value Coding](#key-value-coding)
   - [Keyboard](#keyboard)
@@ -93,11 +96,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [OCR](#ocr)
   - [PDF](#pdf)
   - [Quality](#quality)
+  - [SDK](#sdk)
   - [Security](#security)
     - [Cryptography](#cryptography)
     - [Keychain](#keychain)
     - [TouchID](#touchid)
-  - [Sensors](#sensors)
   - [Streaming](#streaming)
   - [System](#system)
   - [Testing](#testing)
@@ -108,6 +111,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [ApplicationDelegate](#applicationdelegate)
     - [Blur](#blur)
     - [Button](#button)
+    - [Calendar](#calendar)
     - [Form](#form)
     - [HUD](#hud)
     - [Label](#label)
@@ -283,12 +287,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps.
 * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
 
-### Bluetooth
-*Wrappers around CoreBluetooth* [back to top](#readme) 
-
-* [BlueCap](https://github.com/troystribling/BlueCap) - BlueCap provides a swift wrapper around CoreBluetooth and much more.
-* [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
-
 ### Cache
 [back to top](#readme) 
 
@@ -296,13 +294,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache.
 * [EVURLCache](https://github.com/evermeer/EVURLCache) - if you want to make your app still works when it's offline.
 * [SwiftMemCache](https://github.com/ctews/SwiftMemCache) - Swift Memory Cache with namespace & TTL support.
-
-### Camera
-*Awesome camera libs* [back to top](#readme) 
-
-* [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - Camera view controller with custom image picker and image cropping.
-* [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner view controller.
-* [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
 
 ### Chart
 [back to top](#readme) 
@@ -569,10 +560,38 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftyGestureRecognition](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
 * [Tactile](https://github.com/delba/Tactile) - Attach function handlers to gesture and control events in a more expressive and safer way.
 
-### iBeacon
+### Hardware
+*A category dedicated to hardware related libs* [back to top](#readme) 
+
+
+#### Bluetooth
+*Wrappers around CoreBluetooth* [back to top](#readme) 
+
+* [BlueCap](https://github.com/troystribling/BlueCap) - BlueCap provides a swift wrapper around CoreBluetooth and much more.
+* [Bluetonium](https://github.com/e-sites/Bluetonium) - Bluetonium is a Swift Library that makes it easy to communicate with Bluetooth devices.
+* [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
+* [RxBluetoothKit](https://github.com/polidea/RxBluetoothKit) - iOS & OSX Bluetooth library for RxSwift.
+
+#### Camera
+*Awesome camera libs* [back to top](#readme) 
+
+* [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - Camera view controller with custom image picker and image cropping.
+* [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
+
+#### Force Touch
+*Easy handle new Force Touch feature thanks to these libs.* [back to top](#readme) 
+
+* [QuickActions](https://github.com/ricardopereira/QuickActions) - Swift wrapper for iOS Home Screen Quick Actions.
+
+#### iBeacon
 *Interested in using iBeacon in your Swift project? Here some interesting resources.* [back to top](#readme) 
 
 * [iBeacon](https://github.com/gemtot/iBeacon) - iBeacon implementation in Swift.
+
+#### Sensors
+*Manage your device sensors in a faster and easier way* [back to top](#readme) 
+
+* [MotionKit](https://github.com/MHaroonBaig/MotionKit) - iOS device sensors wrapper.
 
 ### Images
 *An interesting list of image related libs..* [back to top](#readme) 
@@ -797,6 +816,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Swimat](https://github.com/Jintin/Swimat) - Xcode plugin to format Swift code.
 * [Tailor](https://github.com/sleekbyte/tailor) :penguin: - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
 
+### SDK
+[back to top](#readme) 
+
+
 ### Security
 [back to top](#readme) 
 
@@ -824,11 +847,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### TouchID
 [back to top](#readme) 
 
-
-### Sensors
-*Manage your device sensors in a faster and easier way* [back to top](#readme) 
-
-* [MotionKit](https://github.com/MHaroonBaig/MotionKit) - iOS device sensors wrapper.
 
 ### Streaming
 [back to top](#readme) 
@@ -923,7 +941,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ImagePickerSheetController](https://github.com/lbrndnr/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
 * [InfoView](https://github.com/anatoliyv/InfoView) - Swift based simple information view with pointed arrow.
 * [JLToast](https://github.com/devxoul/JLToast) - Toast for Swift.
-* [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final Apple calendar you will ever try. Built for iOS in Swift.
 * [KCHorizontalDial](https://github.com/kciter/KCHorizontalDial) - A horizontal scroll dial like Instagram.
 * [KCSelectionDialog](https://github.com/kciter/KCSelectionDialog) - Simple selection dialog.
 * [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) - A UINavigationController subclass that support pop interactive UINavigationBar with hidden or show.
@@ -1012,6 +1029,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons.
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
 
+#### Calendar
+[back to top](#readme) 
+
+* [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - Swift UI calendar handler.
+
 #### Form
 [back to top](#readme) 
 
@@ -1041,6 +1063,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.
+* [Translucid](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background. Written in swift.
 
 #### Menu
 [back to top](#readme) 

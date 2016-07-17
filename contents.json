@@ -12,6 +12,10 @@
 		"id": "official-guides",
 		"parent": "guides"
 	}, {
+		"title": "SDK",
+		"id": "sdk",
+		"parent": "libs"
+	}{
 		"title": "Third party Guides",
 		"id": "third-party-guides",
 		"parent": "guides"
@@ -3772,6 +3776,11 @@
 		"category": "streaming",
 		"description": "Demonstrate how to build a live broadcast app.",
 		"homepage": "https://github.com/ltebean/Live"
+	}, {
+		"title": "Facebook",
+		"category": "SDK",
+		"description": "Official Facebook SDK.",
+		"homepage": "https://github.com/facebook/facebook-sdk-swift"
 	}
 
 ]

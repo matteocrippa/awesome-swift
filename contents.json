@@ -110,12 +110,12 @@
 	}, {
 		"title": "Bluetooth",
 		"id": "bluetooth",
-		"parent": "libs",
+		"parent": "hardware",
 		"description": "Wrappers around CoreBluetooth"
 	}, {
 		"title": "Camera",
 		"id": "camera",
-		"parent": "libs",
+		"parent": "hardware",
 		"description": "Awesome camera libs"
 	}, {
 		"title": "Chat",
@@ -251,9 +251,14 @@
 		"id": "gesture",
 		"parent": "libs"
 	}, {
+		"title": "Hardware",
+		"id": "hardware",
+		"parent": "libs",
+		"description": "A category dedicated to hardware related libs"
+	}, {
 		"title": "iBeacon",
 		"id": "ibeacon",
-		"parent": "libs",
+		"parent": "hardware",
 		"description": "Interested in using iBeacon in your Swift project? Here some interesting resources."
 	}, {
 		"title": "Images",
@@ -362,7 +367,7 @@
 	}, {
 		"title": "Sensors",
 		"id": "sensors",
-		"parent": "libs",
+		"parent": "hardware",
 		"description": "Manage your device sensors in a faster and easier way"
 	}, {
 		"title": "System",
@@ -397,6 +402,11 @@
 		"id": "ui",
 		"parent": "libs",
 		"description": "A collection of pre-packaged transitions & cool ui stuffs."
+	}, {
+		"title": "Force Touch",
+		"id": "force-touch",
+		"parent": "hardware",
+		"description": "Easy handle new Force Touch feature thanks to these libs."
 	}, {
 		"title": "Alert",
 		"id": "alert",
@@ -3786,7 +3796,14 @@
 		"category": "label",
 		"description": "Lightweight library to set an Image as text background. Written in swift.",
 		"homepage": "https://github.com/Ekhoo/Translucid"
+	}, {
+		"title": "QuickActions",
+		"category": "force-touch",
+		"description": "Swift wrapper for iOS Home Screen Quick Actions.",
+		"homepage": "https://github.com/ricardopereira/QuickActions"
 	}
+	
+	
 
 ]
 }

@@ -15,7 +15,7 @@
 		"title": "SDK",
 		"id": "sdk",
 		"parent": "libs"
-	}{
+	},{
 		"title": "Third party Guides",
 		"id": "third-party-guides",
 		"parent": "guides"

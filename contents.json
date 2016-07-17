@@ -1644,6 +1644,16 @@
 		"description": "iBeacon implementation in Swift.",
 		"homepage": "https://github.com/gemtot/iBeacon"
 	}, {
+		"title": "JMCBeaconManager",
+		"category": "ibeacon",
+		"description": "iBeacon Manager.",
+		"homepage": "https://github.com/izotx/JMCBeaconManager"
+	}, {
+		"title": "SwiftLocation",
+		"category": "ibeacon",
+		"description": "Location & Beacon Monitoring in Swift.",
+		"homepage": "https://github.com/malcommac/SwiftLocation"
+	}, {
 		"title": "Agrume",
 		"category": "images",
 		"description": "A lemony fresh iOS image viewer written in Swift.",

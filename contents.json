@@ -20,6 +20,10 @@
 		"id": "third-party-guides",
 		"parent": "guides"
 	}, {
+		"title": "Calendar",
+		"id": "calendar",
+		"parent": "ui"
+	}, {
 		"title": "Style Guides",
 		"id": "style-guides",
 		"parent": "guides"
@@ -3805,6 +3809,11 @@
 		"category": "force-touch",
 		"description": "Swift wrapper for iOS Home Screen Quick Actions.",
 		"homepage": "https://github.com/ricardopereira/QuickActions"
+	}, {
+		"title": "JTAppleCalendar",
+		"category": "calendar",
+		"description": "Swift UI calendar handler.",
+		"homepage": "https://github.com/patchthecode/JTAppleCalendar"
 	}
 	
 	

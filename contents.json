@@ -2827,11 +2827,6 @@
 		"category": "label",
 		"description": "An UILabel subclass to (de)increment numbers in an UILabel",
 		"homepage": "https://github.com/recisio/IncrementableLabel"
-	}, {
-		"title": "JTAppleCalendar",
-		"category": "ui",
-		"description": "The final Apple calendar you will ever try. Built for iOS in Swift.",
-		"homepage": "https://github.com/patchthecode/JTAppleCalendar"
 	},{
 		"title": "JLToast",
 		"category": "ui",

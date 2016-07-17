@@ -313,6 +313,10 @@
 		"id": "location",
 		"parent": "libs"
 	}, {
+		"title": "Barcode",
+		"id": "barcode",
+		"parent": "camera"
+	}, {
 		"title": "Math",
 		"id": "math",
 		"parent": "libs"
@@ -928,7 +932,7 @@
 		"homepage": "https://github.com/ytakzk/Fusuma"
 	}, {
 		"title": "BarcodeScanner",
-		"category": "camera",
+		"category": "barcode",
 		"description": "A simple and beautiful barcode scanner view controller.",
 		"homepage": "https://github.com/hyperoslo/BarcodeScanner"
 	}, {

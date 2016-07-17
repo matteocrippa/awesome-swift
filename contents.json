@@ -925,6 +925,16 @@
 		"description": "Easily communicate between iOS/OSX devices using BLE.",
 		"homepage": "https://github.com/rhummelmose/BluetoothKit"
 	}, {
+		"title": "RxBluetoothKit",
+		"category": "bluetooth",
+		"description": "iOS & OSX Bluetooth library for RxSwift.",
+		"homepage": "https://github.com/polidea/RxBluetoothKit"
+	}, {
+		"title": "Bluetonium",
+		"category": "bluetooth",
+		"description": "Bluetonium is a Swift Library that makes it easy to communicate with Bluetooth devices.",
+		"homepage": "https://github.com/e-sites/Bluetonium"
+	}, {
 		"title": "ALCameraViewController",
 		"category": "camera",
 		"description": "Camera view controller with custom image picker and image cropping.",

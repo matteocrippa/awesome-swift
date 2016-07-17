@@ -411,8 +411,8 @@
 		"parent": "libs",
 		"description": "A collection of pre-packaged transitions & cool ui stuffs."
 	}, {
-		"title": "Force Touch",
-		"id": "force-touch",
+		"title": "3D Touch",
+		"id": "3d-touch",
 		"parent": "hardware",
 		"description": "Easy handle new Force Touch feature thanks to these libs."
 	}, {
@@ -3821,7 +3821,7 @@
 		"homepage": "https://github.com/Ekhoo/Translucid"
 	}, {
 		"title": "QuickActions",
-		"category": "force-touch",
+		"category": "3d-touch",
 		"description": "Swift wrapper for iOS Home Screen Quick Actions.",
 		"homepage": "https://github.com/ricardopereira/QuickActions"
 	}, {

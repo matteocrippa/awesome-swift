@@ -2005,11 +2005,6 @@
 		"description": "The Swift Geographic Engine, make it easier to work with geographic models and calculate intersections, overlapping, projections etc.",
 		"homepage": "https://github.com/andreacremaschi/GEOSwift"
 	}, {
-		"title": "SwiftLocation",
-		"category": "location",
-		"description": "iOS CoreLocation Wrapper made in Swift.",
-		"homepage": "https://github.com/malcommac/SwiftLocation"
-	}, {
 		"title": "STLocationRequest",
 		"category": "location",
 		"description": "An elegant and simple 3D Flyover Location Request Screen in Swift.",

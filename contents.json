@@ -414,7 +414,7 @@
 		"title": "3D Touch",
 		"id": "3d-touch",
 		"parent": "hardware",
-		"description": "Easy handle new Force Touch feature thanks to these libs."
+		"description": "Easy handle new 3D Touch / Force Touch feature thanks to these libs."
 	}, {
 		"title": "Alert",
 		"id": "alert",

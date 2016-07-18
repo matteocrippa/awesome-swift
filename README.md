@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-654-orange.svg) | July 17, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-655-orange.svg) | July 18, 2016
 
 ### Contributing
 
@@ -71,9 +71,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Games](#games)
   - [Gesture](#gesture)
   - [Hardware](#hardware)
+    - [3D Touch](#3d-touch)
     - [Bluetooth](#bluetooth)
     - [Camera](#camera)
-    - [Force Touch](#force-touch)
     - [iBeacon](#ibeacon)
     - [Sensors](#sensors)
   - [Images](#images)
@@ -564,6 +564,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *A category dedicated to hardware related libs* [back to top](#readme) 
 
 
+#### 3D Touch
+*Easy handle new Force Touch feature thanks to these libs.* [back to top](#readme) 
+
+* [QuickActions](https://github.com/ricardopereira/QuickActions) - Swift wrapper for iOS Home Screen Quick Actions.
+
 #### Bluetooth
 *Wrappers around CoreBluetooth* [back to top](#readme) 
 
@@ -578,15 +583,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - Camera view controller with custom image picker and image cropping.
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
 
-#### Force Touch
-*Easy handle new Force Touch feature thanks to these libs.* [back to top](#readme) 
-
-* [QuickActions](https://github.com/ricardopereira/QuickActions) - Swift wrapper for iOS Home Screen Quick Actions.
-
 #### iBeacon
 *Interested in using iBeacon in your Swift project? Here some interesting resources.* [back to top](#readme) 
 
 * [iBeacon](https://github.com/gemtot/iBeacon) - iBeacon implementation in Swift.
+* [JMCBeaconManager](https://github.com/izotx/JMCBeaconManager) - iBeacon Manager.
+* [SwiftLocation](https://github.com/malcommac/SwiftLocation) - Location & Beacon Monitoring in Swift.
 
 #### Sensors
 *Manage your device sensors in a faster and easier way* [back to top](#readme) 
@@ -679,7 +681,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen in Swift.
-* [SwiftLocation](https://github.com/malcommac/SwiftLocation) - iOS CoreLocation Wrapper made in Swift.
 
 ### Logging
 *Utilities for writing to and reading from the device log* [back to top](#readme) 
@@ -795,7 +796,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Natural Language Processing
 [back to top](#readme) 
 
-* [LangKit](https://github.com/xinranmsn/LangKit) - Natural Language Processing (NLP) toolkit for Swift.
+* [LangKit](https://github.com/rxwei/LangKit) - Natural Language Processing (NLP) toolkit for Swift.
 
 ### OCR
 [back to top](#readme) 

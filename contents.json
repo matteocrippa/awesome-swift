@@ -3528,7 +3528,7 @@
 		"title": "LangKit",
 		"category": "nlp",
 		"description": "Natural Language Processing (NLP) toolkit for Swift.",
-		"homepage": "https://github.com/xinranmsn/LangKit"
+		"homepage": "https://github.com/rxwei/LangKit"
 	}, {
 		"title": "Mendel",
 		"category": "utility",

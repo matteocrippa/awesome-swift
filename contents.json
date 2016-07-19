@@ -625,11 +625,6 @@
 		"description": "Best practices for software development with Swift.",
 		"homepage": "https://github.com/schwa/Swift-Community-Best-Practices/"
 	}, {
-		"title": "Swift Off",
-		"category": "boilerplates",
-		"description": "Swift starting point includes Firebase, Crashing Reporting, Signup & more.",
-		"homepage": "https://github.com/goprimer/swift-off"
-	}, {
 		"title": "Webview Boilerplate",
 		"category": "boilerplates",
 		"description": "Swift starting point for webview app.",
@@ -3830,8 +3825,8 @@
 		"description": "Swift UI calendar handler.",
 		"homepage": "https://github.com/patchthecode/JTAppleCalendar"
 	}
-	
-	
+
+
 
 ]
 }

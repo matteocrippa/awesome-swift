@@ -800,6 +800,11 @@
 		"description": "An animation engine to make your animations easy and more readable.",
 		"homepage": "https://github.com/RamonGilabert/Walker"
 	}, {
+		"title": "ZoomTransitioning",
+		"category": "animation",
+		"description": "A custom transition with image zooming animation.",
+		"homepage": "https://github.com/WorldDownTown/ZoomTransitioning"
+	}, {
 		"title": "Appz",
 		"category": "app-routing",
 		"description": "Launch external apps, and deeplink, with ease using Swift!",

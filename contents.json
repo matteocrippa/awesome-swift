@@ -958,7 +958,7 @@
 		"title": "MessageKit",
 		"category": "chat",
 		"description": "Eventually, a Swift re-write of JSQMessagesViewController.",
-		"homepage": "https://github.com/MessageKit/MessageKit"
+		"homepage": "https://github.com/MessageKit/MessageKit-iOS"
 	},{
 		"title": "Chameleon",
 		"category": "colors",

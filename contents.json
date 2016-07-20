@@ -3824,9 +3824,11 @@
 		"category": "calendar",
 		"description": "Swift UI calendar handler.",
 		"homepage": "https://github.com/patchthecode/JTAppleCalendar"
+	}, {
+		"title": "WSTagsField",
+		"category": "ui",
+		"description": "An iOS text field that represents different Tags.",
+		"homepage": "https://github.com/whitesmith/WSTagsField"
 	}
-
-
-
 ]
 }

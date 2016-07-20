@@ -3824,6 +3824,11 @@
 		"category": "calendar",
 		"description": "Swift UI calendar handler.",
 		"homepage": "https://github.com/patchthecode/JTAppleCalendar"
+	}, {
+		"title": "ImageOpenTransition",
+		"category": "transition",
+		"description": "Beautiful and precise transitions between ViewControllers images written in Swift.",
+		"homepage": "https://github.com/mcmatan/ImageOpenTransition"
 	}
 
 

@@ -2068,8 +2068,8 @@
 	}, {
 		"title": "Heimdallr.swift",
 		"category": "network",
-		"description": "Easy to use OAuth 2 library for iOS, written in Swift.",
-		"homepage": "https://github.com/rheinfabrik/Heimdallr.swift"
+		"description": "Easy to use OAuth 2 library for iOS.",
+		"homepage": "https://github.com/trivago/Heimdallr.swift"
 	}, {
 		"title": "Just",
 		"category": "network",

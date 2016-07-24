@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-657-orange.svg) | July 20, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-657-orange.svg) | July 24, 2016
 
 ### Contributing
 
@@ -150,7 +150,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - A cool 30 days tutorial for swift.
-* [99 Swift Problems](http://www.enekoalonso.com/projects/99-swift-problems/) - Ninety-Nine Swift Problems, a good way to learn Swift while practicing data structures and algorithms.
 * [A better way to learn Swift](https://github.com/GoThinkster/swift) - Learn Swift in a different way.
 * [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - An organized list of essential Swift Language Topics
 * [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
@@ -904,6 +903,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Threading, task-based or asynchronous programming, Grand Central Dispatch (GCD) wrapper* [back to top](#readme) 
 
 * [Async](https://github.com/duemunk/Async) - Syntactic Swift sugar for Grand Central Dispatch.
+* [AwaitKit](https://github.com/yannickl/AwaitKit) - The ES7 Async/Await control flow for Swift.
 * [Chronos](https://github.com/comyarzaheri/Chronos-Swift) - Grand Central Dispatch Utilities.
 * [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift.
 * [EKI](https://github.com/kodlian/Eki) - Make Grand Central Dispatch easy and fun to use (queue, task, group, timer and semaphore).

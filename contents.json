@@ -3835,6 +3835,11 @@
  		"category": "transition",
  		"description": "Beautiful and precise transitions between ViewControllers images.",
  		"homepage": "https://github.com/mcmatan/ImageOpenTransition"
-  	}
+  	}, {
+		"title": "UnsupportedOSVersionAlert",
+		"category": "version-manager",
+		"description": "Alert popup to notify users if they are using an unsupported iOS version (e.g. iOS betas)",
+		"homepage": "https://github.com/caloon/UnsupportedOSVersionAlert"
+	}
 ]
 }

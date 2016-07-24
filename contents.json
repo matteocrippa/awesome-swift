@@ -515,11 +515,6 @@
 		"description": "A cool 30 days tutorial for swift.",
 		"homepage": "https://github.com/allenwong/30DaysofSwift"
 	}, {
-		"title": "99 Swift Problems",
-		"category": "third-party-guides",
-		"description": "Ninety-Nine Swift Problems, a good way to learn Swift while practicing data structures and algorithms.",
-		"homepage": "http://www.enekoalonso.com/projects/99-swift-problems/"
-	}, {
 		"title": "A better way to learn Swift",
 		"category": "third-party-guides",
 		"description": "Learn Swift in a different way.",

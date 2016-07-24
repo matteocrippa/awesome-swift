@@ -2613,6 +2613,11 @@
 		"description": "Syntactic Swift sugar for Grand Central Dispatch.",
 		"homepage": "https://github.com/duemunk/Async"
 	}, {
+		"title": "AwaitKit",
+		"category": "thread",
+		"description": "The ES7 Async/Await control flow for Swift.",
+		"homepage": "https://github.com/yannickl/AwaitKit"
+	}, {
 		"title": "Chronos",
 		"category": "thread",
 		"description": "Grand Central Dispatch Utilities.",

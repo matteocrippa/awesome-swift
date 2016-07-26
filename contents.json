@@ -2673,6 +2673,11 @@
 		"description": "Scrollable UINavigationBar that follows the scrolling of a UIScrollView.",
 		"homepage": "https://github.com/andreamazz/AMScrollingNavbar"
 	}, {
+		"title": "Animated Tab Bar",
+		"category": "ui",
+		"description": "RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.",
+		"homepage": "https://github.com/Ramotion/animated-tab-bar"
+	}, {
 		"title": "BreakOutToRefresh",
 		"category": "ui",
 		"description": "A playable pull to refresh view using SpriteKit.",

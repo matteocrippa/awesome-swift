@@ -758,7 +758,7 @@
 		"title": "IBAnimatable",
 		"category": "animation",
 		"description": "Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.",
-		"homepage": "https://github.com/JakeLin/IBAnimatable"
+		"homepage": "https://github.com/IBAnimatable/IBAnimatable"
 	}, {
 		"title": "Interpolate",
 		"category": "animation",

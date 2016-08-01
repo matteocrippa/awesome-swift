@@ -433,6 +433,10 @@
 		"id": "button",
 		"parent": "ui"
 	}, {
+		"title": "Tab",
+		"id": "tab",
+		"parent": "ui"
+	}, {
 		"title": "TextField",
 		"id": "textfield",
 		"parent": "ui"
@@ -2658,7 +2662,7 @@
 		"homepage": "https://github.com/optonaut/ActiveLabel.swift"
 	}, {
 		"title": "Adaptive Tab Bar",
-		"category": "ui",
+		"category": "tab",
 		"description": "Adaptive tab bar.",
 		"homepage": "https://github.com/Ramotion/adaptive-tab-bar"
 	}, {
@@ -2678,7 +2682,7 @@
 		"homepage": "https://github.com/andreamazz/AMScrollingNavbar"
 	}, {
 		"title": "Animated Tab Bar",
-		"category": "ui",
+		"category": "tab",
 		"description": "RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.",
 		"homepage": "https://github.com/Ramotion/animated-tab-bar"
 	}, {
@@ -3090,7 +3094,7 @@
 		"homepage": "https://github.com/shoheiyokoyama/SYBlinkAnimationKit"
 	}, {
 		"title": "TabPageViewController",
-		"category": "ui",
+		"category": "tab",
 		"description": "Paging view controller and scroll tab view",
 		"homepage": "https://github.com/EndouMari/TabPageViewController"
 	}, {

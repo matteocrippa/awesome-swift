@@ -427,7 +427,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [CoreModel](https://github.com/PureSwift/CoreModel) :penguin: - Pure Swift ORM (Supports Linux)
-* [fluent](https://github.com/qutheory/fluent) :penguin: - Simple ActiveRecord implementation for Swift
+* [fluent](https://github.com/vapor/fluent) :penguin: - Simple ActiveRecord implementation for Swift
 
 #### Other Data
 *Other ways to persist data* [back to top](#readme) 
@@ -796,7 +796,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Tailor](https://tailorframe.work) - A framework for building web apps using Apple's Swift programming language.
 * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift.
 * [Trevi](https://github.com/Yoseob/Trevi) - A powerful Swift Web Application Server Framework Project.
-* [Vapor](https://github.com/qutheory/vapor) :penguin: - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.
+* [Vapor](https://github.com/vapor/vapor) :penguin: - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 * [Zewo](https://github.com/Zewo/Zewo) :penguin: - Server-Side Swift.
 

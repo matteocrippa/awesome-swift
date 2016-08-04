@@ -3857,6 +3857,12 @@
 			"category": "transition",
 			"description": "A Splash view that animates and reveals its content, inspired by the Twitter splash.",
 			"homepage": "https://github.com/PiXeL16/RevealingSplashView"
+	},
+	{
+	 		"title": "Postal",
+	 		"category": "network",
+	 		"description": "A swift framework providing simple access to common email providers.",
+	 		"homepage": "https://github.com/snipsco/Postal"
 	}
 ]
 }

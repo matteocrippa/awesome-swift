@@ -1331,7 +1331,7 @@
 		"title": "fluent",
 		"category": "orm",
 		"description": "Simple ActiveRecord implementation for Swift",
-		"homepage": "https://github.com/qutheory/fluent",
+		"homepage": "https://github.com/vapor/fluent",
 		"tags": ["linux"]
 	},{
 		"title": "GRDB.swift",
@@ -2338,7 +2338,7 @@
 		"title": "Vapor",
 		"category": "webserver",
 		"description": "Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.",
-		"homepage": "https://github.com/qutheory/vapor",
+		"homepage": "https://github.com/vapor/vapor",
 		"tags": ["linux"]
 	}, {
 		"title": "XcodeServerSDK",

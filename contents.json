@@ -3856,7 +3856,7 @@
 	{
 	 		"title": "Postal",
 	 		"category": "network",
-	 		"description": "A swift framework providing simple access to common email providers.",
+	 		"description": "Swift framework providing simple access to common email providers.",
 	 		"homepage": "https://github.com/snipsco/Postal"
 	}
 ]

@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-660-orange.svg) | August 01, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-660-orange.svg) | August 04, 2016
 
 ### Contributing
 
@@ -160,7 +160,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Learn Swift](https://github.com/nettlep/learn-swift) - a collection of tuts that will help you learning Swift via playground.
 * [Natasha the Robot](https://www.natashatherobot.com/) - Weekly Newsletter on learning Swift
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn Swift.
-* [RxSwift Community](http://community.rxswift.org/) - Libraries, guides & projects that support [`RxSwift`](https://github.com/ReactiveX/RxSwift)
 * [Swift A Day](https://github.com/lindadong/swift-a-day) - Daily swift experiments by Linda Dong.
 * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development.
 * [Swift Sandbox Newsletter](http://swiftsandbox.io) - Swift Sandbox is a weekly newsletter containing a collection of links to the best Swift **code** and **developer tools**. Every Friday. **Free**.
@@ -426,7 +425,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [CoreModel](https://github.com/PureSwift/CoreModel) :penguin: - Pure Swift ORM (Supports Linux)
-* [fluent](https://github.com/qutheory/fluent) :penguin: - Simple ActiveRecord implementation for Swift
+* [fluent](https://github.com/vapor/fluent) :penguin: - Simple ActiveRecord implementation for Swift
 
 #### Other Data
 *Other ways to persist data* [back to top](#readme) 
@@ -734,6 +733,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS.
 * [PeerKit](https://github.com/jpsim/PeerKit) - An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps.
 * [Pitaya](https://github.com/johnlui/Pitaya) :penguin: - A Swift HTTP / HTTPS networking library just incidentally execute on machines.
+* [Postal](https://github.com/snipsco/Postal) - A swift framework providing simple access to common email providers.
 * [Reach](https://github.com/Isuru-Nanayakkara/Reach) - A simple class to check for internet connection availability in Swift.
 * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - A replacement for Apple's Reachability re-written in Swift with closures.
 * [ResponseDetective](https://github.com/netguru/ResponseDetective) - A non-intrusive framework for intercepting any outgoing requests and incoming responses between your app and server for debugging purposes.
@@ -790,7 +790,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Tailor](https://tailorframe.work) - A framework for building web apps using Apple's Swift programming language.
 * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift.
 * [Trevi](https://github.com/Yoseob/Trevi) - A powerful Swift Web Application Server Framework Project.
-* [Vapor](https://github.com/qutheory/vapor) :penguin: - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.
+* [Vapor](https://github.com/vapor/vapor) :penguin: - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 * [Zewo](https://github.com/Zewo/Zewo) :penguin: - Server-Side Swift.
 

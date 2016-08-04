@@ -88,6 +88,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Maps](#maps)
   - [Math](#math)
   - [Network](#network)
+    - [Email](#email)
     - [HTML](#html)
     - [Messaging Protocol](#messaging-protocol)
     - [Socket](#socket)
@@ -743,6 +744,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
 * [SwiftyOAuth](https://github.com/delba/SwiftyOAuth) - A small OAuth library with a built-in set of providers
 * [Transporter](https://github.com/nghialv/Transporter) - A tiny library makes uploading and downloading easier.
+
+#### Email
+[back to top](#readme)
+
+* [Postal](https://github.com/snipsco/Postal) - A swift framework providing simple access to common email providers.
 
 #### HTML
 *Need to manipulate contents from html easily?* [back to top](#readme) 

@@ -3858,11 +3858,16 @@
 	 		"category": "network",
 	 		"description": "Swift framework providing simple access to common email providers.",
 	 		"homepage": "https://github.com/snipsco/Postal"
-	}, {
+	},	{
 		"title": "ColorMatchTabs",
 		"category": "tab",
 		"description": "Interesting way to display tabs.",
 		"homepage": "https://github.com/Yalantis/ColorMatchTabs"
+	},{
+			"title": "IBLocalizable",
+			"category": "localization",
+			"description": "Localize your views directly in Interface Builder with IBLocalizable ",
+			"homepage": "https://github.com/PiXeL16/IBLocalizable"
 	}
 ]
 }

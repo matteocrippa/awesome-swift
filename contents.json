@@ -3868,6 +3868,11 @@
 			"category": "localization",
 			"description": "Localize your views directly in Interface Builder with IBLocalizable ",
 			"homepage": "https://github.com/PiXeL16/IBLocalizable"
-	}
+	}, {
+	  "title": "TriLabelView",
+	  "category": "label",
+	  "description": "A triangle shaped corner label view for iOS written in Swift.",
+	  "homepage": "https://github.com/mukeshthawani/TriLabelView"
+  }
 ]
 }

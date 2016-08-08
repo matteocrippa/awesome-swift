@@ -1168,10 +1168,10 @@
 		"description": "Json parsing library.",
 		"homepage": "https://github.com/thoughtbot/Argo"
 	}, {
-		"title": "Arrow ",
+		"title": "Arrow",
 		"category": "json",
 		"description": "Elegant JSON Parsing in Swift.",
-		"homepage": "https://github.com/s4cha/Arrow"
+		"homepage": "https://github.com/freshOS/Arrow"
 	}, {
 		"title": "Brick",
 		"category": "json",

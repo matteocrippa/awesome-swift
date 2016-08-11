@@ -386,6 +386,10 @@
 		"id": "testing",
 		"parent": "libs",
 		"description": "A collection of testing frameworks."
+	},{
+		"title": "Mock",
+		"id": "Mock",
+		"parent": "testing"
 	}, {
 		"title": "Text",
 		"id": "text",

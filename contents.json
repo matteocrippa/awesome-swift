@@ -501,6 +501,10 @@
 		"title": "Streaming",
 		"id": "streaming",
 		"parent": "libs"
+	}, {
+		"title": "Pagination",
+		"id": "pagination",
+		"parent": "ui"
 	}],
 	"projects": [{
 		"title": "Apple eBook",
@@ -2971,8 +2975,13 @@
 		"description": "Some utility classes to use WKWebView in Swift.",
 		"homepage": "https://github.com/tasanobu/Otafuku"
 	}, {
+		"title": "PageControls",
+		"category": "pagination",
+		"description": "Custom UIPageControl.",
+		"homepage": "https://github.com/popwarsweet/PageControls"
+	}, {
 		"title": "PageController",
-		"category": "ui",
+		"category": "pagination",
 		"description": "Infinite paging controller.",
 		"homepage": "https://github.com/hirohisa/PageController"
 	}, {

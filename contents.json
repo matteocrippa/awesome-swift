@@ -1124,9 +1124,9 @@
 	}, {
 		"title": "KZFileWatchers",
 		"category": "files",
-		"description": "Powerful Swift file browser for iOS.",
+		"description": "A micro-framework for observing file changes, both local and remote.",
 		"homepage": "https://github.com/krzysztofzablocki/KZFileWatchers"
-	},{
+	}, {
 		"title": "FileBrowser",
 		"category": "files",
 		"description": "Powerful Swift file browser for iOS.",

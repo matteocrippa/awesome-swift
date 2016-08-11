@@ -170,7 +170,7 @@
 	}, {
 		"title": "Files",
 		"id": "files",
-		"parent": "data-management"
+		"parent": "libs"
 	}, {
 		"title": "JSON",
 		"id": "json",
@@ -1122,6 +1122,11 @@
 		"description": "A concise Mantle-like way of working with Realm and JSON.",
 		"homepage": "https://github.com/matthewcheok/Realm-JSON"
 	}, {
+		"title": "KZFileWatchers",
+		"category": "files",
+		"description": "Powerful Swift file browser for iOS.",
+		"homepage": "https://github.com/krzysztofzablocki/KZFileWatchers"
+	},{
 		"title": "FileBrowser",
 		"category": "files",
 		"description": "Powerful Swift file browser for iOS.",

@@ -1410,6 +1410,11 @@
 		"description": "Simplified access to CloudKit with support for subscriptions and local caching.",
 		"homepage": "https://github.com/evermeer/EVCloudKitDao"
 	}, {
+		"title": "NSDate-Extensions",
+		"category": "date",
+		"description": "Simple date helper.",
+		"homepage": "https://github.com/erica/NSDate-Extensions"
+	}, {
 		"title": "AFDateHelper",
 		"category": "date",
 		"description": "Simple date helper.",

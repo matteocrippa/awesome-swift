@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-663-orange.svg) | August 11, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-667-orange.svg) | August 11, 2016
 
 ### Contributing
 
@@ -49,7 +49,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Data Management](#data-management)
     - [Core Data](#core-data)
     - [Data Structures](#data-structures)
-    - [Files](#files)
     - [JSON](#json)
     - [Key Value Store](#key-value-store)
     - [MongoDB](#mongodb)
@@ -67,6 +66,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Embedded Systems](#embedded-systems)
     - [Peripherals](#peripherals)
   - [Events](#events)
+  - [Files](#files)
   - [Fonts](#fonts)
   - [Games](#games)
   - [Gesture](#gesture)
@@ -104,6 +104,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Streaming](#streaming)
   - [System](#system)
   - [Testing](#testing)
+    - [Mock](#mock)
   - [Text](#text)
   - [Thread](#thread)
   - [UI](#ui)
@@ -116,6 +117,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [HUD](#hud)
     - [Label](#label)
     - [Menu](#menu)
+    - [Pagination](#pagination)
     - [Payment](#payment)
     - [Permissions](#permissions)
     - [StackView](#stackview)
@@ -367,14 +369,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Algorithm](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models in Swift.
 
-#### Files
-[back to top](#readme) 
-
-* [FileBrowser](https://github.com/marmelroy/FileBrowser) - Powerful Swift file browser for iOS.
-* [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift.
-* [FileProvider](https://github.com/amosavian/FileProvider) - NSFileManager replacement for Local and Remote (WebDAV/Dropbox/SMB2) files.
-* [PathKit](https://github.com/kylef/PathKit) :penguin: - Effortless path operations in Swift.
-
 #### JSON
 *Struggling using json data? Here are some interesting ways to handle it.* [back to top](#readme) 
 
@@ -471,8 +465,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Simple date helper.
 * [Datez](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, `NSDateComponents`, and `NSTimeInterval`.
+* [NSDate-Extensions](https://github.com/erica/NSDate-Extensions) - Practical real-world dates.
 * [Punctual.swift](https://github.com/harlanhaskins/Punctual.swift) :penguin: - Swift date handler.
-* [Swift-NSDate-Extensions](https://github.com/fwhenin/Swift-NSDate-Extensions) - Swift Version of [Erica's NSDate Extensions](https://github.com/erica/NSDate-Extensions).
+* [Swift-NSDate-Extensions](https://github.com/fwhenin/Swift-NSDate-Extensions) - NSDate extensions.
 * [SwiftDate](https://github.com/malcommac/SwiftDate) - Easy NSDate Management in Swift.
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer
@@ -530,6 +525,15 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 * [When](https://github.com/vadymmarkov/When) - A lightweight implementation of Promises in Swift.
+
+### Files
+[back to top](#readme) 
+
+* [FileBrowser](https://github.com/marmelroy/FileBrowser) - Powerful Swift file browser for iOS.
+* [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift.
+* [FileProvider](https://github.com/amosavian/FileProvider) - NSFileManager replacement for Local and Remote (WebDAV/Dropbox/SMB2) files.
+* [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - A micro-framework for observing file changes, both local and remote.
+* [PathKit](https://github.com/kylef/PathKit) :penguin: - Effortless path operations in Swift.
 
 ### Fonts
 *A collection of font related snippets.* [back to top](#readme) 
@@ -867,20 +871,25 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Buildasaur](https://github.com/czechboy0/Buildasaur) - Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server.
 * [CatchingFire](https://github.com/mrackwitz/CatchingFire) - Test Library for Swift's Error Handling.
-* [Cuckoo](https://github.com/SwiftKit/Cuckoo) - First boilerplate-free mocking framework for Swift
 * [DVR](https://github.com/venmo/DVR) - A simple network testing framework for Swift.
 * [Erik](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
 * [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
-* [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease in Swift.
-* [Mockit](https://github.com/sabirvirtuoso/Mockit) - A simple mocking framework for Swift, inspired by the famous Mockito for Java.
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - A testing library designed to stub your network requests easily.
 * [PinpointKit](https://github.com/Lickability/PinpointKit) - An open-source iOS library in Swift that lets your testers and users send feedback with annotated screenshots and logs using a simple gesture.
 * [Quick](https://github.com/Quick/Quick) :penguin: - Quick is a behavior-driven development framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
 * [Spectre](https://github.com/kylef/Spectre) :penguin: - BDD Framework for Swift.
 * [SwiftCheck](https://github.com/typelift/SwiftCheck) - A testing library that automatically generates random data for testing program properties.
-* [SwiftMock](https://github.com/mflint/SwiftMock) - A mocking framework for Swift
 * [UI Testing Cheat Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet) - Answers to common "How do I test this with UI Testing?" questions with a working example app.
+
+#### Mock
+[back to top](#readme) 
+
+* [Cuckoo](https://github.com/SwiftKit/Cuckoo) - First boilerplate-free mocking framework for Swift
+* [Kakapo](https://github.com/devlucky/Kakapo) - Dynamically Mock server behaviors and responses in Swift 
+* [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease in Swift.
+* [Mockit](https://github.com/sabirvirtuoso/Mockit) - A simple mocking framework for Swift, inspired by the famous Mockito for Java.
+* [SwiftMock](https://github.com/mflint/SwiftMock) - A mocking framework for Swift
 
 ### Text
 *A collection of text projects.* [back to top](#readme) 
@@ -961,7 +970,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
 * [Otafuku](https://github.com/tasanobu/Otafuku) - Some utility classes to use WKWebView in Swift.
-* [PageController](https://github.com/hirohisa/PageController) - Infinite paging controller.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Panoramic facebook story clone.
 * [PPSwiftGifs](https://github.com/peterprokop/PPSwiftGifs) - a convenient way to show animated GIF images as a part of iOS GUI.
 * [Reel search](https://github.com/Ramotion/reel-search) - Option list managed as a reel.
@@ -1079,6 +1087,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
+
+#### Pagination
+[back to top](#readme) 
+
+* [PageController](https://github.com/hirohisa/PageController) - Infinite paging controller.
+* [PageControls](https://github.com/popwarsweet/PageControls) - Custom UIPageControl.
 
 #### Payment
 [back to top](#readme) 

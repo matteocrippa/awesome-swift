@@ -2470,9 +2470,14 @@
 		"homepage": "https://github.com/mrackwitz/CatchingFire"
 	}, {
 		"title": "Cuckoo",
-		"category": "testing",
+		"category": "mock",
 		"description": "First boilerplate-free mocking framework for Swift",
 		"homepage": "https://github.com/SwiftKit/Cuckoo"
+	},{
+		"title": "Kakapo",
+		"category": "mock",
+		"description": "Dynamically Mock server behaviors and responses in Swift ",
+		"homepage": "https://github.com/devlucky/Kakapo"
 	}, {
 		"title": "DVR",
 		"category": "testing",
@@ -2490,12 +2495,12 @@
 		"homepage": "https://github.com/vadymmarkov/Fakery"
 	}, {
 		"title": "Mockingjay",
-		"category": "testing",
+		"category": "mock",
 		"description": "An elegant library for stubbing HTTP requests with ease in Swift.",
 		"homepage": "https://github.com/kylef/Mockingjay"
 	}, {
 		"title": "Mockit",
-		"category": "testing",
+		"category": "mock",
 		"description": "A simple mocking framework for Swift, inspired by the famous Mockito for Java.",
 		"homepage": "https://github.com/sabirvirtuoso/Mockit"
 	}, {
@@ -2527,7 +2532,7 @@
 		"homepage": "https://github.com/typelift/SwiftCheck"
 	}, {
 		"title": "SwiftMock",
-		"category": "testing",
+		"category": "mock",
 		"description": "A mocking framework for Swift",
 		"homepage": "https://github.com/mflint/SwiftMock"
 	}, {

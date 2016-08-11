@@ -388,7 +388,7 @@
 		"description": "A collection of testing frameworks."
 	},{
 		"title": "Mock",
-		"id": "Mock",
+		"id": "mock",
 		"parent": "testing"
 	}, {
 		"title": "Text",

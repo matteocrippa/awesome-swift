@@ -1412,7 +1412,7 @@
 	}, {
 		"title": "NSDate-Extensions",
 		"category": "date",
-		"description": "Simple date helper.",
+		"description": "Practical real-world dates.",
 		"homepage": "https://github.com/erica/NSDate-Extensions"
 	}, {
 		"title": "AFDateHelper",
@@ -1433,7 +1433,7 @@
 	}, {
 		"title": "Swift-NSDate-Extensions",
 		"category": "date",
-		"description": "Swift Version of [Erica's NSDate Extensions](https://github.com/erica/NSDate-Extensions).",
+		"description": "NSDate extensions.",
 		"homepage": "https://github.com/fwhenin/Swift-NSDate-Extensions"
 	}, {
 		"title": "SwiftDate",

@@ -1049,6 +1049,11 @@
 		"homepage": "https://github.com/scottrhoyt/SwiftyTextTable",
 		"tags": ["linux"]
 	}, {
+		"title": "TextTable",
+		"category": "command-line",
+		"description": "Easily print textual tables in Swift. Inspired by the Python tabulate library.",
+		"homepage": "https://github.com/cfilipov/TextTable"
+	}, {
 		"title": "Safe",
 		"category": "concurrency",
 		"description": "Modern Concurrency and Synchronization for Swift.",

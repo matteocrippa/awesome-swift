@@ -1202,6 +1202,11 @@
 		"homepage": "https://github.com/Anviking/Decodable",
 		"tags": ["linux"]
 	}, {
+		"title": "Elevate",
+		"category": "json",
+		"description": "JSON parsing framework that leverages Swift to make parsing simple, reliable and composable.",
+		"homepage": "https://github.com/Nike-Inc/Elevate"
+	}, {
 		"title": "EVReflection",
 		"category": "json",
 		"description": "Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable",
@@ -2015,6 +2020,11 @@
 		"category": "logging",
 		"description": "A logging tool to show the current framerate (fps) in the status bar of your iOS app.",
 		"homepage": "https://github.com/tapwork/WatchdogInspector"
+	}, {
+		"title": "Willow",
+		"category": "logging",
+		"description": "Willow is a powerful, yet lightweight logging library written in Swift.",
+		"homepage": "https://github.com/Nike-Inc/Willow"
 	}, {
 		"title": "XCGLogger",
 		"category": "logging",

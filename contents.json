@@ -3906,6 +3906,11 @@
 	  "category": "label",
 	  "description": "A triangle shaped corner label view for iOS written in Swift.",
 	  "homepage": "https://github.com/mukeshthawani/TriLabelView"
+  }, {
+      "title": "ReadabilityKit",
+      "category": "utility",
+      "description": "Preview extractor for news, articles and full-texts in Swift",
+      "homepage": "https://github.com/exyte/ReadabilityKit"
   }
 ]
 }

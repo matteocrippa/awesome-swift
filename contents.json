@@ -1202,6 +1202,11 @@
 		"homepage": "https://github.com/Anviking/Decodable",
 		"tags": ["linux"]
 	}, {
+		"title": "Elevate",
+		"category": "json",
+		"description": "JSON parsing framework that leverages Swift to make parsing simple, reliable and composable.",
+		"homepage": "https://github.com/Nike-Inc/Elevate"
+	}, {
 		"title": "EVReflection",
 		"category": "json",
 		"description": "Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable",

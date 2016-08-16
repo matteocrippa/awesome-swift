@@ -2016,6 +2016,11 @@
 		"description": "A logging tool to show the current framerate (fps) in the status bar of your iOS app.",
 		"homepage": "https://github.com/tapwork/WatchdogInspector"
 	}, {
+		"title": "Willow",
+		"category": "logging",
+		"description": "Willow is a powerful, yet lightweight logging library written in Swift.",
+		"homepage": "https://github.com/Nike-Inc/Willow"
+	}, {
 		"title": "XCGLogger",
 		"category": "logging",
 		"description": "Full featured & Configurable logging utility with log levels, timestamps, and line numbers.",

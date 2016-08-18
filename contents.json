@@ -1105,6 +1105,11 @@
 		"description": "an easy way to play with coredata filtering within your Swift projects.",
 		"homepage": "https://github.com/QueryKit/QueryKit"
 	}, {
+		"title": "Skopelos",
+		"category": "core-data",
+		"description": "A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data.",
+		"homepage": "https://github.com/albertodebortoli/Skopelos"
+	}, {
 		"title": "SugarRecord",
 		"category": "core-data",
 		"description": "an easy with to work with coredata and realm.",

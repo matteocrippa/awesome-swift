@@ -2266,12 +2266,7 @@
 		"description": "WebSockets server for Swift 2.2 on Linux.",
 		"homepage": "https://github.com/Zewo/WebSocket",
 		"tags": ["linux"]
-	}, {
-		"title": "Aeon",
-		"category": "webserver",
-		"description": "GCD based HTTP server for Swift 2.",
-		"homepage": "https://github.com/ZewoGraveyard/Aeon"
-	}, {
+	},  {
 		"title": "Curassow",
 		"category": "webserver",
 		"description": "Swift HTTP server using the pre-fork worker model.",

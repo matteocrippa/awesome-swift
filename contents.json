@@ -2754,6 +2754,11 @@
 		"description": "Simple countdown UILabel with morphing animation, and some useful function.",
 		"homepage": "https://github.com/suzuki-0000/CountdownLabel"
 	}, {
+		"title": "CustomSegue",
+		"category": "ui",
+		"description": "Custom segue for OSX Storyboards with slide and cross fade effects.",
+		"homepage": "https://github.com/phimage/CustomSegue"
+	}, {
 		"title": "Drag and Drop UICollectionView",
 		"category": "ui",
 		"description": "Dragging and Dropping data across multiple UICollectionViews (in Swift).",

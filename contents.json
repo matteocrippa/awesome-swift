@@ -1898,7 +1898,7 @@
 		"title": "MisterFusion",
 		"category": "auto-layout",
 		"description": "A Swift DSL for AutoLayout. It can be used in both Swift and Objective-C, in addition, it supports Size Class.",
-		"homepage": "https://github.com/szk-atmosphere/MisterFusion"
+		"homepage": "https://github.com/marty-suzuki/MisterFusion"
 	}, {
 		"title": "Mortar",
 		"category": "auto-layout",
@@ -2265,7 +2265,7 @@
 		"title": "Aeon",
 		"category": "webserver",
 		"description": "GCD based HTTP server for Swift 2.",
-		"homepage": "https://github.com/paulofaria/Aeon"
+		"homepage": "https://github.com/ZewoGraveyard/Aeon"
 	}, {
 		"title": "Curassow",
 		"category": "webserver",
@@ -3063,7 +3063,7 @@
 		"title": "SAHistoryNavigationViewController",
 		"category": "ui",
 		"description": "iOS task manager like UI in UINavigationContoller.",
-		"homepage": "https://github.com/szk-atmosphere/SAHistoryNavigationViewController"
+		"homepage": "https://github.com/marty-suzuki/SAHistoryNavigationViewController"
 	}, {
 		"title": "Sapporo",
 		"category": "ui",
@@ -3169,7 +3169,7 @@
 		"title": "URLEmbeddedView",
 		"category": "ui",
 		"description": "Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.",
-		"homepage": "https://github.com/szk-atmosphere/URLEmbeddedView"
+		"homepage": "https://github.com/marty-suzuki/URLEmbeddedView"
 	}, {
 		"title": "UITextField-Navigation",
 		"category": "textfield",
@@ -3359,7 +3359,7 @@
 		"title": "Pagemenu",
 		"category": "menu",
 		"description": "Pagination enabled view controller.",
-		"homepage": "https://github.com/HighBay/PageMenu"
+		"homepage": "https://github.com/uacaps/PageMenu"
 	}, {
 		"title": "PagingMenuController",
 		"category": "menu",

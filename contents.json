@@ -666,6 +666,11 @@
 		"description": "A curated list of awesome applications, softwares, tools and shiny things for macOS.",
 		"homepage": "https://github.com/iCHAIT/awesome-macOS"
 	}, {
+		"title": "MusicSheet",
+		"category": "demo-apps",
+		"description": "Example application of Clean Swift architecture",
+		"homepage": "https://github.com/kafejo/MusicSheet"
+	}, {
 		"title": "Carthage",
 		"category": "dependency-managers",
 		"description": "a new dependency manager for Swift.",

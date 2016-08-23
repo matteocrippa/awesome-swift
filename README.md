@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-672-orange.svg) | August 19, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-673-orange.svg) | August 23, 2016
 
 ### Contributing
 
@@ -650,7 +650,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Libraries for coding with a simplified API* [back to top](#readme) 
 
 * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) - A collection of useful classes to develop Apps faster.
-* [C4iOS](https://github.com/C4Framework/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
+* [C4iOS](https://github.com/C4Labs/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
 
 ### Layout
 *Libs to help you with layout.* [back to top](#readme) 
@@ -1012,6 +1012,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [PMAlertController](https://github.com/Codeido/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
+* [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) - Lightweight dropdown message bar in Swift.
 * [Whisper](https://github.com/hyperoslo/Whisper) - Messages and in-app notification made easy.

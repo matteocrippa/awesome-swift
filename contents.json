@@ -3926,6 +3926,11 @@
       "category": "utility",
       "description": "Preview extractor for news, articles and full-texts in Swift",
       "homepage": "https://github.com/exyte/ReadabilityKit"
+  }, {
+    "title": "SwiftMessages",
+    "category": "alert",
+    "description": "A very flexible message bar for iOS written in Swift.",
+    "homepage": "https://github.com/SwiftKickMobile/SwiftMessages"
   }
 ]
 }

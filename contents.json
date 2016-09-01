@@ -3936,6 +3936,12 @@
     "category": "alert",
     "description": "A very flexible message bar for iOS written in Swift.",
     "homepage": "https://github.com/SwiftKickMobile/SwiftMessages"
-  }
+  }, {
+		"title": "RevealMenuController",
+    "category": "menu",
+    "description": "Controller with expandable item groups, custom position and appearance animation written with Swift. Similar to ActionSheet style of UIAlertController.",
+    "homepage": "https://github.com/anatoliyv/RevealMenuController",
+    "tags": ["ui", "menu", "actionsheet"]
+	}
 ]
 }

@@ -2320,6 +2320,12 @@
 		"description": "REST HTTP Server written in Swift. Builds REST API from Core Data.",
 		"homepage": "https://github.com/colemancda/NetworkObjects"
 	}, {
+		"title": "Noze.io",
+		"category": "webserver",
+		"description": "Evented I/O streams a.k.a. Node.js for Swift.",
+		"homepage": "https://github.com/NozeIO/Noze.io",
+		"tags": ["linux"]
+	}, {
 		"title": "Perfect",
 		"category": "webserver",
 		"description": "Server-side Swift. The Perfect library, application server, connectors and example apps.",

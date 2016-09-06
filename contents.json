@@ -859,7 +859,7 @@
 		"title": "TuningFork",
 		"category": "audio",
 		"description": "A Simple Tuner for iOS.",
-		"homepage": "https://github.com/comyarzaheri/TuningFork"
+		"homepage": "https://github.com/comyar/TuningFork"
 	}, {
 		"title": "Simplicity",
 		"category": "authentication",
@@ -1113,7 +1113,7 @@
 		"title": "SugarRecord",
 		"category": "core-data",
 		"description": "an easy with to work with coredata and realm.",
-		"homepage": "https://github.com/pepibumur/SugarRecord"
+		"homepage": "https://github.com/carambalabs/SugarRecord"
 	}, {
 		"title": "SuperRecord",
 		"category": "core-data",
@@ -2372,7 +2372,7 @@
 		"title": "XcodeServerSDK",
 		"category": "webserver",
 		"description": "Access Xcode Server API with native Swift objects.",
-		"homepage": "https://github.com/czechboy0/XcodeServerSDK"
+		"homepage": "https://github.com/buildasaurs/XcodeServerSDK"
 	}, {
 		"title": "Zewo",
 		"category": "webserver",
@@ -2486,7 +2486,7 @@
 		"title": "Buildasaur",
 		"category": "testing",
 		"description": "Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server.",
-		"homepage": "https://github.com/czechboy0/Buildasaur"
+		"homepage": "https://github.com/buildasaurs/Buildasaur"
 	}, {
 		"title": "CatchingFire",
 		"category": "testing",
@@ -2662,7 +2662,7 @@
 		"title": "Chronos",
 		"category": "thread",
 		"description": "Grand Central Dispatch Utilities.",
-		"homepage": "https://github.com/comyarzaheri/Chronos-Swift"
+		"homepage": "https://github.com/comyar/Chronos-Swift"
 	}, {
 		"title": "Dispatcher",
 		"category": "thread",
@@ -3831,10 +3831,10 @@
 		"description": "Swift based simple information view with pointed arrow.",
 		"homepage": "https://github.com/anatoliyv/InfoView"
 	}, {
-		"title": "IconLabel",
+		"title": "SMIconLabel",
 		"category": "label",
 		"description": "UILabel with image placed from left or right.",
-		"homepage": "https://github.com/anatoliyv/IconLabel"
+		"homepage": "https://github.com/anatoliyv/SMIconLabel"
 	}, {
 		"title": "Version Update",
 		"category": "version-manager",

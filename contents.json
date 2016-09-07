@@ -639,7 +639,7 @@
 		"title": "swift-mode",
 		"category": "emacs",
 		"description": "Emacs Swift support, including partial flycheck error support.",
-		"homepage": "https://github.com/chrisbarrett/swift-mode"
+		"homepage": "https://github.com/swift-emacs/swift-mode"
 	}, {
 		"title": "swift-vim",
 		"category": "vim",
@@ -2243,7 +2243,7 @@
 		"title": "Socks",
 		"category": "socket",
 		"description": "Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.",
-		"homepage": "https://github.com/czechboy0/Socks",
+		"homepage": "https://github.com/vapor/Socks",
 		"tags": ["linux"]
 	}, {
 		"title": "Starscream",

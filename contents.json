@@ -610,6 +610,11 @@
 		"category": "third-party-guides",
 		"description": "App to learn to code in Swift.",
 		"homepage": "https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617"
+	},{
+	        "title": "iOS Development with Swift",
+	        "category": "third-party-guides",
+	        "description": "Comprehensive hands-on guide to creating iOS apps using Swift, written for experienced developers.",
+	        "homepage": "https://www.manning.com/books/ios-development-with-swift"
 	}, {
 		"title": "GitHub",
 		"category": "style-guides",

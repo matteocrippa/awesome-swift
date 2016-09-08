@@ -3131,6 +3131,11 @@
 		"description": "The easiest way to create a great walkthrough experience in your apps, powered by Swift.",
 		"homepage": "https://github.com/ruipfcosta/SwiftyWalkthrough"
 	}, {
+		"title": "Switch",
+		"category": "switch",
+		"description": "A switch control with full Interface Builder support.",
+		"homepage": "https://github.com/T-Pham/Switch"
+	}, {
 		"title": "SYBlinkAnimationKit",
 		"category": "ui",
 		"description": "A blink effect animation framework.",

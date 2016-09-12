@@ -1476,6 +1476,11 @@
 		"description": "Intuitive NSDate extensions in Swift.",
 		"homepage": "https://github.com/naoty/Timepiece"
 	}, {
+		"title": "TrueTime.swift",
+		"category": "date",
+		"description": "Get the true current time impervious to device clock time changes. (NTP library for Swift)",
+		"homepage": "https://github.com/instacart/TrueTime.swift"
+	}, {
 		"title": "jazzy",
 		"category": "documentation",
 		"description": "Soulful docs for Swift & Objective-C.",

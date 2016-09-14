@@ -2649,6 +2649,11 @@
 		"description": "An easier way to compose attributed strings.",
 		"homepage": "https://github.com/delba/TextAttributes"
 	}, {
+		"title": "Parsey",
+		"category": "text",
+		"description": "Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.",
+		"homepage": "https://github.com/rxwei/Parsey"
+	}, {
 		"title": "PhoneNumberKit",
 		"category": "phone-numbers",
 		"description": "Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.",

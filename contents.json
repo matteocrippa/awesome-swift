@@ -3951,6 +3951,11 @@
     "category": "alert",
     "description": "A very flexible message bar for iOS written in Swift.",
     "homepage": "https://github.com/SwiftKickMobile/SwiftMessages"
+  }, {
+    "title": "Swift 3 Module Template",
+    "category": "boilerplates",
+    "description": "An opinionated starting point for awesome, reusable Swift 3 modules",
+    "homepage": "https://github.com/fulldecent/swift3-module-template"
   }
 ]
 }

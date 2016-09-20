@@ -1062,7 +1062,7 @@
 		"title": "Venice",
 		"category": "concurrency",
 		"description": "Communicating sequential processes (CSP) for Swift 2 (Linux ready).",
-		"homepage": "https://github.com/VeniceX/Venice",
+		"homepage": "https://github.com/Zewo/Venice",
 		"tags": ["linux"]
 	}, {
 		"title": "AERecord",

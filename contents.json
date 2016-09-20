@@ -1430,10 +1430,10 @@
 		"description": "Practical real-world dates.",
 		"homepage": "https://github.com/erica/NSDate-Extensions"
 	}, {
-		"title": "AFDateHelper",
+		"title": "DateHelper",
 		"category": "date",
 		"description": "Simple date helper.",
-		"homepage": "https://github.com/melvitax/AFDateHelper"
+		"homepage": "https://github.com/melvitax/DateHelper"
 	}, {
 		"title": "Datez",
 		"category": "date",
@@ -2904,10 +2904,10 @@
 		"description": "An UILabel subclass to (de)increment numbers in an UILabel",
 		"homepage": "https://github.com/recisio/IncrementableLabel"
 	},{
-		"title": "JLToast",
+		"title": "Toaster",
 		"category": "ui",
 		"description": "Toast for Swift.",
-		"homepage": "https://github.com/devxoul/JLToast"
+		"homepage": "https://github.com/devxoul/Toaster"
 	}, {
 		"title": "KCHorizontalDial",
 		"category": "ui",

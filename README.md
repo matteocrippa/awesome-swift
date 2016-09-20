@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-677-orange.svg) | September 14, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-677-orange.svg) | September 20, 2016
 
 ### Contributing
 
@@ -340,7 +340,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Easier ways to work with concurrency.* [back to top](#readme) 
 
 * [Safe](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization for Swift.
-* [Venice](https://github.com/VeniceX/Venice) :penguin: - Communicating sequential processes (CSP) for Swift 2 (Linux ready).
+* [Venice](https://github.com/Zewo/Venice) :penguin: - Communicating sequential processes (CSP) for Swift 2 (Linux ready).
 
 ### Currency
 [back to top](#readme) 
@@ -467,7 +467,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Date
 *Handle data formatting easily.* [back to top](#readme) 
 
-* [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Simple date helper.
+* [DateHelper](https://github.com/melvitax/DateHelper) - Simple date helper.
 * [Datez](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, `NSDateComponents`, and `NSTimeInterval`.
 * [NSDate-Extensions](https://github.com/erica/NSDate-Extensions) - Practical real-world dates.
 * [Punctual.swift](https://github.com/harlanhaskins/Punctual.swift) :penguin: - Swift date handler.
@@ -958,7 +958,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - A nicely designed and super easy to use ImagePicker.
 * [ImagePickerSheetController](https://github.com/lbrndnr/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
 * [InfoView](https://github.com/anatoliyv/InfoView) - Swift based simple information view with pointed arrow.
-* [JLToast](https://github.com/devxoul/JLToast) - Toast for Swift.
 * [KCHorizontalDial](https://github.com/kciter/KCHorizontalDial) - A horizontal scroll dial like Instagram.
 * [KCSelectionDialog](https://github.com/kciter/KCSelectionDialog) - Simple selection dialog.
 * [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) - A UINavigationController subclass that support pop interactive UINavigationBar with hidden or show.
@@ -994,6 +993,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SYBlinkAnimationKit](https://github.com/shoheiyokoyama/SYBlinkAnimationKit) - A blink effect animation framework.
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
 * [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view.
+* [Toaster](https://github.com/devxoul/Toaster) - Toast for Swift.
 * [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library in Swift. A single line of code and visualize your touches.
 * [Twinkle](https://github.com/piemonte/Twinkle) - a Swift and easy way to make elements in your iOS app twinkle.
 * [URLEmbeddedView](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.

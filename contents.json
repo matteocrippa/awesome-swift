@@ -3456,6 +3456,11 @@
 		"description": "Painless custom transitioning. Easy extend, easy setup, just focus on animations.",
 		"homepage": "https://github.com/cemolcay/TransitionManager"
 	}, {
+		"title": "AudioIndicatorBars",
+		"category": "transition",
+		"description": "AIB indicates for your app users which audio is playing. Just like the Podcasts app.",
+		"homepage": "https://github.com/LeonardoCardoso/AudioIndicatorBars"
+	}, {
 		"title": "AEAccordion",
 		"category": "uitableview",
 		"description": "UITableViewController with accordion effect (expand / collapse cells).",

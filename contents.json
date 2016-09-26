@@ -3034,6 +3034,11 @@
 		"description": "Panoramic facebook story clone.",
 		"homepage": "https://github.com/iSame7/Panoramic"
 	}, {
+		"title": "ParallaxView",
+		"category": "ui",
+		"description": "Controls and extensions for tvOS that add parallax effect to your application.",
+		"homepage": "https://github.com/PGSSoft/ParallaxView"
+	}, {
 		"title": "PKHUD",
 		"category": "hud",
 		"description": "Reimplementation of the Apple HUD.",

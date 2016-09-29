@@ -844,7 +844,7 @@
 		"title": "AudioPlayerSwift",
 		"category": "audio",
 		"description": "AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.",
-		"homepage": "https://github.com/recisio/AudioPlayerSwift"
+		"homepage": "https://github.com/tbaranes/AudioPlayerSwift"
 	}, {
 		"title": "Beethoven",
 		"category": "audio",
@@ -1512,7 +1512,7 @@
 		"title": "Bond",
 		"category": "events",
 		"description": "a Swift binding framework.",
-		"homepage": "https://github.com/SwiftBond/Bond"
+		"homepage": "https://github.com/ReactiveKit/Bond"
 	}, {
 		"title": "BrightFutures",
 		"category": "events",

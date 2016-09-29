@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-678-orange.svg) | September 22, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-681-orange.svg) | September 29, 2016
 
 ### Contributing
 
@@ -278,7 +278,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AudioKit](https://github.com/audiokit/AudioKit) - Powerful audio synthesis, processing and analysis, *without* the steep learning curve.
 * [AudioPlayer](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
-* [AudioPlayerSwift](https://github.com/recisio/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
+* [AudioPlayerSwift](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
 * [Beethoven](https://github.com/vadymmarkov/Beethoven) - An audio processing Swift library for pitch detection of musical signals.
 * [MusicKit](https://github.com/benzguo/MusicKit) - A framework for composing and transforming music in Swift.
 * [TuningFork](https://github.com/comyar/TuningFork) - A Simple Tuner for iOS.
@@ -513,7 +513,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Events
 *Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.* [back to top](#readme) 
 
-* [Bond](https://github.com/SwiftBond/Bond) - a Swift binding framework.
+* [Bond](https://github.com/ReactiveKit/Bond) - a Swift binding framework.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - promise and future lib for swift.
 * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS.
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - an implementation of event emitters and listeners in swift.
@@ -548,6 +548,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app.
 * [GoogleMaterialDesignIcons](https://github.com/dekatotoro/GoogleMaterialDesignIcons) - google Material Design Icons Font for iOS.
 * [GoogleMaterialIconFont](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Icon Font for Swift and ObjC.
+* [IoniconsKit](https://github.com/keitaoouchi/IoniconsKit) - Use ionicons as UIImage / UIFont in your projects with Swifty manners
+* [OcticonsKit](https://github.com/keitaoouchi/OcticonsKit) - Use Octicons as UIImage / UIFont in your projects with Swifty manners.
 * [OpenSansSwift](https://github.com/hemantasapkota/OpenSansSwift) - OpenSans for Swift.
 * [Swicon](https://github.com/UglyTroLL/Swicon) - Use 1600+ icons from FontAwesome and Google Material Icons (and even your own customized icons) in your swift/iOS project!
 * [SwiftFontName](https://github.com/morizotter/SwiftFontName) - OS font complements library. Localized font supported.
@@ -977,6 +979,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
 * [Otafuku](https://github.com/tasanobu/Otafuku) - Some utility classes to use WKWebView in Swift.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Panoramic facebook story clone.
+* [ParallaxView](https://github.com/PGSSoft/ParallaxView) - Controls and extensions for tvOS that add parallax effect to your application.
 * [PPSwiftGifs](https://github.com/peterprokop/PPSwiftGifs) - a convenient way to show animated GIF images as a part of iOS GUI.
 * [Reel search](https://github.com/Ramotion/reel-search) - Option list managed as a reel.
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect) - Recreating Apples rubber band effect in Swift.

@@ -3971,6 +3971,11 @@
     "category": "alert",
     "description": "A very flexible message bar for iOS written in Swift.",
     "homepage": "https://github.com/SwiftKickMobile/SwiftMessages"
+  }, {
+    "title": "Toybox",
+    "category": "misc",
+    "description": "Xcode Playground management made easy",
+    "homepage": "https://github.com/giginet/Toybox"
   }
 ]
 }

@@ -3976,6 +3976,12 @@
     "category": "misc",
     "description": "Xcode Playground management made easy",
     "homepage": "https://github.com/giginet/Toybox"
-  }
+  },
+	{
+		"title": "CostumeKit",
+		"category": "ui",
+		"description": "Base types for theming an app",
+		"homepage": "https://github.com/jakemarsh/CostumeKit"
+	}
 ]
 }

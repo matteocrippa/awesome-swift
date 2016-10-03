@@ -1228,6 +1228,11 @@
 		"homepage": "https://github.com/hkellaway/Gloss",
 		"tags": ["linux"]
 	}, {
+		"title": "HandyJSON",
+		"category": "json",
+		"description": "A handy swift JSON-object serialization/deserialization libary for swift 2.x/3.x.",
+		"homepage": "https://github.com/alibaba/handyjson"
+	}, {
 		"title": "Himotoki",
 		"category": "json",
 		"description": "A type-safe JSON decoding library purely written in Swift.",

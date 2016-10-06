@@ -3791,6 +3791,11 @@
 		"description": "String validation for iOS developed in Swift (inspired by validator.js).",
 		"homepage": "https://github.com/gkaimakas/SwiftValidators"
 	}, {
+	    "title": "SwiftVideoBackground",
+	    "category": "video",
+	    "description": "Easy to Use UIView subclass for implementating a video background in Swift 3",
+	    "homepage": "https://github.com/dingwilson/SwiftVideoBackground"
+    }, {
 		"title": "Swiftx",
 		"category": "utility",
 		"description": "Functional data types and functions for any project.",

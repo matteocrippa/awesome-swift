@@ -2426,6 +2426,11 @@
 		"homepage": "https://github.com/sleekbyte/tailor",
 		"tags": ["linux"]
 	}, {
+		"title": "XcodeFormatter",
+		"category": "quality",
+		"description": "Xcode8 plugin/extension to format misaligned inter spaces, emptylines, comments and more on Swift3 codebase.",
+		"homepage": "https://github.com/kandelvijaya/XcodeFormatter"
+	},{
 		"title": "CryptoSwift",
 		"category": "cryptography",
 		"description": "Crypto related functions and helpers for Swift implemented in Swift programming language.",

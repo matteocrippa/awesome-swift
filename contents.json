@@ -1599,6 +1599,11 @@
 		"description": "A lightweight implementation of Promises in Swift.",
 		"homepage": "https://github.com/vadymmarkov/When"
 	}, {
+		"title": "ReduxSwift",
+		"category": "events",
+		"description": "Predictable state container for Swift apps too",
+		"homepage": "https://github.com/lsunsi/ReduxSwift"
+	}, {
 		"title": "Font-Awesome",
 		"category": "fonts",
 		"description": "Use Font Awesome in project written in Swift.",

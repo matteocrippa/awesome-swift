@@ -4007,6 +4007,6 @@
 		"category": "chart",
 		"description": "A simple line and area charting library for iOS. Supports multiple series, partially filled series and touch events.",
 		"homepage": "https://github.com/gpbl/SwiftChart"
-	},
+	}
 ]
 }

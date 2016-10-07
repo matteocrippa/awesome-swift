@@ -4002,6 +4002,11 @@
 		"category": "ui",
 		"description": "Base types for theming an app.",
 		"homepage": "https://github.com/jakemarsh/CostumeKit"
+	}, {
+		"title": "SwiftChart",
+		"category": "chart",
+		"description": "A simple line and area charting library for iOS. Supports multiple series, partially filled series and touch events.",
+		"homepage": "https://github.com/gpbl/SwiftChart"
 	}
 ]
 }

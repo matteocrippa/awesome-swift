@@ -4085,6 +4085,12 @@
 		"category": "ui",
 		"description": "Powerful and easy-to-use vector graphics Swift library with SVG support.",
 		"homepage": "https://github.com/exyte/macaw"
+	}, {
+		"title": "NoOptionalInterpolation",
+		"category": "localization",
+		"description": "Get rid of \"Optional(...)\" and \"nil\" in string interpolation. Easy pluralization.",
+		"homepage": "https://github.com/T-Pham/NoOptionalInterpolation",
+		"tags": ["optional", "localize", "nil"]
 	}
 ]
 }

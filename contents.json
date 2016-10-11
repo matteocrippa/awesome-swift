@@ -886,6 +886,11 @@
 		"description": "Eases access to multiple federal government OpenGov APIs.",
 		"homepage": "https://github.com/USDepartmentofLabor/Swift-Federal-Data-SDK"
 	}, {
+		"title": "RandomUserSwift",
+		"category": "api",
+		"description": "Swift 3 Framework to Generate Random Users - An Unofficial SDK for randomuser.me",
+		"homepage": "https://github.com/dingwilson/RandomUserSwift"
+	},{
 		"title": "GithubPilot",
 		"category": "api",
 		"description": "Github API V3 wrapper.",

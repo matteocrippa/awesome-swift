@@ -4007,6 +4007,11 @@
 		"category": "chart",
 		"description": "A simple line and area charting library for iOS. Supports multiple series, partially filled series and touch events.",
 		"homepage": "https://github.com/gpbl/SwiftChart"
+	}, {
+		"title": "SwiftyAttributes",
+		"category": "text",
+		"description": "Swift extensions that make it a breeze to work with attributed strings.",
+		"homepage": "https://github.com/eddiekaiger/SwiftyAttributes"
 	}
 ]
 }

@@ -4017,6 +4017,11 @@
 		"category": "text",
 		"description": "Swift extensions that make it a breeze to work with attributed strings.",
 		"homepage": "https://github.com/eddiekaiger/SwiftyAttributes"
+	}, {
+		"title": "NetKit",
+		"category": "network",
+		"description": "A Concise HTTP Framework in Swift.",
+		"homepage": "https://github.com/azizuysal/NetKit"
 	}
 ]
 }

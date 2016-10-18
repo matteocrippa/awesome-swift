@@ -1609,6 +1609,11 @@
 		"description": "Predictable state container for Swift apps too",
 		"homepage": "https://github.com/lsunsi/ReduxSwift"
 	}, {
+		"title": "Aftermath",
+		"category": "events",
+		"description": "Stateless message-driven micro-framework in Swift.",
+		"homepage": "https://github.com/hyperoslo/Aftermath"
+	}, {
 		"title": "Font-Awesome",
 		"category": "fonts",
 		"description": "Use Font Awesome in project written in Swift.",

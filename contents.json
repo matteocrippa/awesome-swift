@@ -1609,6 +1609,11 @@
 		"description": "Predictable state container for Swift apps too",
 		"homepage": "https://github.com/lsunsi/ReduxSwift"
 	}, {
+		"title": "ReSwift",
+		"category": "events",
+		"description": "Unidirectional Data Flow in Swift",
+		"homepage": "https://github.com/ReSwift/ReSwift"
+	}, {
 		"title": "Aftermath",
 		"category": "events",
 		"description": "Stateless message-driven micro-framework in Swift.",

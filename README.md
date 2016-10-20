@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-694-orange.svg) | October 20, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-695-orange.svg) | October 20, 2016
 
 ### Contributing
 
@@ -74,6 +74,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [3D Touch](#3d-touch)
     - [Bluetooth](#bluetooth)
     - [Camera](#camera)
+      - [Barcode](#barcode)
     - [iBeacon](#ibeacon)
     - [Sensors](#sensors)
   - [Images](#images)
@@ -602,6 +603,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - Camera view controller with custom image picker and image cropping.
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
+
+##### Barcode
+*Barcode, QR-code, other code readers* [back to top](#readme) 
+
+* [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner view controller.
+* [QRCodeReader.swift](https://github.com/yannickl/QRCodeReader.swift) - Simple QRCode reader in Swift
 
 #### iBeacon
 *Interested in using iBeacon in your Swift project? Here some interesting resources.* [back to top](#readme) 

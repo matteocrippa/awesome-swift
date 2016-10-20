@@ -622,10 +622,15 @@
 		"description": "Raywenderlich Swift guide, a must read.",
 		"homepage": "https://github.com/raywenderlich/swift-style-guide"
 	}, {
-		"title": "SlideShare (LinkedIn)",
+		"title": "SlideShare",
 		"category": "style-guides",
-		"description": "Style guides that SlideShare (LinkedIn) uses for their Swift iOS app.",
+		"description": "Style guides that SlideShare uses for their Swift iOS app.",
 		"homepage": "https://github.com/SlideShareInc/swift-style-guide"
+	}, {
+		"title": "LinkedIn",
+		"category": "style-guides",
+		"description": "LinkedIn's Official Swift Style Guide",
+		"homepage": "https://github.com/linkedin/swift-style-guide"
 	}, {
 		"title": "Swift-Best-Practices",
 		"category": "style-guides",

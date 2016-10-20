@@ -1320,6 +1320,11 @@
 		"homepage": "https://github.com/SwiftyJSON/SwiftyJSON",
 		"tags": ["linux"]
 	}, {
+		"title": "Freddy",
+		"category": "json",
+		"description": "A reusable framework for parsing JSON in Swift.",
+		"homepage": "https://github.com/bignerdranch/Freddy"
+	}, {
 		"title": "Tailor",
 		"category": "json",
 		"description": "A super fast & convenient object mapper tailored for your needs.",

@@ -2039,6 +2039,11 @@
 		"homepage": "https://github.com/SwiftStudies/Duration",
 		"tags": ["linux"]
 	}, {
+		"title": "Evergreen",
+		"category": "logging",
+		"description": "Most natural Swift logging",
+		"homepage": "https://github.com/viWiD/Evergreen"
+	}, {
 		"title": "HeliumLogger",
 		"category": "logging",
 		"description": "IBM's lightweight logging framework.",

@@ -57,8 +57,18 @@ def output_content(j)
 
       children.sort_by {|k,v| k['id']}
         .select {|c| c['parent']==child_id}.each do |c|
-          toc << output_content_category(c, 4)
+        child_id = c['id']
+
+        toc << output_content_category(c, 4)
+        toc << output_projects(projects, c['id'])
+
+        children.sort_by {|k,v| k['id']}
+          .select {|c| c['parent']==child_id}.each do |c|
+          child_id = c['id']
+
+          toc << output_content_category(c, 5)
           toc << output_projects(projects, c['id'])
+        end 
       end
     end
   end
@@ -112,7 +122,13 @@ def output_toc(j)
 
       children.sort_by {|k,v| k['id']}
         .select {|c| c['parent']==child_id}.each do |c|
+        child_id = c['id']
         toc << "    - [#{c['title']}](##{c['id']})\n"
+
+        children.sort_by {|k,v| k['id']}
+          .select {|c| c['parent']==child_id}.each do |c|
+          toc << "      - [#{c['title']}](##{c['id']})\n"
+        end
       end
     end
   end

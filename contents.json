@@ -4027,6 +4027,11 @@
 		"category": "text",
 		"description": "Swift extensions that make it a breeze to work with attributed strings.",
 		"homepage": "https://github.com/eddiekaiger/SwiftyAttributes"
+	}, {
+		"title": "Koyomi",
+		"category": "calendar",
+		"description": "Simple customizable calendar component in Swift",
+		"homepage": "https://github.com/shoheiyokoyama/Koyomi"
 	}
 ]
 }

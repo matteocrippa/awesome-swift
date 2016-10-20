@@ -1136,6 +1136,11 @@
 		"description": "DataKernel is a minimalistic wrapper around CoreData stack to ease persistence operations. No external dependencies.",
 		"homepage": "https://github.com/mrdekk/DataKernel"
 	}, {
+		"title": "LeetCode_Swift",
+		"category": "data-structures",
+		"description": "Solutions to LeetCode interview questions, coded in Swift",
+		"homepage": "https://github.com/soapyigu/LeetCode_Swift"
+	}, {
 		"title": "Algorithm",
 		"category": "data-structures",
 		"description": "A toolset for writing algorithms and probability models in Swift.",

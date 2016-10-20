@@ -319,7 +319,8 @@
 	}, {
 		"title": "Barcode",
 		"id": "barcode",
-		"parent": "camera"
+		"parent": "camera",
+		"description": "Barcode, QR-code, other code readers"
 	}, {
 		"title": "Math",
 		"id": "math",
@@ -960,6 +961,11 @@
 		"category": "barcode",
 		"description": "A simple and beautiful barcode scanner view controller.",
 		"homepage": "https://github.com/hyperoslo/BarcodeScanner"
+	}, {
+		"title": "QRCodeReader.swift",
+		"category": "barcode",
+		"description": "Simple QRCode reader in Swift",
+		"homepage": "https://github.com/yannickl/QRCodeReader.swift"
 	}, {
 		"title": "Chatto",
 		"category": "chat",

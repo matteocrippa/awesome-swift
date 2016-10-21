@@ -4065,6 +4065,11 @@
 		"description": "Swift extensions that make it a breeze to work with attributed strings.",
 		"homepage": "https://github.com/eddiekaiger/SwiftyAttributes"
 	}, {
+		"title": "DeviceKit",
+		"category": "device",
+		"description": "DeviceKit is a value-type replacement of UIDevice.",
+		"homepage": "https://github.com/dennisweissmann/DeviceKit"
+	}, {
 		"title": "Koyomi",
 		"category": "calendar",
 		"description": "Simple customizable calendar component in Swift",

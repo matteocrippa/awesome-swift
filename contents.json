@@ -3557,6 +3557,11 @@
 		"category": "Gesture",
 		"description": "Allow the iPhone Simulator to test 3D Touch",
 		"homepage": "https://github.com/DeskConnect/SBShortcutMenuSimulator"
+	}, {
+		"title": "LearnSwift",
+		"category": "Third party Guides",
+		"description": " a collection of swift demos for swift learning",
+		"homepage": "https://github.com/cjiong/LearnSwift"
 	}
 ]
 }

@@ -1498,9 +1498,14 @@
 		"homepage": "https://github.com/akosma/SwiftMoment"
 	}, {
 		"title": "SwiftyTimer",
-		"category": "date",
+		"category": "thread",
 		"description": "Swifty API for NSTimer",
 		"homepage": "https://github.com/radex/SwiftyTimer"
+	}, {
+		"title": "Each",
+		"category": "thread",
+		"description": "Each is a NSTimer bridge library written in Swift",
+		"homepage": "https://github.com/dalu93/Each"
 	}, {
 		"title": "Tempo",
 		"category": "date",

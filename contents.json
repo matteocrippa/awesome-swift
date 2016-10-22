@@ -3668,6 +3668,11 @@
 		"description": "Simple and powerful Validation Library.",
 		"homepage": "https://github.com/jeanpimentel/Honour"
 	}, {
+		"title": "FormValidatorSwift",
+		"category": "validation",
+		"description": "The FormValidatorSwift framework allows you to validate inputs of text fields and text views in a convenient way.",
+		"homepage": "https://github.com/ustwo/formvalidator-swift"
+	}, {
 		"title": "Hookah",
 		"category": "utility",
 		"description": "Hookah is a functional library for Swift.",

@@ -4080,6 +4080,11 @@
 		"description": "Fast Swift parser for CSV",
 		"homepage": "https://github.com/Nero5023/CSVParser",
 		"tags": ["linux"]
+	}, {
+		"title": "Macaw",
+		"category": "ui",
+		"description": "Powerful and easy-to-use vector graphics Swift library with SVG support.",
+		"homepage": "https://github.com/exyte/macaw"
 	}
 ]
 }

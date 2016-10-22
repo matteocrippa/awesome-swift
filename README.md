@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-704-orange.svg) | October 22, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-706-orange.svg) | October 22, 2016
 
 ### Contributing
 
@@ -485,7 +485,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Swift-NSDate-Extensions](https://github.com/fwhenin/Swift-NSDate-Extensions) - NSDate extensions.
 * [SwiftDate](https://github.com/malcommac/SwiftDate) - Easy NSDate Management in Swift.
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
-* [SwiftyTimer](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer
 * [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions in Swift.
 * [TrueTime.swift](https://github.com/instacart/TrueTime.swift) - Get the true current time impervious to device clock time changes. (NTP library for Swift)
@@ -951,10 +950,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [AwaitKit](https://github.com/yannickl/AwaitKit) - The ES7 Async/Await control flow for Swift.
 * [Chronos](https://github.com/comyar/Chronos-Swift) - Grand Central Dispatch Utilities.
 * [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift.
+* [Each](https://github.com/dalu93/Each) - Each is a NSTimer bridge library written in Swift
 * [EKI](https://github.com/kodlian/Eki) - Make Grand Central Dispatch easy and fun to use (queue, task, group, timer and semaphore).
 * [GCD](https://github.com/nghialv/GCD) - A wrapper of Grand Central Dispatch written in Swift.
 * [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift.
 * [GCDTimer](https://github.com/hemantasapkota/GCDTimer) - A well-tested GCD timer in Swift.
+* [SwiftyTimer](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer
 
 ### UI
 *A collection of pre-packaged transitions & cool ui stuffs.* [back to top](#readme) 
@@ -1260,6 +1261,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Validation
 *A collection of validation libs.* [back to top](#readme) 
 
+* [FormValidatorSwift](https://github.com/ustwo/formvalidator-swift) - The FormValidatorSwift framework allows you to validate inputs of text fields and text views in a convenient way.
 * [Honour](https://github.com/jeanpimentel/Honour) - Simple and powerful Validation Library.
 * [SpecificationPattern](https://github.com/neoneye/SpecificationPattern) - chainable rules useful for form validation.
 * [SwiftValidator](https://github.com/jpotts18/SwiftValidator) - UIView validation framework.

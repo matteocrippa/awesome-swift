@@ -15,6 +15,7 @@ To be added to the list, software should meet the following criteria:
 - Well documented
 - Work with the latest SDK
 - Have at least 15 stars on (GitHub project)
+- Support `Swift 3`
 
 If an item on the list no longer meets the above criteria, open an issue to have it be removed.
 

@@ -736,7 +736,12 @@
 		"category": "ai",
 		"description": "An artificial intelligence and machine learning library in Swift.",
 		"homepage": "https://github.com/collinhundley/Swift-AI"
-	},{
+	}, {
+		"title": "Tensorflow Mobile",
+		"category": "ai",
+		"description": "The official Tensorflow framework for iOS, an AI library with powerful neural networks.",
+		"homepage": "https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples/"
+	}, {
 		"title": "Stellar",
 		"category": "animation",
 		"description": "A Physical animation library for swift.",

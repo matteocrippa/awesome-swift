@@ -1381,6 +1381,12 @@
 		"description": "MongoDB connector for Swift.",
 		"homepage": "https://github.com/Danappelxx/SwiftMongoDB"
 	}, {
+		"title": "Perfect-MongoDB",
+		"category": "mongodb",
+		"description": "A stand-alone Swift wrapper around the mongo-c client library, enabling access to MongoDB servers.",
+		"homepage": "https://github.com/PerfectlySoft/Perfect-MongoDB",
+		"tags": ["linux", "macOS"]
+	}, {
 		"title": "CoreModel",
 		"category": "orm",
 		"description": "Pure Swift ORM (Supports Linux)",
@@ -1424,6 +1430,18 @@
 		"description": "MySQL client library for Swift 2.2.",
 		"homepage": "https://github.com/novi/mysql-swift",
 		"tags": ["linux"]
+	}, {
+		"title": "Perfect-MySQL",
+		"category": "sql-drivers",
+		"description": "A stand-alone Swift wrapper around the MySQL client library, enabling access to MySQL servers.",
+		"homepage": "https://github.com/PerfectlySoft/Perfect-MySQL",
+		"tags": ["linux", "macOS"]
+	}, {
+		"title": "Perfect-PostgreSQL",
+		"category": "sql-drivers",
+		"description": "A stand-alone Swift wrapper around the libpq client library, enabling access to PostgreSQL servers.",
+		"homepage": "https://github.com/PerfectlySoft/Perfect-PostgreSQL",
+		"tags": ["linux", "macOS"]
 	}, {
 		"title": "PostgreSQL",
 		"category": "sql-drivers",

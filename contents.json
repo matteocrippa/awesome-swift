@@ -1384,7 +1384,7 @@
 		"title": "Perfect-MongoDB",
 		"category": "mongodb",
 		"description": "A stand-alone Swift wrapper around the mongo-c client library, enabling access to MongoDB servers.",
-		"homepage": "https://github.com/PerfectlySoft/Perfect",
+		"homepage": "https://github.com/PerfectlySoft/Perfect-MongoDB",
 		"tags": ["linux", "macOS"]
 	}, {
 		"title": "CoreModel",
@@ -1441,6 +1441,12 @@
 		"category": "sql-drivers",
 		"description": "A stand-alone Swift wrapper around the MariaDB client library, enabling access to MariaDB servers.",
 		"homepage": "https://github.com/PerfectlySoft/Perfect-MariaDB",
+		"tags": ["linux", "macOS"]
+	}, {
+		"title": "Perfect-PostgreSQL",
+		"category": "sql-drivers",
+		"description": "A stand-alone Swift wrapper around the libpq client library, enabling access to PostgreSQL servers.",
+		"homepage": "https://github.com/PerfectlySoft/Perfect-PostgreSQL",
 		"tags": ["linux", "macOS"]
 	}, {
 		"title": "PostgreSQL",

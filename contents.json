@@ -1437,12 +1437,6 @@
 		"homepage": "https://github.com/PerfectlySoft/Perfect-MySQL",
 		"tags": ["linux", "macOS"]
 	}, {
-		"title": "Perfect-MariaDB",
-		"category": "sql-drivers",
-		"description": "A stand-alone Swift wrapper around the MariaDB client library, enabling access to MariaDB servers.",
-		"homepage": "https://github.com/PerfectlySoft/Perfect-MariaDB",
-		"tags": ["linux", "macOS"]
-	}, {
 		"title": "Perfect-PostgreSQL",
 		"category": "sql-drivers",
 		"description": "A stand-alone Swift wrapper around the libpq client library, enabling access to PostgreSQL servers.",

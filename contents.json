@@ -1381,6 +1381,13 @@
 		"description": "MongoDB connector for Swift.",
 		"homepage": "https://github.com/Danappelxx/SwiftMongoDB"
 	}, {
+		}, {
+			"title": "Perfect-MongoDB",
+			"category": "mongodb",
+			"description": "A stand-alone Swift wrapper around the mongo-c client library, enabling access to MongoDB servers.",
+			"homepage": "https://github.com/PerfectlySoft/Perfect",
+			"tags": ["linux", "macOS"]
+		}, {
 		"title": "CoreModel",
 		"category": "orm",
 		"description": "Pure Swift ORM (Supports Linux)",

@@ -3283,6 +3283,11 @@
 		"description": "Easy Swift UIAlertController.",
 		"homepage": "https://github.com/thellimist/EZAlertController"
 	}, {
+		"title": "FCAlertView",
+		"category": "alert",
+		"description": "A Flat Customizable AlertView for iOS.",
+		"homepage": "https://github.com/k9101/FCAlertView"
+	}, {
 		"title": "GoogleWearAlert",
 		"category": "alert",
 		"description": "Google Wear Alert style.",

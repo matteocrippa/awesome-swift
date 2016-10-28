@@ -2106,7 +2106,7 @@
 	}, {
 		"title": "SwiftyBeaver",
 		"category": "logging",
-		"description": "Colorful, lightweight & fast logging in Swift 2.",
+		"description": "Multi-platform logging during development & release in Swift 2 & 3.",
 		"homepage": "https://github.com/SwiftyBeaver/SwiftyBeaver",
 		"tags": ["linux"]
 	}, {

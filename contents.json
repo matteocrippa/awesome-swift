@@ -2317,6 +2317,11 @@
 		"description": "MQTT for iOS and OS X written with Swift.",
 		"homepage": "https://github.com/emqtt/CocoaMQTT"
 	}, {
+		"title": "Perfect-Notifications",
+		"category": "messaging-protocol",
+		"description": "iOS Notifications for Linux and OS X written with Swift.",
+		"homepage": "https://github.com/PerfectlySoft/Perfect-Notifications"
+	}, {
 		"title": "BlueSocket",
 		"category": "socket",
 		"description": "IBM's low level socket framework.",

@@ -3506,6 +3506,11 @@
 		"description": "Android PagerTabStrip for iOS.",
 		"homepage": "https://github.com/xmartlabs/XLPagerTabStrip"
 	}, {
+		"title": "SideMenu",
+		"category": "menu",
+		"description": "Simple side menu control for iOS in Swift inspired by Facebook. Right and Left sides. No coding required.",
+		"homepage": "https://github.com/jonkykong/SideMenu"
+	}, {
 		"title": "Caishen",
 		"category": "payment",
 		"description": "A Payment Card UI & Validator for iOS",

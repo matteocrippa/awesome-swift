@@ -1294,6 +1294,11 @@
 		"description": "Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die.",
 		"homepage": "https://github.com/johnlui/JSONNeverDie"
 	}, {
+		"title": "SwiftyJSONAccelerator",
+		"category": "json",
+		"description": "OSX app to generate Swift 3 code for models for JSON.",
+		"homepage": "https://github.com/insanoid/SwiftyJSONAccelerator"
+	}, {
 		"title": "ModelRocket",
 		"category": "json",
 		"description": "An iOS framework for creating JSON-based models.",

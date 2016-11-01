@@ -1789,11 +1789,6 @@
 		"description": "High performance and delightful way to play with APNG format in iOS.",
 		"homepage": "https://github.com/onevcat/APNGKit"
 	}, {
-		"title": "CYFastImage",
-		"category": "images",
-		"description": "display images from web.",
-		"homepage": "https://github.com/lihei12345/CYFastImage"
-	}, {
 		"title": "Filterpedia",
 		"category": "images",
 		"description": "core image filter",

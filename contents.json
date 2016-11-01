@@ -4134,6 +4134,11 @@
 		"description": "Get rid of \"Optional(...)\" and \"nil\" in string interpolation. Easy pluralization.",
 		"homepage": "https://github.com/T-Pham/NoOptionalInterpolation",
 		"tags": ["optional", "localize", "nil"]
+	}, {
+		"title": "UIDropDown",
+		"category": "ui",
+		"description": "An elegant dropdown for iOS written in Swift.",
+		"homepage": "https://github.com/igongora/UIDropDown"
 	}
 ]
 }

@@ -782,6 +782,11 @@
 		"description": "Swift Interpolation framework for creating interactive gesture-driven animations.",
 		"homepage": "https://github.com/marmelroy/Interpolate"
 	}, {
+		"title": "JDAnimationKit",
+		"category": "animation",
+		"description": "Animate easy and with less code with Swift.",
+		"homepage": "https://github.com/JellyDevelopment/JDAnimationKit"
+	}, {
 		"title": "Morgan",
 		"category": "animation",
 		"description": "An always growing animation set.",

@@ -4139,6 +4139,11 @@
 		"category": "ui",
 		"description": "An elegant dropdown for iOS written in Swift.",
 		"homepage": "https://github.com/igongora/UIDropDown"
+	}, {
+		"title": "Wallet",
+		"category": "ui",
+		"description": "A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.",
+		"homepage": "https://github.com/rshevchuk/Wallet"
 	}
 ]
 }

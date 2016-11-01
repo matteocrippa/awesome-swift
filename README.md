@@ -244,7 +244,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - Natural Blocks Based Core Animation Framework in Swift
 * [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [Interpolate](https://github.com/marmelroy/Interpolate) - Swift Interpolation framework for creating interactive gesture-driven animations.
-* [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit) - Animate easy and with less code with Swift.
 * [Morgan](https://github.com/RamonGilabert/Morgan) - An always growing animation set.
 * [Presentation](https://github.com/hyperoslo/Presentation) - A Swift library to help you to make tutorials, release notes and animated pages.
 * [Pulsator](https://github.com/shu223/pulsator) - Pulse animation for iOS.

@@ -1875,7 +1875,7 @@
 		"homepage": "https://github.com/evermeer/PassportScanner"
 	}, {
 		"title": "SkyFloatingLabelTextField",
-		"category": "images",
+		"category": "textfield",
 		"description": "A beautiful and flexible text field control implementation of \"Float Label Pattern\".",
 		"homepage": "https://github.com/Skyscanner/SkyFloatingLabelTextField"
 	}, {

@@ -4149,6 +4149,11 @@
 		"category": "ui",
 		"description": "A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.",
 		"homepage": "https://github.com/rshevchuk/Wallet"
+	}, {
+		"title": "SwiftlySalesforce",
+		"category": "api",
+		"description": "Framework for rapid development of native iOS apps that integrate with Salesforce.",
+		"homepage": "https://github.com/mike4aday/SwiftlySalesforce"
 	}
 ]
 }

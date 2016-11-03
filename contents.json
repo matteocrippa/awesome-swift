@@ -1764,6 +1764,11 @@
 		"description": "UIGestureRecognizers in Xcode Playgrounds.",
 		"homepage": "https://github.com/b3ll/SwiftyGestureRecognition"
 	}, {
+		"title": "SwipyCell",
+		"category": "gesture",
+		"description": "UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).",
+		"homepage": "https://github.com/moritzsternemann/SwipyCell"
+	}, {
 		"title": "Tactile",
 		"category": "gesture",
 		"description": "Attach function handlers to gesture and control events in a more expressive and safer way.",

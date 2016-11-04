@@ -2696,6 +2696,11 @@
 		"homepage": "https://github.com/crossroadlabs/Markdown",
 		"tags": ["linux"]
 	}, {
+		"title": "MarkdownKit",
+		"category": "text",
+		"description": "A simple and customizable Markdown Parser for Swift",
+		"homepage": "https://github.com/ivanbruel/MarkdownKit"
+	}, {
 		"title": "PrediKit",
 		"category": "text",
 		"description": "An NSPredicate DSL for iOS & OS X inspired by SnapKit and written in Swift.",

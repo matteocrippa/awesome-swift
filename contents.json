@@ -2680,6 +2680,11 @@
 		"description": "Answers to common \"How do I test this with UI Testing?\" questions with a working example app.",
 		"homepage": "https://github.com/joemasilotti/UI-Testing-Cheat-Sheet"
 	}, {
+		"title": "Apodimark",
+		"category": "text",
+		"description": "Fast, flexible markdown parser written in Swift",
+		"homepage": "https://github.com/loiclec/Apodimark"
+	}, {
 		"title": "edhita",
 		"category": "text",
 		"description": "Fully open source text editor for iOS written in Swift.",

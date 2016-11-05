@@ -2685,11 +2685,6 @@
 		"description": "Fast, flexible markdown parser written in Swift",
 		"homepage": "https://github.com/loiclec/Apodimark"
 	}, {
-		"title": "CocoaMarkdown",
-		"category": "text",
-		"description": "Markdown parsing and rendering for iOS and OS X",
-		"homepage": "https://github.com/indragiek/CocoaMarkdown"
-	}, {
 		"title": "edhita",
 		"category": "text",
 		"description": "Fully open source text editor for iOS written in Swift.",

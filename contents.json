@@ -1075,6 +1075,11 @@
 		"description": "Easily print textual tables in Swift. Inspired by the Python tabulate library.",
 		"homepage": "https://github.com/cfilipov/TextTable"
 	}, {
+		"title": "CommandLineRouter",
+		"category": "command-line",
+		"description": "Library for easy and flexible manipulation with `CommandLine.arguments`.",
+		"homepage": "https://github.com/dimpiax/CommandLineRouter"
+	}, {
 		"title": "Safe",
 		"category": "concurrency",
 		"description": "Modern Concurrency and Synchronization for Swift.",

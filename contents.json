@@ -3637,6 +3637,11 @@
 		"description": "A large set of convenience extensions for UIKit and Foundation.",
 		"homepage": "https://github.com/ovenbits/Alexandria"
 	}, {
+		"title": "AlexaSkillsKit",
+		"category": "utility",
+		"description": "Swift library to develop custom Alexa Skills.",
+		"homepage": "https://github.com/choefele/AlexaSkillsKit"
+	}, {
 		"title": "ArrayDiff",
 		"category": "utility",
 		"description": "a fast, UITableView/UICollectionView-compatible array diffing microframework.",

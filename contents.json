@@ -1059,6 +1059,12 @@
 		"homepage": "https://github.com/jatoben/CommandLine",
 		"tags": ["linux"]
 	}, {
+		"title": "SwiftCLI",
+		"category": "command-line",
+		"description": "A powerful framework that can be used to develop a CLI in Swift",
+		"homepage": "https://github.com/jakeheis/SwiftCLI",
+		"tags": ["linux"]
+	}, {
 		"title": "Swiftline",
 		"category": "command-line",
 		"description": "A set of tools to help you create command line applications.",

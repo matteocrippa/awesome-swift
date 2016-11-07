@@ -1062,6 +1062,7 @@
 		"title": "SwiftCLI",
 		"category": "command-line",
 		"description": "A powerful framework that can be used to develop a CLI in Swift",
+		"homepage": "https://github.com/jakeheis/SwiftCLI",
 		"tags": ["linux"]
 	}, {
 		"title": "Swiftline",

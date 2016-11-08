@@ -222,6 +222,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [swamp](https://github.com/robb/swamp) - Icon stamping in Swift.
 * [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the Swift compiler.
 * [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A suite of tools written in Swift to auto-generate Swift code for various assets of your project.
+* [Touchbar Nyancat](https://github.com/avatsaev/touchbar_nyancat) - Stupid nyancat animation on your +$2k MacBook Pro's Touchbar.
 * [Toybox](https://github.com/giginet/Toybox) - Xcode Playground management made easy
 
 ## Libs

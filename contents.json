@@ -4194,7 +4194,7 @@
 	},
 	{
         	"title": "Luminous",
-	        "category": "Device",
+	        "category": "device",
         	"description": "Get everything you need to know about the device.",
 	        "homepage": "https://github.com/andrealufino/Luminous",
         	"tags": ["device", "system"]

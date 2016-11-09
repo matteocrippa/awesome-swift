@@ -872,6 +872,11 @@
 		"description": "A Simple Tuner for iOS.",
 		"homepage": "https://github.com/comyar/TuningFork"
 	}, {
+		"title": "Cely",
+		"category": "authentication",
+		"description": "A Plug-n-Play login framework written in swift.",
+		"homepage": "https://github.com/chaione/Cely"
+	}, {
 		"title": "Simplicity",
 		"category": "authentication",
 		"description": "A simple way to implement Facebook and Google login in your iOS and OS X apps.",

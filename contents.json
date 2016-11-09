@@ -1047,6 +1047,11 @@
 		"description": "Hex to UIColor converter.",
 		"homepage": "https://github.com/yeahdongcn/UIColor-Hex-Swift"
 	}, {
+		"title": "CSS3ColorsSwift",
+		"category": "colors",
+		"description": "A UIColor extension with CSS3 Colors name.",
+		"homepage": "https://github.com/WorldDownTown/CSS3ColorsSwift"
+	}, {
 		"title": "Commander",
 		"category": "command-line",
 		"description": "Compose beautiful command line interfaces in Swift.",

@@ -4191,6 +4191,13 @@
 		"category": "text",
 		"description": "A fully themeable markdown editor with live syntax highlighting.",
 		"homepage": "https://github.com/ruddfawcett/Notepad"
+	},
+	{
+        	"title": "Luminous",
+	        "category": "Device",
+        	"description": "Get everything you need to know about the device.",
+	        "homepage": "https://github.com/andrealufino/Luminous",
+        	"tags": ["device", "system"]
 	}
 ]
 }

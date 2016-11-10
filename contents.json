@@ -3030,6 +3030,12 @@
 		"description": "A component that replicates the custom photo action sheet in iMessage.",
 		"homepage": "https://github.com/lbrndnr/ImagePickerSheetController"
 	}, {
+	        "title": "PPAssetsActionController",
+	        "category": "ui",
+        	"description": "Highly customizable Action Sheet Controller with Assets Preview.",
+	        "homepage": "https://github.com/pantuspavel/PPAssetsActionController",
+        	"tags": ["macOS", "UICollectionView", "photos", "assets"]
+	}, {
 		"title": "Instructions",
 		"category": "walkthrough",
 		"description": "A Swift library to create app walkthroughs and guided tours.",

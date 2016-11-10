@@ -4073,6 +4073,11 @@
 		"description": "Swift wrapper for iOS Home Screen Quick Actions.",
 		"homepage": "https://github.com/ricardopereira/QuickActions"
 	}, {
+		"title": "DateTimePicker",
+		"category": "calendar",
+		"description": "A nicer iOS UI component for picking date and time.",
+		"homepage": "https://github.com/itsmeichigo/DateTimePicker"
+	}, {
 		"title": "JTAppleCalendar",
 		"category": "calendar",
 		"description": "Swift UI calendar handler.",

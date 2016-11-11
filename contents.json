@@ -3768,11 +3768,6 @@
 		"description": "Clojure(ish) interpreter in Swift.",
 		"homepage": "https://github.com/austinzheng/Cormorant"
 	}, {
-		"title": "LlamaKit",
-		"category": "utility",
-		"description": "Collection of must-have functional Swift tools.",
-		"homepage": "https://github.com/LlamaKit/LlamaKit"
-	}, {
 		"title": "LangKit",
 		"category": "nlp",
 		"description": "Natural Language Processing (NLP) toolkit for Swift.",

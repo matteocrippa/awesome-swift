@@ -3826,7 +3826,8 @@
 		"title": "RandomKit",
 		"category": "utility",
 		"description": "Random data generation in Swift.",
-		"homepage": "https://github.com/nvzqz/RandomKit/"
+		"homepage": "https://github.com/nvzqz/RandomKit/",
+		"tags": ["linux"]
 	}, {
 		"title": "ReactiveArray",
 		"category": "utility",

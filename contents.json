@@ -3773,6 +3773,11 @@
 		"description": "Natural Language Processing (NLP) toolkit for Swift.",
 		"homepage": "https://github.com/rxwei/LangKit"
 	}, {
+		"title": "ObjectiveKit",
+		"category": "utility",
+		"description": "Swift-friendly API for Objective C runtime functions.",
+		"homepage": "https://github.com/marmelroy/ObjectiveKit"
+	}, {
 		"title": "Mendel",
 		"category": "utility",
 		"description": "Swift miliframework for implementing evolutionary/genetic algorithms.",

@@ -3348,6 +3348,11 @@
 		"description": "Alert with a single line of Swift.",
 		"homepage": "https://github.com/thii/AlertKit"
 	}, {
+		"title": "CDAlertView",
+		"category": "alert",
+		"description": "Highly customizable alert/notification/success/error/alarm popup",
+		"homepage": "https://github.com/candostdagdeviren/CDAlertView"
+	}, {
 		"title": "EZAlertController",
 		"category": "alert",
 		"description": "Easy Swift UIAlertController.",

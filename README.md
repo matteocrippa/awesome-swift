@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-729-orange.svg) | November 16, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-730-orange.svg) | November 16, 2016
 
 ### Contributing
 
@@ -1091,6 +1091,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [HamburgerButton](https://github.com/fastred/HamburgerButton) - Hamburger button with a slick animation.
 * [KCFloatingActionButton](https://github.com/kciter/KCFloatingActionButton) - Floating Action Button for iOS.
+* [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 * [MIBadgeButton](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons.
 * [SDevBootstrapButton](https://github.com/0x73/SDevBootstrapButton) - Twitter Bootstrap buttons for Swift.
 * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons.

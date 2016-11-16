@@ -1694,6 +1694,11 @@
 		"description": "Stateless message-driven micro-framework in Swift.",
 		"homepage": "https://github.com/hyperoslo/Aftermath"
 	}, {
+		"title": "Katana",
+		"category": "events",
+		"description": "Swift apps a la React and Redux.",
+		"homepage": "https://github.com/BendingSpoons/katana-swift"
+	}, {
 		"title": "Font-Awesome",
 		"category": "fonts",
 		"description": "Use Font Awesome in project written in Swift.",

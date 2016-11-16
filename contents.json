@@ -3478,6 +3478,11 @@
 		"description": "Notification badge for UIButtons.",
 		"homepage": "https://github.com/mustafaibrahim989/MIBadgeButton-Swift"
 	}, {
+		"title": "LTHRadioButton",
+		"category": "button",
+		"description": "A radio button with a pretty animation.",
+		"homepage": "https://github.com/rolandleth/LTHRadioButton"
+	}, {
 		"title": "SDevBootstrapButton",
 		"category": "button",
 		"description": "Twitter Bootstrap buttons for Swift.",

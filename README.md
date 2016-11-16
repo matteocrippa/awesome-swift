@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-726-orange.svg) | November 15, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-729-orange.svg) | November 16, 2016
 
 ### Contributing
 
@@ -542,6 +542,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Forbind](https://github.com/ulrikdamm/Forbind) - Functional chaining and Promises in Swift.
 * [Future](https://github.com/nghialv/Future) - A micro framework providing Future<T, Error>.
 * [FutureKit](https://github.com/FutureKit/FutureKit) - A Swift based Future/Promises Library.
+* [Katana](https://github.com/BendingSpoons/katana-swift) - Swift apps a la React and Redux.
 * [Notificationz](https://github.com/SwiftKitz/Notificationz) - Helping you _own_ `NSNotificationCenter` by providing a simple, customizable adapter.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - async promise programming lib.
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa (RAC) is a Cocoa framework inspired by Functional Reactive Programming. It provides APIs for composing and transforming streams of values over time.
@@ -1085,6 +1086,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton) - Animated Play and Pause Button using CALayer, CAKeyframeAnimation.
+* [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Send Button for iOS.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button written in Swift.
 * [Hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [HamburgerButton](https://github.com/fastred/HamburgerButton) - Hamburger button with a slick animation.
@@ -1125,7 +1127,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.
 * [GlitchLabel](https://github.com/kciter/GlitchLabel) - Glitching UILabel for iOS.
-* [IncrementableLabel](https://github.com/recisio/IncrementableLabel) - An UILabel subclass to (de)increment numbers in an UILabel
+* [IncrementableLabel](https://github.com/tbaranes/IncrementableLabel) - An UILabel subclass to (de)increment numbers in an UILabel
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.
@@ -1245,6 +1247,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Focus](https://github.com/typelift/Focus) - an Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
 * [Hookah](https://github.com/HookahSwift/Hookah) - Hookah is a functional library for Swift.
 * [Mendel](https://github.com/saniul/Mendel) - Swift miliframework for implementing evolutionary/genetic algorithms.
+* [ObjectiveKit](https://github.com/marmelroy/ObjectiveKit) - Swift-friendly API for Objective C runtime functions.
 * [Popsicle](https://github.com/DavdRoman/Popsicle) - Delightful, extensible Swift value interpolation framework.
 * [Prelude](https://github.com/robrix/Prelude) - Swift framework of simple functional programming tools.
 * [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - ProtocolBuffers for Swift.

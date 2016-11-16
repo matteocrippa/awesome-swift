@@ -2300,7 +2300,7 @@
 	}, {
 		"title": "Siesta",
 		"category": "network",
-		"description": "egant abstraction for REST APIs that untangles stateful messes. An alternative to callback- and delegate-based networking.",
+		"description": "Elegant abstraction for REST APIs that untangles stateful messes. An alternative to callback- and delegate-based networking.",
 		"homepage": "https://bustoutsolutions.github.io/siesta/"
 	}, {
 		"title": "Stargate",

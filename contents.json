@@ -3049,7 +3049,7 @@
 		"title": "IncrementableLabel",
 		"category": "label",
 		"description": "An UILabel subclass to (de)increment numbers in an UILabel",
-		"homepage": "https://github.com/recisio/IncrementableLabel"
+		"homepage": "https://github.com/tbaranes/IncrementableLabel"
 	},{
 		"title": "Toaster",
 		"category": "ui",

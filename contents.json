@@ -3443,6 +3443,11 @@
 		"description": "Animated Play and Pause Button using CALayer, CAKeyframeAnimation.",
 		"homepage": "https://github.com/suzuki-0000/AnimatablePlayButton"
 	}, {
+		"title": "CRNetworkButton",
+		"category": "button",
+		"description": "Send Button for iOS.",
+		"homepage": "https://github.com/Cleveroad/CRNetworkButton"
+	}, {
 		"title": "DOFavoriteButton",
 		"category": "button",
 		"description": "Cute Animated Button written in Swift.",

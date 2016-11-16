@@ -4215,6 +4215,12 @@
         	"description": "Get everything you need to know about the device.",
 	        "homepage": "https://github.com/andrealufino/Luminous",
         	"tags": ["device", "system"]
-	}
+	},
+        {
+                "title": "LearnSwift",
+		"category": "Third party Guides",
+		"description": " a collection of swift demos for swift learning",
+		"homepage": "https://github.com/cjiong/LearnSwift"
+        }
 ]
 }

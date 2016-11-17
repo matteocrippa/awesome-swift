@@ -3141,6 +3141,11 @@
 		"description": "Apple TV Parallax effect in Swift.",
 		"homepage": "https://github.com/DroidsOnRoids/MPParallaxView"
 	}, {
+		"title": "MVCarouselCollectionView",
+		"category": "ui",
+		"description": "UICollectionView-based image carousel written in Swift.",
+		"homepage": "https://github.com/bizz84/MVCarouselCollectionView"
+	}, {
 		"title": "MXParallaxHeader",
 		"category": "ui",
 		"description": "Simple parallax header in Swift for UIScrollView.",

@@ -2870,6 +2870,11 @@
 		"description": "RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.",
 		"homepage": "https://github.com/Ramotion/animated-tab-bar"
 	}, {
+		"title": "AZTransitions",
+		"category": "ui",
+		"description": "API to make great custom transitions in one method.",
+		"homepage": "https://github.com/azimin/AZTransitions"
+	}, {
 		"title": "BreakOutToRefresh",
 		"category": "ui",
 		"description": "A playable pull to refresh view using SpriteKit.",

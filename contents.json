@@ -1091,6 +1091,11 @@
 		"description": "Easily print textual tables in Swift. Inspired by the Python tabulate library.",
 		"homepage": "https://github.com/cfilipov/TextTable"
 	}, {
+		"title": "Overdrive",
+		"category": "concurrency",
+		"description": "Fast async task based API in Swift with focus on type safety, concurrency and multi threading.",
+		"homepage": "https://github.com/arikis/Overdrive"
+	}, {
 		"title": "Safe",
 		"category": "concurrency",
 		"description": "Modern Concurrency and Synchronization for Swift.",

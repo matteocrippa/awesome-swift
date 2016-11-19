@@ -1629,6 +1629,11 @@
 		"description": "A Swift based Future/Promises Library.",
 		"homepage": "https://github.com/FutureKit/FutureKit"
 	}, {
+		"title": "GlueKit",
+		"category": "events",
+		"description": "A Type-safe observable values and collections in Swift.",
+		"homepage": "https://github.com/lorentey/GlueKit"
+	}, {
 		"title": "Notificationz",
 		"category": "events",
 		"description": "Helping you _own_ `NSNotificationCenter` by providing a simple, customizable adapter.",

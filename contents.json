@@ -3020,6 +3020,11 @@
 		"description": "A new way to display content in your app like the Apple Watch SpringBoard.",
 		"homepage": "https://github.com/gautier-gdx/Hexacon"
 	}, {
+		"title": "HGCircularSlider",
+		"category": "ui",
+		"description": "A custom reusable circular slider control for iOS application.",
+		"homepage": "https://github.com/HamzaGhazouani/HGCircularSlider"
+	}, {
 		"title": "HoneycombView",
 		"category": "ui",
 		"description": "HoneycombView is the iOS UIView for displaying like Honyecomb layout written by swift.",

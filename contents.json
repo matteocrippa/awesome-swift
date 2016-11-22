@@ -2564,6 +2564,11 @@
 		"homepage": "https://github.com/Zewo/OpenSSL",
 		"tags": ["linux"]
 	}, {
+		"title": "Siphash",
+		"category": "cryptography",
+		"description": "Simple and secure hashing in Swift with the SipHash algorithm.",
+		"homepage": "https://github.com/lorentey/SipHash"
+	}, {
 		"title": "SweetHMAC",
 		"category": "cryptography",
 		"description": "A tiny and easy to use Swift class to encrypt strings using HMAC algorithms.",

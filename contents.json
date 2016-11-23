@@ -2716,6 +2716,11 @@
 		"description": "Fast, flexible markdown parser written in Swift",
 		"homepage": "https://github.com/loiclec/Apodimark"
 	}, {
+		"title": "BonMot",
+		"category": "text",
+		"description": "Beautiful, easy attributed strings for iOS.",
+		"homepage": "https://github.com/Raizlabs/BonMot"
+	}, {
 		"title": "edhita",
 		"category": "text",
 		"description": "Fully open source text editor for iOS written in Swift.",

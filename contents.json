@@ -577,6 +577,11 @@
 		"description": "Daily swift experiments by Linda Dong.",
 		"homepage": "https://github.com/lindadong/swift-a-day"
 	}, {
+		"title": "Swift Examples",
+		"category": "third-party-guides",
+		"description": "Reusable examples code. Written in Swift 3.0",
+		"homepage": "https://github.com/carlosencoding/swift"
+	}, {
 		"title": "Swift Sandbox Newsletter",
 		"category": "third-party-guides",
 		"description": "Swift Sandbox is a weekly newsletter containing a collection of links to the best Swift **code** and **developer tools**. Every Friday. **Free**.",

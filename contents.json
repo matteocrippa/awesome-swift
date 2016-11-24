@@ -3413,6 +3413,11 @@
 		"description": "A library for a cool bouncy action sheet.",
 		"homepage": "https://github.com/ytakzk/Hokusai"
 	}, {
+		"title": "Jelly",
+		"category": "alert",
+		"description": "Jelly provides custom view controller transitions with just a few lines of code.",
+		"homepage": "https://github.com/SebastianBoldt/Jelly"
+	}, {
 		"title": "Kamagari",
 		"category": "alert",
 		"description": "Simple UIAlertController builder class in Swift.",

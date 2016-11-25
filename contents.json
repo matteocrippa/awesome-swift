@@ -732,6 +732,11 @@
 		"description": "A suite of tools written in Swift to auto-generate Swift code for various assets of your project.",
 		"homepage": "https://github.com/AliSoftware/SwiftGen"
 	}, {
+		"title": "SwiftPlate",
+		"category": "misc",
+		"description": "Easily generate cross platform Swift framework projects from the command line.",
+		"homepage": "https://github.com/JohnSundell/SwiftPlate"
+	}, {
 		"title": "BrainCore",
 		"category": "ai",
 		"description": "The iOS and OS X neural network framework",

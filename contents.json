@@ -3323,6 +3323,11 @@
 		"description": "Lightweight dropdown message bar in Swift.",
 		"homepage": "https://github.com/morizotter/SwiftyDrop"
 	}, {
+		"title": "RazzleDazzle",
+		"category": "walkthrough",
+		"description": "A simple keyframe-based animation framework for iOS, written in Swift. Perfect for scrolling app intros.",
+		"homepage": "https://github.com/IFTTT/RazzleDazzle"
+	}, {
 		"title": "SwiftyWalkthrough",
 		"category": "walkthrough",
 		"description": "The easiest way to create a great walkthrough experience in your apps, powered by Swift.",

@@ -1995,6 +1995,11 @@
 		"description": "A powerful Swift programmatic UI layout framework.",
 		"homepage": "https://github.com/mamaral/Neon"
 	}, {
+		"title": "SDWebImage",
+		"category": "images",
+		"description": "Asynchronous image downloader with cache support & WebP",
+		"homepage": "http://cocoadocs.org/docsets/SDWebImage/3.8.2/"
+	}, {
 		"title": "Static",
 		"category": "layout",
 		"description": "A simple static table views for iOS in Swift.",

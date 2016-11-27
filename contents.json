@@ -15,7 +15,7 @@
 		"title": "SDK",
 		"id": "sdk",
 		"parent": "libs"
-	},{
+	}, {
 		"title": "Third party Guides",
 		"id": "third-party-guides",
 		"parent": "guides"
@@ -188,7 +188,7 @@
 		"title": "ORM",
 		"id": "orm",
 		"parent": "data-management"
-	},{
+	}, {
 		"title": "SQLite",
 		"id": "sqlite",
 		"parent": "data-management",
@@ -387,7 +387,7 @@
 		"id": "testing",
 		"parent": "libs",
 		"description": "A collection of testing frameworks."
-	},{
+	}, {
 		"title": "Mock",
 		"id": "mock",
 		"parent": "testing"
@@ -746,7 +746,12 @@
 		"category": "ai",
 		"description": "An artificial intelligence and machine learning library in Swift.",
 		"homepage": "https://github.com/collinhundley/Swift-AI"
-	},{
+	}, {
+		"title": "DeepLearningKit",
+		"category": "ai",
+		"description": "Open Source Deep Learning Framework for Apple's iOS, OS X and tvOS in Swift.",
+		"homepage": "https://github.com/DeepLearningKit/DeepLearningKit"
+	}, {
 		"title": "Stellar",
 		"category": "animation",
 		"description": "A Physical animation library for swift.",
@@ -916,7 +921,7 @@
 		"category": "api",
 		"description": "Swift 3 Framework to Generate Random Users - An Unofficial SDK for randomuser.me",
 		"homepage": "https://github.com/dingwilson/RandomUserSwift"
-	},{
+	}, {
 		"title": "GithubPilot",
 		"category": "api",
 		"description": "Github API V3 wrapper.",
@@ -1001,7 +1006,7 @@
 		"category": "chat",
 		"description": "Eventually, a Swift re-write of JSQMessagesViewController.",
 		"homepage": "https://github.com/MessageKit/MessageKit-iOS"
-	},{
+	}, {
 		"title": "Chameleon",
 		"category": "colors",
 		"description": "Chameleon is a lightweight, yet powerful, color framework for iOS (Objective-C & Swift).",
@@ -1433,13 +1438,13 @@
 		"description": "Pure Swift ORM (Supports Linux)",
 		"homepage": "https://github.com/PureSwift/CoreModel",
 		"tags": ["linux"]
-	},{
+	}, {
 		"title": "fluent",
 		"category": "orm",
 		"description": "Simple ActiveRecord implementation for Swift",
 		"homepage": "https://github.com/vapor/fluent",
 		"tags": ["linux"]
-	},{
+	}, {
 		"title": "GRDB.swift",
 		"category": "sqlite",
 		"description": "A versatile [SQLite](https://www.sqlite.org) toolkit for Swift.",
@@ -2328,10 +2333,10 @@
 		"description": "NSURLSession wrapper.",
 		"homepage": "https://github.com/daltoniam/SwiftHTTP"
 	}, {
-	        "title": "SwiftyOAuth",
-	        "category": "network",
-	        "description": "A small OAuth library with a built-in set of providers",
-	        "homepage": "https://github.com/delba/SwiftyOAuth"
+		"title": "SwiftyOAuth",
+		"category": "network",
+		"description": "A small OAuth library with a built-in set of providers",
+		"homepage": "https://github.com/delba/SwiftyOAuth"
 	}, {
 		"title": "Transporter",
 		"category": "network",
@@ -2411,7 +2416,7 @@
 		"description": "WebSockets server for Swift 2.2 on Linux.",
 		"homepage": "https://github.com/Zewo/WebSocket",
 		"tags": ["linux"]
-	},  {
+	}, {
 		"title": "Curassow",
 		"category": "webserver",
 		"description": "Swift HTTP server using the pre-fork worker model.",
@@ -2653,7 +2658,7 @@
 		"category": "mock",
 		"description": "First boilerplate-free mocking framework for Swift",
 		"homepage": "https://github.com/SwiftKit/Cuckoo"
-	},{
+	}, {
 		"title": "Kakapo",
 		"category": "mock",
 		"description": "Dynamically Mock server behaviors and responses in Swift ",
@@ -2735,7 +2740,7 @@
 		"category": "text",
 		"description": "Fully open source text editor for iOS written in Swift.",
 		"homepage": "https://github.com/tnantoka/edhita"
-	},{
+	}, {
 		"title": "Format",
 		"category": "text",
 		"description": "Swift formatting kit for numbers, addresses and colors.",
@@ -2756,7 +2761,7 @@
 		"category": "text",
 		"description": "An NSPredicate DSL for iOS & OS X inspired by SnapKit and written in Swift.",
 		"homepage": "https://github.com/KrakenDev/PrediKit"
-	},{
+	}, {
 		"title": "PySwiftyRegex",
 		"category": "text",
 		"description": "Easily deal with Regex in Swift in a Pythonic way.",
@@ -2782,7 +2787,7 @@
 		"category": "text",
 		"description": " RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.",
 		"homepage": "https://github.com/cjwirth/RichEditorView"
-	},{
+	}, {
 		"title": "Roman",
 		"category": "text",
 		"description": "Seamless Roman numeral conversion in Swift.",
@@ -3070,11 +3075,11 @@
 		"description": "A component that replicates the custom photo action sheet in iMessage.",
 		"homepage": "https://github.com/lbrndnr/ImagePickerSheetController"
 	}, {
-	        "title": "PPAssetsActionController",
-	        "category": "ui",
-        	"description": "Highly customizable Action Sheet Controller with Assets Preview.",
-	        "homepage": "https://github.com/pantuspavel/PPAssetsActionController",
-        	"tags": ["macOS", "UICollectionView", "photos", "assets"]
+		"title": "PPAssetsActionController",
+		"category": "ui",
+		"description": "Highly customizable Action Sheet Controller with Assets Preview.",
+		"homepage": "https://github.com/pantuspavel/PPAssetsActionController",
+		"tags": ["macOS", "UICollectionView", "photos", "assets"]
 	}, {
 		"title": "Instructions",
 		"category": "walkthrough",
@@ -3085,7 +3090,7 @@
 		"category": "label",
 		"description": "An UILabel subclass to (de)increment numbers in an UILabel",
 		"homepage": "https://github.com/tbaranes/IncrementableLabel"
-	},{
+	}, {
 		"title": "Toaster",
 		"category": "ui",
 		"description": "Toast for Swift.",
@@ -3230,8 +3235,7 @@
 		"category": "chart",
 		"description": "A simple and beautiful chart lib with animation.",
 		"homepage": "https://github.com/kevinzhow/PNChart-Swift"
-	}
-	, {
+	}, {
 		"title": "TKRadarChart",
 		"category": "chart",
 		"description": "A customizable radar chart in Swift",
@@ -3306,13 +3310,12 @@
 		"category": "ui",
 		"description": "Powerful theme/skin manager for iOS 7+, written in swift.",
 		"homepage": "https://github.com/jiecao-fm/SwiftTheme"
-	},
-	{
+	}, {
 		"title": "DropDown",
 		"category": "ui",
 		"description": "A Material Design drop down for iOS written in Swift.",
 		"homepage": "https://github.com/AssistoLab/DropDown"
-	},{
+	}, {
 		"title": "SwiftValidator",
 		"category": "validation",
 		"description": "UIView validation framework.",
@@ -3432,7 +3435,7 @@
 		"category": "alert",
 		"description": "Simple UIAlertController builder class in Swift.",
 		"homepage": "https://github.com/tasanobu/Kamagari"
-	},{
+	}, {
 		"title": "KRAlertController",
 		"category": "alert",
 		"description": "A beautiful alert controller for your iOS.",
@@ -3447,7 +3450,7 @@
 		"category": "alert",
 		"description": "PMAlertController is a great and customizable substitute to UIAlertController",
 		"homepage": "https://github.com/Codeido/PMAlertController"
-	},{
+	}, {
 		"title": "SCLAlertView",
 		"category": "alert",
 		"description": "Animated Alert view.",
@@ -4004,11 +4007,11 @@
 		"description": "String validation for iOS developed in Swift (inspired by validator.js).",
 		"homepage": "https://github.com/gkaimakas/SwiftValidators"
 	}, {
-	    "title": "SwiftVideoBackground",
-	    "category": "video",
-	    "description": "Easy to Use UIView subclass for implementating a video background in Swift 3",
-	    "homepage": "https://github.com/dingwilson/SwiftVideoBackground"
-    }, {
+		"title": "SwiftVideoBackground",
+		"category": "video",
+		"description": "Easy to Use UIView subclass for implementating a video background in Swift 3",
+		"homepage": "https://github.com/dingwilson/SwiftVideoBackground"
+	}, {
 		"title": "Swiftx",
 		"category": "utility",
 		"description": "Functional data types and functions for any project.",
@@ -4153,64 +4156,62 @@
 		"category": "ui",
 		"description": "An iOS text field that represents different Tags.",
 		"homepage": "https://github.com/whitesmith/WSTagsField"
-	},{
- 		"title": "ImageOpenTransition",
- 		"category": "transition",
- 		"description": "Beautiful and precise transitions between ViewControllers images.",
- 		"homepage": "https://github.com/mcmatan/ImageOpenTransition"
-  },{
-			"title": "PasswordTextField",
-			"category": "textfield",
-			"description": "A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.",
-			"homepage": "https://github.com/PiXeL16/PasswordTextField"
-	},{
-			"title": "RevealingSplashView",
-			"category": "transition",
-			"description": "A Splash view that animates and reveals its content, inspired by the Twitter splash.",
-			"homepage": "https://github.com/PiXeL16/RevealingSplashView"
-	},
-	{
-	 		"title": "Postal",
-	 		"category": "network",
-	 		"description": "Swift framework providing simple access to common email providers.",
-	 		"homepage": "https://github.com/snipsco/Postal"
-	},	{
+	}, {
+		"title": "ImageOpenTransition",
+		"category": "transition",
+		"description": "Beautiful and precise transitions between ViewControllers images.",
+		"homepage": "https://github.com/mcmatan/ImageOpenTransition"
+	}, {
+		"title": "PasswordTextField",
+		"category": "textfield",
+		"description": "A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.",
+		"homepage": "https://github.com/PiXeL16/PasswordTextField"
+	}, {
+		"title": "RevealingSplashView",
+		"category": "transition",
+		"description": "A Splash view that animates and reveals its content, inspired by the Twitter splash.",
+		"homepage": "https://github.com/PiXeL16/RevealingSplashView"
+	}, {
+		"title": "Postal",
+		"category": "network",
+		"description": "Swift framework providing simple access to common email providers.",
+		"homepage": "https://github.com/snipsco/Postal"
+	}, {
 		"title": "ColorMatchTabs",
 		"category": "tab",
 		"description": "Interesting way to display tabs.",
 		"homepage": "https://github.com/Yalantis/ColorMatchTabs"
-	},{
-			"title": "IBLocalizable",
-			"category": "localization",
-			"description": "Localize your views directly in Interface Builder with IBLocalizable ",
-			"homepage": "https://github.com/PiXeL16/IBLocalizable"
 	}, {
-	  "title": "TriLabelView",
-	  "category": "label",
-	  "description": "A triangle shaped corner label view for iOS written in Swift.",
-	  "homepage": "https://github.com/mukeshthawani/TriLabelView"
-  }, {
-      "title": "ReadabilityKit",
-      "category": "utility",
-      "description": "Preview extractor for news, articles and full-texts in Swift",
-      "homepage": "https://github.com/exyte/ReadabilityKit"
-  }, {
-    "title": "SwiftMessages",
-    "category": "alert",
-    "description": "A very flexible message bar for iOS written in Swift.",
-    "homepage": "https://github.com/SwiftKickMobile/SwiftMessages"
-  }, {
-    "title": "Swift 3 Module Template",
-    "category": "boilerplates",
-    "description": "An opinionated starting point for awesome, reusable Swift 3 modules",
-    "homepage": "https://github.com/fulldecent/swift3-module-template"
-  }, {
-    "title": "Toybox",
-    "category": "misc",
-    "description": "Xcode Playground management made easy",
-    "homepage": "https://github.com/giginet/Toybox"
-  },
-	{
+		"title": "IBLocalizable",
+		"category": "localization",
+		"description": "Localize your views directly in Interface Builder with IBLocalizable ",
+		"homepage": "https://github.com/PiXeL16/IBLocalizable"
+	}, {
+		"title": "TriLabelView",
+		"category": "label",
+		"description": "A triangle shaped corner label view for iOS written in Swift.",
+		"homepage": "https://github.com/mukeshthawani/TriLabelView"
+	}, {
+		"title": "ReadabilityKit",
+		"category": "utility",
+		"description": "Preview extractor for news, articles and full-texts in Swift",
+		"homepage": "https://github.com/exyte/ReadabilityKit"
+	}, {
+		"title": "SwiftMessages",
+		"category": "alert",
+		"description": "A very flexible message bar for iOS written in Swift.",
+		"homepage": "https://github.com/SwiftKickMobile/SwiftMessages"
+	}, {
+		"title": "Swift 3 Module Template",
+		"category": "boilerplates",
+		"description": "An opinionated starting point for awesome, reusable Swift 3 modules",
+		"homepage": "https://github.com/fulldecent/swift3-module-template"
+	}, {
+		"title": "Toybox",
+		"category": "misc",
+		"description": "Xcode Playground management made easy",
+		"homepage": "https://github.com/giginet/Toybox"
+	}, {
 		"title": "CostumeKit",
 		"category": "ui",
 		"description": "Base types for theming an app.",
@@ -4267,19 +4268,16 @@
 		"category": "api",
 		"description": "Framework for rapid development of native iOS apps that integrate with Salesforce.",
 		"homepage": "https://github.com/mike4aday/SwiftlySalesforce"
-	},
-	{
+	}, {
 		"title": "Notepad",
 		"category": "text",
 		"description": "A fully themeable markdown editor with live syntax highlighting.",
 		"homepage": "https://github.com/ruddfawcett/Notepad"
-	},
-	{
-        	"title": "Luminous",
-	        "category": "device",
-        	"description": "Get everything you need to know about the device.",
-	        "homepage": "https://github.com/andrealufino/Luminous",
-        	"tags": ["device", "system"]
-	}
-]
+	}, {
+		"title": "Luminous",
+		"category": "device",
+		"description": "Get everything you need to know about the device.",
+		"homepage": "https://github.com/andrealufino/Luminous",
+		"tags": ["device", "system"]
+	}]
 }

@@ -9,13 +9,14 @@ The README is generated from **contents.json**, please update the JSON file inst
 
 To be added to the list, software should meet the following criteria:
 
+- Written in Swift
 - Actively maintained
 - Performs a useful function
 - Used by the community
 - Well documented
 - Work with the latest SDK
 - Have at least 15 stars on (GitHub project)
-- Support `Swift 3`
+- ~~Support `Swift 3`~~
 
 If an item on the list no longer meets the above criteria, open an issue to have it be removed.
 

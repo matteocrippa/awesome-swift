@@ -532,11 +532,6 @@
 		"description": "A cool 30 days tutorial for swift.",
 		"homepage": "https://github.com/allenwong/30DaysofSwift"
 	}, {
-		"title": "A better way to learn Swift",
-		"category": "third-party-guides",
-		"description": "Learn Swift in a different way.",
-		"homepage": "https://github.com/GoThinkster/swift"
-	}, {
 		"title": "Awesome Swift Education",
 		"category": "third-party-guides",
 		"description": "An organized list of essential Swift Language Topics",
@@ -572,11 +567,6 @@
 		"description": "an interesting guide to learn Swift.",
 		"homepage": "https://github.com/domenicosolazzo/practice-swift"
 	}, {
-		"title": "Swift A Day",
-		"category": "third-party-guides",
-		"description": "Daily swift experiments by Linda Dong.",
-		"homepage": "https://github.com/lindadong/swift-a-day"
-	}, {
 		"title": "Swift Examples",
 		"category": "third-party-guides",
 		"description": "Reusable examples code. Written in Swift 3.0",
@@ -601,11 +591,6 @@
 		"category": "third-party-guides",
 		"description": "A Chinese written guide for Swift.",
 		"homepage": "https://github.com/ipader/SwiftGuide"
-	}, {
-		"title": "SwiftInFlux",
-		"category": "third-party-guides",
-		"description": "A well explained list of feature in flux for Swift.",
-		"homepage": "https://github.com/ksm/SwiftInFlux"
 	}, {
 		"title": "SwiftIntro",
 		"category": "third-party-guides",
@@ -662,11 +647,6 @@
 		"description": "language pack for vim that includes vim-swift.",
 		"homepage": "https://github.com/sheerun/vim-polyglot"
 	}, {
-		"title": "vim-swift",
-		"category": "vim",
-		"description": "adds Swift support to vim. It covers syntax, indenting, and more.",
-		"homepage": "https://github.com/toyamarinyon/vim-swift"
-	}, {
 		"title": "open-source-ios-apps",
 		"category": "demo-apps",
 		"description": "A collaborative list of open-source iOS Apps.",
@@ -716,11 +696,6 @@
 		"category": "misc",
 		"description": "A nifty tool to generate constants file by grabbing identifiers from storyboards in a Swift project.",
 		"homepage": "https://github.com/paulsamuels/SBConstants"
-	}, {
-		"title": "swamp",
-		"category": "misc",
-		"description": "Icon stamping in Swift.",
-		"homepage": "https://github.com/robb/swamp"
 	}, {
 		"title": "swift-compiler-crashes",
 		"category": "misc",
@@ -831,11 +806,6 @@
 		"category": "app-routing",
 		"description": "Launch external apps, and deeplink, with ease using Swift!",
 		"homepage": "https://github.com/SwiftKitz/Appz"
-	}, {
-		"title": "IKRouter",
-		"category": "app-routing",
-		"description": "URLScheme router than supports auto creation of UIViewControllers.",
-		"homepage": "https://github.com/IanKeen/IKRouter"
 	}, {
 		"title": "URLNavigator",
 		"category": "app-routing",
@@ -1345,16 +1315,6 @@
 		"description": "Generic model framework for Swift.",
 		"homepage": "https://github.com/felixjendrusch/Pistachio"
 	}, {
-		"title": "PPJSONSerialization",
-		"category": "json",
-		"description": "Convert JSON string to Swift Class.",
-		"homepage": "https://github.com/PonyCui/PPJSONSerialization"
-	}, {
-		"title": "SwiftJSONParser",
-		"category": "json",
-		"description": "JSON parser.",
-		"homepage": "https://github.com/mrap/SwiftJSONParser"
-	}, {
 		"title": "SwiftyJSON",
 		"category": "json",
 		"description": "A lib for JSON in Swift with error handling.",
@@ -1428,12 +1388,6 @@
 		"homepage": "https://github.com/PerfectlySoft/Perfect-MongoDB",
 		"tags": ["linux", "macOS"]
 	}, {
-		"title": "CoreModel",
-		"category": "orm",
-		"description": "Pure Swift ORM (Supports Linux)",
-		"homepage": "https://github.com/PureSwift/CoreModel",
-		"tags": ["linux"]
-	},{
 		"title": "fluent",
 		"category": "orm",
 		"description": "Simple ActiveRecord implementation for Swift",
@@ -1541,11 +1495,6 @@
 		"homepage": "https://github.com/harlanhaskins/Punctual.swift",
 		"tags": ["linux"]
 	}, {
-		"title": "Swift-NSDate-Extensions",
-		"category": "date",
-		"description": "NSDate extensions.",
-		"homepage": "https://github.com/fwhenin/Swift-NSDate-Extensions"
-	}, {
 		"title": "SwiftDate",
 		"category": "date",
 		"description": "Easy NSDate Management in Swift.",
@@ -1565,11 +1514,6 @@
 		"category": "thread",
 		"description": "Each is a NSTimer bridge library written in Swift",
 		"homepage": "https://github.com/dalu93/Each"
-	}, {
-		"title": "Tempo",
-		"category": "date",
-		"description": "Date and time manager for iOS/OSX written in Swift.",
-		"homepage": "https://github.com/remirobert/Tempo"
 	}, {
 		"title": "Timepiece",
 		"category": "date",
@@ -1659,11 +1603,6 @@
 		"description": "ReactiveCocoa (RAC) is a Cocoa framework inspired by Functional Reactive Programming. It provides APIs for composing and transforming streams of values over time.",
 		"homepage": "https://github.com/ReactiveCocoa/ReactiveCocoa"
 	}, {
-		"title": "ReactKit",
-		"category": "events",
-		"description": "Swift Reactive Programming.",
-		"homepage": "https://github.com/ReactKit/ReactKit"
-	}, {
 		"title": "Reactor",
 		"category": "events",
 		"description": "Powering your RAC architecture.",
@@ -1714,11 +1653,6 @@
 		"description": "Swift apps a la React and Redux.",
 		"homepage": "https://github.com/BendingSpoons/katana-swift"
 	}, {
-		"title": "Font-Awesome",
-		"category": "fonts",
-		"description": "Use Font Awesome in project written in Swift.",
-		"homepage": "https://github.com/hirohisa/Font-Awesome"
-	}, {
 		"title": "FontAwesome.swift",
 		"category": "fonts",
 		"description": "Use FontAwesome in your Swift projects.",
@@ -1763,11 +1697,6 @@
 		"category": "fonts",
 		"description": "OS font complements library. Localized font supported.",
 		"homepage": "https://github.com/morizotter/SwiftFontName"
-	}, {
-		"title": "SwiftFonts",
-		"category": "fonts",
-		"description": "render all the supported fonts in Swift.",
-		"homepage": "https://github.com/roadfire/SwiftFonts"
 	}, {
 		"title": "SwiftIconFont",
 		"category": "fonts",
@@ -1955,11 +1884,6 @@
 		"description": "iTunes style color fetcher for UIImage.",
 		"homepage": "https://github.com/jathu/UIImageColors"
 	}, {
-		"title": "UIImageView-BetterFace-Swift",
-		"category": "images",
-		"description": "autoresize images and if any face discovered refine the position of the image.",
-		"homepage": "https://github.com/croath/UIImageView-BetterFace-Swift"
-	}, {
 		"title": "WDImagePicker",
 		"category": "images",
 		"description": "Image picker with customizable crop rectangle (getting update).",
@@ -1969,11 +1893,6 @@
 		"category": "images",
 		"description": "XAnimatedImage is a performant animated GIF engine for iOS written in Swift based on FLAnimatedImage",
 		"homepage": "https://github.com/khaledmtaha/XAnimatedImage"
-	}, {
-		"title": "SwiftKVC",
-		"category": "key-value-coding",
-		"description": "Key-Value Coding (KVC) for native Swift classes and structs.",
-		"homepage": "https://github.com/bradhilton/SwiftKVC"
 	}, {
 		"title": "C4iOS",
 		"category": "kit",
@@ -2145,11 +2064,6 @@
 		"homepage": "https://github.com/onevcat/Rainbow",
 		"tags": ["linux"]
 	}, {
-		"title": "Swell",
-		"category": "logging",
-		"description": "a logging utility for Swift.",
-		"homepage": "https://github.com/hubertr/Swell"
-	}, {
 		"title": "SwiftyBeaver",
 		"category": "logging",
 		"description": "Multi-platform logging during development & release in Swift 2 & 3.",
@@ -2262,11 +2176,6 @@
 		"description": "network abstraction layer.",
 		"homepage": "https://github.com/Moya/Moya"
 	}, {
-		"title": "Net",
-		"category": "network",
-		"description": "an httprequest wrapper.",
-		"homepage": "https://github.com/nghialv/Net"
-	}, {
 		"title": "Netfox",
 		"category": "network",
 		"description": "A lightweight, one line setup, network debugging library in Swift.",
@@ -2308,20 +2217,10 @@
 		"description": "A non-intrusive framework for intercepting any outgoing requests and incoming responses between your app and server for debugging purposes.",
 		"homepage": "https://github.com/netguru/ResponseDetective"
 	}, {
-		"title": "RSNetworking",
-		"category": "network",
-		"description": "Network library written purely in Swift.",
-		"homepage": "https://github.com/hoffmanjon/RSNetworking"
-	}, {
 		"title": "Siesta",
 		"category": "network",
 		"description": "Elegant abstraction for REST APIs that untangles stateful messes. An alternative to callback- and delegate-based networking.",
 		"homepage": "https://bustoutsolutions.github.io/siesta/"
-	}, {
-		"title": "Stargate",
-		"category": "network",
-		"description": "A communication channel from your Mac to your watch.",
-		"homepage": "https://github.com/contentful-labs/Stargate"
 	}, {
 		"title": "SwiftHTTP",
 		"category": "network",
@@ -2460,11 +2359,6 @@
 		"homepage": "https://github.com/novi/Kunugi",
 		"tags": ["linux"]
 	}, {
-		"title": "NetworkObjects",
-		"category": "webserver",
-		"description": "REST HTTP Server written in Swift. Builds REST API from Core Data.",
-		"homepage": "https://github.com/colemancda/NetworkObjects"
-	}, {
 		"title": "Noze.io",
 		"category": "webserver",
 		"description": "Evented I/O streams a.k.a. Node.js for Swift.",
@@ -2476,11 +2370,6 @@
 		"description": "Server-side Swift. The Perfect library, application server, connectors and example apps.",
 		"homepage": "https://github.com/PerfectlySoft/Perfect",
 		"tags": ["linux"]
-	}, {
-		"title": "Swift-Server",
-		"category": "webserver",
-		"description": "Currently, a very basic proof-of-concept Swift HTTP server that does not require Foundation.",
-		"homepage": "https://github.com/cezarywojcik/Swift-Server"
 	}, {
 		"title": "swifter",
 		"category": "webserver",
@@ -2535,11 +2424,6 @@
 		"category": "ocr",
 		"description": "Neural Network based OCR lib written in swift.",
 		"homepage": "https://github.com/garnele007/SwiftOCR"
-	}, {
-		"title": "SwiftFormat",
-		"category": "quality",
-		"description": "Auto formatting Swift code, similar to Clang format.",
-		"homepage": "https://github.com/haaakon/SwiftFormat"
 	}, {
 		"title": "SwiftLint",
 		"category": "quality",
@@ -2850,11 +2734,6 @@
 		"description": "Make Grand Central Dispatch easy and fun to use (queue, task, group, timer and semaphore).",
 		"homepage": "https://github.com/kodlian/Eki"
 	}, {
-		"title": "GCD",
-		"category": "thread",
-		"description": "A wrapper of Grand Central Dispatch written in Swift.",
-		"homepage": "https://github.com/nghialv/GCD"
-	}, {
 		"title": "GCDKit",
 		"category": "thread",
 		"description": "Grand Central Dispatch simplified with Swift.",
@@ -2974,11 +2853,6 @@
 		"category": "ui",
 		"description": "Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way.",
 		"homepage": "https://github.com/vadymmarkov/Fashion"
-	}, {
-		"title": "Few.swift",
-		"category": "ui",
-		"description": "Views as functions of their state.",
-		"homepage": "https://github.com/joshaber/Few.swift"
 	}, {
 		"title": "FillableLoaders",
 		"category": "ui",
@@ -3247,11 +3121,6 @@
 		"description": "Option list managed as a reel.",
 		"homepage": "https://github.com/Ramotion/reel-search"
 	}, {
-		"title": "RubberBandEffect",
-		"category": "ui",
-		"description": "Recreating Apples rubber band effect in Swift.",
-		"homepage": "https://github.com/Produkt/RubberBandEffect"
-	}, {
 		"title": "SAConfettiView",
 		"category": "ui",
 		"description": "Easily add fun, multi-colored confetti to your app.",
@@ -3271,11 +3140,6 @@
 		"category": "ui",
 		"description": "An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift. Originally written for a small personal project.",
 		"homepage": "https://github.com/philackm/Scrollable-GraphView"
-	}, {
-		"title": "SevenSwitch",
-		"category": "switch",
-		"description": "iOS7 style drop in replacement for UISwitch.",
-		"homepage": "https://github.com/hyperoslo/SevenSwitch"
 	}, {
 		"title": "Siren",
 		"category": "version-manager",
@@ -3533,11 +3397,6 @@
 		"description": "A radio button with a pretty animation.",
 		"homepage": "https://github.com/rolandleth/LTHRadioButton"
 	}, {
-		"title": "SDevBootstrapButton",
-		"category": "button",
-		"description": "Twitter Bootstrap buttons for Swift.",
-		"homepage": "https://github.com/0x73/SDevBootstrapButton"
-	}, {
 		"title": "TVButton",
 		"category": "button",
 		"description": "Recreating the cool parallax icons from Apple TV as iOS UIButtons.",
@@ -3682,11 +3541,6 @@
 		"category": "transition",
 		"description": "AIB indicates for your app users which audio is playing. Just like the Podcasts app.",
 		"homepage": "https://github.com/LeonardoCardoso/AudioIndicatorBars"
-	}, {
-		"title": "AEAccordion",
-		"category": "uitableview",
-		"description": "UITableViewController with accordion effect (expand / collapse cells).",
-		"homepage": "https://github.com/tadija/AEAccordion"
 	}, {
 		"title": "folding-cell",
 		"category": "uitableview",
@@ -3843,11 +3697,6 @@
 		"description": "Swift-friendly API for Objective C runtime functions.",
 		"homepage": "https://github.com/marmelroy/ObjectiveKit"
 	}, {
-		"title": "Mendel",
-		"category": "utility",
-		"description": "Swift miliframework for implementing evolutionary/genetic algorithms.",
-		"homepage": "https://github.com/saniul/Mendel"
-	}, {
 		"title": "Money",
 		"category": "currency",
 		"description": "Currency formatter in Swift.",
@@ -3934,20 +3783,10 @@
 		"description": "Calculate sunrise and sunset times given a location.",
 		"homepage": "https://github.com/ceeK/Solar"
 	}, {
-		"title": "SpecificationPattern",
-		"category": "validation",
-		"description": "chainable rules useful for form validation.",
-		"homepage": "https://github.com/neoneye/SpecificationPattern"
-	}, {
 		"title": "SpriteKit+Spring",
 		"category": "utility",
 		"description": "SpriteKit API reproducing UIView's spring animations with SKAction.",
 		"homepage": "https://github.com/ataugeron/SpriteKit-Spring"
-	}, {
-		"title": "Stream",
-		"category": "utility",
-		"description": "Lazy streams in Swift.",
-		"homepage": "https://github.com/antitypical/Stream"
 	}, {
 		"title": "Sugar",
 		"category": "utility",

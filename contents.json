@@ -203,6 +203,10 @@
 		"parent": "data-management",
 		"description": "If you prefer to manage XML data formatted entries, here are some helpful libs"
 	}, {
+		"title": "YAML",
+		"id": "yaml",
+		"parent": "data-management"
+	}, {
 		"title": "ZIP",
 		"id": "zip",
 		"parent": "data-management"

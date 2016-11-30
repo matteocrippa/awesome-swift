@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-708-orange.svg) | November 28, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-709-orange.svg) | November 30, 2016
 
 ### Contributing
 
@@ -58,6 +58,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [SQL drivers](#sql-drivers)
     - [SQLite](#sqlite)
     - [XML](#xml)
+    - [YAML](#yaml)
     - [ZIP](#zip)
   - [Date](#date)
   - [Dependency Injection](#dependency-injection)
@@ -412,7 +413,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - OSX app to generate Swift 3 code for models for JSON.
 * [Tailor](https://github.com/zenangst/Tailor) - A super fast & convenient object mapper tailored for your needs.
 * [Unbox](https://github.com/JohnSundell/Unbox) - The easy to use Swift JSON decoder.
-* [YamlSwift](https://github.com/behrang/YamlSwift) - Load YAML and JSON documents using Swift.
 
 #### Key Value Store
 [back to top](#readme) 
@@ -472,6 +472,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [AlamofireXmlToObjects](https://github.com/evermeer/AlamofireXmlToObjects) - An Alamofire extension for fetching an XML feed and parsing it into objects.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift.
 * [XMLParser](https://github.com/Mozharovsky/XMLParser) - A lightweight XMLParser for assembling and parsing XML values written for iOS 8+ in Swift 2.
+
+#### YAML
+[back to top](#readme) 
+
+* [YamlSwift](https://github.com/behrang/YamlSwift) - Load YAML and JSON documents using Swift.
+* [Yams](https://github.com/jpsim/Yams) :penguin: - A Sweet and Swifty YAML parser.
 
 #### ZIP
 [back to top](#readme) 

@@ -4119,6 +4119,11 @@
         	"description": "Get everything you need to know about the device.",
 	        "homepage": "https://github.com/andrealufino/Luminous",
         	"tags": ["device", "system"]
+	}, {
+		"title": "Macaw-Examples",
+		"category": "ui",
+		"description": "Various usages of the Macaw library.",
+		"homepage": "https://github.com/exyte/Macaw-Examples"
 	}
 ]
 }

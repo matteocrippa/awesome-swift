@@ -4123,6 +4123,13 @@
         	"description": "Get everything you need to know about the device.",
 	        "homepage": "https://github.com/andrealufino/Luminous",
         	"tags": ["device", "system"]
+	},
+	{
+		"title": "Yams",
+		"category": "yaml",
+		"description": "A Sweet and Swifty YAML parser.",
+		"homepage": "https://github.com/jpsim/Yams",
+		"tags": ["linux"]
 	}
 ]
 }

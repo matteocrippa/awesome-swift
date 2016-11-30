@@ -1341,7 +1341,7 @@
 		"homepage": "https://github.com/JohnSundell/Unbox"
 	}, {
 		"title": "YamlSwift",
-		"category": "json",
+		"category": "yaml",
 		"description": "Load YAML and JSON documents using Swift.",
 		"homepage": "https://github.com/behrang/YamlSwift"
 	}, {

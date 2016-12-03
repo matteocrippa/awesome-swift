@@ -3120,6 +3120,11 @@
 		"description": "a convenient way to show animated GIF images as a part of iOS GUI.",
 		"homepage": "https://github.com/peterprokop/PPSwiftGifs"
 	}, {
+		"title": "PullToDismiss",
+		"category": "ui",
+		"description": "You can dismiss modal viewcontroller by pulling scrollview or navigationbar in Swift.",
+		"homepage": "https://github.com/sgr-ksmt/PullToDismiss"
+	}, {
 		"title": "Reel search",
 		"category": "ui",
 		"description": "Option list managed as a reel.",

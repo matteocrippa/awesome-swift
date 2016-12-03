@@ -3506,6 +3506,11 @@
 		"description": "A Swift library to design custom prompts with a great scope of options to choose from.",
 		"homepage": "https://github.com/GabrielAlva/Swift-Prompts"
 	}, {
+		"title": "AREK",
+		"category": "permissions",
+		"description": "AREK is a clean and easy to use wrapper over any kind of iOS permission.",
+		"homepage": "https://github.com/ennioma/arek"
+	}, {
 		"title": "StackViewController",
 		"category": "stackview",
 		"description": "Simplify the use of UIStackView.",

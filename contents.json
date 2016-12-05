@@ -3231,6 +3231,11 @@
 		"description": "Simple but highly customizable iOS tag list view.",
 		"homepage": "https://github.com/ElaWorkshop/TagListView"
 	}, {
+		"title": "TemplateKit",
+		"category": "ui",
+		"description": "React-inspired framework for building component-based user interfaces in Swift.",
+		"homepage": "https://github.com/mcudich/TemplateKit"
+	}, {
 		"title": "TextFieldEffects",
 		"category": "textfield",
 		"description": "Several ready to use effects for UITextFields",

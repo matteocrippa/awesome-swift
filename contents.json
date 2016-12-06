@@ -3711,10 +3711,10 @@
 		"description": "Clojure(ish) interpreter in Swift.",
 		"homepage": "https://github.com/austinzheng/Cormorant"
 	}, {
-		"title": "LangKit",
+		"title": "CoreLinguistics",
 		"category": "nlp",
-		"description": "Natural Language Processing (NLP) toolkit for Swift.",
-		"homepage": "https://github.com/rxwei/LangKit"
+		"description": "Natural Language Processing (NLP) toolkit.",
+		"homepage": "https://github.com/rxwei/CoreLinguistics"
 	}, {
 		"title": "ObjectiveKit",
 		"category": "utility",

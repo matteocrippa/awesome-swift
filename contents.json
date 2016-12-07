@@ -4164,7 +4164,7 @@
 	},
 	{
 		"title": "BrickKit",
-		"category": "ui",
+		"category": "layout",
 		"description": "Create complex and responsive layouts in a simple way",
 		"homepage": "https://github.com/wayfair/brickkit-ios"
 	}

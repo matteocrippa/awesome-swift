@@ -2351,8 +2351,8 @@
 	}, {
 		"title": "Embassy",
 		"category": "webserver",
-		"description": "Super lightweight async HTTP server library in pure Swift for iOS UI Automatic testing data mocking.",
-		"homepage": "https://github.com/envoy/Embassy",
+		"description": "Super lightweight async HTTP server library in pure Swift, mainly for UI Automatic testing data mocking.",
+		"homepage": "https://github.com/envoy/Embassy"
 	}, {
 		"title": "Frank",
 		"category": "webserver",

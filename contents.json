@@ -4161,6 +4161,14 @@
 		"category": "pdf",
 		"description": "A PDF viewer and annotator that can be embedded in iOS applications.",
 		"homepage": "https://github.com/uxmstudio/UXMPDFKit"
+	},
+	{
+		"title": "BrickKit",
+		"category": "ui",
+		"description": "Create complex and responsive layouts in a simple way",
+		"homepage": "https://github.com/wayfair/brickkit-ios"
 	}
+		     
+		     
 ]
 }

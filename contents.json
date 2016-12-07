@@ -4155,6 +4155,12 @@
 		"description": "A Sweet and Swifty YAML parser.",
 		"homepage": "https://github.com/jpsim/Yams",
 		"tags": ["linux"]
+	},
+	{
+		"title": "UXMPDFKit",
+		"category": "pdf",
+		"description": "A PDF viewer and annotator that can be embedded in iOS applications.",
+		"homepage": "https://github.com/uxmstudio/UXMPDFKit"
 	}
 ]
 }

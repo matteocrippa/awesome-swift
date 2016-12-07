@@ -1902,7 +1902,12 @@
 		"category": "images",
 		"description": "XAnimatedImage is a performant animated GIF engine for iOS written in Swift based on FLAnimatedImage",
 		"homepage": "https://github.com/khaledmtaha/XAnimatedImage"
-	}, {
+    }, {
+        "title": "Snowflake",
+        "category": "images",
+        "description": "SVG in Swift",
+        "homepage": "https://github.com/onmyway133/Snowflake"
+     }, {
 		"title": "C4iOS",
 		"category": "kit",
 		"description": "Harnesses the power of native iOS programming with a simplified API.",

@@ -1426,7 +1426,7 @@
 	}, {
 		"title": "MySQL Swift",
 		"category": "sql-drivers",
-		"description": "MySQL client library for Swift 2.2.",
+		"description": "MySQL client library for Swift 3.",
 		"homepage": "https://github.com/novi/mysql-swift",
 		"tags": ["linux"]
 	}, {
@@ -1444,7 +1444,7 @@
 	}, {
 		"title": "PostgreSQL",
 		"category": "sql-drivers",
-		"description": "PostgreSQL adapter for Swift 2.2.",
+		"description": "PostgreSQL adapter for Swift 3.",
 		"homepage": "https://github.com/Zewo/PostgreSQL",
 		"tags": ["linux"]
 	}, {

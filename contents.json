@@ -2349,6 +2349,11 @@
 		"homepage": "https://github.com/crossroadlabs/Express",
 		"tags": ["linux"]
 	}, {
+		"title": "Embassy",
+		"category": "webserver",
+		"description": "Super lightweight async HTTP server library in pure Swift.",
+		"homepage": "https://github.com/envoy/Embassy"
+	}, {
 		"title": "Frank",
 		"category": "webserver",
 		"description": "Frank is a DSL for quickly writing web applications in Swift.",

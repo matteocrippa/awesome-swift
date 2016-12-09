@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-716-orange.svg) | December 08, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-717-orange.svg) | December 09, 2016
 
 ### Contributing
 
@@ -813,6 +813,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Blackfish](https://github.com/elliottminns/blackfish) :penguin: - HTTP Webserver inspired by Express.js.
 * [Curassow](https://github.com/kylef/Curassow) :penguin: - Swift HTTP server using the pre-fork worker model.
 * [Dynamo](https://github.com/johnno1962/Dynamo) :penguin: - [DynamoLinux](https://github.com/johnno1962/DynamoLinux)  - High Performance (nearly)100% Swift Web server supporting dynamic content.
+* [Embassy](https://github.com/envoy/Embassy) - Super lightweight async HTTP server library in pure Swift.
 * [Express](https://github.com/crossroadlabs/Express) :penguin: - Swift Web Application framework, supporting both Synchronous and Asynchronous (Futures based) styles. Inspired by Play framework and Express.js.
 * [Frank](https://github.com/nestproject/Frank) :penguin: - Frank is a DSL for quickly writing web applications in Swift.
 * [http4swift](https://github.com/takebayashi/http4swift) :penguin: - A simple HTTP server written in Swift.

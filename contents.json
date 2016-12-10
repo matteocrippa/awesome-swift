@@ -3119,12 +3119,16 @@
 		"description": "Reimplementation of the Apple HUD.",
 		"homepage": "https://github.com/pkluz/PKHUD"
 	}, {
+		"title": "JBChartView",
+		"category": "chart",
+		"description": "Simple and sexy charts that are easy to set-up, and highly customizable.",
+		"homepage": "https://github.com/Jawbone/JBChartView"
+	}, {
 		"title": "PNChart-Swift",
 		"category": "chart",
 		"description": "A simple and beautiful chart lib with animation.",
 		"homepage": "https://github.com/kevinzhow/PNChart-Swift"
-	}
-	, {
+	}, {
 		"title": "TKRadarChart",
 		"category": "chart",
 		"description": "A customizable radar chart in Swift",

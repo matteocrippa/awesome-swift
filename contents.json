@@ -4172,8 +4172,13 @@
 		"category": "layout",
 		"description": "Create complex and responsive layouts in a simple way",
 		"homepage": "https://github.com/wayfair/brickkit-ios"
-	}
-		     
-		     
+	},
+	{
+	 "title": "SwifterSwift",
+	 "category": "utility",
+	 "description": ":A handy collection of more than 360 native Swift 3 extensions to boost your productivity.",
+	 "homepage": "https://github.com/omaralbeik/SwifterSwift",
+	 "tags": ["extensions", "ios"]
+ }
 ]
 }

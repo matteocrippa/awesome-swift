@@ -1166,6 +1166,11 @@
 		"description": "Algorithms and data structures, with explanations.",
 		"homepage": "https://github.com/raywenderlich/swift-algorithm-club"
 	}, {
+		"title": "Pencil",
+		"category": "data-structures",
+		"description": "Write any value to file.",
+		"homepage": "https://github.com/naru-jpn/pencil"
+	}, {
 		"title": "Realm",
 		"category": "realm",
 		"description": "Realm is a mobile database: a replacement for Core Data & SQLite (https://realm.io).",

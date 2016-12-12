@@ -1936,8 +1936,8 @@
 	}, {
 		"title": "Stevia",
 		"category": "layout",
-		"description": "Elegant way to manage layout.",
-		"homepage": "https://github.com/s4cha/Stevia"
+		"description": "Elegant view layout for iOS.",
+		"homepage": "https://github.com/freshOS/Stevia"
 	}, {
 		"title": "SwiftBox",
 		"category": "layout",

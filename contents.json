@@ -2083,7 +2083,12 @@
 		"description": "Multi-platform logging during development & release in Swift 2 & 3.",
 		"homepage": "https://github.com/SwiftyBeaver/SwiftyBeaver",
 		"tags": ["linux"]
-	}, {
+    }, {
+        "title": "TinyConsole",
+        "category": "logging",
+        "description": "A tiny log console to display information while using your iOS app. Written in Swift 3.",
+        "homepage": "https://github.com/Cosmo/TinyConsole"
+    }, {
 		"title": "Watchdog",
 		"category": "logging",
 		"description": "A Swift utility for logging excessive blocking on the main thread.",

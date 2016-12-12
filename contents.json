@@ -1915,8 +1915,9 @@
 	}, {
 		"title": "BFKit-Swift",
 		"category": "kit",
-		"description": "A collection of useful classes to develop Apps faster.",
-		"homepage": "https://github.com/FabrizioBrancati/BFKit-Swift"
+		"description": "A collection of useful classes, structs and extensions to develop Apps faster.",
+		"homepage": "https://github.com/FabrizioBrancati/BFKit-Swift",
+		"tags": ["linux"]
 	}, {
 		"title": "ManualLayout",
 		"category": "layout",

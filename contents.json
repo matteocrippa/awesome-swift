@@ -2349,6 +2349,12 @@
 		"homepage": "https://github.com/johnno1962/Dynamo",
 		"tags": ["linux"]
 	}, {
+		"title": "Edge",
+		"category": "webserver",
+		"description": "A Swift Multiplatform Web and Networking Framework.",
+		"homepage": "https://github.com/SwiftOnEdge/Edge",
+		"tags": ["linux"]
+	}, {
 		"title": "Express",
 		"category": "webserver",
 		"description": "Swift Web Application framework, supporting both Synchronous and Asynchronous (Futures based) styles. Inspired by Play framework and Express.js.",

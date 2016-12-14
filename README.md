@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-719-orange.svg) | December 12, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-721-orange.svg) | December 14, 2016
 
 ### Contributing
 
@@ -814,6 +814,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Blackfish](https://github.com/elliottminns/blackfish) :penguin: - HTTP Webserver inspired by Express.js.
 * [Curassow](https://github.com/kylef/Curassow) :penguin: - Swift HTTP server using the pre-fork worker model.
 * [Dynamo](https://github.com/johnno1962/Dynamo) :penguin: - [DynamoLinux](https://github.com/johnno1962/DynamoLinux)  - High Performance (nearly)100% Swift Web server supporting dynamic content.
+* [Edge](https://github.com/SwiftOnEdge/Edge) :penguin: - A Swift Multiplatform Web and Networking Framework.
 * [Embassy](https://github.com/envoy/Embassy) - Super lightweight async HTTP server library in pure Swift.
 * [Express](https://github.com/crossroadlabs/Express) :penguin: - Swift Web Application framework, supporting both Synchronous and Asynchronous (Futures based) styles. Inspired by Play framework and Express.js.
 * [Frank](https://github.com/nestproject/Frank) :penguin: - Frank is a DSL for quickly writing web applications in Swift.
@@ -1028,6 +1029,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Sonar](https://github.com/thefuntasty/Sonar) - Cool radar-style view
 * [Spots](https://github.com/hyperoslo) - Spots is a view controller framework that makes your setup and future development blazingly fast.
 * [StarryStars](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
+* [StatefulViewController](https://github.com/aschuch/StatefulViewController) - Placeholder views based on content, loading, error or empty states.
 * [SurfingRefreshControl](https://github.com/peiweichen/SurfingRefreshControl) - Customizable pull-to-refresh control.
 * [SwiftTheme](https://github.com/jiecao-fm/SwiftTheme) - Powerful theme/skin manager for iOS 7+, written in swift.
 * [SYBlinkAnimationKit](https://github.com/shoheiyokoyama/SYBlinkAnimationKit) - A blink effect animation framework.

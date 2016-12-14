@@ -3202,6 +3202,11 @@
 		"description": "Display & edit ratings, fully customizable from interface builder.",
 		"homepage": "https://github.com/peterprokop/StarryStars"
 	}, {
+		"title": "StatefulViewController",
+		"category": "ui",
+		"description": "Placeholder views based on content, loading, error or empty states.",
+		"homepage": "https://github.com/aschuch/StatefulViewController"
+	}, {
 		"title": "SwiftTheme",
 		"category": "ui",
 		"description": "Powerful theme/skin manager for iOS 7+, written in swift.",

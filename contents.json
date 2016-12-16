@@ -3523,6 +3523,11 @@
 		"description": "Simple side menu control for iOS in Swift inspired by Facebook. Right and Left sides. No coding required.",
 		"homepage": "https://github.com/jonkykong/SideMenu"
 	}, {
+		"title": "Swift-CircleMenu",
+		"category": "menu",
+		"description": "Rotating circle menu written in Swift 3.",
+		"homepage": "https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu"
+	}, {
 		"title": "Caishen",
 		"category": "payment",
 		"description": "A Payment Card UI & Validator for iOS",

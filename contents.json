@@ -2730,6 +2730,11 @@
 		"description": "An easier way to compose attributed strings.",
 		"homepage": "https://github.com/delba/TextAttributes"
 	}, {
+		"title": "SwiftRichString",
+		"category": "text",
+		"description": "Elegant & Painless Attributed Strings Management Library in Swift.",
+		"homepage": "https://github.com/malcommac/SwiftRichString"
+	}, {
 		"title": "Parsey",
 		"category": "text",
 		"description": "Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.",

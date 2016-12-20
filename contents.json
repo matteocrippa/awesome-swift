@@ -1041,6 +1041,11 @@
 		"description": "A UIColor extension with CSS3 Colors name.",
 		"homepage": "https://github.com/WorldDownTown/CSS3ColorsSwift"
 	}, {
+		"title": "UIColor-WikiColors",
+		"category": "colors",
+		"description": "All wikipedia colors implemented as easy to use UIColor extension.",
+		"homepage": "https://github.com/nahive/UIColor-WikiColors"
+	}, {
 		"title": "Commander",
 		"category": "command-line",
 		"description": "Compose beautiful command line interfaces in Swift.",

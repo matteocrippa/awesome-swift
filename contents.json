@@ -1833,6 +1833,11 @@
 		"description": "a lib for image download and caching.",
 		"homepage": "https://github.com/onevcat/Kingfisher"
 	}, {
+		"title": "Lightbox",
+		"category": "images",
+		"description": "A convenient and easy to use image viewer for your iOS app.",
+		"homepage": "https://github.com/hyperoslo/Lightbox"
+	}, {
 		"title": "MapleBacon",
 		"category": "images",
 		"description": "Swift image download and caching library.",

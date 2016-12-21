@@ -806,6 +806,11 @@
 		"description": "A custom transition with image zooming animation.",
 		"homepage": "https://github.com/WorldDownTown/ZoomTransitioning"
 	}, {
+		"title": "SwiftyAnimate",
+		"category": "animation",
+		"description": "Composable animations in Swift.",
+		"homepage": "https://github.com/rchatham/SwiftyAnimate"
+	}, {
 		"title": "Appz",
 		"category": "app-routing",
 		"description": "Launch external apps, and deeplink, with ease using Swift!",

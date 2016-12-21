@@ -4221,6 +4221,13 @@
 	 "description": ":A handy collection of more than 360 native Swift 3 extensions to boost your productivity.",
 	 "homepage": "https://github.com/omaralbeik/SwifterSwift",
 	 "tags": ["extensions", "ios"]
- }
+ 	},
+ 	{
+        "title": "Progress.swift",
+        "category": "command-line",
+        "description": "Add beautiful progress bars to your command line.",
+        "homepage": "https://github.com/jkandzi/Progress.swift",
+        "tags": ["linux"]
+ 	}
 ]
 }

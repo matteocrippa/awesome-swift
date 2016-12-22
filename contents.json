@@ -3743,6 +3743,11 @@
 		"description": "an Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.",
 		"homepage": "https://github.com/typelift/Focus"
 	}, {
+		"title": "XestiMonitors",
+		"category": "utility",
+		"description": "An extensible monitoring framework written in Swift.",
+		"homepage": "https://github.com/eBardX/XestiMonitors"
+	}, {
 		"title": "Honour",
 		"category": "validation",
 		"description": "Simple and powerful Validation Library.",

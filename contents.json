@@ -2351,7 +2351,6 @@
 		"description": "Super lightweight web framework in Swift based on SWSGI.",
 		"homepage": "https://github.com/envoy/Ambassador"
 	}, {
-	},  {
 		"title": "Curassow",
 		"category": "webserver",
 		"description": "Swift HTTP server using the pre-fork worker model.",

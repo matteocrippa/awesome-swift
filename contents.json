@@ -2345,6 +2345,12 @@
 		"description": "WebSockets server for Swift 2.2 on Linux.",
 		"homepage": "https://github.com/Zewo/WebSocket",
 		"tags": ["linux"]
+	}, {
+		"title": "Ambassador",
+		"category": "webserver",
+		"description": "Super lightweight web framework in Swift based on SWSGI.",
+		"homepage": "https://github.com/envoy/Ambassador"
+	}, {
 	},  {
 		"title": "Curassow",
 		"category": "webserver",

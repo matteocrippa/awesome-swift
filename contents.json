@@ -1716,6 +1716,11 @@
 		"category": "fonts",
 		"description": "Fontawesome, Iconic, Ionicons, Octicon porting for Swift.",
 		"homepage": "https://github.com/0x73/SwiftIconFont"
+        }, {
+		"title": "UIFontComplete",
+		"category": "fonts",
+		"description": "Make working with UIFont faster and less error-prone.",
+		"homepage": "https://github.com/Nirma/UIFontComplete"
 	}, {
 		"title": "Sage",
 		"category": "games",

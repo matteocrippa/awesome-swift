@@ -2666,6 +2666,11 @@
 		"description": "Fast, flexible markdown parser written in Swift",
 		"homepage": "https://github.com/loiclec/Apodimark"
 	}, {
+		"title": "AttributedTextView",
+		"category": "text",
+		"description": "Easiest way to create an attributed UITextView with support for multiple links, hashtags and mentions",
+		"homepage": "https://github.com/evermeer/AttributedTextView"
+	}, {
 		"title": "BonMot",
 		"category": "text",
 		"description": "Beautiful, easy attributed strings for iOS.",

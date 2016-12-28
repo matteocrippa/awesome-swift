@@ -4254,6 +4254,12 @@
         "category": "network",
         "description": "A toolkit for Network Extension Framework",
         "homepage": "https://github.com/zhuhaow/NEKit"
+ 	},
+	{
+	 "title": "xcprofiler",
+	 "category": "benchmark",
+	 "description": "Command line utility to profile compilation time of Swift project.",
+	 "homepage": "https://github.com/giginet/xcprofiler"
  	}
 ]
 }

@@ -4145,6 +4145,12 @@
     "description": "An opinionated starting point for awesome, reusable Swift 3 modules",
     "homepage": "https://github.com/fulldecent/swift3-module-template"
   }, {
+		"title": "Touchbar Nyancat",
+    "category": "misc",
+    "description": "Stupid nyancat animation on your +$2k MacBook Pro's Touchbar.",
+    "homepage": "https://github.com/avatsaev/touchbar_nyancat"
+  },
+	{
     "title": "Toybox",
     "category": "misc",
     "description": "Xcode Playground management made easy",

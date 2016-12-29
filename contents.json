@@ -2191,6 +2191,11 @@
 		"description": "Automatically sets the network activity indicator for any performed request.",
 		"homepage": "https://github.com/marcelofabri/BigBrother"
 	}, {
+		"title": "DBNetworkstack",
+		"category": "network",
+		"description": "A ressource oriented, typesafe network layer which empowers testability and extensibility",
+		"homepage": "https://github.com/dbsystel/DBNetworkStack"
+	}, {
 		"title": "Endpoint",
 		"category": "network",
 		"description": ":rocket: Elegant API Abstraction for Swift.",

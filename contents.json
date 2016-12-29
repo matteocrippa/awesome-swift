@@ -3568,6 +3568,11 @@
 		"description": "A Payment Card UI & Validator for iOS",
 		"homepage": "https://github.com/prolificinteractive/Caishen"
 	}, {
+		"title": "MFCard",
+		"category": "payment",
+		"description": "Easily integrate Credit Card payments in iOS App",
+		"homepage": "https://github.com/MobileFirstInc/MFCard"
+	}, {
 		"title": "Permission",
 		"category": "permissions",
 		"description": "A unified API to ask for permissions on iOS.",

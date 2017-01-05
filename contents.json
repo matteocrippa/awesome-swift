@@ -4265,6 +4265,12 @@
 	 "category": "benchmark",
 	 "description": "Command line utility to profile compilation time of Swift project.",
 	 "homepage": "https://github.com/giginet/xcprofiler"
- 	}
+ 	}, {
+		"title": "LocalizationKit",
+		"category": "localization",
+		"description": "Realtime dynamic localization of your app with remote management so you can manage maintain and deploy translations without resubmitting app",
+		"homepage": "https://github.com/willpowell8/LocalizationKit_iOS",
+		"tags": ["extensions", "ios"]
+	}
 ]
 }

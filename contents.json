@@ -2135,6 +2135,11 @@
 		"description": "The Swift Geographic Engine, make it easier to work with geographic models and calculate intersections, overlapping, projections etc.",
 		"homepage": "https://github.com/andreacremaschi/GEOSwift"
 	}, {
+		"title": "StateSwift",
+		"category": "maps",
+		"description": "A simple library to make displaying states easier",
+		"homepage": "https://github.com/mathmatrix828/StateSwift"
+	}, {
 		"title": "STLocationRequest",
 		"category": "location",
 		"description": "An elegant and simple 3D Flyover Location Request Screen in Swift.",

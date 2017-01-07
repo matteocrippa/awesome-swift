@@ -751,7 +751,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [GEOSwift](https://github.com/andreacremaschi/GEOSwift) - The Swift Geographic Engine, make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
-* [SwiftState](https://github.com/mathmatrix828/StateSwift) - A small library to make displaying states easier in Swift
 
 ### Math
 [back to top](#readme) 

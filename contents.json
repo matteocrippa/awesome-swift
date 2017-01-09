@@ -2915,6 +2915,11 @@
 		"description": ":point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages.",
 		"homepage": "https://github.com/goktugyil/EZSwipeController"
 	}, {
+		"title": "FAQView",
+		"category": "ui",
+		"description": "An easy to use FAQ view for iOS written in Swift.",
+		"homepage": "https://github.com/mukeshthawani/faqview"
+	}, {
 		"title": "Fashion",
 		"category": "ui",
 		"description": "Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way.",

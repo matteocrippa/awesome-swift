@@ -4276,6 +4276,11 @@
 		"description": "Realtime dynamic localization of your app with remote management so you can manage maintain and deploy translations without resubmitting app",
 		"homepage": "https://github.com/willpowell8/LocalizationKit_iOS",
 		"tags": ["extensions", "ios"]
+	}, {
+		"title": "Validator",
+		"category": "validation",
+		"description": "Drop in user input validation for your iOS apps.",
+		"homepage": "https://github.com/adamwaite/Validator"
 	}
 ]
 }

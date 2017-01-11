@@ -574,7 +574,7 @@
 		"title": "Swift Examples",
 		"category": "third-party-guides",
 		"description": "Reusable examples code. Written in Swift 3.0",
-		"homepage": "https://github.com/carlosencoding/swift"
+		"homepage": "https://github.com/cybercarlos/Swift"
 	}, {
 		"title": "Swift Sandbox Newsletter",
 		"category": "third-party-guides",
@@ -1851,7 +1851,7 @@
 		"title": "MapleBacon",
 		"category": "images",
 		"description": "Swift image download and caching library.",
-		"homepage": "https://github.com/zalando/MapleBacon"
+		"homepage": "https://github.com/zalando-incubator/MapleBacon"
 	}, {
 		"title": "Misen",
 		"category": "images",
@@ -4254,7 +4254,7 @@
 	 "title": "SwifterSwift",
 	 "category": "utility",
 	 "description": ":A handy collection of more than 360 native Swift 3 extensions to boost your productivity.",
-	 "homepage": "https://github.com/omaralbeik/SwifterSwift",
+	 "homepage": "https://github.com/SwifterSwift/SwifterSwift",
 	 "tags": ["extensions", "ios"]
  	},
  	{

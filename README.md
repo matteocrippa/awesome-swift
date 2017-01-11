@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-734-orange.svg) | December 29, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-738-orange.svg) | January 11, 2017
 
 ### Contributing
 
@@ -165,7 +165,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Natasha the Robot](https://www.natashatherobot.com/) - Weekly Newsletter on learning Swift
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn Swift.
 * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development.
-* [Swift Examples](https://github.com/carlosencoding/swift) - Reusable examples code. Written in Swift 3.0
+* [Swift Examples](https://github.com/cybercarlos/Swift) - Reusable examples code. Written in Swift 3.0
 * [Swift Sandbox Newsletter](http://swiftsandbox.io) - Swift Sandbox is a weekly newsletter containing a collection of links to the best Swift **code** and **developer tools**. Every Friday. **Free**.
 * [Swift-Weekly](https://github.com/vandadnp/swift-weekly) - Weekly Swift Language Gems, Tips and Tricks.
 * [SwiftDoc](http://swiftdoc.org/) - Auto-generated documentation for Swift.
@@ -385,6 +385,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Algorithm](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models.
 * [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift) - Solutions to LeetCode interview questions.
+* [Pencil](https://github.com/naru-jpn/pencil) - Write any value to file.
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures, with explanations.
 
 #### JSON
@@ -655,7 +656,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [KFSwiftImageLoader](https://github.com/kiavashfaisali/KFSwiftImageLoader) - An extremely high-performance, lightweight, and energy-efficient pure Swift async web image loader with memory and disk caching for iOS and  Watch.
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - a lib for image download and caching.
 * [Lightbox](https://github.com/hyperoslo/Lightbox) - A convenient and easy to use image viewer for your iOS app.
-* [MapleBacon](https://github.com/zalando/MapleBacon) - Swift image download and caching library.
+* [MapleBacon](https://github.com/zalando-incubator/MapleBacon) - Swift image download and caching library.
 * [Misen](https://github.com/tasanobu/Misen) - A script to support using Xcode Asset Catalog in Swift.
 * [Moa](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
 * [Nuke](https://github.com/kean/Nuke) - Advanced pure Swift framework for loading, caching, processing, displaying and preheating images.
@@ -717,6 +718,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - Incrementally update/translate your Strings files from Code and Storyboards/XIBs.
 * [IBLocalizable](https://github.com/PiXeL16/IBLocalizable) - Localize your views directly in Interface Builder with IBLocalizable 
+* [LocalizationKit](https://github.com/willpowell8/LocalizationKit_iOS) - Realtime dynamic localization of your app with remote management so you can manage maintain and deploy translations without resubmitting app
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation) - Get rid of "Optional(...)" and "nil" in string interpolation. Easy pluralization.
 * [Swifternalization](https://github.com/tomkowz/Swifternalization) - Localize apps using e.g. regular expressions in Localizable.strings.
@@ -991,6 +993,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [EPShapes](https://github.com/ipraba/EPShapes) - Create shapes(Polygons, Stars, Hearts, Arrows) in Interface builder.
 * [EstMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) - Music play indicator like iTunes
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController) - :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages.
+* [FAQView](https://github.com/mukeshthawani/faqview) - An easy to use FAQ view for iOS written in Swift.
 * [Fashion](https://github.com/vadymmarkov/Fashion) - Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way.
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders) - Fillable loaders progress.
 * [FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
@@ -1276,7 +1279,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Sugar](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
 * [Swift Sugar](https://github.com/RuiAAPeres/Swift-Sugar) - objsugar ported to Swift.
 * [SwiftBitmask](https://github.com/brynbellomy/SwiftBitmask) - `Bitmask<T>` type intended as a replacement for `RawOptionSet`.
-* [SwifterSwift](https://github.com/omaralbeik/SwifterSwift) - :A handy collection of more than 360 native Swift 3 extensions to boost your productivity.
+* [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - :A handy collection of more than 360 native Swift 3 extensions to boost your productivity.
 * [SwiftGen-Storyboard](https://github.com/AliSoftware/SwiftGen#uistoryboard) - A tool to auto-generate Swift `enums` for all your Storyboards, Scenes and Segues constants + appropriate convenience accessors.
 * [SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all information such as title, relevant texts and images.
 * [SwiftRandom](https://github.com/thellimist/SwiftRandom) - A tiny generator of random data for swift.
@@ -1299,6 +1302,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Honour](https://github.com/jeanpimentel/Honour) - Simple and powerful Validation Library.
 * [SwiftValidator](https://github.com/jpotts18/SwiftValidator) - UIView validation framework.
 * [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS developed in Swift (inspired by validator.js).
+* [Validator](https://github.com/adamwaite/Validator) - Drop in user input validation for your iOS apps.
 
 #### Phone Numbers
 [back to top](#readme) 

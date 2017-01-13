@@ -3432,7 +3432,12 @@
 		"category": "alert",
 		"description": "A Google like action sheet, easy to use and customizable.",
 		"homepage": "https://github.com/ntnhon/MaterialActionSheetController"
-	}, {
+    }, {
+        "title": "HYAlertController",
+        "category": "alert",
+        "description": "A simple and minimalist iOS AlertController written in Swift 3.",
+        "homepage": "https://github.com/castial/HYAlertController"
+    }, {
 		"title": "SuperDelegate",
 		"category": "applicationdelegate",
 		"description": "SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.",

@@ -514,6 +514,10 @@
 		"title": "Pagination",
 		"id": "pagination",
 		"parent": "ui"
+	}, {
+		"title": "Email",
+		"id": "email",
+		"parent": "libs"
 	}],
 	"projects": [{
 		"title": "Apple eBook",
@@ -4291,6 +4295,13 @@
 		"category": "validation",
 		"description": "Drop in user input validation for your iOS apps.",
 		"homepage": "https://github.com/adamwaite/Validator"
+	}, {
+		"title": "Hedwig",
+		"category": "email",
+		"description": "Send email to any SMTP server like a boss",
+		"homepage": "https://github.com/onevcat/Hedwig",
+		"tags": ["linux", "macos"]
 	}
+		  
 ]
 }

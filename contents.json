@@ -4301,6 +4301,11 @@
 		"description": "Send email to any SMTP server like a boss",
 		"homepage": "https://github.com/onevcat/Hedwig",
 		"tags": ["linux", "macos"]
+	}, {
+		"title": "Input Mask",
+		"category": "validation",
+		"description": "Pattern-based user input formatter, parser and validator for iOS.",
+		"homepage": "https://github.com/RedMadRobot/input-mask-ios"
 	}
 		  
 ]

@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-739-orange.svg) | January 13, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-740-orange.svg) | January 13, 2017
 
 ### Contributing
 
@@ -64,6 +64,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Dependency Injection](#dependency-injection)
   - [Device](#device)
   - [Documentation](#documentation)
+  - [Email](#email)
   - [Embedded Systems](#embedded-systems)
     - [Peripherals](#peripherals)
   - [Events](#events)
@@ -522,6 +523,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [jazzy](https://github.com/realm/jazzy/) - Soulful docs for Swift & Objective-C.
 * [swiftdoc-parser](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.
+
+### Email
+[back to top](#readme) 
+
+* [Hedwig](https://github.com/onevcat/Hedwig) :penguin: - Send email to any SMTP server like a boss
 
 ### Embedded Systems
 *Build your embedded Linux projects in Swift on a RaspberryPi, BeagleBone, C.H.I.P. and other boards.* [back to top](#readme) 

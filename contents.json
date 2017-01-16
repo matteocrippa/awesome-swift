@@ -2078,8 +2078,8 @@
 	}, {
 		"title": "Evergreen",
 		"category": "logging",
-		"description": "Most natural Swift logging",
-		"homepage": "https://github.com/viWiD/Evergreen"
+		"description": "Most natural logging.",
+		"homepage": "https://github.com/knly/Evergreen"
 	}, {
 		"title": "HeliumLogger",
 		"category": "logging",
@@ -4317,6 +4317,6 @@
 		"description": "Pattern-based user input formatter, parser and validator for iOS.",
 		"homepage": "https://github.com/RedMadRobot/input-mask-ios"
 	}
-		  
+
 ]
 }

@@ -4321,7 +4321,11 @@
 		"category": "text",
 		"description": "Mustard is a Swift library for tokenizing strings when splitting by whitespace doesn't cut it.",
 		"homepage": "https://github.com/mathewsanders/Mustard"
+	}, {
+		"title": "Vulcan",
+		"category": "images",
+		"description": "Multi image downloader with priority in Swift",
+		"homepage": "https://github.com/jinSasaki/Vulcan"
 	}
-
 ]
 }

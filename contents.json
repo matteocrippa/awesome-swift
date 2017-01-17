@@ -4317,6 +4317,11 @@
 		"description": "Pattern-based user input formatter, parser and validator for iOS.",
 		"homepage": "https://github.com/RedMadRobot/input-mask-ios"
 	}, {
+		"title": "Mustard",
+		"category": "text",
+		"description": "Mustard is a Swift library for tokenizing strings when splitting by whitespace doesn't cut it.",
+		"homepage": "https://github.com/mathewsanders/Mustard"
+	}, {
 		"title": "Vulcan",
 		"category": "images",
 		"description": "Multi image downloader with priority in Swift",

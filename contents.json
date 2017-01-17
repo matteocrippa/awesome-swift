@@ -1218,7 +1218,7 @@
 	}, {
 		"title": "FileProvider",
 		"category": "files",
-		"description": "NSFileManager replacement for Local and Remote (WebDAV/Dropbox/SMB2) files.",
+		"description": "FileManager replacement for Local and Remote (WebDAV/Dropbox/OneDrive/SMB2) files for iOS/tvOS and macOS.",
 		"homepage": "https://github.com/amosavian/FileProvider"
 	}, {
 		"title": "AlamofireJsonToObjects",

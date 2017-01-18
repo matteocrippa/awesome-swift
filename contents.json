@@ -4326,6 +4326,11 @@
 		"category": "images",
 		"description": "Multi image downloader with priority in Swift",
 		"homepage": "https://github.com/jinSasaki/Vulcan"
+	}, {
+		"title": "Sharaku",
+		"category": "images",
+		"description": "Image filtering UI library like Instagram.",
+		"homepage": "https://github.com/makomori/Sharaku"
 	}
 ]
 }

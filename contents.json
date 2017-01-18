@@ -890,6 +890,12 @@
 		"description": "A simple Dependency Injection Container.",
 		"homepage": "https://github.com/AliSoftware/Dip"
 	}, {
+		"title": "AlexaSkillsKit",
+		"category": "api",
+		"description": "Library to develop custom Skills for Amazon's Alexa Voice Service.",
+		"homepage": "https://github.com/choefele/AlexaSkillsKit",
+		"tags": ["linux"]
+	}, {
 		"title": "Federal Data SDK",
 		"category": "api",
 		"description": "Eases access to multiple federal government OpenGov APIs.",

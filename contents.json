@@ -4331,6 +4331,12 @@
 		"category": "images",
 		"description": "Image filtering UI library like Instagram.",
 		"homepage": "https://github.com/makomori/Sharaku"
+	}, {
+        	"title": "KeyboardHideManager",
+        	"category": "keyboard",
+        	"description": "Codeless manager to hide keyboard by tapping on views for iOS written in Swift.",
+        	"homepage": "https://github.com/bonyadmitr/KeyboardHideManager",
+        	"tags": ["iOS", "swift", "keyboard"]
 	}
 ]
 }

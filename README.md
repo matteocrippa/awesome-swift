@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-746-orange.svg) | January 18, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-746-orange.svg) | January 19, 2017
 
 ### Contributing
 
@@ -688,6 +688,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Keyboard
 *Do you want to create your own customized keyboard? Here are some interesting resources* [back to top](#readme) 
 
+* [KeyboardHideManager](https://github.com/bonyadmitr/KeyboardHideManager) - Codeless manager to hide keyboard by tapping on views for iOS written in Swift.
 
 ### Kit
 *Libraries for coding with a simplified API* [back to top](#readme) 
@@ -1073,7 +1074,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [AlertKit](https://github.com/thii/AlertKit) - Alert with a single line of Swift.
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController.
-* [FCAlertView](https://github.com/k9101/FCAlertView) - A Flat Customizable AlertView for iOS.
 * [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [GSAlert](https://github.com/wxxsw/GSAlert) - If you want to use UIAlertController, but still need to support iOS 7 this project is for you.
 * [GSMessage](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.

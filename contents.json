@@ -4204,8 +4204,7 @@
 		"category": "calendar",
 		"description": "Fully customizable calendar day view in Swift",
 		"homepage": "https://github.com/richardtop/CalendarKit"
-	},
-	 {
+	}, {
 		"title": "CSVParser",
 		"category": "other-data",
 		"description": "Fast Swift parser for CSV",

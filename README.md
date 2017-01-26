@@ -821,6 +821,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [BlueSocket](https://github.com/IBM-Swift/BlueSocket) :penguin: - IBM's low level socket framework.
 * [Socket.IO](https://github.com/socketio/socket.io-client-swift) :penguin: - Socket.IO client for iOS/OS X.
 * [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
+* [SocketKit](https://github.com/eswick/SocketKit) - Cross-platform, pure-Swift socket library.
 * [Socks](https://github.com/vapor/Socks) :penguin: - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX.
 * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple TCP socket library.

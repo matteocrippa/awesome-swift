@@ -2376,10 +2376,10 @@
 		"homepage": "https://github.com/kylef/Curassow",
 		"tags": ["linux"]
 	}, {
-		"title": "Blackfish",
+		"title": "Blackfire",
 		"category": "webserver",
-		"description": "HTTP Webserver inspired by Express.js.",
-		"homepage": "https://github.com/elliottminns/blackfish",
+		"description": "A minimal, fast and unopinionated web framework.",
+		"homepage": "https://github.com/elliottminns/blackfire",
 		"tags": ["linux"]
 	}, {
 		"title": "Dynamo",

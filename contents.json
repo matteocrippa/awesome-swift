@@ -4337,6 +4337,11 @@
         	"description": "Codeless manager to hide keyboard by tapping on views for iOS written in Swift.",
         	"homepage": "https://github.com/bonyadmitr/KeyboardHideManager",
         	"tags": ["iOS", "swift", "keyboard"]
-	}
+	}, {
+		"title": "Getting Started",
+		"category": "official-guides",
+		"description": "Find information about the how to use the Swift programming language.",
+		"homepage": "https://swift.org/getting-started/"
+}
 ]
 }

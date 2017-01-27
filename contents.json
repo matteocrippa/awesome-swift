@@ -3652,6 +3652,11 @@
 		"description": "AIB indicates for your app users which audio is playing. Just like the Podcasts app.",
 		"homepage": "https://github.com/LeonardoCardoso/AudioIndicatorBars"
 	}, {
+		"title": "Hero",
+		"category": "transition",
+		"description": "Elegant transition library for iOS, written in Swift.",
+		"homepage": "https://github.com/lkzhao/Hero"
+	}, {
 		"title": "DTTableViewManager",
 		"category": "uitableview",
 		"description": "Protocol-oriented UITableView management, powered by generics and associated types.",

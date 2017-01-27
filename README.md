@@ -144,6 +144,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/) - Official Swift API design guidelines.
 * [Apple eBook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Official Apple eBook for swift beginners.
+* [Getting Started](https://swift.org/getting-started/) - Find information about the how to use the Swift programming language.
 
 ### Style Guides
 [back to top](#readme) 
@@ -151,7 +152,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
 * [LinkedIn](https://github.com/linkedin/swift-style-guide) - LinkedIn's Official Swift Style Guide
 * [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich Swift guide, a must read.
-* [SlideShare](https://github.com/SlideShareInc/swift-style-guide) - Style guides that SlideShare uses for their Swift iOS app.
 * [Swift-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices/) - Best practices for software development with Swift.
 
 ### Third party Guides

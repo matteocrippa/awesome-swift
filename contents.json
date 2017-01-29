@@ -3933,6 +3933,12 @@
 		"description": "A tool to auto-generate Swift `enums` for all your Storyboards, Scenes and Segues constants + appropriate convenience accessors.",
 		"homepage": "https://github.com/AliSoftware/SwiftGen#uistoryboard"
 	}, {
+		"title": "SwiftLCS",
+		"category": "algorithm",
+		"description": "Swift implementation of the longest common subsequence (LCS) algorithm.",
+		"homepage": "https://github.com/Frugghi/SwiftLCS",
+		"tags": ["linux"]
+	}, {
 		"title": "SwiftMemCache",
 		"category": "cache",
 		"description": "Swift Memory Cache with namespace & TTL support.",

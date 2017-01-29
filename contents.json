@@ -3934,7 +3934,7 @@
 		"homepage": "https://github.com/AliSoftware/SwiftGen#uistoryboard"
 	}, {
 		"title": "SwiftLCS",
-		"category": "algorithm",
+		"category": "data-structures",
 		"description": "Swift implementation of the longest common subsequence (LCS) algorithm.",
 		"homepage": "https://github.com/Frugghi/SwiftLCS",
 		"tags": ["linux"]

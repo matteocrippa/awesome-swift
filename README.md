@@ -388,6 +388,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift) - Solutions to LeetCode interview questions.
 * [Pencil](https://github.com/naru-jpn/pencil) - Write any value to file.
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures, with explanations.
+* [SwiftLCS](https://github.com/Frugghi/SwiftLCS) :penguin: - Swift implementation of the longest common subsequence (LCS) algorithm.
 
 #### JSON
 *Struggling using json data? Here are some interesting ways to handle it.* [back to top](#readme) 

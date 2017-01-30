@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-749-orange.svg) | January 29, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-749-orange.svg) | January 30, 2017
 
 ### Contributing
 
@@ -33,6 +33,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [Misc](#misc)
 - [Libs](#libs)
   - [AI](#ai)
+  - [Algorithm](#algorithm)
   - [Animation](#animation)
   - [API](#api)
   - [App Routing](#app-routing)
@@ -48,7 +49,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Currency](#currency)
   - [Data Management](#data-management)
     - [Core Data](#core-data)
-    - [Data Structures](#data-structures)
     - [JSON](#json)
     - [Key Value Store](#key-value-store)
     - [MongoDB](#mongodb)
@@ -233,6 +233,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
 * [Swift-AI](https://github.com/collinhundley/Swift-AI) - An artificial intelligence and machine learning library in Swift.
 
+### Algorithm
+[back to top](#readme) 
+
+* [Algorithm](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models.
+* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures, with explanations.
+* [SwiftLCS](https://github.com/Frugghi/SwiftLCS) :penguin: - Swift implementation of the longest common subsequence (LCS) algorithm.
+
 ### Animation
 *Libs to help with animation* [back to top](#readme) 
 
@@ -381,15 +388,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SugarRecord](https://github.com/carambalabs/SugarRecord) - Helps with CoreCata and Realm.
 * [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with Core Data a bit easier.
 
-#### Data Structures
-[back to top](#readme) 
-
-* [Algorithm](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models.
-* [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift) - Solutions to LeetCode interview questions.
-* [Pencil](https://github.com/naru-jpn/pencil) - Write any value to file.
-* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures, with explanations.
-* [SwiftLCS](https://github.com/Frugghi/SwiftLCS) :penguin: - Swift implementation of the longest common subsequence (LCS) algorithm.
-
 #### JSON
 *Struggling using json data? Here are some interesting ways to handle it.* [back to top](#readme) 
 
@@ -448,6 +446,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [CSVParser](https://github.com/Nero5023/CSVParser) :penguin: - Fast Swift parser for CSV
 * [EVCloudKitDao](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+* [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift) - Solutions to LeetCode interview questions.
+* [Pencil](https://github.com/naru-jpn/pencil) - Write any value to file.
 
 #### Realm
 [back to top](#readme) 

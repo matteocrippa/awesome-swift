@@ -74,6 +74,10 @@
 		"parent": "libs",
 		"description": "Libs for AI based projects (Machine Learning, Neural Networks etc)."
 	}, {
+		"title": "Algorithm",
+		"id": "algorithm",
+		"parent": "libs"
+	}, {
 		"title": "Currency",
 		"id": "currency",
 		"parent": "libs"
@@ -155,10 +159,6 @@
 		"id": "core-data",
 		"parent": "data-management",
 		"description": "No more pain with Core Data, here are some interesting libs to handle data management."
-	}, {
-		"title": "Data Structures",
-		"id": "data-structures",
-		"parent": "data-management"
 	}, {
 		"title": "PDF",
 		"id": "pdf",
@@ -1161,22 +1161,22 @@
 		"homepage": "https://github.com/mrdekk/DataKernel"
 	}, {
 		"title": "LeetCode_Swift",
-		"category": "data-structures",
+		"category": "other-data",
 		"description": "Solutions to LeetCode interview questions.",
 		"homepage": "https://github.com/soapyigu/LeetCode_Swift"
 	}, {
 		"title": "Algorithm",
-		"category": "data-structures",
+		"category": "algorithm",
 		"description": "A toolset for writing algorithms and probability models.",
 		"homepage": "https://github.com/CosmicMind/Algorithm"
 	}, {
 		"title": "swift-algorithm-club",
-		"category": "data-structures",
+		"category": "algorithm",
 		"description": "Algorithms and data structures, with explanations.",
 		"homepage": "https://github.com/raywenderlich/swift-algorithm-club"
 	}, {
 		"title": "Pencil",
-		"category": "data-structures",
+		"category": "other-data",
 		"description": "Write any value to file.",
 		"homepage": "https://github.com/naru-jpn/pencil"
 	}, {
@@ -3934,7 +3934,7 @@
 		"homepage": "https://github.com/AliSoftware/SwiftGen#uistoryboard"
 	}, {
 		"title": "SwiftLCS",
-		"category": "data-structures",
+		"category": "algorithm",
 		"description": "Swift implementation of the longest common subsequence (LCS) algorithm.",
 		"homepage": "https://github.com/Frugghi/SwiftLCS",
 		"tags": ["linux"]

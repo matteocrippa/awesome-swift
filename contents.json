@@ -4354,6 +4354,11 @@
 		"category": "official-guides",
 		"description": "Find information about the how to use the Swift programming language.",
 		"homepage": "https://swift.org/getting-started/"
-}
+	}, {
+        	"title": "About Swift",
+	        "category": "third-party-guides",
+        	"description": "A playground about Swift language",
+	        "homepage": "https://github.com/NicolaLancellotti-About/About-Swift"
+	}	
 ]
 }

@@ -4338,6 +4338,12 @@
 		"description": "Image filtering UI library like Instagram.",
 		"homepage": "https://github.com/makomori/Sharaku"
 	}, {
+		"title": "IHKeyboardAvoiding",
+		"category": "keyboard",
+		"description": "An elegant solution for keeping any UIView visible when the keyboard is being shown. No UIScrollView required.",
+		"homepage": "https://github.com/IdleHandsApps/IHKeyboardAvoiding",
+		"tags": ["iOS", "swift", "keyboard"]
+	}, {
         	"title": "KeyboardHideManager",
         	"category": "keyboard",
         	"description": "Codeless manager to hide keyboard by tapping on views for iOS written in Swift.",

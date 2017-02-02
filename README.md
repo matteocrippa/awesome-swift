@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-751-orange.svg) | February 01, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-752-orange.svg) | February 02, 2017
 
 ### Contributing
 
@@ -563,6 +563,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.
 * [SignalKit](https://github.com/yankodimitrov/SignalKit) - Swift event and binding framework.
 * [Signals](https://github.com/artman/Signals) - replaces delegates and notifications.
+* [Snail](https://github.com/UrbanCompass/Snail) - An Observables framework for swift.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 * [When](https://github.com/vadymmarkov/When) - A lightweight implementation of Promises in Swift.
 
@@ -745,7 +746,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Utilities for writing to and reading from the device log* [back to top](#readme) 
 
 * [AEConsole](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
-* [CleanroomASL](https://github.com/emaloney/CleanroomASL) :penguin: - Low-level Swift API for writing to and reading from the Apple System Log daemon.
+* [CleanroomASL](https://github.com/gilt/CleanroomASL) :penguin: - A Swift-based API for reading from & writing to the Apple System Log.
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) :penguin: - Configurable and extensible high-level logging API that is simple, lightweight and performant.
 * [Duration](https://github.com/SwiftStudies/Duration) :penguin: - Lightweight logging library focused on reporting timings for operations.
 * [Evergreen](https://github.com/knly/Evergreen) - Most natural logging.

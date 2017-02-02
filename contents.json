@@ -1641,6 +1641,11 @@
 		"description": "replaces delegates and notifications.",
 		"homepage": "https://github.com/artman/Signals"
 	}, {
+		"title": "Snail",
+		"category": "events",
+		"description": "An Observables framework for swift.",
+		"homepage": "https://github.com/UrbanCompass/Snail"
+	}, {
 		"title": "SwiftEventBus",
 		"category": "events",
 		"description": "A publish/subscribe event bus optimized for iOS.",
@@ -4359,6 +4364,6 @@
 	        "category": "third-party-guides",
         	"description": "A playground about Swift language",
 	        "homepage": "https://github.com/NicolaLancellotti-About/About-Swift"
-	}	
+	}
 ]
 }

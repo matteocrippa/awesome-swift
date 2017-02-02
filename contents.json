@@ -2060,8 +2060,8 @@
 	}, {
 		"title": "CleanroomASL",
 		"category": "logging",
-		"description": "Low-level Swift API for writing to and reading from the Apple System Log daemon.",
-		"homepage": "https://github.com/emaloney/CleanroomASL",
+		"description": "A Swift-based API for reading from & writing to the Apple System Log.",
+		"homepage": "https://github.com/gilt/CleanroomASL",
 		"tags": ["linux"]
 	}, {
 		"title": "CleanroomLogger",

@@ -2058,6 +2058,12 @@
 		"description": "Customizable Console UI overlay with debug log on top of your iOS App.",
 		"homepage": "https://github.com/tadija/AEConsole"
 	}, {
+		"title": "Dotzu",
+		"category": "logging",
+		"description": "Debbuger tool for iOS developer. Display logs, network request, device informations, crash logs while using the app.",
+		"homepage": "https://github.com/remirobert/Dotzu",
+		"tags": ["logger", "app", "ios", "crash"]
+	}, {
 		"title": "CleanroomASL",
 		"category": "logging",
 		"description": "A Swift-based API for reading from & writing to the Apple System Log.",

@@ -4364,6 +4364,11 @@
 	        "category": "third-party-guides",
         	"description": "A playground about Swift language",
 	        "homepage": "https://github.com/NicolaLancellotti-About/About-Swift"
+	}, {
+        	"title": "ActiveLabel.swift",
+	        "category": "label",
+        	"description": "UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift",
+	        "homepage": "https://github.com/NicolaLancellotti-About/About-Swift"
 	}
 ]
 }

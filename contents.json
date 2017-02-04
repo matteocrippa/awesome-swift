@@ -116,6 +116,11 @@
 		"id": "nlp",
 		"parent": "libs"
 	}, {
+		"title": "Bots",
+		"id": "bot",
+		"parent": "libs",
+		"description": "Libs to build bot"
+	}, {
 		"title": "Bluetooth",
 		"id": "bluetooth",
 		"parent": "hardware",
@@ -4375,6 +4380,14 @@
 	        "category": "label",
         	"description": "UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift",
 	        "homepage": "https://github.com/NicolaLancellotti-About/About-Swift"
+	}
+	, {
+        	"title": "Telegram Bot SDK",
+	        "category": "bot",
+        	"description": "Telegram Bot SDK for Swift (unofficial)",
+	        "homepage": "https://github.com/zmeyc/telegram-bot-swift",
+		"tags": ["linux","iOS", "swift", "bot", "telegram"]
+
 	}
 ]
 }

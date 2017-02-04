@@ -4379,7 +4379,7 @@
         	"title": "ActiveLabel.swift",
 	        "category": "label",
         	"description": "UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift",
-	        "homepage": "https://github.com/NicolaLancellotti-About/About-Swift"
+	        "homepage": "https://github.com/optonaut/ActiveLabel.swift"
 	}
 	, {
         	"title": "Telegram Bot SDK",

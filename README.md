@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-752-orange.svg) | February 02, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-754-orange.svg) | February 04, 2017
 
 ### Contributing
 
@@ -40,6 +40,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [App Store](#app-store)
   - [Audio](#audio)
   - [Authentication](#authentication)
+  - [Bots](#bot)
   - [Cache](#cache)
   - [Chart](#chart)
   - [Chat](#chat)
@@ -304,6 +305,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Cely](https://github.com/chaione/Cely) - A Plug-n-Play login framework written in swift.
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps.
 * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
+
+### Bots
+*Libs to build bot* [back to top](#readme) 
+
+* [Telegram Bot SDK](https://github.com/zmeyc/telegram-bot-swift) :penguin: - Telegram Bot SDK for Swift (unofficial)
 
 ### Cache
 [back to top](#readme) 
@@ -748,6 +754,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [AEConsole](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
 * [CleanroomASL](https://github.com/gilt/CleanroomASL) :penguin: - A Swift-based API for reading from & writing to the Apple System Log.
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) :penguin: - Configurable and extensible high-level logging API that is simple, lightweight and performant.
+* [Dotzu](https://github.com/remirobert/Dotzu) - Debbuger tool for iOS developer. Display logs, network request, device informations, crash logs while using the app.
 * [Duration](https://github.com/SwiftStudies/Duration) :penguin: - Lightweight logging library focused on reporting timings for operations.
 * [Evergreen](https://github.com/knly/Evergreen) - Most natural logging.
 * [HeliumLogger](https://github.com/IBM-Swift/HeliumLogger) :penguin: - IBM's lightweight logging framework.
@@ -761,8 +768,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
 * [Willow](https://github.com/Nike-Inc/Willow) - Willow is a powerful, yet lightweight logging library written in Swift.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
-* [Dotzu](https://github.com/remirobert/Dotzu) - Debbuger tool for iOS developer. Display logs, network request, device informations, crash logs while using the app. 
-
 
 ### Maps
 [back to top](#readme) 

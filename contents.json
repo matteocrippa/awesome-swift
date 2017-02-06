@@ -1681,6 +1681,11 @@
 		"description": "Swift apps a la React and Redux.",
 		"homepage": "https://github.com/BendingSpoons/katana-swift"
 	}, {
+		"title": "NoticeObserveKit",
+		"category": "events",
+		"description": "NoticeObserveKit is type-safe NotificationCenter wrapper that associates notice type with info type.",
+		"homepage": "https://github.com/marty-suzuki/NoticeObserveKit"
+	}, {
 		"title": "FontAwesome.swift",
 		"category": "fonts",
 		"description": "Use FontAwesome in your Swift projects.",

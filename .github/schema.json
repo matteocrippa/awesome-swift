@@ -1,0 +1,100 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"$id": "https://raw.githubusercontent.com/matteocrippa/awesome-swift/master/.github/schema.json",
+	"type": "object",
+	"properties": {
+		"title": {
+			"type": "string"
+		},
+		"header_contributing": {
+			"type": "string"
+		},
+		"header": {
+			"type": "string"
+		},
+		"ios_app_link": {
+			"type": "string"
+		},
+		"categories": {
+			"type": "array",
+			"uniqueItems": true,
+			"items": {
+				"title": "Category Object",
+				"description": "A category to group project objects under.",
+				"properties": {
+					"title": {
+						"title": "Category Title",
+						"description": "A human-readable identifier for the category.",
+						"type": "string"
+					},
+					"id": {
+						"title": "Category Identifier",
+						"description": "A short identifier designed for programs. It should only contain lowercase alphanumeric characters and a - (dash) for replacing spaces.",
+						"type": "string",
+						"pattern": "^[^A-Z_ ]+$"
+					},
+					"description": {
+						"title": "Category Description",
+						"description": "A description of the category meant to be provided to the user.",
+						"type": "string",
+						"default": ""
+					},
+					"parent": {
+						"title": "Category Parent",
+						"description": "Makes the current category a subcategory of the category with an id that matches this value.",
+						"type": ["string", "null"],
+						"default": null
+					}
+				},
+				"required": ["title", "id"],
+				"additionalProperties": false
+			}
+		},
+		"projects": {
+			"type": "array",
+			"uniqueItems": true,
+			"items": {
+				"title": "Project Object",
+				"description": "An object that holds all the information for a specific project.",
+				"properties": {
+					"title": {
+						"title": "Project Title",
+						"description": "The official title of the project.",
+						"type": "string"
+					},
+					"category": {
+						"title": "Project Category",
+						"description": "The category or list of categories that the project falls under. If it is a list, the categories should be ordered from most to least relevant/applicable to the project.",
+						"type": ["string", "array"],
+						"items": {
+							"type": "string"
+						}
+					},
+					"description": {
+						"title": "Project Description",
+						"description": "A brief 1 sentence summary of the project.",
+						"type": "string"
+					},
+					"homepage": {
+						"title": "Project Homepage",
+						"description": "The URL for the project's homepage.",
+						"type": ["string", "null"],
+						"pattern": "^https?:\\/\\/.*?\\..*$",
+						"default": null
+					},
+					"tags": {
+						"title": "Project Tags",
+						"description": "A place to put any metadata for a project. The items can be any type.",
+						"type": "array",
+						"default": []
+					}
+
+				},
+				"required": ["title", "category", "homepage"],
+				"additionalProperties": false
+			}
+		}
+	},
+	"required": ["title", "categories", "projects"],
+	"additionalProperties": false
+}

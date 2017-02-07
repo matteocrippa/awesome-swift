@@ -2790,6 +2790,11 @@
 		"description": "An easier way to compose attributed strings.",
 		"homepage": "https://github.com/delba/TextAttributes"
 	}, {
+		"title": "Attributed",
+		"category": "text",
+		"description": "A Modern interface for attributed strings.",
+		"homepage": "https://github.com/Nirma/Attributed"
+	}, {
 		"title": "SwiftRichString",
 		"category": "text",
 		"description": "Elegant & Painless Attributed Strings Management Library in Swift.",

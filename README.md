@@ -325,6 +325,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation.
+* [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift. Originally written for a small personal project.
 * [SwiftChart](https://github.com/gpbl/SwiftChart) - A simple line and area charting library for iOS. Supports multiple series, partially filled series and touch events.
 * [TKRadarChart](https://github.com/TBXark/TKRadarChart) - A customizable radar chart in Swift
 
@@ -1061,7 +1062,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Easily add fun, multi-colored confetti to your app.
 * [SAHistoryNavigationViewController](https://github.com/marty-suzuki/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller.
 * [Sapporo](https://github.com/nghialv/Sapporo) - A cellmodel-driven CollectionView manager for Swift.
-* [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift. Originally written for a small personal project.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written in Swift.
 * [Sonar](https://github.com/thefuntasty/Sonar) - Cool radar-style view
 * [Spots](https://github.com/hyperoslo) - Spots is a view controller framework that makes your setup and future development blazingly fast.

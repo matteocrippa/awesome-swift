@@ -2930,6 +2930,11 @@
 		"description": "A message bar for iOS written in Swift.",
 		"homepage": "https://github.com/marketplacer/Dodo"
 	}, {
+		"title": "Element",
+		"category": "ui",
+		"description": "Programmatic UI framework for macOS.",
+		"homepage": "https://github.com/eonist/Element"
+	}, {
 		"title": "EPShapes",
 		"category": "ui",
 		"description": "Create shapes(Polygons, Stars, Hearts, Arrows) in Interface builder.",

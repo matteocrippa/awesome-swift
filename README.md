@@ -733,6 +733,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 * [SwiftAutoLayout](https://github.com/indragiek/SwiftAutoLayout) - a small DSL for autolayout.
 * [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
+* [JustUiKit](https://github.com/lfkdsk/JustUiKit) - iOS UI Kit With Android-Style. JustUiKit contains JustLinearLayout, JustFrameLayout, JustRelativeLayout and so on. It is designed to make Android developers build iOS UI easily. It also provides iOS developers a new way to build UI. 
 
 ### Localization
 *Frameworks that helps with localizing your app* [back to top](#readme) 

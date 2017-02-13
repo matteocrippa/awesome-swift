@@ -4402,6 +4402,12 @@
 	        "homepage": "https://github.com/zmeyc/telegram-bot-swift",
 		"tags": ["linux","iOS", "swift", "bot", "telegram"]
 
+	}, {
+		"title": "AnimatedCollectionViewLayout",
+		"category": "animation",
+		"description": "A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.",
+		"homepage": "https://github.com/KelvinJin/AnimatedCollectionViewLayout",
+		"tags": ["linux", "iOS", "swift", "uicollectionview", "animation"]
 	}
 ]
 }

@@ -713,7 +713,7 @@
 		"title": "SwiftGen",
 		"category": "misc",
 		"description": "A suite of tools written in Swift to auto-generate Swift code for various assets of your project.",
-		"homepage": "https://github.com/AliSoftware/SwiftGen"
+		"homepage": "https://github.com/SwiftGen/SwiftGen"
 	}, {
 		"title": "SwiftPlate",
 		"category": "misc",
@@ -1033,7 +1033,7 @@
 		"title": "SwiftGen-Colors",
 		"category": "colors",
 		"description": "A tool to auto-generate Swift `enums` for your `UIColor` constants.",
-		"homepage": "https://github.com/AliSoftware/SwiftGen#uicolor"
+		"homepage": "https://github.com/SwiftGen/SwiftGen#uicolor"
 	}, {
 		"title": "SwiftHEXColors",
 		"category": "colors",
@@ -1900,7 +1900,7 @@
 		"title": "SwiftGen-Assets",
 		"category": "images",
 		"description": "A tool to auto-generate Swift `enums` for all your `UIImages` from your Assets Catalogs.",
-		"homepage": "https://github.com/AliSoftware/SwiftGen#assets-catalogs"
+		"homepage": "https://github.com/SwiftGen/SwiftGen#assets-catalogs"
 	}, {
 		"title": "SwiftGif",
 		"category": "images",
@@ -2061,7 +2061,7 @@
 		"title": "SwiftGen-L10n",
 		"category": "localization",
 		"description": "A tool to auto-generate Swift `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`).",
-		"homepage": "https://github.com/AliSoftware/SwiftGen#localizablestrings"
+		"homepage": "https://github.com/SwiftGen/SwiftGen#localizablestrings"
 	}, {
 		"title": "AEConsole",
 		"category": "logging",
@@ -3962,7 +3962,7 @@
 		"title": "SwiftGen-Storyboard",
 		"category": "utility",
 		"description": "A tool to auto-generate Swift `enums` for all your Storyboards, Scenes and Segues constants + appropriate convenience accessors.",
-		"homepage": "https://github.com/AliSoftware/SwiftGen#uistoryboard"
+		"homepage": "https://github.com/SwiftGen/SwiftGen#uistoryboard"
 	}, {
 		"title": "SwiftLCS",
 		"category": "algorithm",

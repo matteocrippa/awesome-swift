@@ -3573,6 +3573,11 @@
 		"description": "Guillotine style menu.",
 		"homepage": "https://github.com/Yalantis/GuillotineMenu"
 	}, {
+		"title": "InteractiveSideMenu",
+		"category": "menu",
+		"description": "Customizable iOS Interactive Side Menu written in Swift 3.",
+		"homepage": "https://github.com/handsomecode/InteractiveSideMenu"
+	}, {
 		"title": "MediumMenu",
 		"category": "menu",
 		"description": "A menu based on Medium iOS app.",

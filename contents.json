@@ -4410,8 +4410,8 @@
 		"tags": ["linux", "iOS", "swift", "uicollectionview", "animation"]
 	}, {
 		"title": "JustUiKit",
-		"category": "Layout",
-		"description": " iOS UI Kit With Android-Style. JustUiKit contains JustLinearLayout, JustFrameLayout, JustRelativeLayout and so on. It is designed to make Android developers build iOS UI easily. It also provides iOS developers a new way to build UI.",
+		"category": "layout",
+		"description": "iOS UI Kit With Android-Style. JustUiKit contains JustLinearLayout, JustFrameLayout, JustRelativeLayout and so on. It is designed to make Android developers build iOS UI easily. It also provides iOS developers a new way to build UI.",
 		"homepage": "https://github.com/lfkdsk/JustUiKit",
 		"tags": ["iOS", "swift", "android-style", "layout"]
   	}

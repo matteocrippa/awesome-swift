@@ -2489,6 +2489,12 @@
 		"description": "A powerful Swift Web Application Server Framework Project.",
 		"homepage": "https://github.com/Yoseob/Trevi"
 	}, {
+		"title": "Tris",
+		"category": "webserver",
+		"description": "High performance server-side Swift with cooperative multitasking.",
+		"homepage": "https://github.com/tris-foundation/universe",
+		"tags": ["linux"]
+	}, {
 		"title": "Vapor",
 		"category": "webserver",
 		"description": "Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.",

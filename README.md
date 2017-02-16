@@ -175,6 +175,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A Chinese written guide for Swift.
 * [SwiftIntro](https://github.com/Sajjon/SwiftIntro) - **Memory game** in Swift fetching images from any Instagram account. Lists **tasks** for you to do in order to learn Swift - at three difficulty levels.
 * [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - App to learn to code in Swift.
+* [Swift 3.0 官方中文教程](http://swift.ctolib.com/docs/sfile/the-swift-programming-language-in-chinese/index.html)
 
 ## Boilerplates
 

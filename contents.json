@@ -965,6 +965,12 @@
 		"description": "Instagram-like photo browser and a camera feature.",
 		"homepage": "https://github.com/ytakzk/Fusuma"
 	}, {
+	}, {
+		"title": "NextLevel",
+		"category": "camera",
+		"description": "Rad Media Capture in Swift.",
+		"homepage": "https://github.com/NextLevel/NextLevel"
+	}, {
 		"title": "BarcodeScanner",
 		"category": "barcode",
 		"description": "A simple and beautiful barcode scanner view controller.",

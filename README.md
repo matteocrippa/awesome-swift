@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-760-orange.svg) | February 15, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-762-orange.svg) | February 18, 2017
 
 ### Contributing
 
@@ -179,6 +179,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Boilerplates
 
 * [Swift 3 Module Template](https://github.com/fulldecent/swift3-module-template) - An opinionated starting point for awesome, reusable Swift 3 modules
+* [Swift 3 VIPER Module Template](https://github.com/Juanpe/Swift-VIPER-Module) - Xcode template for VIPER Architecture in Swift 3
 * [Webview Boilerplate](https://github.com/nabilfreeman/ios-universal-webview-boilerplate) - Swift starting point for webview app.
 
 ## Editor Support
@@ -638,6 +639,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - Camera view controller with custom image picker and image cropping.
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
+* [NextLevel](https://github.com/NextLevel/NextLevel) - Rad Media Capture in Swift.
 
 ##### Barcode
 *Barcode, QR-code, other code readers* [back to top](#readme) 

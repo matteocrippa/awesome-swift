@@ -4420,6 +4420,6 @@
 		"description": "DSGradientProgressView is a simple and customizable animated progress bar written in Swift.",
 		"homepage": "https://github.com/DholStudio/DSGradientProgressView",
 		"tags": ["iOS", "swift", "loading", "progress bar", "animation"]
-	}, {
+	}
 ]
 }

@@ -4425,11 +4425,16 @@
     "description": "Xcode template for VIPER Architecture in Swift 3",
     "homepage": "https://github.com/Juanpe/Swift-VIPER-Module"
   }, {
+		"title": "Hydra",
+		"category": "concurrency",
+		"description": "Promises & Await - Write better async code in Swift",
+		"homepage": "https://github.com/malcommac/Hydra"
+	}, {
 		"title": "DSGradientProgressView",
 		"category": "animation",
 		"description": "DSGradientProgressView is a simple and customizable animated progress bar written in Swift.",
 		"homepage": "https://github.com/DholStudio/DSGradientProgressView",
 		"tags": ["iOS", "swift", "loading", "progress bar", "animation"]
-	}
+  }
 ]
 }

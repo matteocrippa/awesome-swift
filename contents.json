@@ -965,6 +965,11 @@
 		"description": "Instagram-like photo browser and a camera feature.",
 		"homepage": "https://github.com/ytakzk/Fusuma"
 	}, {
+		"title": "NextLevel",
+		"category": "camera",
+		"description": "Rad Media Capture in Swift.",
+		"homepage": "https://github.com/NextLevel/NextLevel"
+	}, {
 		"title": "BarcodeScanner",
 		"category": "barcode",
 		"description": "A simple and beautiful barcode scanner view controller.",
@@ -4414,7 +4419,13 @@
 		"description": "iOS UI Kit With Android-Style. JustUiKit contains JustLinearLayout, JustFrameLayout, JustRelativeLayout and so on. It is designed to make Android developers build iOS UI easily. It also provides iOS developers a new way to build UI.",
 		"homepage": "https://github.com/lfkdsk/JustUiKit",
 		"tags": ["iOS", "swift", "android-style", "layout"]
-  	}, {
+  	}
+	}, {
+    "title": "Swift 3 VIPER Module Template",
+    "category": "boilerplates",
+    "description": "Xcode template for VIPER Architecture in Swift 3",
+    "homepage": "https://github.com/Juanpe/Swift-VIPER-Module"
+  }, {
 		"title": "DSGradientProgressView",
 		"category": "animation",
 		"description": "DSGradientProgressView is a simple and customizable animated progress bar written in Swift.",

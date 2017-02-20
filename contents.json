@@ -4424,6 +4424,11 @@
     "category": "boilerplates",
     "description": "Xcode template for VIPER Architecture in Swift 3",
     "homepage": "https://github.com/Juanpe/Swift-VIPER-Module"
-  }
+  }, {
+		"title": "Hydra",
+		"category": "concurrency",
+		"description": "Promises & Await - Write better async code in Swift",
+		"homepage": "https://github.com/malcommac/Hydra"
+	}
 ]
 }

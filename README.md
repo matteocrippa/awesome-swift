@@ -369,7 +369,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Concurrency
 *Easier ways to work with concurrency.* [back to top](#readme) 
 
-* [Hydra](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code in Swift
 * [Overdrive](https://github.com/arikis/Overdrive) - Fast async task based API in Swift with focus on type safety, concurrency and multi threading.
 * [Safe](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization for Swift.
 * [Venice](https://github.com/Zewo/Venice) :penguin: - Communicating sequential processes (CSP) for Swift 2 (Linux ready).

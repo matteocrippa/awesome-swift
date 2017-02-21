@@ -4419,7 +4419,7 @@
 		"description": "iOS UI Kit With Android-Style. JustUiKit contains JustLinearLayout, JustFrameLayout, JustRelativeLayout and so on. It is designed to make Android developers build iOS UI easily. It also provides iOS developers a new way to build UI.",
 		"homepage": "https://github.com/lfkdsk/JustUiKit",
 		"tags": ["iOS", "swift", "android-style", "layout"]
-	}, {
+  	}, {
     "title": "Swift 3 VIPER Module Template",
     "category": "boilerplates",
     "description": "Xcode template for VIPER Architecture in Swift 3",
@@ -4429,6 +4429,12 @@
 		"category": "concurrency",
 		"description": "Promises & Await - Write better async code in Swift",
 		"homepage": "https://github.com/malcommac/Hydra"
-	}
+	}, {
+		"title": "DSGradientProgressView",
+		"category": "animation",
+		"description": "DSGradientProgressView is a simple and customizable animated progress bar written in Swift.",
+		"homepage": "https://github.com/DholStudio/DSGradientProgressView",
+		"tags": ["iOS", "swift", "loading", "progress bar", "animation"]
+  }
 ]
 }

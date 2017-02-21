@@ -4430,6 +4430,12 @@
 		"description": "Promises & Await - Write better async code in Swift",
 		"homepage": "https://github.com/malcommac/Hydra"
 	}, {
+		"title": "Dance",
+		"category": "animation",
+		"description": "A radical & elegant animation library built for iOS.",
+		"homepage": "https://github.com/saoudrizwan/Dance"
+	},
+  {
 		"title": "DSGradientProgressView",
 		"category": "animation",
 		"description": "DSGradientProgressView is a simple and customizable animated progress bar written in Swift.",

@@ -4451,6 +4451,13 @@
 		"description": "DSGradientProgressView is a simple and customizable animated progress bar written in Swift.",
 		"homepage": "https://github.com/DholStudio/DSGradientProgressView",
 		"tags": ["iOS", "swift", "loading", "progress bar", "animation"]
+  },
+  {
+		"title": "SMSwipeableTabView",
+		"category": "ui",
+		"description": "SMSwipeableTabView is a custom control which is mixture of UIPageViewController and Scrollable Tab Bar. This is similar to Swipe view with tabs alyout in android. Any number of tabs can be added along with the swipeable views. Fully customizable control.",
+		"homepage": "https://github.com/smahajan28/SMSwipeableTabView",
+		"tags": ["iOS", "swift", "pagination", "swipeablePageView", "animation", "android-style", "tabs-layout"]
   }
 ]
 }

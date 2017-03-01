@@ -1233,7 +1233,7 @@
 	}, {
 		"title": "FileProvider",
 		"category": "files",
-		"description": "FileManager replacement for Local and Remote (WebDAV/Dropbox/OneDrive/SMB2) files for iOS/tvOS and macOS.",
+		"description": "FileManager replacement for Local, iCloud and Remote (WebDAV/Dropbox/OneDrive/SMB2) files for iOS/tvOS and macOS.",
 		"homepage": "https://github.com/amosavian/FileProvider"
 	}, {
 		"title": "AlamofireJsonToObjects",
@@ -4465,6 +4465,13 @@
 		"description": "🎨 A customizable color picker for iOS in Swift",
 		"homepage": "https://github.com/iGenius-Srl/IGColorPicker",
 		"tags": ["iOS", "swift", "color", "color-picker", "picker"]
+  },
+  {               
+		"title": "Atributika",
+		"category": "text",
+		"description": "Easily build NSAttributedString by detecting and styling HTML-like tags, hashtags, mentions, RegExp or NSDataDetector patterns.",
+		"homepage": "https://github.com/psharanda/Atributika",
+		"tags": ["nsattributedstring", "html"]
   }
 ]
 }

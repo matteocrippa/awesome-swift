@@ -4460,11 +4460,18 @@
 		"tags": ["iOS", "swift", "pagination", "swipeablePageView", "animation", "android-style", "tabs-layout"]
   },
   {
+		"title": "IGColorPicker",
+		"category": "ui",
+		"description": "🎨 A customizable color picker for iOS in Swift",
+		"homepage": "https://github.com/iGenius-Srl/IGColorPicker",
+		"tags": ["iOS", "swift", "color", "color-picker", "picker"]
+  },
+  {               
 		"title": "Atributika",
 		"category": "text",
 		"description": "Easily build NSAttributedString by detecting and styling HTML-like tags, hashtags, mentions, RegExp or NSDataDetector patterns.",
 		"homepage": "https://github.com/psharanda/Atributika",
 		"tags": ["nsattributedstring", "html"]
-  }		     
+  }
 ]
 }

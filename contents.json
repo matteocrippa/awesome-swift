@@ -2438,8 +2438,8 @@
 	}, {
 		"title": "Frank",
 		"category": "webserver",
-		"description": "Frank is a DSL for quickly writing web applications in Swift.",
-		"homepage": "https://github.com/nestproject/Frank",
+		"description": "Frank is a DSL for quickly writing web applications.",
+		"homepage": "https://github.com/kylef/Frank",
 		"tags": ["linux"]
 	}, {
 		"title": "http4swift",
@@ -3632,7 +3632,7 @@
 		"category": "menu",
 		"description": "Adorable iOS drop down menu with Swift3.",
 		"homepage": "https://github.com/younatics/YNDropDownMenu"
-	}, {		
+	}, {
 		"title": "Caishen",
 		"category": "payment",
 		"description": "A Payment Card UI & Validator for iOS",
@@ -4471,7 +4471,7 @@
 		"homepage": "https://github.com/iGenius-Srl/IGColorPicker",
 		"tags": ["iOS", "swift", "color", "color-picker", "picker"]
   },
-  {               
+  {
 		"title": "Atributika",
 		"category": "text",
 		"description": "Easily build NSAttributedString by detecting and styling HTML-like tags, hashtags, mentions, RegExp or NSDataDetector patterns.",

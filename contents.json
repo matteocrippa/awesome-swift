@@ -4482,6 +4482,11 @@
 		"category": "images",
 		"description": "A library that displays spherical or cylindrical panoramas with touch or motion based controls.",
 		"homepage": "https://github.com/scihant/CTPanoramaView"
-	}
+	} , {
+	  "title": "SlidingText",
+	  "category": "label",
+	  "description": "Swift UIView for sliding text with page indicator.",
+	  "homepage": "https://github.com/dnKaratzas/SlidingText"
+  }
 ]
 }

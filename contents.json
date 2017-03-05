@@ -2058,6 +2058,11 @@
 		"description": "Powerful auto-layout framework that lets you write constraints in one line of code.",
 		"homepage": "https://github.com/Skyvive/Swiftstraints"
 	}, {
+		"title": "TinyConstraints",
+		"category": "auto-layout",
+		"description": "TinyConstraints is the syntactic sugar that makes Auto Layout sweeter for human use.",
+		"homepage": "https://github.com/roberthein/TinyConstraints"
+	}, {
 		"title": "BartyCrouch",
 		"category": "localization",
 		"description": "Incrementally update/translate your Strings files from Code and Storyboards/XIBs.",

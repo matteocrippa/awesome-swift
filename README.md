@@ -743,6 +743,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 * [SwiftAutoLayout](https://github.com/indragiek/SwiftAutoLayout) - a small DSL for autolayout.
 * [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
+* [TinyConstraints](https://github.com/roberthein/TinyConstraints) - TinyConstraints is the syntactic sugar that makes Auto Layout sweeter for human use.
 
 ### Localization
 *Frameworks that helps with localizing your app* [back to top](#readme) 

@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-772-orange.svg) | March 03, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-774-orange.svg) | March 06, 2017
 
 ### Contributing
 
@@ -743,6 +743,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X.
 * [SwiftAutoLayout](https://github.com/indragiek/SwiftAutoLayout) - a small DSL for autolayout.
 * [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
+* [TinyConstraints](https://github.com/roberthein/TinyConstraints) - TinyConstraints is the syntactic sugar that makes Auto Layout sweeter for human use.
 
 ### Localization
 *Frameworks that helps with localizing your app* [back to top](#readme) 
@@ -858,7 +859,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Curassow](https://github.com/kylef/Curassow) :penguin: - Swift HTTP server using the pre-fork worker model.
 * [Dynamo](https://github.com/johnno1962/Dynamo) :penguin: - [DynamoLinux](https://github.com/johnno1962/DynamoLinux)  - High Performance (nearly)100% Swift Web server supporting dynamic content.
 * [Edge](https://github.com/SwiftOnEdge/Edge) :penguin: - A Swift Multiplatform Web and Networking Framework.
-* [Embassy](https://github.com/envoy/Embassy) - Super lightweight async HTTP server library in pure Swift.
+* [Embassy](https://github.com/envoy/Embassy) :penguin: - Super lightweight async HTTP server library in pure Swift.
 * [Express](https://github.com/crossroadlabs/Express) :penguin: - Swift Web Application framework, supporting both Synchronous and Asynchronous (Futures based) styles. Inspired by Play framework and Express.js.
 * [Frank](https://github.com/kylef/Frank) :penguin: - Frank is a DSL for quickly writing web applications.
 * [http4swift](https://github.com/takebayashi/http4swift) :penguin: - A simple HTTP server written in Swift.
@@ -1304,6 +1305,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Focus](https://github.com/typelift/Focus) - an Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
 * [Hookah](https://github.com/HookahSwift/Hookah) - Hookah is a functional library for Swift.
 * [ObjectiveKit](https://github.com/marmelroy/ObjectiveKit) - Swift-friendly API for Objective C runtime functions.
+* [OpenSourceController](https://github.com/terflogag/OpenSourceController) - The simplest way to display the librarie's licences used in your application.
 * [Popsicle](https://github.com/DavdRoman/Popsicle) - Delightful, extensible Swift value interpolation framework.
 * [Prelude](https://github.com/robrix/Prelude) - Swift framework of simple functional programming tools.
 * [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - ProtocolBuffers for Swift.

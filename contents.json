@@ -2434,7 +2434,8 @@
 		"title": "Embassy",
 		"category": "webserver",
 		"description": "Super lightweight async HTTP server library in pure Swift.",
-		"homepage": "https://github.com/envoy/Embassy"
+		"homepage": "https://github.com/envoy/Embassy",
+		"tags": ["linux"]
 	}, {
 		"title": "Frank",
 		"category": "webserver",

@@ -3884,6 +3884,11 @@
 		"description": "Swift-friendly API for Objective C runtime functions.",
 		"homepage": "https://github.com/marmelroy/ObjectiveKit"
 	}, {
+		"title": "OpenSourceController",
+		"category": "utility",
+		"description": "The simplest way to display the librarie's licences used in your application.",
+		"homepage": "https://github.com/terflogag/OpenSourceController"
+	}, {
 		"title": "Money",
 		"category": "currency",
 		"description": "Currency formatter in Swift.",

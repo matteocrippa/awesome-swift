@@ -2102,8 +2102,7 @@
 		"title": "CleanroomLogger",
 		"category": "logging",
 		"description": "Configurable and extensible high-level logging API that is simple, lightweight and performant.",
-		"homepage": "https://github.com/emaloney/CleanroomLogger",
-		"tags": ["linux"]
+		"homepage": "https://github.com/emaloney/CleanroomLogger"
 	}, {
 		"title": "Duration",
 		"category": "logging",

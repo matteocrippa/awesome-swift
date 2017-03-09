@@ -595,6 +595,16 @@
 		"description": "Weekly Swift Language Gems, Tips and Tricks.",
 		"homepage": "https://github.com/vandadnp/swift-weekly"
 	}, {
+		"title": "Swift Web Weekly",
+		"category": "third-party-guides",
+		"description": "A free, hand-picked list of the best links for Swift Web Developers, every Monday in your inbox.",
+		"homepage": "http://swiftwebweekly.com"
+	}, {
+		"title": "The Swift Web Developer",
+		"category": "third-party-guides",
+		"description": "A publication for Swift Web Developers",
+		"homepage": "https://theswiftwebdeveloper.com"
+	}, {
 		"title": "SwiftDoc",
 		"category": "third-party-guides",
 		"description": "Auto-generated documentation for Swift.",
@@ -965,6 +975,11 @@
 		"description": "Instagram-like photo browser and a camera feature.",
 		"homepage": "https://github.com/ytakzk/Fusuma"
 	}, {
+		"title": "NextLevel",
+		"category": "camera",
+		"description": "Rad Media Capture in Swift.",
+		"homepage": "https://github.com/NextLevel/NextLevel"
+	}, {
 		"title": "BarcodeScanner",
 		"category": "barcode",
 		"description": "A simple and beautiful barcode scanner view controller.",
@@ -1218,7 +1233,7 @@
 	}, {
 		"title": "FileProvider",
 		"category": "files",
-		"description": "FileManager replacement for Local and Remote (WebDAV/Dropbox/OneDrive/SMB2) files for iOS/tvOS and macOS.",
+		"description": "FileManager replacement for Local, iCloud and Remote (WebDAV/Dropbox/OneDrive/SMB2) files for iOS/tvOS and macOS.",
 		"homepage": "https://github.com/amosavian/FileProvider"
 	}, {
 		"title": "AlamofireJsonToObjects",
@@ -2043,6 +2058,11 @@
 		"description": "Powerful auto-layout framework that lets you write constraints in one line of code.",
 		"homepage": "https://github.com/Skyvive/Swiftstraints"
 	}, {
+		"title": "TinyConstraints",
+		"category": "auto-layout",
+		"description": "TinyConstraints is the syntactic sugar that makes Auto Layout sweeter for human use.",
+		"homepage": "https://github.com/roberthein/TinyConstraints"
+	}, {
 		"title": "BartyCrouch",
 		"category": "localization",
 		"description": "Incrementally update/translate your Strings files from Code and Storyboards/XIBs.",
@@ -2419,12 +2439,13 @@
 		"title": "Embassy",
 		"category": "webserver",
 		"description": "Super lightweight async HTTP server library in pure Swift.",
-		"homepage": "https://github.com/envoy/Embassy"
+		"homepage": "https://github.com/envoy/Embassy",
+		"tags": ["linux"]
 	}, {
 		"title": "Frank",
 		"category": "webserver",
-		"description": "Frank is a DSL for quickly writing web applications in Swift.",
-		"homepage": "https://github.com/nestproject/Frank",
+		"description": "Frank is a DSL for quickly writing web applications.",
+		"homepage": "https://github.com/kylef/Frank",
 		"tags": ["linux"]
 	}, {
 		"title": "http4swift",
@@ -3613,6 +3634,11 @@
 		"description": "Rotating circle menu written in Swift 3.",
 		"homepage": "https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu"
 	}, {
+		"title": "YNDropDownMenu",
+		"category": "menu",
+		"description": "Adorable iOS drop down menu with Swift3.",
+		"homepage": "https://github.com/younatics/YNDropDownMenu"
+	}, {
 		"title": "Caishen",
 		"category": "payment",
 		"description": "A Payment Card UI & Validator for iOS",
@@ -3857,6 +3883,11 @@
 		"category": "utility",
 		"description": "Swift-friendly API for Objective C runtime functions.",
 		"homepage": "https://github.com/marmelroy/ObjectiveKit"
+	}, {
+		"title": "OpenSourceController",
+		"category": "utility",
+		"description": "The simplest way to display the librarie's licences used in your application.",
+		"homepage": "https://github.com/terflogag/OpenSourceController"
 	}, {
 		"title": "Money",
 		"category": "currency",
@@ -4420,6 +4451,55 @@
 		"description": "A command line tool for generating a Swift REST API from a Swagger spec based off Stencil templates",
 		"homepage": "https://github.com/yonaskolb/SwagGen",
 		"tags": ["swagger", "swift", "CI", "generator", "template", "open-api"]
-  	}
+  	},
+  {
+    "title": "Swift 3 VIPER Module Template",
+    "category": "boilerplates",
+    "description": "Xcode template for VIPER Architecture in Swift 3",
+    "homepage": "https://github.com/Juanpe/Swift-VIPER-Module"
+  }, {
+		"title": "Hydra",
+		"category": "concurrency",
+		"description": "Promises & Await - Write better async code in Swift",
+		"homepage": "https://github.com/malcommac/Hydra"
+	}, {
+		"title": "Dance",
+		"category": "animation",
+		"description": "A radical & elegant animation library built for iOS.",
+		"homepage": "https://github.com/saoudrizwan/Dance"
+	},
+  {
+		"title": "DSGradientProgressView",
+		"category": "animation",
+		"description": "DSGradientProgressView is a simple and customizable animated progress bar written in Swift.",
+		"homepage": "https://github.com/DholStudio/DSGradientProgressView",
+		"tags": ["iOS", "swift", "loading", "progress bar", "animation"]
+  },
+  {
+		"title": "SMSwipeableTabView",
+		"category": "ui",
+		"description": "SMSwipeableTabView is a custom control which is mixture of UIPageViewController and Scrollable Tab Bar. This is similar to Swipe view with tabs alyout in android. Any number of tabs can be added along with the swipeable views. Fully customizable control.",
+		"homepage": "https://github.com/smahajan28/SMSwipeableTabView",
+		"tags": ["iOS", "swift", "pagination", "swipeablePageView", "animation", "android-style", "tabs-layout"]
+  },
+  {
+		"title": "IGColorPicker",
+		"category": "ui",
+		"description": "🎨 A customizable color picker for iOS in Swift",
+		"homepage": "https://github.com/iGenius-Srl/IGColorPicker",
+		"tags": ["iOS", "swift", "color", "color-picker", "picker"]
+  },
+  {
+		"title": "Atributika",
+		"category": "text",
+		"description": "Easily build NSAttributedString by detecting and styling HTML-like tags, hashtags, mentions, RegExp or NSDataDetector patterns.",
+		"homepage": "https://github.com/psharanda/Atributika",
+		"tags": ["nsattributedstring", "html"]
+  }, {
+		"title": "CTPanoramaView",
+		"category": "images",
+		"description": "A library that displays spherical or cylindrical panoramas with touch or motion based controls.",
+		"homepage": "https://github.com/scihant/CTPanoramaView"
+	}
 ]
 }

@@ -766,7 +766,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Utilities for writing to and reading from the device log* [back to top](#readme) 
 
 * [AEConsole](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
-* [CleanroomASL](https://github.com/gilt/CleanroomASL) :penguin: - A Swift-based API for reading from & writing to the Apple System Log.
+* [CleanroomASL](https://github.com/gilt/CleanroomASL) - A Swift-based API for reading from & writing to the Apple System Log.
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) :penguin: - Configurable and extensible high-level logging API that is simple, lightweight and performant.
 * [Dotzu](https://github.com/remirobert/Dotzu) - Debbuger tool for iOS developer. Display logs, network request, device informations, crash logs while using the app.
 * [Duration](https://github.com/SwiftStudies/Duration) :penguin: - Lightweight logging library focused on reporting timings for operations.

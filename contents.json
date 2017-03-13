@@ -4498,6 +4498,11 @@
 		"category": "images",
 		"description": "A library that displays spherical or cylindrical panoramas with touch or motion based controls.",
 		"homepage": "https://github.com/scihant/CTPanoramaView"
+  }, {
+		"title": "RangeSeekSlider",
+		"category": "ui",
+		"description": "A customizable range slider like a UISlider for iOS.",
+		"homepage": "https://github.com/WorldDownTown/RangeSeekSlider"
 	}
 ]
 }

@@ -495,6 +495,10 @@
 		"id": "transition",
 		"parent": "ui"
 	}, {
+			"title": "UICollectionView",
+			"id": "uicollectionview",
+			"parent": "ui"
+	}, {
 		"title": "UITableView",
 		"id": "uitableview",
 		"parent": "ui"
@@ -2940,7 +2944,7 @@
 		"homepage": "https://github.com/phimage/CustomSegue"
 	}, {
 		"title": "Drag and Drop UICollectionView",
-		"category": "ui",
+		"category": "uicollectionview",
 		"description": "Dragging and Dropping data across multiple UICollectionViews (in Swift).",
 		"homepage": "https://github.com/mmick66/KDDragAndDropCollectionView"
 	}, {
@@ -3267,7 +3271,7 @@
 		"homepage": "https://github.com/marty-suzuki/SAHistoryNavigationViewController"
 	}, {
 		"title": "Sapporo",
-		"category": "ui",
+		"category": "uicollectionview",
 		"description": "A cellmodel-driven CollectionView manager for Swift.",
 		"homepage": "https://github.com/nghialv/Sapporo"
 	}, {
@@ -3353,7 +3357,7 @@
 		"homepage": "https://github.com/EndouMari/TabPageViewController"
 	}, {
 		"title": "TagCellLayout",
-		"category": "ui",
+		"category": "uicollectionview",
 		"description": "UICollectionView layout for Tags with Left, Center & Right alignments.",
 		"homepage": "https://github.com/riteshhgupta/TagCellLayout"
 	}, {

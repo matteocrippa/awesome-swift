@@ -1167,7 +1167,7 @@
 	}, {
 		"title": "SugarRecord",
 		"category": "core-data",
-		"description": "Helps with CoreCata and Realm.",
+		"description": "Helps with Core Data and Realm.",
 		"homepage": "https://github.com/carambalabs/SugarRecord"
 	}, {
 		"title": "SuperRecord",

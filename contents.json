@@ -835,6 +835,11 @@
 		"description": "Elegant URL Routing for Swift.",
 		"homepage": "https://github.com/devxoul/URLNavigator"
 	}, {
+		"title": "ReplaceAnimation",
+		"category": "UICollectionView",
+		"description": "Pull-to-refresh animation in UICollectionView with a sticky header flow layout, written in Swift 🔶",
+		"homepage": "https://github.com/fruitcoder/ReplaceAnimation"
+	}, {
 		"title": "InAppFw",
 		"category": "app-store",
 		"description": "In App Purchase Manager framework.",

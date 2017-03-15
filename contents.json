@@ -836,7 +836,7 @@
 		"homepage": "https://github.com/devxoul/URLNavigator"
 	}, {
 		"title": "ReplaceAnimation",
-		"category": "UICollectionView",
+		"category": "uicollectionview",
 		"description": "Pull-to-refresh animation in UICollectionView with a sticky header flow layout, written in Swift 🔶",
 		"homepage": "https://github.com/fruitcoder/ReplaceAnimation"
 	}, {

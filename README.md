@@ -402,7 +402,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [JustPersist](https://github.com/justeat/JustPersist) - JustPersist is the easiest and safest way to do persistence on iOS with Core Data support out of the box.
 * [QueryKit](https://github.com/QueryKit/QueryKit) - An easy way to play with Core Data filtering.
 * [Skopelos](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data.
-* [SugarRecord](https://github.com/carambalabs/SugarRecord) - Helps with CoreCata and Realm.
+* [SugarRecord](https://github.com/carambalabs/SugarRecord) - Helps with Core Data and Realm.
 * [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with Core Data a bit easier.
 
 #### JSON

@@ -741,7 +741,7 @@
 		"homepage": "https://github.com/collinhundley/Swift-AI"
 	},{
 		"title": "CenteredCollectionView",
-		"category": "UICollectionView",
+		"category": "uicollectionview",
 		"description": "A lightweight CollectionView that 'pages' and centers it's cells 🎡 written in Swift.",
 		"homepage": "https://github.com/BenEmdon/CenteredCollectionView"
 	},{

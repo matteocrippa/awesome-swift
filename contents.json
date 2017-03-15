@@ -4448,7 +4448,7 @@
 		"category": "misc",
 		"description": "A command line tool for generating a Swift REST API from a Swagger spec based off Stencil templates",
 		"homepage": "https://github.com/yonaskolb/SwagGen",
-		"tags": ["swagger", "swift", "CI", "generator", "template", "open-api"]
+		"tags": ["linux", "swagger", "swift", "CI", "generator", "template", "open-api"]
   	},
   {
     "title": "Swift 3 VIPER Module Template",

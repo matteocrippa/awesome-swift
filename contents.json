@@ -4503,6 +4503,12 @@
 		"category": "ui",
 		"description": "A customizable range slider like a UISlider for iOS.",
 		"homepage": "https://github.com/WorldDownTown/RangeSeekSlider"
-	}
+  }, {
+        	"title": "CHIPageControl",
+		"category": "pagination",
+		"description": "A set of cool animated page controls to replace boring UIPageControl.",
+		"homepage": "https://github.com/ChiliLabs/CHIPageControl",
+	  	"tags": ["iOS", "swift", "pagination", "animation", "pagecontrol", "UIPageControl"]
+  }
 ]
 }

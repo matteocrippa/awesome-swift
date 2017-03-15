@@ -744,6 +744,11 @@
 		"description": "An artificial intelligence and machine learning library in Swift.",
 		"homepage": "https://github.com/collinhundley/Swift-AI"
 	},{
+		"title": "CenteredCollectionView",
+		"category": "uicollectionview",
+		"description": "A lightweight CollectionView that 'pages' and centers it's cells 🎡 written in Swift.",
+		"homepage": "https://github.com/BenEmdon/CenteredCollectionView"
+	},{
 		"title": "Stellar",
 		"category": "animation",
 		"description": "A Physical animation library for swift.",

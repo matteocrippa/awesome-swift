@@ -129,6 +129,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Tab](#tab)
     - [TextField](#textfield)
     - [Transition](#transition)
+    - [UICollectionView](#uicollectionview)
     - [UITableView](#uitableview)
     - [Walkthrough](#walkthrough)
   - [Utility](#utility)
@@ -1027,7 +1028,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CostumeKit](https://github.com/jakemarsh/CostumeKit) - Base types for theming an app.
 * [CustomSegue](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects.
 * [Dodo](https://github.com/marketplacer/Dodo) - A message bar for iOS written in Swift.
-* [Drag and Drop UICollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews (in Swift).
 * [DropDown](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS written in Swift.
 * [Element](https://github.com/eonist/Element) - Programmatic UI framework for macOS.
 * [EPShapes](https://github.com/ipraba/EPShapes) - Create shapes(Polygons, Stars, Hearts, Arrows) in Interface builder.
@@ -1078,7 +1078,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Reel search](https://github.com/Ramotion/reel-search) - Option list managed as a reel.
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Easily add fun, multi-colored confetti to your app.
 * [SAHistoryNavigationViewController](https://github.com/marty-suzuki/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller.
-* [Sapporo](https://github.com/nghialv/Sapporo) - A cellmodel-driven CollectionView manager for Swift.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written in Swift.
 * [SMSwipeableTabView](https://github.com/smahajan28/SMSwipeableTabView) - SMSwipeableTabView is a custom control which is mixture of UIPageViewController and Scrollable Tab Bar. This is similar to Swipe view with tabs alyout in android. Any number of tabs can be added along with the swipeable views. Fully customizable control.
 * [Sonar](https://github.com/thefuntasty/Sonar) - Cool radar-style view
@@ -1088,7 +1087,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SurfingRefreshControl](https://github.com/peiweichen/SurfingRefreshControl) - Customizable pull-to-refresh control.
 * [SwiftTheme](https://github.com/jiecao-fm/SwiftTheme) - Powerful theme/skin manager for iOS 7+, written in swift.
 * [SYBlinkAnimationKit](https://github.com/shoheiyokoyama/SYBlinkAnimationKit) - A blink effect animation framework.
-* [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
 * [TagListView](https://github.com/ElaWorkshop/TagListView) - Simple but highly customizable iOS tag list view.
 * [TemplateKit](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces in Swift.
 * [Toaster](https://github.com/devxoul/Toaster) - Toast for Swift.
@@ -1272,6 +1270,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
 * [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) - Transition animation to crumble view-controller into tiny pieces.
 * [TransitionManager](https://github.com/cemolcay/TransitionManager) - Painless custom transitioning. Easy extend, easy setup, just focus on animations.
+
+#### UICollectionView
+[back to top](#readme) 
+
+* [Drag and Drop UICollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews (in Swift).
+* [Sapporo](https://github.com/nghialv/Sapporo) - A cellmodel-driven CollectionView manager for Swift.
+* [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
 
 #### UITableView
 [back to top](#readme) 

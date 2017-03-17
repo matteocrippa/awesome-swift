@@ -4534,6 +4534,12 @@
 			"description": "Swift UIView for sliding text with page indicator.",
 			"homepage": "https://github.com/dnKaratzas/SlidingText",
 			"tags": ["iOS", "swift", "label", "animation", "pagecontrol", "indicator", "UIView", "sliding"]
-		}
+  }, {
+	  	"title": "ReverseExtension",
+	  	"category": "uitableview",
+	  	"description": "UITableView extension that enables the insertion of cells the from bottom of tableView.",
+	  	"homepage": "https://github.com/marty-suzuki/ReverseExtension",
+	  	"tags": ["iOS", "swift", "UITableView"]
+  }
 ]
 }

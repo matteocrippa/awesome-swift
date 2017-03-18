@@ -50,6 +50,9 @@
 		"title": "Benchmark",
 		"id": "benchmark"
 	}, {
+		"title": "Converters",
+		"id": "converters"
+	}, {
 		"title": "Demo Apps",
 		"id": "demo-apps",
 		"description": "Check out apps on these projects:"
@@ -4379,6 +4382,12 @@
 	 "category": "benchmark",
 	 "description": "Command line utility to profile compilation time of Swift project.",
 	 "homepage": "https://github.com/giginet/xcprofiler"
+ 	}, {
+	 "title": "Swiftify",
+	 "category": "converters",
+	 "description": "Objective-C to Swift online code converter and Xcode extension.",
+	 "homepage": "https://objectivec2swift.com",
+	 "tags": ["extensions", "ios", "macos", "objective-c", "swift"]
  	}, {
 		"title": "LocalizationKit",
 		"category": "localization",

@@ -822,6 +822,11 @@
 		"description": "A library to simplify iOS animations in Swift.",
 		"homepage": "https://github.com/MengTo/Spring"
 	}, {
+		"title": "spruce-ios",
+		"category": "animation",
+		"description": "Swift library for choreographing animations on the screen.",
+		"homepage": "https://github.com/willowtreeapps/spruce-ios"
+	}, {
 		"title": "Walker",
 		"category": "animation",
 		"description": "An animation engine to make your animations easy and more readable.",

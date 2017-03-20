@@ -3764,6 +3764,11 @@
 		"description": "Easier way to represent the structure of UITableView.",
 		"homepage": "https://github.com/yukiasai/Shoyu"
 	}, {
+		"title": "YNExpandableCell",
+		"category": "uitableview",
+		"description": "Awesome expandable, collapsible tableview cell for iOS written in Swift 3",
+		"homepage": "https://github.com/younatics/YNExpandableCell"
+	}, {
 		"title": "Alexandria",
 		"category": "utility",
 		"description": "A large set of convenience extensions for UIKit and Foundation.",

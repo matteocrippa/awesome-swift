@@ -2389,10 +2389,10 @@
 		"description": "Socket.io iOS and OSX Client.",
 		"homepage": "https://github.com/ricardopereira/SocketIO-Kit"
 	}, {
-		"title": "Socks",
+		"title": "sockets",
 		"category": "socket",
 		"description": "Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.",
-		"homepage": "https://github.com/vapor/Socks",
+		"homepage": "https://github.com/vapor/sockets",
 		"tags": ["linux"]
 	}, {
 		"title": "Starscream",

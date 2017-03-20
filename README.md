@@ -256,7 +256,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Libs to help with animation* [back to top](#readme) 
 
 * [Advance](https://github.com/storehouse/Advance) - A powerful animation framework for iOS.
-* [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) :penguin: - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
+* [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) :penguin: - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without affecting your existing code.
 * [Animo](https://github.com/eure/Animo) - SpriteKit-like animation builders for CALayers.
 * [Cheetah](https://github.com/suguru/Cheetah) - An animation library on iOS with Swift 2.
 * [Dance](https://github.com/saoudrizwan/Dance) - A radical & elegant animation library built for iOS.

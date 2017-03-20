@@ -4457,7 +4457,7 @@
 	}, {
 		"title": "AnimatedCollectionViewLayout",
 		"category": "animation",
-		"description": "A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.",
+		"description": "A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without affecting your existing code.",
 		"homepage": "https://github.com/KelvinJin/AnimatedCollectionViewLayout",
 		"tags": ["linux", "iOS", "swift", "uicollectionview", "animation"]
 	}, {

@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-782-orange.svg) | March 17, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-785-orange.svg) | March 20, 2017
 
 ### Contributing
 
@@ -27,6 +27,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Emacs](#emacs)
   - [Vim](#vim)
 - [Benchmark](#benchmark)
+- [Converters](#converters)
 - [Demo Apps](#demo-apps)
 - [Dependency Managers](#dependency-managers)
 - [Patterns](#patterns)
@@ -203,6 +204,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Benchmark](https://github.com/WorldDownTown/Benchmark) - The Benchmark module provides methods to measure and report the time used to execute Swift code.
 * [xcprofiler](https://github.com/giginet/xcprofiler) - Command line utility to profile compilation time of Swift project.
+
+## Converters
+
+* [Swiftify](https://objectivec2swift.com) - Objective-C to Swift online code converter and Xcode extension.
 
 ## Demo Apps
 *Check out apps on these projects:* 
@@ -848,7 +853,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [BlueSocket](https://github.com/IBM-Swift/BlueSocket) :penguin: - IBM's low level socket framework.
 * [Socket.IO](https://github.com/socketio/socket.io-client-swift) :penguin: - Socket.IO client for iOS/OS X.
 * [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
-* [Socks](https://github.com/vapor/Socks) :penguin: - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.
+* [sockets](https://github.com/vapor/sockets) :penguin: - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X.
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX.
 * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple TCP socket library.
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library for swift.
@@ -1030,6 +1035,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Dodo](https://github.com/marketplacer/Dodo) - A message bar for iOS written in Swift.
 * [DropDown](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS written in Swift.
 * [Element](https://github.com/eonist/Element) - Programmatic UI framework for macOS.
+* [Elissa](https://github.com/KitchenStories/Elissa) - Elissa displays a notification on top of a UITabBarItem or any UIView anchor view to reveal additional information.
 * [EPShapes](https://github.com/ipraba/EPShapes) - Create shapes(Polygons, Stars, Hearts, Arrows) in Interface builder.
 * [EstMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) - Music play indicator like iTunes
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController) - :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages.
@@ -1291,6 +1297,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 * [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension) - UITableView extension that enables the insertion of cells the from bottom of tableView.
 * [Shoyu](https://github.com/yukiasai/Shoyu) - Easier way to represent the structure of UITableView.
+* [YNExpandableCell](https://github.com/younatics/YNExpandableCell) - Awesome expandable, collapsible tableview cell for iOS written in Swift 3
 
 #### Walkthrough
 [back to top](#readme) 

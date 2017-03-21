@@ -4565,6 +4565,12 @@
   		"description": "Elissa displays a notification on top of a UITabBarItem or any UIView anchor view to reveal additional information.",
   		"homepage": "https://github.com/KitchenStories/Elissa",
   		"tags": ["iOS", "Swift", "UITabBar", "popup", "UIView", "anchor", "UITabBarItem", "Notification"]	
+  }, {
+  		"title": "GrowingTextView",
+  		"category": "ui",
+  		"description": "An UITextView in Swift3 and Swift2.3. Support auto growing, placeholder and length limit.",
+  		"homepage": "https://github.com/KennethTsang/GrowingTextView",
+  		"tags": ["uitextview", "growing", "placeholder", "growingtextview", "swift", "chat", "messaging"]
   }	
 ]
 }

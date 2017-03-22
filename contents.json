@@ -4455,7 +4455,7 @@
 	        "homepage": "https://github.com/NicolaLancellotti-About/About-Swift"
 	}, {
         	"title": "Telegram Bot SDK",
-	        "category": "bot",
+	        "category": "bots",
         	"description": "Telegram Bot SDK for Swift (unofficial)",
 	        "homepage": "https://github.com/zmeyc/telegram-bot-swift",
 		"tags": ["linux","iOS", "swift", "bot", "telegram"]

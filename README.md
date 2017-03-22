@@ -322,6 +322,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Bots
 *Libs to build bot* [back to top](#readme) 
 
+* [Telegram Bot SDK](https://github.com/zmeyc/telegram-bot-swift) :penguin: - Telegram Bot SDK for Swift (unofficial)
 
 ### Cache
 [back to top](#readme) 

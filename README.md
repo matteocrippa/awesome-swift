@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-787-orange.svg) | March 21, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-787-orange.svg) | March 22, 2017
 
 ### Contributing
 
@@ -41,7 +41,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [App Store](#app-store)
   - [Audio](#audio)
   - [Authentication](#authentication)
-  - [Bots](#bot)
+  - [Bots](#bots)
   - [Cache](#cache)
   - [Chart](#chart)
   - [Chat](#chat)
@@ -92,12 +92,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Logging](#logging)
   - [Maps](#maps)
   - [Math](#math)
+  - [Natural Language Processing](#natural-language-processing)
   - [Network](#network)
     - [HTML](#html)
     - [Messaging Protocol](#messaging-protocol)
     - [Socket](#socket)
     - [Webserver](#webserver)
-  - [Natural Language Processing](#nlp)
   - [OCR](#ocr)
   - [PDF](#pdf)
   - [Quality](#quality)
@@ -105,7 +105,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Security](#security)
     - [Cryptography](#cryptography)
     - [Keychain](#keychain)
-    - [TouchID](#touchid)
   - [Streaming](#streaming)
   - [System](#system)
   - [Testing](#testing)
@@ -323,7 +322,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Bots
 *Libs to build bot* [back to top](#readme) 
 
-* [Telegram Bot SDK](https://github.com/zmeyc/telegram-bot-swift) :penguin: - Telegram Bot SDK for Swift (unofficial)
 
 ### Cache
 [back to top](#readme) 
@@ -806,6 +804,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [swix](https://github.com/stsievert/swix) - A general matrix language.
 * [Upsurge](https://github.com/aleph7/Upsurge) - Simple and fast matrix and vector math for Swift.
 
+### Natural Language Processing
+[back to top](#readme) 
+
+* [CoreLinguistics](https://github.com/rxwei/CoreLinguistics) - Natural Language Processing (NLP) toolkit.
+
 ### Network
 *A list of libs that allow you to decrease the amount of time spent dealing with http requests.* [back to top](#readme) 
 
@@ -886,11 +889,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [XcodeServerSDK](https://github.com/buildasaurs/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 * [Zewo](https://github.com/Zewo/Zewo) :penguin: - Server-Side Swift.
 
-### Natural Language Processing
-[back to top](#readme) 
-
-* [CoreLinguistics](https://github.com/rxwei/CoreLinguistics) - Natural Language Processing (NLP) toolkit.
-
 ### OCR
 [back to top](#readme) 
 
@@ -938,10 +936,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Latch](https://github.com/DanToml/Latch) - A simple Swift Keychain Wrapper for iOS.
 * [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the iOS Keychain in Swift.
 * [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - a simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.
-
-#### TouchID
-[back to top](#readme) 
-
 
 ### Streaming
 [back to top](#readme) 

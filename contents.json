@@ -4181,6 +4181,11 @@
 		"description": "Versions tracker for your iOS, OS X, and tvOS app.",
 		"homepage": "https://github.com/tbaranes/VersionTrackerSwift"
 	}, {
+		"title": "Guigna",
+		"category": "version-manager",
+		"description": "Prototype of a universal GUI supporting Homebrew, MacPorts, Fink, pkgsrc.",
+		"homepage": "https://github.com/gui-dos/Guigna"
+	}, {
 		"title": "Live",
 		"category": "streaming",
 		"description": "Demonstrate how to build a live broadcast app.",

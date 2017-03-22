@@ -116,11 +116,11 @@
 		"description": "Quick libs to get access to third party API services"
 	}, {
 		"title": "Natural Language Processing",
-		"id": "nlp",
+		"id": "natural-language-processing",
 		"parent": "libs"
 	}, {
 		"title": "Bots",
-		"id": "bot",
+		"id": "bots",
 		"parent": "libs",
 		"description": "Libs to build bot"
 	}, {
@@ -380,10 +380,6 @@
 	}, {
 		"title": "Keychain",
 		"id": "keychain",
-		"parent": "security"
-	}, {
-		"title": "TouchID",
-		"id": "touchid",
 		"parent": "security"
 	}, {
 		"title": "Sensors",
@@ -3900,7 +3896,7 @@
 		"homepage": "https://github.com/austinzheng/Cormorant"
 	}, {
 		"title": "CoreLinguistics",
-		"category": "nlp",
+		"category": "natural-language-processing",
 		"description": "Natural Language Processing (NLP) toolkit.",
 		"homepage": "https://github.com/rxwei/CoreLinguistics"
 	}, {

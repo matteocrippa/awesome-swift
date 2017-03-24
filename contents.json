@@ -2081,6 +2081,11 @@
 		"description": "TinyConstraints is the syntactic sugar that makes Auto Layout sweeter for human use.",
 		"homepage": "https://github.com/roberthein/TinyConstraints"
 	}, {
+		"title": "Transition",
+		"category": "transition",
+		"description": "Easy interactive interruptible custom ViewController transitions.",
+		"homepage": "https://github.com/Touchwonders/Transition"
+	}, {
 		"title": "BartyCrouch",
 		"category": "localization",
 		"description": "Incrementally update/translate your Strings files from Code and Storyboards/XIBs.",

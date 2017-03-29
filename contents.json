@@ -4572,6 +4572,11 @@
   		"description": "An UITextView in Swift3 and Swift2.3. Support auto growing, placeholder and length limit.",
   		"homepage": "https://github.com/KennethTsang/GrowingTextView",
   		"tags": ["uitextview", "growing", "placeholder", "growingtextview", "swift", "chat", "messaging"]
-  }	
+  }	, {
+		"title": "SwiftySound",
+		"category": "audio",
+		"description": "Swifty Sound is a simple library that lets you play sounds with a single line of code.",
+		"homepage": "https://github.com/adamcichy/SwiftySound"
+	}
 ]
 }

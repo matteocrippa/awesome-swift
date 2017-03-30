@@ -4583,6 +4583,12 @@
   		"description": "SpriteKit Floating Bubble Picker (inspired by Apple Music)",
   		"homepage": "https://github.com/efremidze/Magnetic",
   		"tags": ["spritekit", "floating", "bubble", "picker", "applemusic", "swift"]
+  }, {
+	  	"title": "AlamofireReactiveExtensions",
+	  	"category": "network",
+	  	"description": "Extensions that allow the use of ReactiveSwift with Alamofire",
+	  	"homepage": "https://github.com/gkaimakas/AlamofireReactiveExtensions",
+	  	"tags": ["alamofire", "reactive", "extension","reactiveswift", "reactivecocoa", "functional", "network", "request"]
   }
 ]
 }

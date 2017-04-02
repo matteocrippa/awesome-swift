@@ -4583,6 +4583,12 @@
   		"description": "SpriteKit Floating Bubble Picker (inspired by Apple Music)",
   		"homepage": "https://github.com/efremidze/Magnetic",
   		"tags": ["spritekit", "floating", "bubble", "picker", "applemusic", "swift"]
+  }, {
+  		"title": "AmazingBubbles",
+  		"category": "ui",
+  		"description": "Apple Music like Bubble Picker using Dynamic Animation (faster / more lightweight than SpriteKit)",
+  		"homepage": "https://github.com/GlebRadchenko/AmazingBubbles",
+  		"tags": ["swift", "applemusic", "uikitdynamics", "bubblepicker", "applemusic"]
   }
 ]
 }

@@ -4565,7 +4565,7 @@
   		"category": "ui",
   		"description": "Elissa displays a notification on top of a UITabBarItem or any UIView anchor view to reveal additional information.",
   		"homepage": "https://github.com/KitchenStories/Elissa",
-  		"tags": ["iOS", "Swift", "UITabBar", "popup", "UIView", "anchor", "UITabBarItem", "Notification"]	
+  		"tags": ["iOS", "Swift", "UITabBar", "popup", "UIView", "anchor", "UITabBarItem", "Notification"]
   }, {
   		"title": "GrowingTextView",
   		"category": "ui",
@@ -4589,6 +4589,11 @@
   		"description": "Apple Music like Bubble Picker using Dynamic Animation (faster / more lightweight than SpriteKit)",
   		"homepage": "https://github.com/GlebRadchenko/AmazingBubbles",
   		"tags": ["swift", "applemusic", "uikitdynamics", "bubblepicker", "applemusic"]
-  }
+  }, {
+		"title": "Thingy",
+		"category": "device",
+		"description": "Device detection and querying library.",
+		"homepage": "https://github.com/bojan/Thingy"
+	}
 ]
 }

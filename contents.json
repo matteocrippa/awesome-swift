@@ -4589,6 +4589,12 @@
   		"description": "Apple Music like Bubble Picker using Dynamic Animation (faster / more lightweight than SpriteKit)",
   		"homepage": "https://github.com/GlebRadchenko/AmazingBubbles",
   		"tags": ["swift", "applemusic", "uikitdynamics", "bubblepicker", "applemusic"]
+  }, {
+  		"title": "AsyncNinja",
+  		"category": "concurrency",
+  		"description": "A complete set of concurrency and reactive programming primitives.",
+  		"homepage": "https://github.com/AsyncNinja/AsyncNinja",
+  		"tags": ["swift", "concurrency", "future", "channel", "async", "functional", "reactive"]
   }
 ]
 }

@@ -4589,6 +4589,11 @@
   		"description": "Apple Music like Bubble Picker using Dynamic Animation (faster / more lightweight than SpriteKit)",
   		"homepage": "https://github.com/GlebRadchenko/AmazingBubbles",
   		"tags": ["swift", "applemusic", "uikitdynamics", "bubblepicker", "applemusic"]
-  }
+  },{
+		"title": "DTTextField",
+		"category": "textfield",
+		"description": "DTTextField is a UITextField library with floating placeholder and error",
+		"homepage": "https://github.com/iDhaval/DTTextField"
+	}
 ]
 }

@@ -740,7 +740,7 @@
 	},{
 		"title": "MLKit",
 		"category": "ai",
-		"description": "A simple machine learning framework written in Swift 🤖",
+		"description": "A simple machine learning framework.",
 		"homepage": "https://github.com/Somnibyte/MLKit"
 	},{
 		"title": "Swift-AI",

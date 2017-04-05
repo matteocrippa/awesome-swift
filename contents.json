@@ -737,7 +737,12 @@
 		"category": "ai",
 		"description": "The iOS and OS X neural network framework",
 		"homepage": "https://github.com/aleph7/BrainCore"
-	}, {
+	},{
+		"title": "MLKit",
+		"category": "ai",
+		"description": "A simple machine learning framework.",
+		"homepage": "https://github.com/Somnibyte/MLKit"
+	},{
 		"title": "Swift-AI",
 		"category": "ai",
 		"description": "An artificial intelligence and machine learning library in Swift.",

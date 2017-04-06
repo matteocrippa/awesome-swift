@@ -4600,6 +4600,12 @@
   		"description": "A complete set of concurrency and reactive programming primitives.",
   		"homepage": "https://github.com/AsyncNinja/AsyncNinja",
   		"tags": ["swift", "concurrency", "future", "channel", "async", "functional", "reactive"]
+  }, {
+  		"title": "EFQRCode",
+  		"category": "barcode",
+  		"description": "A better way to operate quick response code in Swift.",
+  		"homepage": "https://github.com/EyreFree/EFQRCode",
+  		"tags": ["swift", "qrcode", "barcode", "generator", "recognizer"]
   }
 ]
 }

@@ -745,8 +745,8 @@
 	},{
 		"title": "Swift-AI",
 		"category": "ai",
-		"description": "An artificial intelligence and machine learning library in Swift.",
-		"homepage": "https://github.com/collinhundley/Swift-AI"
+		"description": "The machine learning library.",
+		"homepage": "https://github.com/Swift-AI/Swift-AI"
 	},{
 		"title": "CenteredCollectionView",
 		"category": "uicollectionview",
@@ -4570,7 +4570,7 @@
   		"category": "ui",
   		"description": "Elissa displays a notification on top of a UITabBarItem or any UIView anchor view to reveal additional information.",
   		"homepage": "https://github.com/KitchenStories/Elissa",
-  		"tags": ["iOS", "Swift", "UITabBar", "popup", "UIView", "anchor", "UITabBarItem", "Notification"]	
+  		"tags": ["iOS", "Swift", "UITabBar", "popup", "UIView", "anchor", "UITabBarItem", "Notification"]
   }, {
   		"title": "GrowingTextView",
   		"category": "ui",

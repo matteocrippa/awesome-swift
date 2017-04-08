@@ -4611,6 +4611,11 @@
 		"category": "ui",
 		"description": "LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.",
 		"homepage": "https://github.com/IcaliaLabs/LoginKit"
-	}
+  }, {
+		"title": "SwiftSpreadsheet",
+		"category": "uicollectionview",
+		"description": "Spreadsheet CollectionViewLayout in Swift. Fully customizable.",
+		"homepage": "https://github.com/stuffrabbit/SwiftSpreadsheet"
+  }
 ]
 }

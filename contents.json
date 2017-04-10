@@ -4616,6 +4616,11 @@
 		"category": "uicollectionview",
 		"description": "A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.",
 		"homepage": "https://github.com/pitiphong-p/CollectionViewShelfLayout"
+  }, {
+		"title": "SwiftSpreadsheet",
+		"category": "uicollectionview",
+		"description": "Spreadsheet CollectionViewLayout in Swift. Fully customizable.",
+		"homepage": "https://github.com/stuffrabbit/SwiftSpreadsheet"
   }
 ]
 }

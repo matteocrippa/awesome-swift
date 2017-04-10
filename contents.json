@@ -4232,6 +4232,11 @@
 			"description": "A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.",
 			"homepage": "https://github.com/PiXeL16/PasswordTextField"
 	},{
+			"title": "DTTextField",
+			"category": "textfield",
+			"description": "DTTextField is a custom textfield with floating placeholder and error label",
+			"homepage": "https://github.com/iDhaval/DTTextField"
+	},{
 			"title": "RevealingSplashView",
 			"category": "transition",
 			"description": "A Splash view that animates and reveals its content, inspired by the Twitter splash.",

@@ -272,6 +272,11 @@
     "parent": "libs",
     "description": "A category dedicated to hardware related libs"
   }, {
+    "title": "Haptic Feedback",
+    "id": "haptic",
+    "parent": "hardware",
+    "description": "Libraries that agevolte the use of Haptic Feedback"
+  },{
     "title": "iBeacon",
     "id": "ibeacon",
     "parent": "hardware",

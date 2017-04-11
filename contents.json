@@ -4626,6 +4626,11 @@
 		"category": "uicollectionview",
 		"description": "Spreadsheet CollectionViewLayout in Swift. Fully customizable.",
 		"homepage": "https://github.com/stuffrabbit/SwiftSpreadsheet"
+  }, {
+		"title": "TapticEngine",
+		"category": "",
+		"description": "TapticEngine generates haptic feedback vibrations on iOS device.",
+		"homepage": "https://github.com/WorldDownTown/TapticEngine"
   }
 ]
 }

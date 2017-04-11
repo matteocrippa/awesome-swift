@@ -79,6 +79,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Bluetooth](#bluetooth)
     - [Camera](#camera)
       - [Barcode](#barcode)
+    - [Haptic Feedback](#haptic)
     - [iBeacon](#ibeacon)
     - [Sensors](#sensors)
   - [Images](#images)
@@ -664,6 +665,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner view controller.
 * [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate quick response code in Swift.
 * [QRCodeReader.swift](https://github.com/yannickl/QRCodeReader.swift) - Simple QRCode reader in Swift
+
+#### Haptic Feedback
+*Libraries that agevolte the use of Haptic Feedback* [back to top](#readme) 
+
 
 #### iBeacon
 *Interested in using iBeacon in your Swift project? Here some interesting resources.* [back to top](#readme) 

@@ -499,6 +499,17 @@
     "id": "transition",
     "parent": "ui"
   }, {
+		"title": "SwiftSpreadsheet",
+		"category": "uicollectionview",
+		"description": "Spreadsheet CollectionViewLayout in Swift. Fully customizable.",
+		"homepage": "https://github.com/stuffrabbit/SwiftSpreadsheet"
+  }, {
+		"title": "TapticEngine",
+		"category": "haptic",
+		"description": "TapticEngine generates haptic feedback vibrations on iOS device.",
+		"homepage": "https://github.com/WorldDownTown/TapticEngine"
+  },
+  {
     "title": "UICollectionView",
     "id": "uicollectionview",
     "parent": "ui"

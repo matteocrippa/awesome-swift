@@ -275,7 +275,7 @@
     "title": "Haptic Feedback",
     "id": "haptic",
     "parent": "hardware",
-    "description": "Libraries that agevolte the use of Haptic Feedback"
+    "description": "Libraries that involve the use of Haptic Feedback"
   },{
     "title": "iBeacon",
     "id": "ibeacon",

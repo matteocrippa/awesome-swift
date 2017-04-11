@@ -498,18 +498,7 @@
     "title": "Transition",
     "id": "transition",
     "parent": "ui"
-  }, {
-		"title": "SwiftSpreadsheet",
-		"category": "uicollectionview",
-		"description": "Spreadsheet CollectionViewLayout in Swift. Fully customizable.",
-		"homepage": "https://github.com/stuffrabbit/SwiftSpreadsheet"
-  }, {
-		"title": "TapticEngine",
-		"category": "haptic",
-		"description": "TapticEngine generates haptic feedback vibrations on iOS device.",
-		"homepage": "https://github.com/WorldDownTown/TapticEngine"
-  },
-  {
+ }, {
     "title": "UICollectionView",
     "id": "uicollectionview",
     "parent": "ui"
@@ -4647,6 +4636,11 @@
       "description": "Monitor changes to files and directories using kernel event notifications (kqueue) in Swift.",
       "homepage": "https://github.com/daniel-pedersen/SKQueue",
       "tags": ["swift", "kqueue", "monitor", "filesystem", "files", "directories", "watcher"]
+    }, {
+  		"title": "TapticEngine",
+  		"category": "haptic",
+  		"description": "TapticEngine generates haptic feedback vibrations on iOS device.",
+  		"homepage": "https://github.com/WorldDownTown/TapticEngine"
     }
   ]
 }

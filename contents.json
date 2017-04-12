@@ -4641,6 +4641,11 @@
   		"category": "haptic",
   		"description": "TapticEngine generates haptic feedback vibrations on iOS device.",
   		"homepage": "https://github.com/WorldDownTown/TapticEngine"
+    }, {
+      "title": "SwiftyOnboard",
+      "category": "walkthrough",
+      "description": "A swifty iOS framework that allows developers to create beautiful onboarding experiences.",
+      "homepage": "https://github.com/juanpablofernandez/SwiftyOnboard"
     }
   ]
 }

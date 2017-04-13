@@ -620,7 +620,7 @@
     }, {
       "title": "SwiftIntro",
       "category": "third-party-guides",
-      "description": "**Memory game** fetching images from any Instagram account. Lists **tasks** for you to do in order to learn Swift - at three difficulty levels.",
+      "description": "Memory game implementation that also teaches Swift.",
       "homepage": "https://github.com/Sajjon/SwiftIntro"
     }, {
       "title": "Swifty",
@@ -870,7 +870,7 @@
     }, {
       "title": "AudioKit",
       "category": "audio",
-      "description": "Powerful audio synthesis, processing and analysis, *without* the steep learning curve.",
+      "description": "Powerful audio synthesis, processing and analysis, without the steep learning curve.",
       "homepage": "https://github.com/audiokit/AudioKit"
     }, {
       "title": "AudioPlayer",

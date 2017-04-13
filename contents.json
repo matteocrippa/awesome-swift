@@ -558,14 +558,9 @@
       "description": "An organized list of essential Swift Language Topics.",
       "homepage": "https://github.com/hsavit1/Awesome-Swift-Education"
     }, {
-      "title": "Developing iOS 8 Apps with Swift",
+      "title": "Developing iOS Apps with Swift",
       "category": "third-party-guides",
       "description": "Stanford course by Paul Hegarty.",
-      "homepage": "https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099"
-    }, {
-      "title": "Developing iOS 9 Apps with Swift",
-      "category": "third-party-guides",
-      "description": "Stanford course by Paul Hegarty. (Ongoing)",
       "homepage": "https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961"
     }, {
       "title": "Hacking With Swift",

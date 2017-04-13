@@ -588,16 +588,6 @@
       "description": "Reusable examples code.",
       "homepage": "https://github.com/cbutron/Swift"
     }, {
-      "title": "Swift Sandbox Newsletter",
-      "category": "third-party-guides",
-      "description": "Weekly newsletter containing a collection of links to the best Swift code and developer tools. Every Friday. Free.",
-      "homepage": "http://swiftsandbox.io"
-    }, {
-      "title": "Swift-Weekly",
-      "category": "third-party-guides",
-      "description": "Weekly Swift Language Gems, Tips and Tricks.",
-      "homepage": "https://github.com/vandadnp/swift-weekly"
-    }, {
       "title": "Swift Web Weekly",
       "category": "third-party-guides",
       "description": "A free, hand-picked list of the best links for Swift Web Developers, every Monday in your inbox.",
@@ -3443,11 +3433,6 @@
       "category": "alert",
       "description": "Google Wear Alert style.",
       "homepage": "https://github.com/AshRobinson/GoogleWearAlert"
-    }, {
-      "title": "GSAlert",
-      "category": "alert",
-      "description": "If you want to use UIAlertController, but still need to support iOS 7 this project is for you.",
-      "homepage": "https://github.com/wxxsw/GSAlert"
     }, {
       "title": "GSMessage",
       "category": "alert",

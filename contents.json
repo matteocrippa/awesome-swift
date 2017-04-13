@@ -242,7 +242,7 @@
     "title": "Embedded Systems",
     "id": "embedded-systems",
     "parent": "libs",
-    "description": "Build your embedded Linux projects in Swift on a RaspberryPi, BeagleBone, C.H.I.P. and other boards."
+    "description": "Build your embedded Linux projects on a RaspberryPi, BeagleBone, C.H.I.P. and other boards."
   }, {
     "title": "Peripherals",
     "id": "peripherals",
@@ -1281,7 +1281,7 @@
     }, {
       "title": "Argo",
       "category": "json",
-      "description": "Json parsing library.",
+      "description": "JSON parsing library.",
       "homepage": "https://github.com/thoughtbot/Argo"
     }, {
       "title": "Arrow",
@@ -1651,7 +1651,7 @@
     }, {
       "title": "Notificationz",
       "category": "events",
-      "description": "Helping you _own_ `NSNotificationCenter` by providing a simple, customizable adapter.",
+      "description": "Helping you own `NSNotificationCenter` by providing a simple, customizable adapter.",
       "homepage": "https://github.com/SwiftKitz/Notificationz"
     }, {
       "title": "PromiseKit",
@@ -2248,7 +2248,7 @@
     }, {
       "title": "agent",
       "category": "network",
-      "description": "http request agent.",
+      "description": "HTTP request agent.",
       "homepage": "https://github.com/hallas/agent"
     }, {
       "title": "Alamofire",
@@ -2325,7 +2325,7 @@
     }, {
       "title": "Reachability.swift",
       "category": "network",
-      "description": "A replacement for Apple's Reachability re-written in Swift with closures.",
+      "description": "A replacement for Apple's Reachability with closures.",
       "homepage": "https://github.com/ashleymills/Reachability.swift"
     }, {
       "title": "ResponseDetective",
@@ -2974,7 +2974,7 @@
     }, {
       "title": "Drag and Drop UICollectionView",
       "category": "uicollectionview",
-      "description": "Dragging and Dropping data across multiple UICollectionViews (in Swift).",
+      "description": "Dragging and Dropping data across multiple UICollectionViews.",
       "homepage": "https://github.com/mmick66/KDDragAndDropCollectionView"
     }, {
       "title": "Dodo",
@@ -3315,7 +3315,7 @@
     }, {
       "title": "SKPhotoBrowser",
       "category": "ui",
-      "description": "Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written.",
+      "description": "Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers.",
       "homepage": "https://github.com/suzuki-0000/SKPhotoBrowser"
     }, {
       "title": "Sonar",
@@ -3506,7 +3506,7 @@
     }, {
       "title": "XLActionController",
       "category": "alert",
-      "description": "Fully customizable and extensible action sheet controller written.",
+      "description": "Fully customizable and extensible action sheet controller.",
       "homepage": "https://github.com/xmartlabs/XLActionController"
     }, {
       "title": "MaterialActionSheetController",
@@ -3596,7 +3596,7 @@
     }, {
       "title": "SwiftForms",
       "category": "form",
-      "description": "Forms are now easy as 1.2.3.",
+      "description": "Forms are now easy as 1-2-3.",
       "homepage": "https://github.com/ortuman/SwiftForms"
     }, {
       "title": "SwiftyFORM",
@@ -4123,7 +4123,7 @@
     }, {
       "title": "Player",
       "category": "video",
-      "description": "iOS video player in Swift, simple drop in component for playing and streaming media.",
+      "description": "iOS video player, simple drop in component for playing and streaming media.",
       "homepage": "https://github.com/piemonte/Player"
     }, {
       "title": "PlayerView",
@@ -4475,7 +4475,7 @@
     }, {
       "title": "Telegram Bot SDK",
       "category": "bots",
-      "description": "Telegram Bot SDK (unofficial).",
+      "description": "Unofficial SDK.",
       "homepage": "https://github.com/zmeyc/telegram-bot-swift",
       "tags": ["linux", "iOS", "swift", "bot", "telegram"]
 
@@ -4531,7 +4531,7 @@
     {
       "title": "IGColorPicker",
       "category": "ui",
-      "description": "🎨 A customizable color picker for iOS.",
+      "description": "A customizable color picker for iOS.",
       "homepage": "https://github.com/iGenius-Srl/IGColorPicker",
       "tags": ["iOS", "swift", "color", "color-picker", "picker"]
     },

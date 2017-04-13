@@ -573,10 +573,10 @@
       "description": "Collection of tuts that will help you learn Swift via playground.",
       "homepage": "https://github.com/nettlep/learn-swift"
     }, {
-      "title": "Natasha the Robot",
+      "title": "This Week In Swift",
       "category": "third-party-guides",
-      "description": "Weekly Newsletter on learning Swift.",
-      "homepage": "https://www.natashatherobot.com/"
+      "description": "Weekly Newsletter on Swift.",
+      "homepage": "http://swiftnews.curated.co/"
     }, {
       "title": "Practice Swift",
       "category": "third-party-guides",

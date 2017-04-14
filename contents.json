@@ -550,7 +550,7 @@
     }, {
       "title": "30 Days of Swift",
       "category": "third-party-guides",
-      "description": "A cool 30 days tutorial for Swift.",
+      "description": "A cool 30 days tutorial.",
       "homepage": "https://github.com/allenwong/30DaysofSwift"
     }, {
       "title": "Awesome Swift Education",
@@ -565,7 +565,7 @@
     }, {
       "title": "Hacking With Swift",
       "category": "third-party-guides",
-      "description": "Complete Swift training course that teaches app development through 30 hands-on projects, for free.",
+      "description": "Complete training course that teaches app development through 30 hands-on projects, for free.",
       "homepage": "https://www.hackingwithswift.com"
     }, {
       "title": "Learn Swift",
@@ -685,7 +685,7 @@
     }, {
       "title": "Design-Patterns-In-Swift",
       "category": "patterns",
-      "description": "Design Patterns implemented in Swift.",
+      "description": "Design Patterns.",
       "homepage": "https://github.com/ochococo/Design-Patterns-In-Swift"
     }, {
       "title": "generator-swift-framework",
@@ -3796,7 +3796,7 @@
     }, {
       "title": "Benchmark",
       "category": "benchmark",
-      "description": "Provides methods to measure and report the time used to execute Swift code.",
+      "description": "Provides methods to measure and report the time used to execute code.",
       "homepage": "https://github.com/WorldDownTown/Benchmark"
     }, {
       "title": "PinpointKit",
@@ -4390,7 +4390,7 @@
     {
       "title": "xcprofiler",
       "category": "benchmark",
-      "description": "Command line utility to profile compilation time of Swift projects.",
+      "description": "Command line utility to profile compilation time.",
       "homepage": "https://github.com/giginet/xcprofiler"
     }, {
       "title": "Swiftify",

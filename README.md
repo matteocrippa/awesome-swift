@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-798-orange.svg) | April 14, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-799-orange.svg) | April 14, 2017
 
 ### Contributing
 
@@ -782,6 +782,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Utilities for writing to and reading from the device log* [back to top](#readme) 
 
 * [AEConsole](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
+* [Bugfender](https://github.com/bugfender/BugfenderSDK-iOS) - Remotely access your iOS application logs from anywhere in the world.
 * [CleanroomASL](https://github.com/gilt/CleanroomASL) - API for reading from & writing to the Apple System Log.
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - Configurable and extensible high-level logging API that is simple, lightweight and performant.
 * [Dotzu](https://github.com/remirobert/Dotzu) - Debbuger tool for iOS developer. Display logs, network request, device informations, crash logs while using the app.

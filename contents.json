@@ -2117,6 +2117,11 @@
       "homepage": "https://github.com/remirobert/Dotzu",
       "tags": ["logger", "app", "ios", "crash"]
     }, {
+      "title": "Bugfender",
+      "category": "logging",
+      "description": "Remotely access your iOS application logs from anywhere in the world.",
+      "homepage": "https://github.com/bugfender/BugfenderSDK-iOS"
+    }, {
       "title": "CleanroomASL",
       "category": "logging",
       "description": "API for reading from & writing to the Apple System Log.",

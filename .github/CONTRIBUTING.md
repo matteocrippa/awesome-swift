@@ -38,6 +38,7 @@ When adding new items, please adhere to the following guidelines:
 - New categories, or improvements to the existing categorization are welcome (open an issue).
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
+- The description usually should not include "written in Swift" or "in Swift" as everything on the list would have that.
 - Check your spelling and grammar.
 - The pull request should include a link to the package and why it should be included.
 

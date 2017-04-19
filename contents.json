@@ -2834,7 +2834,7 @@
     }, {
       "title": "Attributed",
       "category": "text",
-      "description": "A Modern interface for attributed strings.",
+      "description": "Modern µframework for attributed strings.",
       "homepage": "https://github.com/Nirma/Attributed"
     }, {
       "title": "SwiftRichString",

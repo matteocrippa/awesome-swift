@@ -988,7 +988,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Apodimark](https://github.com/loiclec/Apodimark) - Fast, flexible markdown parser.
 * [Atributika](https://github.com/psharanda/Atributika) - Easily build NSAttributedString by detecting and styling HTML-like tags, hashtags, mentions, RegExp or NSDataDetector patterns.
-* [Attributed](https://github.com/Nirma/Attributed) - A Modern interface for attributed strings.
+* [Attributed](https://github.com/Nirma/Attributed) - Modern µframework for attributed strings.
 * [AttributedTextView](https://github.com/evermeer/AttributedTextView) - Easiest way to create an attributed UITextView with support for multiple links, hashtags and mentions.
 * [BonMot](https://github.com/Raizlabs/BonMot) - Beautiful, easy attributed strings for iOS.
 * [edhita](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS.

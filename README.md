@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-800-orange.svg) | April 20, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-801-orange.svg) | April 20, 2017
 
 ### Contributing
 
@@ -803,6 +803,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Maps
 [back to top](#readme) 
 
+* [Cluster](https://github.com/efremidze/Cluster) - Easy Map Annotation Clustering.
 * [GEOSwift](https://github.com/andreacremaschi/GEOSwift) - Make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
 
 ### Math

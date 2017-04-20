@@ -4453,6 +4453,12 @@
       "homepage": "https://github.com/bonyadmitr/KeyboardHideManager",
       "tags": ["iOS", "swift", "keyboard"]
     }, {
+      "title": "Typist",
+      "category": "keyboard",
+      "description": "Small, drop-in UIKit keyboard manager for iOS apps-helps manage keyboard's screen presence and behavior without notification center.",
+      "homepage": "https://github.com/totocaster/Typist",
+      "tags": ["iOS", "swift", "keyboard"]
+    }, {
       "title": "Getting Started",
       "category": "official-guides",
       "description": "Find information about the how to use the Swift programming language.",

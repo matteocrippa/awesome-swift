@@ -4642,6 +4642,12 @@
       "category": "walkthrough",
       "description": "An iOS framework that allows developers to create beautiful onboarding experiences.",
       "homepage": "https://github.com/juanpablofernandez/SwiftyOnboard"
+    }, {
+      "title": "Cluster",
+      "category": "maps",
+      "description": "Easy Map Annotation Clustering.",
+      "homepage": "https://github.com/efremidze/Cluster",
+      "tags": ["map", "cluster", "annotations", "swift", "mapkit"]
     }
   ]
 }

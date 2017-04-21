@@ -1771,7 +1771,7 @@
     }, {
       "title": "SwiftIcons",
       "category": "fonts",
-      "description": "Swift Library for Font Icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather.",
+      "description": "Library for Font Icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather.",
       "homepage": "https://github.com/ranesr/SwiftIcons"
     }, {
       "title": "Sage",

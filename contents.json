@@ -1769,6 +1769,11 @@
       "description": "Make working with UIFont faster and less error-prone.",
       "homepage": "https://github.com/Nirma/UIFontComplete"
     }, {
+      "title": "SwiftIcons",
+      "category": "fonts",
+      "description": "Library for Font Icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather.",
+      "homepage": "https://github.com/ranesr/SwiftIcons"
+    }, {
       "title": "Sage",
       "category": "games",
       "description": "A cross-platform chess library.",

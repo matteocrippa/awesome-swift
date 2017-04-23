@@ -4653,6 +4653,12 @@
       "description": "Easy Map Annotation Clustering.",
       "homepage": "https://github.com/efremidze/Cluster",
       "tags": ["map", "cluster", "annotations", "swift", "mapkit"]
+    },{
+      "title": "BMPlayer",
+      "category": "video",
+      "description": "A video player for iOS, based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brigtness and seek by slide.",
+      "homepage": "https://github.com/BrikerMan/BMPlayer",
+      "tags": ["swift", "avplayer", "video-player", "ios-swift", "carthage"]
     }
   ]
 }

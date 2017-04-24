@@ -531,6 +531,10 @@
     "title": "Email",
     "id": "email",
     "parent": "libs"
+  }, {
+    "title": "Scripting",
+    "id": "scripting",
+    "parent": "libs"
   }],
   "projects": [{
       "title": "Apple eBook",

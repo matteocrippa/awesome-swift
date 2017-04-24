@@ -102,6 +102,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [OCR](#ocr)
   - [PDF](#pdf)
   - [Quality](#quality)
+  - [Scripting](#scripting)
   - [SDK](#sdk)
   - [Security](#security)
     - [Cryptography](#cryptography)
@@ -920,6 +921,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce coding conventions.
 * [Swimat](https://github.com/Jintin/Swimat) - Xcode plugin to format code.
 * [Tailor](https://github.com/sleekbyte/tailor) :penguin: - Cross-platform static analyzer that helps you to write cleaner code and avoid bugs.
+
+### Scripting
+[back to top](#readme) 
+
 
 ### SDK
 [back to top](#readme) 

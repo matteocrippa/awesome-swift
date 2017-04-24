@@ -4663,6 +4663,13 @@
       "description": "A video player for iOS, based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brigtness and seek by slide.",
       "homepage": "https://github.com/BrikerMan/BMPlayer",
       "tags": ["swift", "avplayer", "video-player", "ios-swift", "carthage"]
+    },{
+      "title": "Marathon",
+      "category": "scripting",
+      "description": "Easy way to create and manage scripts.",
+      "homepage": "https://github.com/JohnSundell/Marathon",
+      "tags": ["swift", "scripting"]
     }
+
   ]
 }

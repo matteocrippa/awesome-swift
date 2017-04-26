@@ -4669,6 +4669,11 @@
       "description": "Easy way to create and manage scripts.",
       "homepage": "https://github.com/JohnSundell/Marathon",
       "tags": ["swift", "scripting"]
+    }, {
+      "title": "BouncyLayout",
+      "category": "uicollectionview",
+      "description": "Is a collection view layout that makes your cells bounce.",
+      "homepage": "https://github.com/roberthein/BouncyLayout"
     }
 
   ]

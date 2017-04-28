@@ -982,6 +982,11 @@
       "description": "Library that makes it easy to communicate with Bluetooth devices.",
       "homepage": "https://github.com/e-sites/Bluetonium"
     }, {
+      "title": "Bleu",
+      "category": "bluetooth",
+      "description": "BLE (Bluetooth LE) for U",
+      "homepage": "https://github.com/1amageek/Bleu"
+    }, {
       "title": "ALCameraViewController",
       "category": "camera",
       "description": "Camera view controller with custom image picker and image cropping.",

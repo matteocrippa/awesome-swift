@@ -4682,6 +4682,12 @@
       "category": "uicollectionview",
       "description": "Is a collection view layout that makes your cells bounce.",
       "homepage": "https://github.com/roberthein/BouncyLayout"
+    }, {
+      "title": "IBM Swift Sandbox",
+      "category": "repl",
+      "description": "An interactive website that lets you write Swift code and execute it in a server environment – on top of Linux!",
+      "homepage": "https://swift.sandbox.bluemix.net",
+      "tags": ["swift", "repl", "cloud", "docker", "sandbox"]
     }
 
   ]

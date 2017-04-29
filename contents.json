@@ -31,6 +31,9 @@
     "title": "Boilerplates",
     "id": "boilerplates"
   }, {
+    "title": "REPL",
+    "id": "repl"
+  }, {
     "title": "Cache",
     "id": "cache",
     "parent": "libs"

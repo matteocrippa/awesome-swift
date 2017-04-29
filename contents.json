@@ -3435,7 +3435,7 @@
     }, {
       "title": "Alertift",
       "category": "alert",
-      "description": "Swifty, modern UIAlertController wrapper.",
+      "description": "Modern, easy UIAlertController wrapper.",
       "homepage": "https://github.com/sgr-ksmt/Alertift"
     }, {
       "title": "AlertKit",

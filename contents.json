@@ -2681,7 +2681,7 @@
       "title": "Cuckoo",
       "category": "mock",
       "description": "First boilerplate-free mocking framework.",
-      "homepage": "https://github.com/SwiftKit/Cuckoo"
+      "homepage": "https://github.com/Brightify/Cuckoo"
     }, {
       "title": "Kakapo",
       "category": "mock",
@@ -3140,15 +3140,15 @@
       "description": "Notification toasts.",
       "homepage": "https://github.com/devxoul/Toaster"
     }, {
-      "title": "KCHorizontalDial",
+      "title": "HorizontalDial",
       "category": "ui",
       "description": "A horizontal scroll dial like Instagram.",
-      "homepage": "https://github.com/kciter/KCHorizontalDial"
+      "homepage": "https://github.com/kciter/HorizontalDial"
     }, {
-      "title": "KCSelectionDialog",
+      "title": "SelectionDialog",
       "category": "ui",
       "description": "Simple selection dialog.",
-      "homepage": "https://github.com/kciter/KCSelectionDialog"
+      "homepage": "https://github.com/kciter/SelectionDialog"
     }, {
       "title": "KDEDateLabel",
       "category": "label",
@@ -3566,10 +3566,10 @@
       "description": "Hamburger button with a slick animation.",
       "homepage": "https://github.com/fastred/HamburgerButton"
     }, {
-      "title": "KCFloatingActionButton",
+      "title": "Floaty",
       "category": "button",
       "description": "Floating Action Button for iOS.",
-      "homepage": "https://github.com/kciter/KCFloatingActionButton"
+      "homepage": "https://github.com/kciter/Floaty"
     }, {
       "title": "MIBadgeButton",
       "category": "button",
@@ -3644,7 +3644,7 @@
       "title": "Pagemenu",
       "category": "menu",
       "description": "Pagination enabled view controller.",
-      "homepage": "https://github.com/uacaps/PageMenu"
+      "homepage": "https://github.com/PageMenu/PageMenu"
     }, {
       "title": "PagingMenuController",
       "category": "menu",

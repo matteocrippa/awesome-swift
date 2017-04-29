@@ -4693,7 +4693,12 @@
       "description": "An interactive website that lets you write Swift code and execute it in a server environment – on top of Linux!",
       "homepage": "https://swift.sandbox.bluemix.net",
       "tags": ["swift", "repl", "cloud", "docker", "sandbox"]
+    }, {
+      "title": "Haptica",
+      "category": "haptic",
+      "description": "Easy Haptic Feedback Generator.",
+      "homepage": "https://github.com/efremidze/Haptica",
+      "tags": ["haptic", "taptic", "vibrate", "feedback", "swift"]
     }
-
   ]
 }

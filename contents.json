@@ -276,7 +276,7 @@
     "description": "A category dedicated to hardware related libs"
   }, {
     "title": "Haptic Feedback",
-    "id": "haptic",
+    "id": "haptic-feedback",
     "parent": "hardware",
     "description": "Libraries that involve the use of Haptic Feedback"
   },{
@@ -4656,7 +4656,7 @@
       "tags": ["swift", "kqueue", "monitor", "filesystem", "files", "directories", "watcher"]
     }, {
   		"title": "TapticEngine",
-  		"category": "haptic",
+  		"category": "haptic-feedback",
   		"description": "Generates haptic feedback vibrations on iOS device.",
   		"homepage": "https://github.com/WorldDownTown/TapticEngine"
     }, {
@@ -4695,7 +4695,7 @@
       "tags": ["swift", "repl", "cloud", "docker", "sandbox"]
     }, {
       "title": "Haptica",
-      "category": "haptic",
+      "category": "haptic-feedback",
       "description": "Easy Haptic Feedback Generator.",
       "homepage": "https://github.com/efremidze/Haptica",
       "tags": ["haptic", "taptic", "vibrate", "feedback", "swift"]

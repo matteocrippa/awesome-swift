@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-806-orange.svg) | April 29, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-809-orange.svg) | May 01, 2017
 
 ### Contributing
 
@@ -80,7 +80,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Bluetooth](#bluetooth)
     - [Camera](#camera)
       - [Barcode](#barcode)
-    - [Haptic Feedback](#haptic)
+    - [Haptic Feedback](#haptic-feedback)
     - [iBeacon](#ibeacon)
     - [Sensors](#sensors)
   - [Images](#images)
@@ -187,6 +187,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## REPL
 
+* [IBM Swift Sandbox](https://swift.sandbox.bluemix.net) - An interactive website that lets you write Swift code and execute it in a server environment – on top of Linux!
 
 ## Editor Support
 *Support for your favorite editors.* 
@@ -673,6 +674,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Haptic Feedback
 *Libraries that involve the use of Haptic Feedback* [back to top](#readme) 
 
+* [Haptica](https://github.com/efremidze/Haptica) - Easy Haptic Feedback Generator.
 * [TapticEngine](https://github.com/WorldDownTown/TapticEngine) - Generates haptic feedback vibrations on iOS device.
 
 #### iBeacon
@@ -1130,6 +1132,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Alert
 *Libs to display alert, action sheet, notification, popup.* [back to top](#readme) 
 
+* [Alertift](https://github.com/sgr-ksmt/Alertift) - Modern, easy UIAlertController wrapper.
 * [AlertKit](https://github.com/thii/AlertKit) - Alert with a single line of code.
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy UIAlertController.

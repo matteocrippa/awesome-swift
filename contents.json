@@ -4669,7 +4669,13 @@
       "description": "Easy way to create and manage scripts.",
       "homepage": "https://github.com/JohnSundell/Marathon",
       "tags": ["swift", "scripting"]
+    },
+    {
+		  "title": "TextFieldCounter",
+		  "category": "textfield",
+		  "description": "UITextField character counter with lovable UX.",
+		  "homepage": "https://github.com/serralvo/TextFieldCounter",
+		  "tags": ["textfield"]
     }
-
   ]
 }

@@ -187,7 +187,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## REPL
 
-* [IBM Swift Sandbox](https://swift.sandbox.bluemix.net) - An interactive website that lets you write Swift code and execute it in a server environment – on top of Linux!
+* [IBM Swift Sandbox](https://swift.sandbox.bluemix.net) :penguin: - Interactive website that lets you write code and execute it in a server environment.
 
 ## Editor Support
 *Support for your favorite editors.* 
@@ -1310,7 +1310,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### UICollectionView
 [back to top](#readme) 
 
-* [BouncyLayout](https://github.com/roberthein/BouncyLayout) - Is a collection view layout that makes your cells bounce.
+* [BouncyLayout](https://github.com/roberthein/BouncyLayout) - Collection view layout that makes your cells bounce.
 * [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight CollectionView that 'pages' and centers it's cells.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [Drag and Drop UICollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.

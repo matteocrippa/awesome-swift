@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-804-orange.svg) | April 24, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-809-orange.svg) | May 01, 2017
 
 ### Contributing
 
@@ -23,6 +23,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Style Guides](#style-guides)
   - [Third party Guides](#third-party-guides)
 - [Boilerplates](#boilerplates)
+- [REPL](#repl)
 - [Editor Support](#editor-support)
   - [Emacs](#emacs)
   - [Vim](#vim)
@@ -79,7 +80,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Bluetooth](#bluetooth)
     - [Camera](#camera)
       - [Barcode](#barcode)
-    - [Haptic Feedback](#haptic)
+    - [Haptic Feedback](#haptic-feedback)
     - [iBeacon](#ibeacon)
     - [Sensors](#sensors)
   - [Images](#images)
@@ -183,6 +184,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Swift 3 Module Template](https://github.com/fulldecent/swift3-module-template) - An opinionated starting point for awesome, reusable modules.
 * [Swift 3 VIPER Module Template](https://github.com/Juanpe/Swift-VIPER-Module) - Xcode template for VIPER Architecture.
 * [Webview Boilerplate](https://github.com/nabilfreeman/ios-universal-webview-boilerplate) - Starting point for webview app.
+
+## REPL
+
+* [IBM Swift Sandbox](https://swift.sandbox.bluemix.net) - An interactive website that lets you write Swift code and execute it in a server environment – on top of Linux!
 
 ## Editor Support
 *Support for your favorite editors.* 
@@ -646,6 +651,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Bluetooth
 *Wrappers around CoreBluetooth* [back to top](#readme) 
 
+* [Bleu](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U
 * [BlueCap](https://github.com/troystribling/BlueCap) - Wrapper around CoreBluetooth and much more.
 * [Bluetonium](https://github.com/e-sites/Bluetonium) - Library that makes it easy to communicate with Bluetooth devices.
 * [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
@@ -668,6 +674,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Haptic Feedback
 *Libraries that involve the use of Haptic Feedback* [back to top](#readme) 
 
+* [Haptica](https://github.com/efremidze/Haptica) - Easy Haptic Feedback Generator.
 * [TapticEngine](https://github.com/WorldDownTown/TapticEngine) - Generates haptic feedback vibrations on iOS device.
 
 #### iBeacon
@@ -986,7 +993,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Mock
 [back to top](#readme) 
 
-* [Cuckoo](https://github.com/SwiftKit/Cuckoo) - First boilerplate-free mocking framework.
+* [Cuckoo](https://github.com/Brightify/Cuckoo) - First boilerplate-free mocking framework.
 * [Kakapo](https://github.com/devlucky/Kakapo) - Dynamically Mock server behaviors and responses. 
 * [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease.
 * [Mockit](https://github.com/sabirvirtuoso/Mockit) - A simple mocking framework, inspired by the famous Mockito for Java.
@@ -1068,12 +1075,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A new way to display content in your app like the Apple Watch SpringBoard.
 * [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
 * [HoneycombView](https://github.com/suzuki-0000/HoneycombView) - HoneycombView is the iOS UIView for displaying like Honyecomb layout.
+* [HorizontalDial](https://github.com/kciter/HorizontalDial) - A horizontal scroll dial like Instagram.
 * [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) - A customizable color picker for iOS.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - A nicely designed and super easy to use ImagePicker.
 * [ImagePickerSheetController](https://github.com/lbrndnr/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
 * [InfoView](https://github.com/anatoliyv/InfoView) - Simple information view with pointed arrow.
-* [KCHorizontalDial](https://github.com/kciter/KCHorizontalDial) - A horizontal scroll dial like Instagram.
-* [KCSelectionDialog](https://github.com/kciter/KCSelectionDialog) - Simple selection dialog.
 * [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) - A UINavigationController subclass that support pop interactive UINavigationBar with hidden or show.
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
@@ -1102,6 +1108,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Reel search](https://github.com/Ramotion/reel-search) - Option list managed as a reel.
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Easily add fun, multi-colored confetti to your app.
 * [SAHistoryNavigationViewController](https://github.com/marty-suzuki/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller.
+* [SelectionDialog](https://github.com/kciter/SelectionDialog) - Simple selection dialog.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers.
 * [SMSwipeableTabView](https://github.com/smahajan28/SMSwipeableTabView) - Fully customizable control which is mixture of UIPageViewController and Scrollable Tab Bar.
 * [Sonar](https://github.com/thefuntasty/Sonar) - Cool radar-style view.
@@ -1125,6 +1132,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Alert
 *Libs to display alert, action sheet, notification, popup.* [back to top](#readme) 
 
+* [Alertift](https://github.com/sgr-ksmt/Alertift) - Modern, easy UIAlertController wrapper.
 * [AlertKit](https://github.com/thii/AlertKit) - Alert with a single line of code.
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy UIAlertController.
@@ -1164,9 +1172,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton) - Animated Play and Pause Button using CALayer, CAKeyframeAnimation.
 * [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Send Button for iOS.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button.
+* [Floaty](https://github.com/kciter/Floaty) - Floating Action Button for iOS.
 * [Hamburger button transition](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [HamburgerButton](https://github.com/fastred/HamburgerButton) - Hamburger button with a slick animation.
-* [KCFloatingActionButton](https://github.com/kciter/KCFloatingActionButton) - Floating Action Button for iOS.
 * [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 * [MIBadgeButton](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons.
 * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons.
@@ -1223,7 +1231,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [InteractiveSideMenu](https://github.com/handsomecode/InteractiveSideMenu) - Customizable iOS Interactive Side Menu.
 * [MediumMenu](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
-* [Pagemenu](https://github.com/uacaps/PageMenu) - Pagination enabled view controller.
+* [Pagemenu](https://github.com/PageMenu/PageMenu) - Pagination enabled view controller.
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu.
 * [SideMenu](https://github.com/jonkykong/SideMenu) - Simple side menu control for iOS inspired by Facebook. Right and Left sides. No coding required.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.
@@ -1301,6 +1309,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### UICollectionView
 [back to top](#readme) 
 
+* [BouncyLayout](https://github.com/roberthein/BouncyLayout) - Is a collection view layout that makes your cells bounce.
 * [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight CollectionView that 'pages' and centers it's cells.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [Drag and Drop UICollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.

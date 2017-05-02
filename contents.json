@@ -31,6 +31,9 @@
     "title": "Boilerplates",
     "id": "boilerplates"
   }, {
+    "title": "REPL",
+    "id": "repl"
+  }, {
     "title": "Cache",
     "id": "cache",
     "parent": "libs"
@@ -273,7 +276,7 @@
     "description": "A category dedicated to hardware related libs"
   }, {
     "title": "Haptic Feedback",
-    "id": "haptic",
+    "id": "haptic-feedback",
     "parent": "hardware",
     "description": "Libraries that involve the use of Haptic Feedback"
   },{
@@ -981,6 +984,11 @@
       "category": "bluetooth",
       "description": "Library that makes it easy to communicate with Bluetooth devices.",
       "homepage": "https://github.com/e-sites/Bluetonium"
+    }, {
+      "title": "Bleu",
+      "category": "bluetooth",
+      "description": "BLE (Bluetooth LE) for U",
+      "homepage": "https://github.com/1amageek/Bleu"
     }, {
       "title": "ALCameraViewController",
       "category": "camera",
@@ -2673,7 +2681,7 @@
       "title": "Cuckoo",
       "category": "mock",
       "description": "First boilerplate-free mocking framework.",
-      "homepage": "https://github.com/SwiftKit/Cuckoo"
+      "homepage": "https://github.com/Brightify/Cuckoo"
     }, {
       "title": "Kakapo",
       "category": "mock",
@@ -3132,15 +3140,15 @@
       "description": "Notification toasts.",
       "homepage": "https://github.com/devxoul/Toaster"
     }, {
-      "title": "KCHorizontalDial",
+      "title": "HorizontalDial",
       "category": "ui",
       "description": "A horizontal scroll dial like Instagram.",
-      "homepage": "https://github.com/kciter/KCHorizontalDial"
+      "homepage": "https://github.com/kciter/HorizontalDial"
     }, {
-      "title": "KCSelectionDialog",
+      "title": "SelectionDialog",
       "category": "ui",
       "description": "Simple selection dialog.",
-      "homepage": "https://github.com/kciter/KCSelectionDialog"
+      "homepage": "https://github.com/kciter/SelectionDialog"
     }, {
       "title": "KDEDateLabel",
       "category": "label",
@@ -3428,6 +3436,11 @@
       "description": "UITextField-Navigation adds next, previous and done buttons to the keyboard for your UITextFields. Highly customizable.",
       "homepage": "https://github.com/T-Pham/UITextField-Navigation"
     }, {
+      "title": "Alertift",
+      "category": "alert",
+      "description": "Modern, easy UIAlertController wrapper.",
+      "homepage": "https://github.com/sgr-ksmt/Alertift"
+    }, {
       "title": "AlertKit",
       "category": "alert",
       "description": "Alert with a single line of code.",
@@ -3558,10 +3571,10 @@
       "description": "Hamburger button with a slick animation.",
       "homepage": "https://github.com/fastred/HamburgerButton"
     }, {
-      "title": "KCFloatingActionButton",
+      "title": "Floaty",
       "category": "button",
       "description": "Floating Action Button for iOS.",
-      "homepage": "https://github.com/kciter/KCFloatingActionButton"
+      "homepage": "https://github.com/kciter/Floaty"
     }, {
       "title": "MIBadgeButton",
       "category": "button",
@@ -3636,7 +3649,7 @@
       "title": "Pagemenu",
       "category": "menu",
       "description": "Pagination enabled view controller.",
-      "homepage": "https://github.com/uacaps/PageMenu"
+      "homepage": "https://github.com/PageMenu/PageMenu"
     }, {
       "title": "PagingMenuController",
       "category": "menu",
@@ -4643,7 +4656,7 @@
       "tags": ["swift", "kqueue", "monitor", "filesystem", "files", "directories", "watcher"]
     }, {
   		"title": "TapticEngine",
-  		"category": "haptic",
+  		"category": "haptic-feedback",
   		"description": "Generates haptic feedback vibrations on iOS device.",
   		"homepage": "https://github.com/WorldDownTown/TapticEngine"
     }, {
@@ -4676,6 +4689,23 @@
 		  "description": "UITextField character counter with lovable UX.",
 		  "homepage": "https://github.com/serralvo/TextFieldCounter",
 		  "tags": ["textfield"]
+    }, {
+      "title": "BouncyLayout",
+      "category": "uicollectionview",
+      "description": "Is a collection view layout that makes your cells bounce.",
+      "homepage": "https://github.com/roberthein/BouncyLayout"
+    }, {
+      "title": "IBM Swift Sandbox",
+      "category": "repl",
+      "description": "An interactive website that lets you write Swift code and execute it in a server environment – on top of Linux!",
+      "homepage": "https://swift.sandbox.bluemix.net",
+      "tags": ["swift", "repl", "cloud", "docker", "sandbox"]
+    }, {
+      "title": "Haptica",
+      "category": "haptic-feedback",
+      "description": "Easy Haptic Feedback Generator.",
+      "homepage": "https://github.com/efremidze/Haptica",
+      "tags": ["haptic", "taptic", "vibrate", "feedback", "swift"]
     }
   ]
 }

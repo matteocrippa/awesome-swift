@@ -726,6 +726,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Vulcan](https://github.com/jinSasaki/Vulcan) - Multi image downloader with priority.
 * [WDImagePicker](https://github.com/justwudi/WDImagePicker) - Image picker with customizable crop rectangle (getting update).
 * [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage) - XAnimatedImage is a performant animated GIF engine for iOS based on FLAnimatedImage.
+* [FlexibleImage](https://github.com/kawoou/FlexibleImage) - A simple way to play with image!
 
 ### Key Value Coding
 *Libraries for key-value coding in Swift* [back to top](#readme) 

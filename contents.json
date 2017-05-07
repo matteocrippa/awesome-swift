@@ -805,6 +805,12 @@
       "description": "An always growing animation set.",
       "homepage": "https://github.com/RamonGilabert/Morgan"
     }, {
+      "title": "Pastel",
+      "category": "animation",
+      "description": "Gradient animation effect like Instagram.",
+      "homepage": "https://github.com/cruisediary/Pastel",
+      "tags": ["swift", "animation", "instagram"]
+    }, {
       "title": "Presentation",
       "category": "animation",
       "description": "A library to help you to make tutorials, release notes and animated pages.",

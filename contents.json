@@ -4717,6 +4717,12 @@
       "category": "alert",
       "description": "The easiest way to display highly customizable in app notification banners in iOS.",
       "homepage": "https://github.com/Daltron/NotificationBanner"
+    }, {
+      "title": "Pageboy",
+      "category": "pagination",
+      "description": "A simple, highly informative page view controller.",
+      "homepage": "https://github.com/uias/Pageboy",
+      "tags": ["pagination", "paging", "uipageviewcontroller", "pager", "swift"]
     }
   ]
 }

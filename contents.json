@@ -3356,6 +3356,11 @@
       "description": "Placeholder views based on content, loading, error or empty states.",
       "homepage": "https://github.com/aschuch/StatefulViewController"
     }, {
+      "title": "SwiftShareBubbles",
+      "category": "ui",
+      "description": "Animated social share buttons control for iOS.",
+      "homepage": "https://github.com/takecian/SwiftShareBubbles"
+    }, {
       "title": "SwiftTheme",
       "category": "ui",
       "description": "Powerful theme/skin manager for iOS 7+.",

@@ -4712,6 +4712,11 @@
       "description": "Easy Haptic Feedback Generator.",
       "homepage": "https://github.com/efremidze/Haptica",
       "tags": ["haptic", "taptic", "vibrate", "feedback", "swift"]
+    }, {
+      "title": "NotificationBanner",
+      "category": "alert",
+      "description": "The easiest way to display highly customizable in app notification banners in iOS.",
+      "homepage": "https://github.com/Daltron/NotificationBanner"
     }
   ]
 }

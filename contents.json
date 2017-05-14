@@ -3592,6 +3592,11 @@
       "description": "A radio button with a pretty animation.",
       "homepage": "https://github.com/rolandleth/LTHRadioButton"
     }, {
+      "title": "SwiftShareBubbles",
+      "category": "button",
+      "description": "Animated social share buttons control for iOS.",
+      "homepage": "https://github.com/takecian/SwiftShareBubbles"
+    }, {
       "title": "TVButton",
       "category": "button",
       "description": "Recreating the cool parallax icons from Apple TV as iOS UIButtons.",

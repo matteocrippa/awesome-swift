@@ -4728,6 +4728,12 @@
       "description": "A simple, highly informative page view controller.",
       "homepage": "https://github.com/uias/Pageboy",
       "tags": ["pagination", "paging", "uipageviewcontroller", "pager", "swift"]
+    }, {
+      "title": "Tabman",
+      "category": "tab",
+      "description": "A powerful paging view controller with indicator bar.",
+      "homepage": "https://github.com/uias/Tabman",
+      "tags": ["uitabbar", "tabbar", "uipageviewcontroller", "pager", "swift"]
     }
   ]
 }

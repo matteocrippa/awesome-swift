@@ -1483,12 +1483,6 @@
       "description": "Simple and Effective SQLite Handling.",
       "homepage": "https://github.com/ryanfowler/SwiftData"
     }, {
-      "title": "MySQL",
-      "category": "sql-drivers",
-      "description": "MySQL adapter.",
-      "homepage": "https://github.com/Zewo/MySQL",
-      "tags": ["linux"]
-    }, {
       "title": "MySQL Swift",
       "category": "sql-drivers",
       "description": "MySQL client library.",
@@ -1506,12 +1500,6 @@
       "description": "A stand-alone wrapper around the libpq client library, enabling access to PostgreSQL servers.",
       "homepage": "https://github.com/PerfectlySoft/Perfect-PostgreSQL",
       "tags": ["linux", "macOS"]
-    }, {
-      "title": "PostgreSQL",
-      "category": "sql-drivers",
-      "description": "PostgreSQL adapter.",
-      "homepage": "https://github.com/Zewo/PostgreSQL",
-      "tags": ["linux"]
     }, {
       "title": "AEXML",
       "category": "xml",
@@ -2449,12 +2437,6 @@
       "description": "A high performance WebSocket client library .",
       "homepage": "https://github.com/tidwall/SwiftWebSocket"
     }, {
-      "title": "WebSocket",
-      "category": "socket",
-      "description": "WebSockets server on Linux.",
-      "homepage": "https://github.com/Zewo/WebSocket",
-      "tags": ["linux"]
-    }, {
       "title": "Ambassador",
       "category": "webserver",
       "description": "Super lightweight web framework based on SWSGI.",
@@ -2612,12 +2594,6 @@
       "category": "cryptography",
       "description": "A wrapper for Apple's Common Crypto library.",
       "homepage": "https://github.com/iosdevzone/IDZSwiftCommonCrypto"
-    }, {
-      "title": "OpenSSL",
-      "category": "cryptography",
-      "description": "OpenSSL helpers on Linux.",
-      "homepage": "https://github.com/Zewo/OpenSSL",
-      "tags": ["linux"]
     }, {
       "title": "Siphash",
       "category": "cryptography",

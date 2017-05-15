@@ -4725,6 +4725,24 @@
       "description": "A powerful paging view controller with indicator bar.",
       "homepage": "https://github.com/uias/Tabman",
       "tags": ["uitabbar", "tabbar", "uipageviewcontroller", "pager", "swift"]
+    }, {
+      "title": "SpreadsheetView",
+      "category": "ui",
+      "description": "Full configurable spreadsheet view user interfaces for iOS applications.",
+      "homepage": "https://github.com/kishikawakatsumi/SpreadsheetView",
+      "tags": ["spreadsheet"]
+    }, {
+      "title": "RbSwift",
+      "category": "extension",
+      "description": "Extensions with hundreds of handy methods.",
+      "homepage": "https://github.com/Draveness/RbSwift",
+      "tags": ["extension", "number", "string"]
+    }, {
+      "title": "LicensePlist",
+      "category": "ui",
+      "description": "A command-line tool that automatically generates a Plist of all your dependencies.",
+      "homepage": "https://github.com/mono0926/LicensePlist",
+      "tags": ["license", "ui"]
     }
   ]
 }

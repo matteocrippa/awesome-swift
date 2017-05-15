@@ -1677,6 +1677,11 @@
       "description": "Powering your RAC architecture.",
       "homepage": "https://github.com/MailOnline/Reactor"
     }, {
+      "title": "ReactorKit",
+      "category": "events",
+      "description": "A framework for reactive and unidirectional Swift application architecture.",
+      "homepage": "https://github.com/ReactorKit/ReactorKit"
+    }, {
       "title": "RxSwift",
       "category": "events",
       "description": "Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.",

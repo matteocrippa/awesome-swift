@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-814-orange.svg) | May 11, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-814-orange.svg) | May 15, 2017
 
 ### Contributing
 
@@ -380,7 +380,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CommandLine](https://github.com/jatoben/CommandLine) :penguin: - Library for creating command-line interfaces.
 * [Progress.swift](https://github.com/jkandzi/Progress.swift) :penguin: - Add beautiful progress bars to your command line.
 * [SwiftCLI](https://github.com/jakeheis/SwiftCLI) :penguin: - A powerful framework that can be used to develop a CLI.
-* [Swiftline](https://github.com/oarrabi/Swiftline) - A set of tools to help you create command line applications.
+* [Swiftline](https://github.com/nsomar/Swiftline) - A set of tools to help you create command line applications.
 * [SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) :penguin: - A lightweight library to generate text tables.
 * [TextTable](https://github.com/cfilipov/TextTable) - Easily print textual tables. Inspired by the Python tabulate library.
 
@@ -489,11 +489,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### SQL drivers
 [back to top](#readme) 
 
-* [MySQL](https://github.com/Zewo/MySQL) :penguin: - MySQL adapter.
 * [MySQL Swift](https://github.com/novi/mysql-swift) :penguin: - MySQL client library.
 * [Perfect-MySQL](https://github.com/PerfectlySoft/Perfect-MySQL) :penguin: - A stand-alone wrapper around the MySQL client library, enabling access to MySQL servers.
 * [Perfect-PostgreSQL](https://github.com/PerfectlySoft/Perfect-PostgreSQL) :penguin: - A stand-alone wrapper around the libpq client library, enabling access to PostgreSQL servers.
-* [PostgreSQL](https://github.com/Zewo/PostgreSQL) :penguin: - PostgreSQL adapter.
 
 #### SQLite
 *Are you interested in storing your app data using SQLite? Here are some interesting resources.* [back to top](#readme) 
@@ -589,6 +587,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - Async promise programming lib.
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa (RAC) is a Cocoa framework inspired by Functional Reactive Programming. It provides APIs for composing and transforming streams of values over time.
 * [Reactor](https://github.com/MailOnline/Reactor) - Powering your RAC architecture.
+* [ReactorKit](https://github.com/ReactorKit/ReactorKit) - A framework for reactive and unidirectional Swift application architecture.
 * [ReduxSwift](https://github.com/lsunsi/ReduxSwift) - Predictable state container.
 * [ReSwift](https://github.com/ReSwift/ReSwift) - Unidirectional Data Flow.
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.
@@ -699,6 +698,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - A library that displays spherical or cylindrical panoramas with touch or motion based controls.
 * [FacebookImagePicker](https://github.com/terflogag/FacebookImagePicker) - Facebook album photo picker.
 * [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - Core image filter.
+* [FlexibleImage](https://github.com/kawoou/FlexibleImage) - A simple way to play with image!
 * [gifu](https://github.com/kaishin/gifu) - highly performant animated GIF support for iOS.
 * [GPUImage 2](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
 * [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS with extra love for images.
@@ -727,7 +727,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Vulcan](https://github.com/jinSasaki/Vulcan) - Multi image downloader with priority.
 * [WDImagePicker](https://github.com/justwudi/WDImagePicker) - Image picker with customizable crop rectangle (getting update).
 * [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage) - XAnimatedImage is a performant animated GIF engine for iOS based on FLAnimatedImage.
-* [FlexibleImage](https://github.com/kawoou/FlexibleImage) - A simple way to play with image!
 
 ### Key Value Coding
 *Libraries for key-value coding in Swift* [back to top](#readme) 
@@ -884,7 +883,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets for iOS and OSX.
 * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - Simple TCP socket library.
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library .
-* [WebSocket](https://github.com/Zewo/WebSocket) :penguin: - WebSockets server on Linux.
 
 #### Webserver
 *Would you like host a webserver in your device? Here you can find how to do it.* [back to top](#readme) 
@@ -949,7 +947,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) :penguin: - Crypto related functions and helpers.
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library.
-* [OpenSSL](https://github.com/Zewo/OpenSSL) :penguin: - OpenSSL helpers on Linux.
 * [Siphash](https://github.com/lorentey/SipHash) - Simple and secure hashing with the SipHash algorithm.
 * [SweetHMAC](https://github.com/jancassio/SweetHMAC) - A tiny and easy to use class to encrypt strings using HMAC algorithms.
 * [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - Interface to the Sodium library for common crypto operations for iOS and OS X.
@@ -1233,6 +1230,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [FrostedSidebar](https://github.com/edekhayser/FrostedSidebar) - Hamburger Menu and iOS 8 API's.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Guillotine style menu.
 * [InteractiveSideMenu](https://github.com/handsomecode/InteractiveSideMenu) - Customizable iOS Interactive Side Menu.
+* [KWDrawerController](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use!
 * [MediumMenu](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 * [Pagemenu](https://github.com/PageMenu/PageMenu) - Pagination enabled view controller.
@@ -1242,7 +1240,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Swift-CircleMenu](https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu) - Rotating circle menu.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 * [YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) - Adorable iOS drop down menu.
-* [KWDrawerController](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use!
 
 #### Pagination
 [back to top](#readme) 
@@ -1285,6 +1282,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - Adaptive tab bar.
 * [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - Interesting way to display tabs.
+* [Tabman](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar.
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view.
 
 #### TextField

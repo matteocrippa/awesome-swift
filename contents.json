@@ -1993,6 +1993,11 @@
       "description": "XAnimatedImage is a performant animated GIF engine for iOS based on FLAnimatedImage.",
       "homepage": "https://github.com/khaledmtaha/XAnimatedImage"
     }, {
+      "title": "FlexibleImage",
+      "category": "images",
+      "description": "A simple way to play with image!",
+      "homepage": "https://github.com/kawoou/FlexibleImage"
+    }, {
       "title": "Snowflake",
       "category": "images",
       "description": "Work with SVG.",
@@ -3691,6 +3696,11 @@
       "category": "menu",
       "description": "Adorable iOS drop down menu.",
       "homepage": "https://github.com/younatics/YNDropDownMenu"
+    }, {
+      "title": "KWDrawerController",
+      "category": "menu",
+      "description": "Drawer view controller that easy to use!",
+      "homepage": "https://github.com/Kawoou/KWDrawerController"
     }, {
       "title": "Caishen",
       "category": "payment",

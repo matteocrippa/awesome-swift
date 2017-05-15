@@ -1667,7 +1667,7 @@
     }, {
       "title": "ReactorKit",
       "category": "events",
-      "description": "A framework for reactive and unidirectional Swift application architecture.",
+      "description": "A framework for reactive and unidirectional application architecture.",
       "homepage": "https://github.com/ReactorKit/ReactorKit"
     }, {
       "title": "RxSwift",

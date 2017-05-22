@@ -3543,6 +3543,11 @@
       "description": "Animated Play and Pause Button using CALayer, CAKeyframeAnimation.",
       "homepage": "https://github.com/suzuki-0000/AnimatablePlayButton"
     }, {
+      "title": "NFDownloadButton",
+      "category": "button",
+      "description": "Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.",
+      "homepage": "https://github.com/LeonardoCardoso/NFDownloadButton"
+    }, {
       "title": "CRNetworkButton",
       "category": "button",
       "description": "Send Button for iOS.",

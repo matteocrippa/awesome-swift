@@ -4069,6 +4069,11 @@
       "description": "A tiny generator of random data.",
       "homepage": "https://github.com/thellimist/SwiftRandom"
     }, {
+      "title": "SwiftRater",
+      "category": "utility",
+      "description": "A utility that reminds your iPhone app's users to review the app.",
+      "homepage": "https://github.com/takecian/SwiftRater"
+    }, {
       "title": "SwiftRouter",
       "category": "app-routing",
       "description": "A URL Router for iOS.",

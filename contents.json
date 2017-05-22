@@ -1405,6 +1405,11 @@
       "description": "The easy to use JSON decoder.",
       "homepage": "https://github.com/JohnSundell/Unbox"
     }, {
+      "title": "JSONFeed",
+      "category": "json",
+      "description": "JSONFeed parser with built in reader for jsonfeed.org.",
+      "homepage": "https://github.com/wesbillman/JSONFeed"
+    }, {
       "title": "YamlSwift",
       "category": "yaml",
       "description": "Load YAML and JSON documents.",

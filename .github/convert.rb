@@ -8,7 +8,7 @@ end
 
 def output_linux(tags)
   return '' if tags.nil?
-  return ':penguin:' if tags.include? 'linux'
+  return ':penguin: ' if tags.include? 'linux'
   ''
 end
 
@@ -57,8 +57,18 @@ def output_content(j)
 
       children.sort_by {|k,v| k['id']}
         .select {|c| c['parent']==child_id}.each do |c|
-          toc << output_content_category(c, 4)
+        child_id = c['id']
+
+        toc << output_content_category(c, 4)
+        toc << output_projects(projects, c['id'])
+
+        children.sort_by {|k,v| k['id']}
+          .select {|c| c['parent']==child_id}.each do |c|
+          child_id = c['id']
+
+          toc << output_content_category(c, 5)
           toc << output_projects(projects, c['id'])
+        end 
       end
     end
   end
@@ -88,7 +98,7 @@ def output_table(ios_app_link, num_projects)
   date_display = date.strftime "%B %d, %Y"
 
   o = "| iOS App | Awesome | Linux | Projects | Updated\n| :-: | :-: | :-: | :-: | :-:\n"
-  o << "| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](#{ios_app_link}) | "
+  o << "| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](#{ios_app_link}) | "
   o << '[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | '
   o << ' :penguin: | '
   o << "![](https://img.shields.io/badge/swift%20projects-#{num_projects}-orange.svg) | "
@@ -112,7 +122,13 @@ def output_toc(j)
 
       children.sort_by {|k,v| k['id']}
         .select {|c| c['parent']==child_id}.each do |c|
+        child_id = c['id']
         toc << "    - [#{c['title']}](##{c['id']})\n"
+
+        children.sort_by {|k,v| k['id']}
+          .select {|c| c['parent']==child_id}.each do |c|
+          toc << "      - [#{c['title']}](##{c['id']})\n"
+        end
       end
     end
   end

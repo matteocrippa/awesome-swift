@@ -9,4 +9,7 @@
 - **Project Description**:
 - **Why it should be added to `awesome-swift`**:
 - [ ] At least 15 stars (GitHub project)
+- [ ] Support `Swift 3`
 - [ ] Updated **contents.json** instead of README
+- [ ] Lib is fully open sourced, written in Swift and not a wrapper over compiled lib
+- [ ] Description does not say "written in Swift" or variant 🤓

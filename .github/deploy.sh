@@ -19,4 +19,4 @@ echo commit
 git commit -m "[auto] [ci skip] Generate README"
 
 echo push
-git push --quiet "https://${GH_TOKEN}@github.com/matteocrippa/awesome-swift" master:master > /dev/null 2>&1
+git push --quiet "https://${GH_TOKEN_DK}@github.com/matteocrippa/awesome-swift" master:master > /dev/null 2>&1

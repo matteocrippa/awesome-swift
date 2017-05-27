@@ -1528,7 +1528,7 @@
     }, {
       "title": "SwiftyXML",
       "category": "xml",
-      "description": "The most swifty way to deal with XML data in swift 3.",
+      "description": "The most swifty way to deal with XML data",
       "homepage": "https://github.com/chenyunguiMilook/SwiftyXML"
     }, {
       "title": "Zip",

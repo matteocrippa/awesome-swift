@@ -1526,6 +1526,11 @@
       "description": "A lightweight XMLParser for assembling and parsing XML values written for iOS 8+.",
       "homepage": "https://github.com/Mozharovsky/XMLParser"
     }, {
+      "title": "SwiftyXML",
+      "category": "xml",
+      "description": "The most swifty way to deal with XML data",
+      "homepage": "https://github.com/chenyunguiMilook/SwiftyXML"
+    }, {
       "title": "Zip",
       "category": "zip",
       "description": "Framework for zipping and unzipping files.",

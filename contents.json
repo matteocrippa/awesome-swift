@@ -4764,6 +4764,11 @@
       "description": "FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.",
       "homepage": "https://github.com/WenchaoD/FSPagerView",
       "tags": ["infnite-scroll", "banner-view", "banner-slider", "banner", "uicollectionview", "pages"]
+    }, {
+      "title": "CBPinEntryView",
+      "category": "textfield",
+      "description": "CBPinEntryView is an easy to use, very customisable pin entry field.",
+      "homepage": "https://github.com/Fawxy/CBPinEntryView"
     }
   ]
 }

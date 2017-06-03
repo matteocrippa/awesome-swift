@@ -3773,6 +3773,11 @@
       "description": "AIB indicates for your app users which audio is playing. Just like the Podcasts app.",
       "homepage": "https://github.com/LeonardoCardoso/AudioIndicatorBars"
     }, {
+      "title": "SendIndicator",
+      "category": "transition",
+      "description": "Yet another task indicator.",
+      "homepage": "https://github.com/LeonardoCardoso/SendIndicator"
+    }, {
       "title": "Hero",
       "category": "transition",
       "description": "Elegant transition library for iOS.",

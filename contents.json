@@ -4788,7 +4788,11 @@
       "category": "newsletter",
       "description": "A curated newsletter by Natasha the Robot",
       "homepage": "https://www.natashatherobot.com"
-
+    }, {
+      "title": "Swift Weekly Brief",
+      "category": "newsletter",
+      "description": "A multi author curated newsletter",
+      "homepage": "https://swiftweekly.github.io"
     }
   ]
 }

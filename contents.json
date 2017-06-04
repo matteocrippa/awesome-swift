@@ -1526,6 +1526,11 @@
       "description": "A lightweight XMLParser for assembling and parsing XML values written for iOS 8+.",
       "homepage": "https://github.com/Mozharovsky/XMLParser"
     }, {
+      "title": "SwiftyXML",
+      "category": "xml",
+      "description": "The most swifty way to deal with XML data",
+      "homepage": "https://github.com/chenyunguiMilook/SwiftyXML"
+    }, {
       "title": "Zip",
       "category": "zip",
       "description": "Framework for zipping and unzipping files.",
@@ -3768,6 +3773,11 @@
       "description": "AIB indicates for your app users which audio is playing. Just like the Podcasts app.",
       "homepage": "https://github.com/LeonardoCardoso/AudioIndicatorBars"
     }, {
+      "title": "SendIndicator",
+      "category": "transition",
+      "description": "Yet another task indicator.",
+      "homepage": "https://github.com/LeonardoCardoso/SendIndicator"
+    }, {
       "title": "Hero",
       "category": "transition",
       "description": "Elegant transition library for iOS.",
@@ -4764,6 +4774,11 @@
       "description": "FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.",
       "homepage": "https://github.com/WenchaoD/FSPagerView",
       "tags": ["infnite-scroll", "banner-view", "banner-slider", "banner", "uicollectionview", "pages"]
+    }, {
+      "title": "CBPinEntryView",
+      "category": "textfield",
+      "description": "CBPinEntryView is an easy to use, very customisable pin entry field.",
+      "homepage": "https://github.com/Fawxy/CBPinEntryView"
     }
   ]
 }

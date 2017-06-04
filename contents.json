@@ -1807,7 +1807,7 @@
     }, {
       "title": "NiceGesture",
       "category": "gesture",
-      "descriptption": "Using UIGestureRecognizers in a intuitive way.",
+      "description": "Using UIGestureRecognizers in a intuitive way.",
       "homepage": "https://github.com/lacklock/NiceGesture"
     }, {
       "title": "PeekPop",

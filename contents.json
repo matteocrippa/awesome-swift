@@ -4783,6 +4783,12 @@
       "category": "textfield",
       "description": "CBPinEntryView is an easy to use, very customisable pin entry field.",
       "homepage": "https://github.com/Fawxy/CBPinEntryView"
+    }, {
+      "title": "Swift Newsletter by Natasha the Robot",
+      "category": "newsletter",
+      "description": "A curated newsletter by Natasha the Robot",
+      "homepage": "https://www.natashatherobot.com"
+
     }
   ]
 }

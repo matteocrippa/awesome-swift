@@ -20,6 +20,10 @@
     "id": "third-party-guides",
     "parent": "guides"
   }, {
+    "title": "Newsletter",
+    "id": "newsletter",
+    "parent": "guides"
+  }, {
     "title": "Calendar",
     "id": "calendar",
     "parent": "ui"
@@ -279,7 +283,7 @@
     "id": "haptic-feedback",
     "parent": "hardware",
     "description": "Libraries that involve the use of Haptic Feedback"
-  },{
+  }, {
     "title": "iBeacon",
     "id": "ibeacon",
     "parent": "hardware",
@@ -501,7 +505,7 @@
     "title": "Transition",
     "id": "transition",
     "parent": "ui"
- }, {
+  }, {
     "title": "UICollectionView",
     "id": "uicollectionview",
     "parent": "ui"
@@ -581,7 +585,7 @@
       "homepage": "https://github.com/nettlep/learn-swift"
     }, {
       "title": "This Week In Swift",
-      "category": "third-party-guides",
+      "category": "newsletter",
       "description": "Weekly Newsletter on Swift.",
       "homepage": "http://swiftnews.curated.co/"
     }, {
@@ -1808,7 +1812,7 @@
     }, {
       "title": "NiceGesture",
       "category": "gesture",
-      "description": "Using UIGestureRecognizers in a intuitive way.",
+      "descriptption": "Using UIGestureRecognizers in a intuitive way.",
       "homepage": "https://github.com/lacklock/NiceGesture"
     }, {
       "title": "PeekPop",
@@ -4682,10 +4686,10 @@
       "homepage": "https://github.com/daniel-pedersen/SKQueue",
       "tags": ["swift", "kqueue", "monitor", "filesystem", "files", "directories", "watcher"]
     }, {
-  		"title": "TapticEngine",
-  		"category": "haptic-feedback",
-  		"description": "Generates haptic feedback vibrations on iOS device.",
-  		"homepage": "https://github.com/WorldDownTown/TapticEngine"
+      "title": "TapticEngine",
+      "category": "haptic-feedback",
+      "description": "Generates haptic feedback vibrations on iOS device.",
+      "homepage": "https://github.com/WorldDownTown/TapticEngine"
     }, {
       "title": "SwiftyOnboard",
       "category": "walkthrough",
@@ -4697,13 +4701,13 @@
       "description": "Easy Map Annotation Clustering.",
       "homepage": "https://github.com/efremidze/Cluster",
       "tags": ["map", "cluster", "annotations", "swift", "mapkit"]
-    },{
+    }, {
       "title": "BMPlayer",
       "category": "video",
       "description": "A video player for iOS, based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brigtness and seek by slide.",
       "homepage": "https://github.com/BrikerMan/BMPlayer",
       "tags": ["swift", "avplayer", "video-player", "ios-swift", "carthage"]
-    },{
+    }, {
       "title": "Marathon",
       "category": "scripting",
       "description": "Easy way to create and manage scripts.",
@@ -4711,11 +4715,11 @@
       "tags": ["swift", "scripting"]
     },
     {
-		  "title": "TextFieldCounter",
-		  "category": "textfield",
-		  "description": "UITextField character counter with lovable UX.",
-		  "homepage": "https://github.com/serralvo/TextFieldCounter",
-		  "tags": ["textfield"]
+      "title": "TextFieldCounter",
+      "category": "textfield",
+      "description": "UITextField character counter with lovable UX.",
+      "homepage": "https://github.com/serralvo/TextFieldCounter",
+      "tags": ["textfield"]
     }, {
       "title": "BouncyLayout",
       "category": "uicollectionview",

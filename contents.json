@@ -2037,6 +2037,11 @@
       "description": "A simple static table views for iOS.",
       "homepage": "https://github.com/venmo/Static"
     }, {
+      "title": "PinLayout",
+      "category": "layout",
+      "description": "Swift manual views layouting, no magic, pure code, full control. Concise syntax, readable & chainable.",
+      "homepage": "https://mirego.github.io/PinLayout/"
+    }, {
       "title": "Stevia",
       "category": "layout",
       "description": "Elegant view layout for iOS.",

@@ -2039,7 +2039,7 @@
     }, {
       "title": "PinLayout",
       "category": "layout",
-      "description": "Manual views layouting, no magic, pure code, full control. Concise syntax, readable & chainable.",
+      "description": "Manual views layouting without auto layout, no magic, pure code, full control. Concise syntax, readable & chainable.",
       "homepage": "https://mirego.github.io/PinLayout/"
     }, {
       "title": "Stevia",

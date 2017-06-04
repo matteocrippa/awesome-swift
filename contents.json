@@ -644,11 +644,6 @@
       "description": "LinkedIn's Official Style Guide.",
       "homepage": "https://github.com/linkedin/swift-style-guide"
     }, {
-      "title": "Swift-Best-Practices",
-      "category": "style-guides",
-      "description": "Best practices for software development.",
-      "homepage": "https://github.com/schwa/Swift-Community-Best-Practices/"
-    }, {
       "title": "Webview Boilerplate",
       "category": "boilerplates",
       "description": "Starting point for webview app.",

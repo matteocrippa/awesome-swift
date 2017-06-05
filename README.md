@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-824-orange.svg) | June 03, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-827-orange.svg) | June 05, 2017
 
 ### Contributing
 
@@ -19,6 +19,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Contents
 
 - [Guides](#guides)
+  - [Newsletter](#newsletter)
   - [Official Guides](#official-guides)
   - [Style Guides](#style-guides)
   - [Third party Guides](#third-party-guides)
@@ -144,6 +145,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Guides
 *An awesome list of Swift related guides.* 
 
+### Newsletter
+[back to top](#readme) 
+
+* [Swift Newsletter by Natasha the Robot](https://www.natashatherobot.com) - A curated newsletter by Natasha the Robot
+* [Swift Weekly Brief](https://swiftweekly.github.io) - A multi author curated newsletter
+* [This Week In Swift](http://swiftnews.curated.co/) - Weekly Newsletter on Swift.
+* [WeeklyCocoa.News](https://weeklycocoa.news) - Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.
+
 ### Official Guides
 [back to top](#readme) 
 
@@ -157,7 +166,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [GitHub](https://github.com/github/swift-style-guide) - Style guide & coding conventions.
 * [LinkedIn](https://github.com/linkedin/swift-style-guide) - LinkedIn's Official Style Guide.
 * [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich guide, a must read.
-* [Swift-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices/) - Best practices for software development.
 
 ### Third party Guides
 [back to top](#readme) 
@@ -177,7 +185,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftIntro](https://github.com/Sajjon/SwiftIntro) - Memory game implementation that also teaches Swift.
 * [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - App to learn to code.
 * [The Swift Web Developer](https://theswiftwebdeveloper.com) - A publication for Swift Web Developers.
-* [This Week In Swift](http://swiftnews.curated.co/) - Weekly Newsletter on Swift.
 
 ## Boilerplates
 
@@ -754,6 +761,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [JustUiKit](https://github.com/lfkdsk/JustUiKit) - iOS UI Kit With Android-Style. It is designed to make Android developers build iOS UI easily.
 * [ManualLayout](https://github.com/isair/ManualLayout) - Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.
 * [Neon](https://github.com/mamaral/Neon) - A powerful programmatic UI layout framework.
+* [PinLayout](https://mirego.github.io/PinLayout/) - Manual views layouting without auto layout, no magic, pure code, full control. Concise syntax, readable & chainable.
 * [Static](https://github.com/venmo/Static) - A simple static table views for iOS.
 * [Stevia](https://github.com/freshOS/Stevia) - Elegant view layout for iOS.
 * [SwiftBox](https://github.com/joshaber/SwiftBox) - Inspired by Flexbox, uses Facebook's css-layout.

@@ -2637,7 +2637,7 @@
       "title": "keychain-swift",
       "category": "keychain",
       "description": "Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.",
-      "homepage": "https://github.com/marketplacer/keychain-swift"
+      "homepage": "https://github.com/evgenyneu/keychain-swift"
     }, {
       "title": "KeychainAccess",
       "category": "keychain",
@@ -2717,7 +2717,7 @@
       "title": "Mockingjay",
       "category": "mock",
       "description": "An elegant library for stubbing HTTP requests with ease.",
-      "homepage": "https://github.com/kylef/Mockingjay"
+      "homepage": "https://github.com/kylef-archive/Mockingjay"
     }, {
       "title": "Mockit",
       "category": "mock",
@@ -2998,7 +2998,7 @@
       "title": "Dodo",
       "category": "ui",
       "description": "A message bar for iOS.",
-      "homepage": "https://github.com/marketplacer/Dodo"
+      "homepage": "https://github.com/evgenyneu/Dodo"
     }, {
       "title": "Element",
       "category": "ui",

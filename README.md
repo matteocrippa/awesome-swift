@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-828-orange.svg) | June 08, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-831-orange.svg) | June 08, 2017
 
 ### Contributing
 
@@ -131,6 +131,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [StackView](#stackview)
     - [Switch](#switch)
     - [Tab](#tab)
+    - [Template](#template)
     - [TextField](#textfield)
     - [Transition](#transition)
     - [UICollectionView](#uicollectionview)
@@ -1020,6 +1021,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Format](https://github.com/marmelroy/Format) - Formatting kit for numbers, addresses and colors.
 * [Markdown](https://github.com/crossroadlabs/Markdown) :penguin: - Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown).
 * [MarkdownKit](https://github.com/ivanbruel/MarkdownKit) - A simple and customizable Markdown Parser.
+* [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - MarkdownView for iOS
 * [Mustard](https://github.com/mathewsanders/Mustard) - Library for tokenizing strings when splitting by whitespace doesn't cut it.
 * [Notepad](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 * [Parsey](https://github.com/rxwei/Parsey) - Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.
@@ -1131,7 +1133,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftTheme](https://github.com/jiecao-fm/SwiftTheme) - Powerful theme/skin manager for iOS 7+.
 * [SYBlinkAnimationKit](https://github.com/shoheiyokoyama/SYBlinkAnimationKit) - A blink effect animation framework.
 * [TagListView](https://github.com/ElaWorkshop/TagListView) - Simple but highly customizable iOS tag list view.
-* [TemplateKit](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces.
 * [Toaster](https://github.com/devxoul/Toaster) - Notification toasts.
 * [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library with a single line of code.
 * [Twinkle](https://github.com/piemonte/Twinkle) - Easy way to make elements in your iOS app twinkle.
@@ -1298,6 +1299,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - Interesting way to display tabs.
 * [Tabman](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar.
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view.
+
+#### Template
+[back to top](#readme) 
+
+* [SwiftCssParser](https://github.com/100mango/SwiftCssParser) - Extensible CSS Parser
+* [TemplateKit](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces.
+* [Themes](https://github.com/onmyway133/Themes) - Theme management
 
 #### TextField
 [back to top](#readme) 

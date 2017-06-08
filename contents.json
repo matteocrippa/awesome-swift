@@ -629,6 +629,11 @@
       "description": "App to learn to code.",
       "homepage": "https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617"
     }, {
+      "title": "WeeklyCocoa.News",
+      "category": "newsletter",
+      "description": "Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.",
+      "homepage": "https://weeklycocoa.news"
+    }, {
       "title": "GitHub",
       "category": "style-guides",
       "description": "Style guide & coding conventions.",
@@ -2035,6 +2040,11 @@
       "category": "layout",
       "description": "A simple static table views for iOS.",
       "homepage": "https://github.com/venmo/Static"
+    }, {
+      "title": "PinLayout",
+      "category": "layout",
+      "description": "Manual views layouting without auto layout, no magic, pure code, full control. Concise syntax, readable & chainable.",
+      "homepage": "https://mirego.github.io/PinLayout/"
     }, {
       "title": "Stevia",
       "category": "layout",
@@ -3776,6 +3786,11 @@
       "category": "transition",
       "description": "Yet another task indicator.",
       "homepage": "https://github.com/LeonardoCardoso/SendIndicator"
+    }, {
+      "title": "SectionedSlider",
+      "category": "ui",
+      "description": "Control Center Slider.",
+      "homepage": "https://github.com/LeonardoCardoso/SectionedSlider"
     }, {
       "title": "Hero",
       "category": "transition",

@@ -514,6 +514,10 @@
     "id": "uitableview",
     "parent": "ui"
   }, {
+    "title": "Template",
+    "id": "template",
+    "parent": "ui"
+  }, {
     "title": "Utility",
     "id": "utility",
     "parent": "libs",
@@ -3418,7 +3422,7 @@
       "homepage": "https://github.com/ElaWorkshop/TagListView"
     }, {
       "title": "TemplateKit",
-      "category": "ui",
+      "category": "template",
       "description": "React-inspired framework for building component-based user interfaces.",
       "homepage": "https://github.com/mcudich/TemplateKit"
     }, {
@@ -4805,9 +4809,19 @@
       "homepage": "https://swiftweekly.github.io"
     }, {
       "title": "MarkdownView",
-      "category": "textfield",
+      "category": "text",
       "description": "MarkdownView for iOS",
       "homepage": "https://github.com/keitaoouchi/MarkdownView"
+    }, {
+      "title": "SwiftCssParser",
+      "category": "template",
+      "description": "Extensible CSS Parser",
+      "homepage": "https://github.com/100mango/SwiftCssParser"
+    }, {
+      "title": "Themes",
+      "category": "template",
+      "description": "Theme management",
+      "homepage": "https://github.com/onmyway133/Themes"
     }
   ]
 }

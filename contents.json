@@ -3787,6 +3787,11 @@
       "description": "Yet another task indicator.",
       "homepage": "https://github.com/LeonardoCardoso/SendIndicator"
     }, {
+      "title": "SectionedSlider",
+      "category": "ui",
+      "description": "Control Center Slider.",
+      "homepage": "https://github.com/LeonardoCardoso/SectionedSlider"
+    }, {
       "title": "Hero",
       "category": "transition",
       "description": "Elegant transition library for iOS.",

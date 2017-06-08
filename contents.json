@@ -4803,6 +4803,11 @@
       "category": "newsletter",
       "description": "A multi author curated newsletter",
       "homepage": "https://swiftweekly.github.io"
+    }, {
+      "title": "MarkdownView",
+      "category": "textfield",
+      "description": "MarkdownView for iOS",
+      "homepage": "https://github.com/keitaoouchi/MarkdownView"
     }
   ]
 }

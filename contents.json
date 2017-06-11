@@ -4822,6 +4822,11 @@
       "category": "template",
       "description": "Theme management",
       "homepage": "https://github.com/onmyway133/Themes"
+    }, {
+    "title": "FanMenu",
+    "category": "menu",
+    "description": "Menu with a circular layout based on Macaw.",
+    "homepage": "https://github.com/exyte/fan-menu"
     }
   ]
 }

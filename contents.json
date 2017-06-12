@@ -78,7 +78,12 @@
     "title": "Libs",
     "id": "libs",
     "description": "Here you can find a list of snippets and libs for your Swift projects."
-  }, {
+  },{
+    "title": "Analytics",
+    "id": "analytics",
+    "parent": "libs",
+    "description": "Analytics related libraries to easily track your app usage"
+  },{
     "title": "AI",
     "id": "ai",
     "parent": "libs",

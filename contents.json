@@ -4832,6 +4832,11 @@
     "category": "menu",
     "description": "Menu with a circular layout based on Macaw.",
     "homepage": "https://github.com/exyte/fan-menu"
+    }, {
+      "title": "Umbrella",
+      "category": "analytics",
+      "description": "Analytics abstraction layer",
+      "homepage": "https://github.com/devxoul/Umbrella"
     }
   ]
 }

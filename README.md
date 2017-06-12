@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-832-orange.svg) | June 11, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-832-orange.svg) | June 12, 2017
 
 ### Contributing
 
@@ -37,6 +37,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [Libs](#libs)
   - [AI](#ai)
   - [Algorithm](#algorithm)
+  - [Analytics](#analytics)
   - [Animation](#animation)
   - [API](#api)
   - [App Routing](#app-routing)
@@ -263,6 +264,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Algorithm](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models.
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures, with explanations.
 * [SwiftLCS](https://github.com/Frugghi/SwiftLCS) :penguin: - implementation of the longest common subsequence (LCS) algorithm.
+
+### Analytics
+*Analytics related libraries to easily track your app usage* [back to top](#readme) 
+
 
 ### Animation
 *Libs to help with animation* [back to top](#readme) 

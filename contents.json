@@ -4380,6 +4380,11 @@
       "description": "Simple customizable calendar component.",
       "homepage": "https://github.com/shoheiyokoyama/Koyomi"
     }, {
+       "title": "Workaholic",
+       "category": "calendar",
+       "description": "A Github's like work contribution timeline.",
+       "homepage": "https://github.com/hemangshah/Workaholic"
+    }, {
       "title": "CalendarKit",
       "category": "calendar",
       "description": "Fully customizable calendar day view.",

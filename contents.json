@@ -2245,6 +2245,11 @@
       "description": "Full featured & Configurable logging utility with log levels, timestamps, and line numbers.",
       "homepage": "https://github.com/DaveWoodCom/XCGLogger"
     }, {
+       "title": "Printer",
+       "category": "logging",
+       "description": "A fancy logger for your next app.",
+       "homepage": "https://github.com/hemangshah/printer"
+    }, {
       "title": "GEOSwift",
       "category": "maps",
       "description": "Make it easier to work with geographic models and calculate intersections, overlapping, projections etc.",

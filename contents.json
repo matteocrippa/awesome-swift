@@ -1605,6 +1605,11 @@
       "description": "Get the true current time impervious to device clock time changes (NTP library).",
       "homepage": "https://github.com/instacart/TrueTime.swift"
     }, {
+     "title": "Datify",
+     "category": "date",
+     "description": "Easypeasy date functions.",
+     "homepage": "https://github.com/hemangshah/Datify"
+    }, {
       "title": "jazzy",
       "category": "documentation",
       "description": "Soulful docs.",

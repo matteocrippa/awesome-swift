@@ -1605,6 +1605,11 @@
       "description": "Get the true current time impervious to device clock time changes (NTP library).",
       "homepage": "https://github.com/instacart/TrueTime.swift"
     }, {
+     "title": "Datify",
+     "category": "date",
+     "description": "Easypeasy date functions.",
+     "homepage": "https://github.com/hemangshah/Datify"
+    }, {
       "title": "jazzy",
       "category": "documentation",
       "description": "Soulful docs.",
@@ -2249,6 +2254,11 @@
       "category": "logging",
       "description": "Full featured & Configurable logging utility with log levels, timestamps, and line numbers.",
       "homepage": "https://github.com/DaveWoodCom/XCGLogger"
+    }, {
+       "title": "Printer",
+       "category": "logging",
+       "description": "A fancy logger for your next app.",
+       "homepage": "https://github.com/hemangshah/printer"
     }, {
       "title": "GEOSwift",
       "category": "maps",
@@ -4379,6 +4389,11 @@
       "category": "calendar",
       "description": "Simple customizable calendar component.",
       "homepage": "https://github.com/shoheiyokoyama/Koyomi"
+    }, {
+       "title": "Workaholic",
+       "category": "calendar",
+       "description": "A Github's like work contribution timeline.",
+       "homepage": "https://github.com/hemangshah/Workaholic"
     }, {
       "title": "CalendarKit",
       "category": "calendar",

@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-832-orange.svg) | June 12, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-834-orange.svg) | June 19, 2017
 
 ### Contributing
 
@@ -268,6 +268,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Analytics
 *Analytics related libraries to easily track your app usage* [back to top](#readme) 
 
+* [Umbrella](https://github.com/devxoul/Umbrella) - Analytics abstraction layer
 
 ### Animation
 *Libs to help with animation* [back to top](#readme) 
@@ -778,6 +779,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AutoLayoutPlus](https://github.com/ruipfcosta/AutoLayoutPlus) - A bit of steroids for AutoLayout.
 * [Cartography](https://github.com/robb/Cartography) - Declarative auto layout lib for your project.
+* [Cupcake](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
 * [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - Auto Layout made easy.
 * [FormationLayout](https://github.com/evan-liu/FormationLayout) - Auto Layout lib supports group layout and size classes.
 * [MisterFusion](https://github.com/marty-suzuki/MisterFusion) - DSL for AutoLayout, supports Size Class.

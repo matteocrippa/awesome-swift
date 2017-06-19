@@ -4857,6 +4857,11 @@
       "category": "analytics",
       "description": "Analytics abstraction layer",
       "homepage": "https://github.com/devxoul/Umbrella"
+    }, {
+      "title": "LGButton",
+      "category": "button",
+      "description": "A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.",
+      "homepage": "https://github.com/loregr/LGButton"
     }
   ]
 }

@@ -2135,6 +2135,11 @@
       "description": "TinyConstraints is the syntactic sugar that makes Auto Layout sweeter for human use.",
       "homepage": "https://github.com/roberthein/TinyConstraints"
     }, {
+      "title": "Cupcake",
+      "category": "auto-layout",
+      "description": "An easy way to create and layout UI components for iOS.",
+      "homepage": "https://github.com/nerdycat/Cupcake"
+    }, {
       "title": "Transition",
       "category": "transition",
       "description": "Easy interactive interruptible custom ViewController transitions.",
@@ -4387,7 +4392,11 @@
     }, {
        "title": "Workaholic",
        "category": "calendar",
+<<<<<<< HEAD
        "description": "A Github's like work contribution timeline.",
+=======
+       "description": "A GitHub-like work contribution timeline.",
+>>>>>>> matteocrippa/master
        "homepage": "https://github.com/hemangshah/Workaholic"
     }, {
       "title": "CalendarKit",
@@ -4852,6 +4861,11 @@
       "category": "analytics",
       "description": "Analytics abstraction layer",
       "homepage": "https://github.com/devxoul/Umbrella"
+    }, {
+      "title": "LGButton",
+      "category": "button",
+      "description": "A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.",
+      "homepage": "https://github.com/loregr/LGButton"
     }
   ]
 }

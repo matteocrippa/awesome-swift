@@ -2029,6 +2029,11 @@
       "description": "A smart and easy-to-use image masking and cutout SDK for mobile apps.",
       "homepage": "https://github.com/TinyCrayon/TinyCrayon-iOS-SDK"
     }, {
+      "title": "YapImageManager",
+      "category": "images",
+      "description": "A high-performance image downloader — powered by YapDatabase.",
+      "homepage": "https://github.com/yapstudios/YapImageManager"
+    }, {
       "title": "C4iOS",
       "category": "kit",
       "description": "Harnesses the power of native iOS programming with a simplified API.",

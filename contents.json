@@ -4397,11 +4397,7 @@
     }, {
        "title": "Workaholic",
        "category": "calendar",
-<<<<<<< HEAD
-       "description": "A Github's like work contribution timeline.",
-=======
        "description": "A GitHub-like work contribution timeline.",
->>>>>>> matteocrippa/master
        "homepage": "https://github.com/hemangshah/Workaholic"
     }, {
       "title": "CalendarKit",

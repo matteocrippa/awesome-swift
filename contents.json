@@ -3856,6 +3856,11 @@
       "description": "Awesome expandable, collapsible tableview cell for iOS.",
       "homepage": "https://github.com/younatics/YNExpandableCell"
     }, {
+      "title": "ExpyTableView",
+      "category": "uitableview",
+      "description": "Make your table view expandable just by implemeting one method.",
+      "homepage": "https://github.com/okhanokbay/ExpyTableView"
+    }, {
       "title": "Alexandria",
       "category": "utility",
       "description": "A large set of convenience extensions for UIKit and Foundation.",

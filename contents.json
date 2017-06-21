@@ -3159,6 +3159,11 @@
       "category": "ui",
       "description": "Awesome fully customizable search view like Pinterest.",
       "homepage": "https://github.com/younatics/YNSearch"
+   }, {
+      "title": "Feelings",
+      "category": "ui",
+      "description": "Another rating view to share your feelings.",
+      "homepage": "https://github.com/hemangshah/Feelings"
     }, {
       "title": "Instructions",
       "category": "walkthrough",

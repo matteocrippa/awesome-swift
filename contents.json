@@ -4830,32 +4830,32 @@
     }, {
       "title": "CBPinEntryView",
       "category": "textfield",
-      "description": "CBPinEntryView is an easy to use, very customisable pin entry field.",
+      "description": "Easy to use, very customisable pin entry.",
       "homepage": "https://github.com/Fawxy/CBPinEntryView"
     }, {
       "title": "Swift Newsletter by Natasha the Robot",
       "category": "newsletter",
-      "description": "A curated newsletter by Natasha the Robot",
+      "description": "Curated newsletter.",
       "homepage": "https://www.natashatherobot.com"
     }, {
       "title": "Swift Weekly Brief",
       "category": "newsletter",
-      "description": "A multi author curated newsletter",
+      "description": "A multi author curated newsletter.",
       "homepage": "https://swiftweekly.github.io"
     }, {
       "title": "MarkdownView",
       "category": "text",
-      "description": "MarkdownView for iOS",
+      "description": "iOS Markdown view.",
       "homepage": "https://github.com/keitaoouchi/MarkdownView"
     }, {
       "title": "SwiftCssParser",
       "category": "template",
-      "description": "Extensible CSS Parser",
+      "description": "Extensible CSS parser.",
       "homepage": "https://github.com/100mango/SwiftCssParser"
     }, {
       "title": "Themes",
       "category": "template",
-      "description": "Theme management",
+      "description": "Theme management.",
       "homepage": "https://github.com/onmyway133/Themes"
     }, {
     "title": "FanMenu",
@@ -4865,12 +4865,12 @@
     }, {
       "title": "Umbrella",
       "category": "analytics",
-      "description": "Analytics abstraction layer",
+      "description": "Analytics abstraction layer.",
       "homepage": "https://github.com/devxoul/Umbrella"
     }, {
       "title": "URWeatherView",
       "category": "ui",
-      "description": "Show the weather effects onto view.",
+      "description": "Show weather effects onto a view.",
       "homepage": "https://github.com/jegumhon/URWeatherView"
     }, {
       "title": "LGButton",

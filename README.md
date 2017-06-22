@@ -150,8 +150,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Newsletter
 [back to top](#readme) 
 
-* [Swift Newsletter by Natasha the Robot](https://www.natashatherobot.com) - A curated newsletter by Natasha the Robot
-* [Swift Weekly Brief](https://swiftweekly.github.io) - A multi author curated newsletter
+* [Swift Newsletter by Natasha the Robot](https://www.natashatherobot.com) - Curated newsletter.
+* [Swift Weekly Brief](https://swiftweekly.github.io) - A multi author curated newsletter.
 * [This Week In Swift](http://swiftnews.curated.co/) - Weekly Newsletter on Swift.
 * [WeeklyCocoa.News](https://weeklycocoa.news) - Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.
 
@@ -268,7 +268,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Analytics
 *Analytics related libraries to easily track your app usage* [back to top](#readme) 
 
-* [Umbrella](https://github.com/devxoul/Umbrella) - Analytics abstraction layer
+* [Umbrella](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
 ### Animation
 *Libs to help with animation* [back to top](#readme) 
@@ -521,7 +521,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AEXML](https://github.com/tadija/AEXML) - xml wrapper.
 * [AlamofireXmlToObjects](https://github.com/evermeer/AlamofireXmlToObjects) - An Alamofire extension for fetching an XML feed and parsing it into objects.
-* [SwiftyXML](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML data
+* [SwiftyXML](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing.
 * [XMLParser](https://github.com/Mozharovsky/XMLParser) - A lightweight XMLParser for assembling and parsing XML values written for iOS 8+.
 
@@ -668,7 +668,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Bluetooth
 *Wrappers around CoreBluetooth* [back to top](#readme) 
 
-* [Bleu](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U
+* [Bleu](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U.
 * [BlueCap](https://github.com/troystribling/BlueCap) - Wrapper around CoreBluetooth and much more.
 * [Bluetonium](https://github.com/e-sites/Bluetonium) - Library that makes it easy to communicate with Bluetooth devices.
 * [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
@@ -715,7 +715,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - A library that displays spherical or cylindrical panoramas with touch or motion based controls.
 * [FacebookImagePicker](https://github.com/terflogag/FacebookImagePicker) - Facebook album photo picker.
 * [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - Core image filter.
-* [FlexibleImage](https://github.com/kawoou/FlexibleImage) - A simple way to play with image!
+* [FlexibleImage](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 * [gifu](https://github.com/kaishin/gifu) - highly performant animated GIF support for iOS.
 * [GPUImage 2](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
 * [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS with extra love for images.
@@ -1031,7 +1031,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Format](https://github.com/marmelroy/Format) - Formatting kit for numbers, addresses and colors.
 * [Markdown](https://github.com/crossroadlabs/Markdown) :penguin: - Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown).
 * [MarkdownKit](https://github.com/ivanbruel/MarkdownKit) - A simple and customizable Markdown Parser.
-* [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - MarkdownView for iOS
+* [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
 * [Mustard](https://github.com/mathewsanders/Mustard) - Library for tokenizing strings when splitting by whitespace doesn't cut it.
 * [Notepad](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 * [Parsey](https://github.com/rxwei/Parsey) - Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.
@@ -1148,7 +1148,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Twinkle](https://github.com/piemonte/Twinkle) - Easy way to make elements in your iOS app twinkle.
 * [UIDropDown](https://github.com/igongora/UIDropDown) - An elegant dropdown for iOS.
 * [URLEmbeddedView](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
-* [URWeatherView](https://github.com/jegumhon/URWeatherView) - Show the weather effects onto view.
+* [URWeatherView](https://github.com/jegumhon/URWeatherView) - Show weather effects onto a view.
 * [Wallet](https://github.com/rshevchuk/Wallet) - A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.
 * [WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
 * [YNSearch](https://github.com/younatics/YNSearch) - Awesome fully customizable search view like Pinterest.
@@ -1259,7 +1259,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [FrostedSidebar](https://github.com/edekhayser/FrostedSidebar) - Hamburger Menu and iOS 8 API's.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Guillotine style menu.
 * [InteractiveSideMenu](https://github.com/handsomecode/InteractiveSideMenu) - Customizable iOS Interactive Side Menu.
-* [KWDrawerController](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use!
+* [KWDrawerController](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
 * [MediumMenu](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 * [Pagemenu](https://github.com/PageMenu/PageMenu) - Pagination enabled view controller.
@@ -1317,14 +1317,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Template
 [back to top](#readme) 
 
-* [SwiftCssParser](https://github.com/100mango/SwiftCssParser) - Extensible CSS Parser
+* [SwiftCssParser](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
 * [TemplateKit](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces.
-* [Themes](https://github.com/onmyway133/Themes) - Theme management
+* [Themes](https://github.com/onmyway133/Themes) - Theme management.
 
 #### TextField
 [back to top](#readme) 
 
-* [CBPinEntryView](https://github.com/Fawxy/CBPinEntryView) - CBPinEntryView is an easy to use, very customisable pin entry field.
+* [CBPinEntryView](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
 * [DTTextField](https://github.com/iDhaval/DTTextField) - DTTextField is a custom textfield with floating placeholder and error label.
 * [HTYTextField](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder.
 * [PasswordTextField](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.

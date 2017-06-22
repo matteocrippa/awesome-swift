@@ -1006,7 +1006,7 @@
     }, {
       "title": "Bleu",
       "category": "bluetooth",
-      "description": "BLE (Bluetooth LE) for U",
+      "description": "BLE (Bluetooth LE) for U.",
       "homepage": "https://github.com/1amageek/Bleu"
     }, {
       "title": "ALCameraViewController",
@@ -1541,7 +1541,7 @@
     }, {
       "title": "SwiftyXML",
       "category": "xml",
-      "description": "The most swifty way to deal with XML data",
+      "description": "The most swifty way to deal with XML.",
       "homepage": "https://github.com/chenyunguiMilook/SwiftyXML"
     }, {
       "title": "Zip",
@@ -2016,7 +2016,7 @@
     }, {
       "title": "FlexibleImage",
       "category": "images",
-      "description": "A simple way to play with image!",
+      "description": "A simple way to play with images.",
       "homepage": "https://github.com/kawoou/FlexibleImage"
     }, {
       "title": "Snowflake",
@@ -3733,7 +3733,7 @@
     }, {
       "title": "KWDrawerController",
       "category": "menu",
-      "description": "Drawer view controller that easy to use!",
+      "description": "Drawer view controller that easy to use.",
       "homepage": "https://github.com/Kawoou/KWDrawerController"
     }, {
       "title": "Caishen",

@@ -4865,7 +4865,7 @@
     }, {
       "title": "URWeatherView",
       "category": "ui",
-      "description": "Show the weather effects onto view written in Swift3",
+      "description": "Show the weather effects onto view.",
       "homepage": "https://github.com/jegumhon/URWeatherView"
     }, {
       "title": "LGButton",

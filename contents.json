@@ -20,6 +20,10 @@
     "id": "third-party-guides",
     "parent": "guides"
   }, {
+    "title": "Newsletter",
+    "id": "newsletter",
+    "parent": "guides"
+  }, {
     "title": "Calendar",
     "id": "calendar",
     "parent": "ui"
@@ -74,7 +78,12 @@
     "title": "Libs",
     "id": "libs",
     "description": "Here you can find a list of snippets and libs for your Swift projects."
-  }, {
+  },{
+    "title": "Analytics",
+    "id": "analytics",
+    "parent": "libs",
+    "description": "Analytics related libraries to easily track your app usage"
+  },{
     "title": "AI",
     "id": "ai",
     "parent": "libs",
@@ -279,7 +288,7 @@
     "id": "haptic-feedback",
     "parent": "hardware",
     "description": "Libraries that involve the use of Haptic Feedback"
-  },{
+  }, {
     "title": "iBeacon",
     "id": "ibeacon",
     "parent": "hardware",
@@ -501,13 +510,17 @@
     "title": "Transition",
     "id": "transition",
     "parent": "ui"
- }, {
+  }, {
     "title": "UICollectionView",
     "id": "uicollectionview",
     "parent": "ui"
   }, {
     "title": "UITableView",
     "id": "uitableview",
+    "parent": "ui"
+  }, {
+    "title": "Template",
+    "id": "template",
     "parent": "ui"
   }, {
     "title": "Utility",
@@ -581,7 +594,7 @@
       "homepage": "https://github.com/nettlep/learn-swift"
     }, {
       "title": "This Week In Swift",
-      "category": "third-party-guides",
+      "category": "newsletter",
       "description": "Weekly Newsletter on Swift.",
       "homepage": "http://swiftnews.curated.co/"
     }, {
@@ -625,6 +638,11 @@
       "description": "App to learn to code.",
       "homepage": "https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617"
     }, {
+      "title": "WeeklyCocoa.News",
+      "category": "newsletter",
+      "description": "Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.",
+      "homepage": "https://weeklycocoa.news"
+    }, {
       "title": "GitHub",
       "category": "style-guides",
       "description": "Style guide & coding conventions.",
@@ -639,11 +657,6 @@
       "category": "style-guides",
       "description": "LinkedIn's Official Style Guide.",
       "homepage": "https://github.com/linkedin/swift-style-guide"
-    }, {
-      "title": "Swift-Best-Practices",
-      "category": "style-guides",
-      "description": "Best practices for software development.",
-      "homepage": "https://github.com/schwa/Swift-Community-Best-Practices/"
     }, {
       "title": "Webview Boilerplate",
       "category": "boilerplates",
@@ -993,7 +1006,7 @@
     }, {
       "title": "Bleu",
       "category": "bluetooth",
-      "description": "BLE (Bluetooth LE) for U",
+      "description": "BLE (Bluetooth LE) for U.",
       "homepage": "https://github.com/1amageek/Bleu"
     }, {
       "title": "ALCameraViewController",
@@ -1528,7 +1541,7 @@
     }, {
       "title": "SwiftyXML",
       "category": "xml",
-      "description": "The most swifty way to deal with XML data",
+      "description": "The most swifty way to deal with XML.",
       "homepage": "https://github.com/chenyunguiMilook/SwiftyXML"
     }, {
       "title": "Zip",
@@ -1591,6 +1604,11 @@
       "category": "date",
       "description": "Get the true current time impervious to device clock time changes (NTP library).",
       "homepage": "https://github.com/instacart/TrueTime.swift"
+    }, {
+     "title": "Datify",
+     "category": "date",
+     "description": "Easypeasy date functions.",
+     "homepage": "https://github.com/hemangshah/Datify"
     }, {
       "title": "jazzy",
       "category": "documentation",
@@ -1998,7 +2016,7 @@
     }, {
       "title": "FlexibleImage",
       "category": "images",
-      "description": "A simple way to play with image!",
+      "description": "A simple way to play with images.",
       "homepage": "https://github.com/kawoou/FlexibleImage"
     }, {
       "title": "Snowflake",
@@ -2010,6 +2028,11 @@
       "category": "images",
       "description": "A smart and easy-to-use image masking and cutout SDK for mobile apps.",
       "homepage": "https://github.com/TinyCrayon/TinyCrayon-iOS-SDK"
+    }, {
+      "title": "YapImageManager",
+      "category": "images",
+      "description": "A high-performance image downloader — powered by YapDatabase.",
+      "homepage": "https://github.com/yapstudios/YapImageManager"
     }, {
       "title": "C4iOS",
       "category": "kit",
@@ -2036,6 +2059,11 @@
       "category": "layout",
       "description": "A simple static table views for iOS.",
       "homepage": "https://github.com/venmo/Static"
+    }, {
+      "title": "PinLayout",
+      "category": "layout",
+      "description": "Manual views layouting without auto layout, no magic, pure code, full control. Concise syntax, readable & chainable.",
+      "homepage": "https://mirego.github.io/PinLayout/"
     }, {
       "title": "Stevia",
       "category": "layout",
@@ -2111,6 +2139,11 @@
       "category": "auto-layout",
       "description": "TinyConstraints is the syntactic sugar that makes Auto Layout sweeter for human use.",
       "homepage": "https://github.com/roberthein/TinyConstraints"
+    }, {
+      "title": "Cupcake",
+      "category": "auto-layout",
+      "description": "An easy way to create and layout UI components for iOS.",
+      "homepage": "https://github.com/nerdycat/Cupcake"
     }, {
       "title": "Transition",
       "category": "transition",
@@ -2226,6 +2259,11 @@
       "category": "logging",
       "description": "Full featured & Configurable logging utility with log levels, timestamps, and line numbers.",
       "homepage": "https://github.com/DaveWoodCom/XCGLogger"
+    }, {
+       "title": "Printer",
+       "category": "logging",
+       "description": "A fancy logger for your next app.",
+       "homepage": "https://github.com/hemangshah/printer"
     }, {
       "title": "GEOSwift",
       "category": "maps",
@@ -2628,7 +2666,7 @@
       "title": "keychain-swift",
       "category": "keychain",
       "description": "Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.",
-      "homepage": "https://github.com/marketplacer/keychain-swift"
+      "homepage": "https://github.com/evgenyneu/keychain-swift"
     }, {
       "title": "KeychainAccess",
       "category": "keychain",
@@ -2708,7 +2746,7 @@
       "title": "Mockingjay",
       "category": "mock",
       "description": "An elegant library for stubbing HTTP requests with ease.",
-      "homepage": "https://github.com/kylef/Mockingjay"
+      "homepage": "https://github.com/kylef-archive/Mockingjay"
     }, {
       "title": "Mockit",
       "category": "mock",
@@ -2989,7 +3027,7 @@
       "title": "Dodo",
       "category": "ui",
       "description": "A message bar for iOS.",
-      "homepage": "https://github.com/marketplacer/Dodo"
+      "homepage": "https://github.com/evgenyneu/Dodo"
     }, {
       "title": "Element",
       "category": "ui",
@@ -3409,7 +3447,7 @@
       "homepage": "https://github.com/ElaWorkshop/TagListView"
     }, {
       "title": "TemplateKit",
-      "category": "ui",
+      "category": "template",
       "description": "React-inspired framework for building component-based user interfaces.",
       "homepage": "https://github.com/mcudich/TemplateKit"
     }, {
@@ -3695,7 +3733,7 @@
     }, {
       "title": "KWDrawerController",
       "category": "menu",
-      "description": "Drawer view controller that easy to use!",
+      "description": "Drawer view controller that easy to use.",
       "homepage": "https://github.com/Kawoou/KWDrawerController"
     }, {
       "title": "Caishen",
@@ -3778,6 +3816,11 @@
       "description": "Yet another task indicator.",
       "homepage": "https://github.com/LeonardoCardoso/SendIndicator"
     }, {
+      "title": "SectionedSlider",
+      "category": "ui",
+      "description": "Control Center Slider.",
+      "homepage": "https://github.com/LeonardoCardoso/SectionedSlider"
+    }, {
       "title": "Hero",
       "category": "transition",
       "description": "Elegant transition library for iOS.",
@@ -3817,6 +3860,11 @@
       "category": "uitableview",
       "description": "Awesome expandable, collapsible tableview cell for iOS.",
       "homepage": "https://github.com/younatics/YNExpandableCell"
+    }, {
+      "title": "ExpyTableView",
+      "category": "uitableview",
+      "description": "Make your table view expandable just by implementing one method.",
+      "homepage": "https://github.com/okhanokbay/ExpyTableView"
     }, {
       "title": "Alexandria",
       "category": "utility",
@@ -4352,6 +4400,11 @@
       "description": "Simple customizable calendar component.",
       "homepage": "https://github.com/shoheiyokoyama/Koyomi"
     }, {
+       "title": "Workaholic",
+       "category": "calendar",
+       "description": "A GitHub-like work contribution timeline.",
+       "homepage": "https://github.com/hemangshah/Workaholic"
+    }, {
       "title": "CalendarKit",
       "category": "calendar",
       "description": "Fully customizable calendar day view.",
@@ -4682,10 +4735,10 @@
       "homepage": "https://github.com/daniel-pedersen/SKQueue",
       "tags": ["swift", "kqueue", "monitor", "filesystem", "files", "directories", "watcher"]
     }, {
-  		"title": "TapticEngine",
-  		"category": "haptic-feedback",
-  		"description": "Generates haptic feedback vibrations on iOS device.",
-  		"homepage": "https://github.com/WorldDownTown/TapticEngine"
+      "title": "TapticEngine",
+      "category": "haptic-feedback",
+      "description": "Generates haptic feedback vibrations on iOS device.",
+      "homepage": "https://github.com/WorldDownTown/TapticEngine"
     }, {
       "title": "SwiftyOnboard",
       "category": "walkthrough",
@@ -4697,13 +4750,13 @@
       "description": "Easy Map Annotation Clustering.",
       "homepage": "https://github.com/efremidze/Cluster",
       "tags": ["map", "cluster", "annotations", "swift", "mapkit"]
-    },{
+    }, {
       "title": "BMPlayer",
       "category": "video",
       "description": "A video player for iOS, based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brigtness and seek by slide.",
       "homepage": "https://github.com/BrikerMan/BMPlayer",
       "tags": ["swift", "avplayer", "video-player", "ios-swift", "carthage"]
-    },{
+    }, {
       "title": "Marathon",
       "category": "scripting",
       "description": "Easy way to create and manage scripts.",
@@ -4711,11 +4764,11 @@
       "tags": ["swift", "scripting"]
     },
     {
-		  "title": "TextFieldCounter",
-		  "category": "textfield",
-		  "description": "UITextField character counter with lovable UX.",
-		  "homepage": "https://github.com/serralvo/TextFieldCounter",
-		  "tags": ["textfield"]
+      "title": "TextFieldCounter",
+      "category": "textfield",
+      "description": "UITextField character counter with lovable UX.",
+      "homepage": "https://github.com/serralvo/TextFieldCounter",
+      "tags": ["textfield"]
     }, {
       "title": "BouncyLayout",
       "category": "uicollectionview",
@@ -4777,8 +4830,53 @@
     }, {
       "title": "CBPinEntryView",
       "category": "textfield",
-      "description": "CBPinEntryView is an easy to use, very customisable pin entry field.",
+      "description": "Easy to use, very customisable pin entry.",
       "homepage": "https://github.com/Fawxy/CBPinEntryView"
+    }, {
+      "title": "Swift Newsletter by Natasha the Robot",
+      "category": "newsletter",
+      "description": "Curated newsletter.",
+      "homepage": "https://www.natashatherobot.com"
+    }, {
+      "title": "Swift Weekly Brief",
+      "category": "newsletter",
+      "description": "A multi author curated newsletter.",
+      "homepage": "https://swiftweekly.github.io"
+    }, {
+      "title": "MarkdownView",
+      "category": "text",
+      "description": "iOS Markdown view.",
+      "homepage": "https://github.com/keitaoouchi/MarkdownView"
+    }, {
+      "title": "SwiftCssParser",
+      "category": "template",
+      "description": "Extensible CSS parser.",
+      "homepage": "https://github.com/100mango/SwiftCssParser"
+    }, {
+      "title": "Themes",
+      "category": "template",
+      "description": "Theme management.",
+      "homepage": "https://github.com/onmyway133/Themes"
+    }, {
+    "title": "FanMenu",
+    "category": "menu",
+    "description": "Menu with a circular layout based on Macaw.",
+    "homepage": "https://github.com/exyte/fan-menu"
+    }, {
+      "title": "Umbrella",
+      "category": "analytics",
+      "description": "Analytics abstraction layer.",
+      "homepage": "https://github.com/devxoul/Umbrella"
+    }, {
+      "title": "URWeatherView",
+      "category": "ui",
+      "description": "Show weather effects onto a view.",
+      "homepage": "https://github.com/jegumhon/URWeatherView"
+    }, {
+      "title": "LGButton",
+      "category": "button",
+      "description": "A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.",
+      "homepage": "https://github.com/loregr/LGButton"
     }
   ]
 }

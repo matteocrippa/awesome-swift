@@ -3362,7 +3362,7 @@
     }, {
       "title": "Siren",
       "category": "version-manager",
-      "description": "Inform users when App Store updates are available.",
+      "description": "Notify users when a new version of your app is available and prompt them to upgrade.",
       "homepage": "https://github.com/ArtSabintsev/Siren"
     }, {
       "title": "SKPhotoBrowser",
@@ -4477,7 +4477,7 @@
     {
       "title": "SwifterSwift",
       "category": "utility",
-      "description": "A handy collection of more than 360 native extensions to boost your productivity.",
+      "description": "A handy collection of more than 500 native Swift 3 extensions to boost your productivity. ",
       "homepage": "https://github.com/SwifterSwift/SwifterSwift",
       "tags": ["extensions", "ios"]
     },

@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-841-orange.svg) | June 23, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-842-orange.svg) | June 24, 2017
 
 ### Contributing
 
@@ -405,6 +405,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Hydra](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code.
 * [Overdrive](https://github.com/arikis/Overdrive) - Fast async task based API with focus on type safety, concurrency and multi threading.
 * [Safe](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization.
+* [Threadly](https://github.com/nvzqz/Threadly) :penguin: - Type-safe thread-local storage.
 * [Venice](https://github.com/Zewo/Venice) :penguin: - Communicating sequential processes (CSP), Linux ready.
 
 ### Currency

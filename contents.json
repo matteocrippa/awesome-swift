@@ -1158,6 +1158,12 @@
       "description": "Modern Concurrency and Synchronization.",
       "homepage": "https://github.com/tidwall/Safe"
     }, {
+      "title": "Threadly",
+      "category": "concurrency",
+      "description": "Type-safe thread-local storage.",
+      "homepage": "https://github.com/nvzqz/Threadly",
+      "tags": ["linux"]
+    }, {
       "title": "Venice",
       "category": "concurrency",
       "description": "Communicating sequential processes (CSP), Linux ready.",

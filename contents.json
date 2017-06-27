@@ -859,6 +859,11 @@
       "description": "Composable animations.",
       "homepage": "https://github.com/rchatham/SwiftyAnimate"
     }, {
+      "title": "YapAnimator",
+      "category": "animation",
+      "description": "Your fast and friendly physics-based animation system.",
+      "homepage": "https://github.com/yapstudios/YapAnimator"
+    }, {
       "title": "Appz",
       "category": "app-routing",
       "description": "Launch external apps and deeplink with ease.",

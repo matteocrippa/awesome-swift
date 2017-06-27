@@ -4883,6 +4883,11 @@
       "category": "button",
       "description": "A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.",
       "homepage": "https://github.com/loregr/LGButton"
+    }, {
+      "title": "ImageViewer",
+      "category": "images",
+      "description": "An image viewer à la Twitter",
+      "homepage": "https://github.com/MailOnline/ImageViewer"
     }
   ]
 }

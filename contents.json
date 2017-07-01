@@ -2839,7 +2839,7 @@
     }, {
       "title": "MarkyMark",
       "category": "text",
-      "description": "Converts markdown into native views or attributed strings.",
+      "description": "Converts Markdown into native views or attributed strings.",
       "homepage": "https://github.com/M2Mobi/Marky-Mark"
     }, {
       "title": "PrediKit",

@@ -2837,6 +2837,11 @@
       "description": "A simple and customizable Markdown Parser.",
       "homepage": "https://github.com/ivanbruel/MarkdownKit"
     }, {
+      "title": "MarkyMark",
+      "category": "text",
+      "description": "Converts Markdown into native views or attributed strings.",
+      "homepage": "https://github.com/M2Mobi/Marky-Mark"
+    }, {
       "title": "PrediKit",
       "category": "text",
       "description": "An NSPredicate DSL for iOS & OS X inspired by SnapKit.",

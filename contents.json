@@ -760,7 +760,7 @@
     }, {
       "title": "CenteredCollectionView",
       "category": "uicollectionview",
-      "description": "A lightweight CollectionView that 'pages' and centers it's cells.",
+      "description": "A lightweight UICollectionViewLayout that pages and centers it's cells.",
       "homepage": "https://github.com/BenEmdon/CenteredCollectionView"
     }, {
       "title": "Stellar",

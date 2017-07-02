@@ -4896,7 +4896,7 @@
     }, {
       "title": "VGPlayer",
       "category": "video",
-      "description": "A simple iOS video player in Swift, support play local and network, background playback mode, automatic caching while playing.",
+      "description": "A simple iOS video player, support play local and network, background playback mode, automatic caching while playing.",
       "homepage": "https://github.com/VeinGuo/VGPlayer"
     }
   ]

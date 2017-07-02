@@ -4893,6 +4893,11 @@
       "category": "images",
       "description": "An image viewer à la Twitter",
       "homepage": "https://github.com/MailOnline/ImageViewer"
+    }, {
+      "title": "VGPlayer",
+      "category": "video",
+      "description": "A simple iOS video player in Swift, support play local and network, background playback mode, automatic caching while playing.",
+      "homepage": "https://github.com/VeinGuo/VGPlayer"
     }
   ]
 }

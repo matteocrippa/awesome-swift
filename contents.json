@@ -1948,7 +1948,7 @@
       "title": "MapleBacon",
       "category": "images",
       "description": "Image download and caching library.",
-      "homepage": "https://github.com/zalando-incubator/MapleBacon"
+      "homepage": "https://github.com/JanGorman/MapleBacon"
     }, {
       "title": "Misen",
       "category": "images",
@@ -3661,6 +3661,11 @@
       "category": "button",
       "description": "A ripple button animation.",
       "homepage": "https://github.com/zoonooz/ZFRippleButton"
+    }, {
+      "title": "PMSuperButton",
+      "category": "button",
+      "description": "A powerful UIButton with super powers, customizable from Storyboard.",
+      "homepage": "https://github.com/Codeido/PMSuperButton"
     }, {
       "title": "Eureka",
       "category": "form",

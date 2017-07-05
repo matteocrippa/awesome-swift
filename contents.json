@@ -382,6 +382,10 @@
     "id": "ocr",
     "parent": "libs"
   }, {
+    "title": "Optimization",
+    "id": "optimization",
+    "parent": "libs"
+  }, {
     "title": "Quality",
     "id": "quality",
     "parent": "libs"
@@ -2626,6 +2630,11 @@
       "category": "ocr",
       "description": "Neural Network based OCR lib.",
       "homepage": "https://github.com/garnele007/SwiftOCR"
+    }, {
+      "title": "Unreachable",
+      "category": "optimization",
+      "description": "Unreachable code path optimization hint.",
+      "homepage": "https://github.com/nvzqz/Unreachable"
     }, {
       "title": "SwiftLint",
       "category": "quality",

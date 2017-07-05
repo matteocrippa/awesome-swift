@@ -2634,7 +2634,8 @@
       "title": "Unreachable",
       "category": "optimization",
       "description": "Unreachable code path optimization hint.",
-      "homepage": "https://github.com/nvzqz/Unreachable"
+      "homepage": "https://github.com/nvzqz/Unreachable",
+      "tags": ["linux"]
     }, {
       "title": "SwiftLint",
       "category": "quality",

@@ -3664,7 +3664,7 @@
     }, {
       "title": "PMSuperButton",
       "category": "button",
-      "description": "A powerful UIButton with super powers, customizable from Storyboard!",
+      "description": "A powerful UIButton with super powers, customizable from Storyboard.",
       "homepage": "https://github.com/Codeido/PMSuperButton"
     }, {
       "title": "Eureka",

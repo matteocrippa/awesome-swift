@@ -2,7 +2,7 @@ var fs = require('fs');
 var data = JSON.parse(fs.readFileSync('contents.json', 'utf8'));
 //console.log(obj);
 var projects = data.projects;
-console.log(projects);
+//console.log(projects);
 delete data.projects;
 
 var database = {};
@@ -39,6 +39,6 @@ projects.forEach(function(proj) {
   database.projects.push(item);
 });
 
-console.log(database);
+//console.log(database);
 var json = JSON.stringify(database);
 fs.writeFile('database.json', json, 'utf8');

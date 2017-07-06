@@ -4918,6 +4918,11 @@
       "category": "video",
       "description": "A simple iOS video player, support play local and network, background playback mode, automatic caching while playing.",
       "homepage": "https://github.com/VeinGuo/VGPlayer"
+    }, {
+      "title": "Zip Foundation",
+      "category": "zip",
+      "description": "ZIP Foundation is a library to create, read and modify ZIP archive files.",
+      "homepage": "https://github.com/weichsel/ZIPFoundation"
     }
   ]
 }

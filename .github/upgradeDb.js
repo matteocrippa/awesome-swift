@@ -29,7 +29,7 @@ projects.forEach(function(proj) {
     "license": "",
     "source": proj.homepage,
     "itunes": "",
-    "stars": 332,
+    "stars": 0,
     "tags": tags,
     "date_added": "",
     "suggested_by": "",

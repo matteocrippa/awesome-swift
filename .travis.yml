@@ -11,4 +11,5 @@ script:
   - json validate --schema-file=.github/schema.json --document-file=contents.json
 after_success:
   - ruby .github/convert.rb
+  - node .github/upgradeDb.js
   - ./.github/deploy.sh

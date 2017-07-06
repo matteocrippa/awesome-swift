@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-847-orange.svg) | July 05, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-848-orange.svg) | July 06, 2017
 
 ### Contributing
 
@@ -103,6 +103,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [Socket](#socket)
     - [Webserver](#webserver)
   - [OCR](#ocr)
+  - [Optimization](#optimization)
   - [PDF](#pdf)
   - [Quality](#quality)
   - [Scripting](#scripting)
@@ -838,7 +839,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Cluster](https://github.com/efremidze/Cluster) - Easy Map Annotation Clustering.
-* [GEOSwift](https://github.com/andreacremaschi/GEOSwift) - Make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
+* [GEOSwift](https://github.com/GEOSwift/GEOSwift) - Make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
 
 ### Math
 [back to top](#readme) 
@@ -938,6 +939,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - Neural Network based OCR lib.
+
+### Optimization
+[back to top](#readme) 
+
+* [Unreachable](https://github.com/nvzqz/Unreachable) :penguin: - Unreachable code path optimization hint.
 
 ### PDF
 [back to top](#readme) 

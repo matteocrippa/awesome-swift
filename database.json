@@ -4625,7 +4625,7 @@
     "category-ids": ["maps"],
     "description": "Make it easier to work with geographic models and calculate intersections, overlapping, projections etc.",
     "license": "",
-    "source": "https://github.com/andreacremaschi/GEOSwift",
+    "source": "https://github.com/GEOSwift/GEOSwift",
     "itunes": "",
     "stars": 332,
     "tags": [],

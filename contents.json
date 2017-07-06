@@ -78,12 +78,12 @@
     "title": "Libs",
     "id": "libs",
     "description": "Here you can find a list of snippets and libs for your Swift projects."
-  },{
+  }, {
     "title": "Analytics",
     "id": "analytics",
     "parent": "libs",
     "description": "Analytics related libraries to easily track your app usage"
-  },{
+  }, {
     "title": "AI",
     "id": "ai",
     "parent": "libs",
@@ -1616,10 +1616,10 @@
       "description": "Get the true current time impervious to device clock time changes (NTP library).",
       "homepage": "https://github.com/instacart/TrueTime.swift"
     }, {
-     "title": "Datify",
-     "category": "date",
-     "description": "Easypeasy date functions.",
-     "homepage": "https://github.com/hemangshah/Datify"
+      "title": "Datify",
+      "category": "date",
+      "description": "Easypeasy date functions.",
+      "homepage": "https://github.com/hemangshah/Datify"
     }, {
       "title": "jazzy",
       "category": "documentation",
@@ -2271,15 +2271,15 @@
       "description": "Full featured & Configurable logging utility with log levels, timestamps, and line numbers.",
       "homepage": "https://github.com/DaveWoodCom/XCGLogger"
     }, {
-       "title": "Printer",
-       "category": "logging",
-       "description": "A fancy logger for your next app.",
-       "homepage": "https://github.com/hemangshah/printer"
+      "title": "Printer",
+      "category": "logging",
+      "description": "A fancy logger for your next app.",
+      "homepage": "https://github.com/hemangshah/printer"
     }, {
       "title": "GEOSwift",
       "category": "maps",
       "description": "Make it easier to work with geographic models and calculate intersections, overlapping, projections etc.",
-      "homepage": "https://github.com/andreacremaschi/GEOSwift"
+      "homepage": "https://github.com/GEOSwift/GEOSwift"
     }, {
       "title": "STLocationRequest",
       "category": "location",
@@ -4421,10 +4421,10 @@
       "description": "Simple customizable calendar component.",
       "homepage": "https://github.com/shoheiyokoyama/Koyomi"
     }, {
-       "title": "Workaholic",
-       "category": "calendar",
-       "description": "A GitHub-like work contribution timeline.",
-       "homepage": "https://github.com/hemangshah/Workaholic"
+      "title": "Workaholic",
+      "category": "calendar",
+      "description": "A GitHub-like work contribution timeline.",
+      "homepage": "https://github.com/hemangshah/Workaholic"
     }, {
       "title": "CalendarKit",
       "category": "calendar",
@@ -4879,10 +4879,10 @@
       "description": "Theme management.",
       "homepage": "https://github.com/onmyway133/Themes"
     }, {
-    "title": "FanMenu",
-    "category": "menu",
-    "description": "Menu with a circular layout based on Macaw.",
-    "homepage": "https://github.com/exyte/fan-menu"
+      "title": "FanMenu",
+      "category": "menu",
+      "description": "Menu with a circular layout based on Macaw.",
+      "homepage": "https://github.com/exyte/fan-menu"
     }, {
       "title": "Umbrella",
       "category": "analytics",

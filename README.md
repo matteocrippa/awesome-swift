@@ -538,7 +538,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Zip](https://github.com/marmelroy/Zip) - Framework for zipping and unzipping files.
-* [Zip Foundation](https://github.com/weichsel/ZIPFoundation) - ZIP Foundation is a library to create, read and modify ZIP archive files.
+* [Zip Foundation](https://github.com/weichsel/ZIPFoundation) - A library to create, read and modify ZIP archive files.
 
 ### Date
 *Handle data formatting easily.* [back to top](#readme) 

@@ -4923,6 +4923,11 @@
       "category": "zip",
       "description": "ZIP Foundation is a library to create, read and modify ZIP archive files.",
       "homepage": "https://github.com/weichsel/ZIPFoundation"
+    }, {
+      "title": "Bluejay",
+      "category": "bluetooth",
+      "description": "A simple framework for building reliable Bluetooth LE apps.",
+      "homepage": "https://github.com/steamclock/bluejay"
     }
   ]
 }

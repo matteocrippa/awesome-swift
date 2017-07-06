@@ -6,10 +6,9 @@ before_script:
   - gem install awesome_bot
   - sudo pip install json-spec
 script:
-  - npm test
   - awesome_bot contents.json -w AERecord,theswiftwebdeveloper,bluemix
   - json validate --schema-file=.github/schema.json --document-file=contents.json
+  - node .github/upgradeDb.js
 after_success:
   - ruby .github/convert.rb
-  - node .github/upgradeDb.js
   - ./.github/deploy.sh

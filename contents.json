@@ -4928,6 +4928,11 @@
       "category": "bluetooth",
       "description": "A simple framework for building reliable Bluetooth LE apps.",
       "homepage": "https://github.com/steamclock/bluejay"
+    }, {
+      "title": "PryntTrimmerView",
+      "category": "video",
+      "description": "A library of UI components to trim and crop videos.",
+      "homepage": "https://github.com/prynt/PryntTrimmerView"
     }
   ]
 }

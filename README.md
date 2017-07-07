@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-850-orange.svg) | July 06, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-851-orange.svg) | July 07, 2017
 
 ### Contributing
 
@@ -930,7 +930,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [swifter](https://github.com/httpswift/swifter) :penguin: - Http server with routing handler.
 * [Swifton](https://github.com/necolt/Swifton) :penguin: - A Ruby on Rails inspired Web Framework that runs on Linux and OS X.
 * [SwiftyHTTP](https://github.com/AlwaysRightInstitute/SwiftyHTTP) - A simple GCD based HTTP client and server.
-* [Tailor](https://tailorframe.work) - A framework for building web apps.
+* [Tailor](https://github.com/brownleej/tailor) - A framework for building web apps.
 * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers.
 * [Trevi](https://github.com/Yoseob/Trevi) - A powerful Web Application Server Framework Project.
 * [Vapor](https://github.com/vapor/vapor) :penguin: - Elegant web framework that works on iOS, OS X, and Ubuntu.
@@ -1483,5 +1483,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 * [Player](https://github.com/piemonte/Player) - iOS video player, simple drop in component for playing and streaming media.
 * [PlayerView](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
+* [PryntTrimmerView](https://github.com/prynt/PryntTrimmerView) - A library of UI components to trim and crop videos.
 * [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - Easy to Use UIView subclass for implementating a video background.
 * [VGPlayer](https://github.com/VeinGuo/VGPlayer) - A simple iOS video player, support play local and network, background playback mode, automatic caching while playing.

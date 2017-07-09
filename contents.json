@@ -4933,6 +4933,11 @@
       "category": "video",
       "description": "A library of UI components to trim and crop videos.",
       "homepage": "https://github.com/prynt/PryntTrimmerView"
+    }, {
+      "title": "GridView",
+      "category": "uitableview",
+      "description": "Reusable GridView with excellent performance and customization that can be time table, spreadsheet, paging and more.",
+      "homepage": "https://github.com/KyoheiG3/GridView"
     }
   ]
 }

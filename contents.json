@@ -4943,6 +4943,11 @@
       "category": "ui",
       "description": "Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.",
       "homepage": "https://github.com/yonat/StepProgressView"
+    }, {
+      "title": "MultiToggleButton",
+      "category": "button",
+      "description": "A UIButton subclass that implements tap-to-toggle button text. (Like the camera flash and timer buttons.)",
+      "homepage": "https://github.com/yonat/MultiToggleButton"
     }
   ]
 }

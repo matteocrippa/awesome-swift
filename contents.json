@@ -3381,10 +3381,10 @@
       "description": "A cellmodel-driven CollectionView manager.",
       "homepage": "https://github.com/nghialv/Sapporo"
     }, {
-      "title": "Scrollable-GraphView",
+      "title": "ScrollableGraphView",
       "category": "chart",
-      "description": "An adaptive scrollable graph view for iOS to visualise simple discrete datasets.",
-      "homepage": "https://github.com/philackm/Scrollable-GraphView"
+      "description": "Adaptive scrollable graph view for iOS to visualise simple discrete datasets.",
+      "homepage": "https://github.com/philackm/ScrollableGraphView"
     }, {
       "title": "Siren",
       "category": "version-manager",
@@ -3429,8 +3429,8 @@
     }, {
       "title": "SwiftValidator",
       "category": "validation",
-      "description": "UIView validation framework.",
-      "homepage": "https://github.com/jpotts18/SwiftValidator"
+      "description": "A rule-based validation library.",
+      "homepage": "https://github.com/SwiftValidatorCommunity/SwiftValidator"
     }, {
       "title": "SwiftyDrop",
       "category": "alert",

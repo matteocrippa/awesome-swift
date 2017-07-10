@@ -4938,6 +4938,11 @@
       "category": "uitableview",
       "description": "Reusable GridView with excellent performance and customization that can be time table, spreadsheet, paging and more.",
       "homepage": "https://github.com/KyoheiG3/GridView"
+    }, {
+      "title": "StepProgressView",
+      "category": "ui",
+      "description": "Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.",
+      "homepage": "https://github.com/yonat/StepProgressView"
     }
   ]
 }

@@ -4946,7 +4946,7 @@
     }, {
       "title": "MultiToggleButton",
       "category": "button",
-      "description": "A UIButton subclass that implements tap-to-toggle button text. (Like the camera flash and timer buttons.)",
+      "description": "A UIButton subclass that implements tap-to-toggle button text (like the camera flash and timer buttons).",
       "homepage": "https://github.com/yonat/MultiToggleButton"
     }
   ]

@@ -3381,10 +3381,10 @@
       "description": "A cellmodel-driven CollectionView manager.",
       "homepage": "https://github.com/nghialv/Sapporo"
     }, {
-      "title": "Scrollable-GraphView",
+      "title": "ScrollableGraphView",
       "category": "chart",
-      "description": "An adaptive scrollable graph view for iOS to visualise simple discrete datasets.",
-      "homepage": "https://github.com/philackm/Scrollable-GraphView"
+      "description": "Adaptive scrollable graph view for iOS to visualise simple discrete datasets.",
+      "homepage": "https://github.com/philackm/ScrollableGraphView"
     }, {
       "title": "Siren",
       "category": "version-manager",
@@ -3429,8 +3429,8 @@
     }, {
       "title": "SwiftValidator",
       "category": "validation",
-      "description": "UIView validation framework.",
-      "homepage": "https://github.com/jpotts18/SwiftValidator"
+      "description": "A rule-based validation library.",
+      "homepage": "https://github.com/SwiftValidatorCommunity/SwiftValidator"
     }, {
       "title": "SwiftyDrop",
       "category": "alert",
@@ -4938,6 +4938,27 @@
       "category": "uitableview",
       "description": "Reusable GridView with excellent performance and customization that can be time table, spreadsheet, paging and more.",
       "homepage": "https://github.com/KyoheiG3/GridView"
+    }, {
+      "title": "StepProgressView",
+      "category": "ui",
+      "description": "Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.",
+      "homepage": "https://github.com/yonat/StepProgressView"
+    }, {
+      "title": "MultiToggleButton",
+      "category": "button",
+      "description": "A UIButton subclass that implements tap-to-toggle button text (like the camera flash and timer buttons).",
+      "homepage": "https://github.com/yonat/MultiToggleButton"
+    }, {
+      "title": "AGCircularPicker",
+      "category": "ui",
+      "description": "AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter",
+      "homepage": "https://github.com/agilie/AGCircularPicker",
+      "tags": ["iOS", "swift", "color", "circular-picker", "picker"]
+    }, {
+      "title": "ParallaxHeader",
+      "category": "ui",
+      "description": "Simple way to add parallax header to UIScrollView/UITableView written in Swift.",
+      "homepage": "https://github.com/romansorochak/ParallaxHeader"
     }
   ]
 }

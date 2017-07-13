@@ -4951,13 +4951,13 @@
     }, {
       "title": "AGCircularPicker",
       "category": "ui",
-      "description": "AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter",
+      "description": "AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter.",
       "homepage": "https://github.com/agilie/AGCircularPicker",
       "tags": ["iOS", "swift", "color", "circular-picker", "picker"]
     }, {
       "title": "ParallaxHeader",
       "category": "ui",
-      "description": "Simple way to add parallax header to UIScrollView/UITableView written in Swift.",
+      "description": "Simple way to add parallax header to UIScrollView/UITableView.",
       "homepage": "https://github.com/romansorochak/ParallaxHeader"
     }
   ]

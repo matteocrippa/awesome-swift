@@ -1906,7 +1906,7 @@
     }, {
       "title": "gifu",
       "category": "images",
-      "description": "highly performant animated GIF support for iOS.",
+      "description": "Highly performant animated GIF support for iOS.",
       "homepage": "https://github.com/kaishin/gifu"
     }, {
       "title": "GPUImage 2",
@@ -1991,7 +1991,7 @@
     }, {
       "title": "SwiftGif",
       "category": "images",
-      "description": "A small UIImage extension with gif support.",
+      "description": "A small UIImage extension with GIF support.",
       "homepage": "https://github.com/bahlo/SwiftGif"
     }, {
       "title": "SwiftSVG",
@@ -3182,7 +3182,7 @@
     }, {
       "title": "PPAssetsActionController",
       "category": "ui",
-      "description": "Highly customizable Action Sheet Controller with Assets Preview.",
+      "description": "Highly customizable Action Sheet Controller with assets preview.",
       "homepage": "https://github.com/pantuspavel/PPAssetsActionController",
       "tags": ["macOS", "UICollectionView", "photos", "assets"]
     }, {

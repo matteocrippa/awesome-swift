@@ -4959,6 +4959,11 @@
       "category": "ui",
       "description": "Simple way to add parallax header to UIScrollView/UITableView.",
       "homepage": "https://github.com/romansorochak/ParallaxHeader"
+    }, {
+      "title": "DeckTransition",
+      "category": "ui",
+      "description": "A library to recreate the iOS 10 Apple Music now playing transition",
+      "homepage": "https://github.com/HarshilShah/DeckTransition"
     }
   ]
 }

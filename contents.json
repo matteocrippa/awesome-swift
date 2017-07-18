@@ -4959,6 +4959,11 @@
       "category": "ui",
       "description": "Simple way to add parallax header to UIScrollView/UITableView.",
       "homepage": "https://github.com/romansorochak/ParallaxHeader"
+    }, {
+ +      "title": "TaniwhaTextField",
+ +      "category": "textfield",
+ +      "description": "TaniwhaTextField is a lightweight and beautiful swift textfield framework. It has float label pattern, and also you can highly customise it.",
+ +      "homepage": "https://github.com/iceman201/TaniwhaTextField"
     }
   ]
 }

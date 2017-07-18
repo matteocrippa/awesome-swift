@@ -1048,11 +1048,6 @@
       "description": "A lightweight framework to build chat applications.",
       "homepage": "https://github.com/badoo/Chatto"
     }, {
-      "title": "MessageKit",
-      "category": "chat",
-      "description": "Eventually, a re-write of JSQMessagesViewController.",
-      "homepage": "https://github.com/MessageKit/MessageKit-iOS"
-    }, {
       "title": "Chameleon",
       "category": "colors",
       "description": "Chameleon is a lightweight, yet powerful, color framework for iOS.",

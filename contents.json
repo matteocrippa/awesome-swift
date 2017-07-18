@@ -4957,7 +4957,7 @@
     }, {
       "title": "DeckTransition",
       "category": "ui",
-      "description": "A library to recreate the iOS 10 Apple Music now playing transition",
+      "description": "A library to recreate the iOS 10 Apple Music now playing transition.",
       "homepage": "https://github.com/HarshilShah/DeckTransition"
     }
   ]

@@ -4964,6 +4964,12 @@
       "category": "ui",
       "description": "A library to recreate the iOS 10 Apple Music now playing transition.",
       "homepage": "https://github.com/HarshilShah/DeckTransition"
+    },
+    {
+      "title": "MessageKit",
+      "category": "chat",
+      "description": "A community-driven replacement for JSQMessagesViewController.",
+      "homepage": "https://github.com/MessageKit/MessageKit"
     }
   ]
 }

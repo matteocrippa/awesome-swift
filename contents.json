@@ -4957,7 +4957,7 @@
     }, {
      "title": "TaniwhaTextField",
        "category": "textfield",
-       "description": "TaniwhaTextField is a lightweight and beautiful swift textfield framework. It has float label pattern, and also you can highly customise it.",
+       "description": "Lightweight and beautiful textfield framework, highly customisable, includes float label pattern.",
        "homepage": "https://github.com/iceman201/TaniwhaTextField"
     }, {
       "title": "DeckTransition",

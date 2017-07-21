@@ -868,7 +868,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [BigBrother](https://github.com/marcelofabri/BigBrother) - Automatically sets the network activity indicator for any performed request.
 * [Endpoint](https://github.com/devxoul/Endpoint) - Elegant API Abstraction.
 * [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
-* [Just](https://github.com/JustHTTP/Just) - HTTP for Humans (a python-requests style HTTP library).
+* [Just](https://github.com/JustHTTP/Just) :penguin: - HTTP for Humans (a python-requests style HTTP library).
 * [Malibu](https://github.com/hyperoslo/Malibu) - A networking library built on promises.
 * [Moya](https://github.com/Moya/Moya) - Network abstraction layer.
 * [NEKit](https://github.com/zhuhaow/NEKit) - A toolkit for Network Extension Framework.

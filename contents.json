@@ -4979,7 +4979,7 @@
     }, {
       "title": "InstantSearch iOS",
       "category": "ui",
-      "description": "A library of widgets and helpers to build instant-search applications on iOS.",
+      "description": "A library of widgets and helpers to build instant-search features on iOS.",
       "homepage": "https://github.com/algolia/instantsearch-ios"
     }
   ]

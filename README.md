@@ -1169,6 +1169,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Wallet](https://github.com/rshevchuk/Wallet) - A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.
 * [WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
 * [YNSearch](https://github.com/younatics/YNSearch) - Awesome fully customizable search view like Pinterest.
+* [InstantSearch iOS](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search applications on iOS.
 
 #### Alert
 *Libs to display alert, action sheet, notification, popup.* [back to top](#readme) 

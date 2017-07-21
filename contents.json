@@ -4976,6 +4976,11 @@
       "category": "fonts",
       "description": "An inkwell to use custom fonts on the fly.",
       "homepage": "https://github.com/ninjaprox/Inkwell"
+    }, {
+      "title": "InstantSearch iOS",
+      "category": "ui",
+      "description": "A library of widgets and helpers to build instant-search features on iOS.",
+      "homepage": "https://github.com/algolia/instantsearch-ios"
     }
   ]
 }

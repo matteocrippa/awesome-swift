@@ -2349,7 +2349,8 @@
       "title": "Just",
       "category": "network",
       "description": "HTTP for Humans (a python-requests style HTTP library).",
-      "homepage": "https://github.com/JustHTTP/Just"
+      "homepage": "https://github.com/JustHTTP/Just",
+      "tags": ["linux"]
     }, {
       "title": "Malibu",
       "category": "network",
@@ -4975,6 +4976,11 @@
       "category": "fonts",
       "description": "An inkwell to use custom fonts on the fly.",
       "homepage": "https://github.com/ninjaprox/Inkwell"
+    }, {
+      "title": "InstantSearch iOS",
+      "category": "ui",
+      "description": "A library of widgets and helpers to build instant-search features on iOS.",
+      "homepage": "https://github.com/algolia/instantsearch-ios"
     }
   ]
 }

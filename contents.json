@@ -4970,6 +4970,11 @@
       "category": "chat",
       "description": "A community-driven replacement for JSQMessagesViewController.",
       "homepage": "https://github.com/MessageKit/MessageKit"
+    }, {
+      "title": "Inkwell",
+      "category": "fonts",
+      "description": "An inkwell to use custom fonts on the fly.",
+      "homepage": "https://github.com/ninjaprox/Inkwell"
     }
   ]
 }

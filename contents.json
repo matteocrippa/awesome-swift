@@ -3888,6 +3888,11 @@
       "description": "Awesome expandable, collapsible tableview cell for iOS.",
       "homepage": "https://github.com/younatics/YNExpandableCell"
     }, {
+      "title": "SwipeCellKit",
+      "category": "uitableview",
+      "description": "Swipeable UITableViewCell based on the stock Mail.app.",
+      "homepage": "https://github.com/SwipeCellKit/SwipeCellKit"
+    }, {
       "title": "ExpyTableView",
       "category": "uitableview",
       "description": "Make your table view expandable just by implementing one method.",

@@ -4747,7 +4747,7 @@
       "tags": ["swift", "qrcode", "barcode", "generator", "recognizer"]
     }, {
       "title": "LoginKit",
-      "category": "ui",
+      "category": "authentication",
       "description": "LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.",
       "homepage": "https://github.com/IcaliaLabs/LoginKit"
     }, {
@@ -4961,10 +4961,10 @@
       "description": "Simple way to add parallax header to UIScrollView/UITableView.",
       "homepage": "https://github.com/romansorochak/ParallaxHeader"
     }, {
-     "title": "TaniwhaTextField",
-       "category": "textfield",
-       "description": "Lightweight and beautiful textfield framework, highly customisable, includes float label pattern.",
-       "homepage": "https://github.com/iceman201/TaniwhaTextField"
+      "title": "TaniwhaTextField",
+      "category": "textfield",
+      "description": "Lightweight and beautiful textfield framework, highly customisable, includes float label pattern.",
+      "homepage": "https://github.com/iceman201/TaniwhaTextField"
     }, {
       "title": "DeckTransition",
       "category": "ui",

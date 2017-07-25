@@ -3938,6 +3938,11 @@
       "description": "A lightweight library for integrating bug-report and feedback features with shake-motion event.",
       "homepage": "https://github.com/wongzigii/Butterfly"
     }, {
+      "title": "ChainPageCollectionView",
+      "category": "animation",
+      "description": "Fancy two-level collection view layout and animation.",
+      "homepage": "https://github.com/jindulys/ChainPageCollectionView"
+    }, {
       "title": "Cache",
       "category": "cache",
       "description": "Nothing but Cache.",

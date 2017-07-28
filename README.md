@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-864-orange.svg) | July 28, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-863-orange.svg) | July 28, 2017
 
 ### Contributing
 
@@ -869,8 +869,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Alamofire](https://github.com/Alamofire/Alamofire) :penguin: - Elegant networking.
 * [APIKit](https://github.com/ishkawa/APIKit) - Library for building type-safe web API client.
 * [BigBrother](https://github.com/marcelofabri/BigBrother) - Automatically sets the network activity indicator for any performed request.
-* [Dratini](https://github.com/kevin0571/Dratini) - A neat network layer
-* [Endpoint](https://github.com/devxoul/Endpoint) - Elegant API Abstraction.
+* [Dratini](https://github.com/kevin0571/Dratini) - A neat network layer.
 * [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
 * [Just](https://github.com/JustHTTP/Just) :penguin: - HTTP for Humans (a python-requests style HTTP library).
 * [Malibu](https://github.com/hyperoslo/Malibu) - A networking library built on promises.

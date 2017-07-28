@@ -802,6 +802,11 @@
       "description": "Natural Blocks Based Core Animation Framework.",
       "homepage": "https://github.com/AntonTheDev/FlightAnimator"
     }, {
+      "title": "Gemini",
+      "category": "animation",
+      "description": "Gemini is rich scroll based animation framework.",
+      "homepage": "https://github.com/shoheiyokoyama/Gemini"
+    }, {
       "title": "IBAnimatable",
       "category": "animation",
       "description": "Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.",

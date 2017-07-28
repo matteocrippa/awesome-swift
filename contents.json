@@ -4996,6 +4996,11 @@
       "category": "ui",
       "description": "A library of widgets and helpers to build instant-search features on iOS.",
       "homepage": "https://github.com/algolia/instantsearch-ios"
+    }, {
+      "title": "Dratini",
+      "category": "network",
+      "description": "A neat network layer",
+      "homepage": "https://github.com/kevin0571/Dratini"
     }
   ]
 }

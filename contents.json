@@ -2341,11 +2341,6 @@
       "description": "Automatically sets the network activity indicator for any performed request.",
       "homepage": "https://github.com/marcelofabri/BigBrother"
     }, {
-      "title": "Endpoint",
-      "category": "network",
-      "description": "Elegant API Abstraction.",
-      "homepage": "https://github.com/devxoul/Endpoint"
-    }, {
       "title": "Heimdallr.swift",
       "category": "network",
       "description": "Easy to use OAuth 2 library for iOS.",

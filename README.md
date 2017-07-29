@@ -248,7 +248,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftGen](https://github.com/SwiftGen/SwiftGen) - A suite of tools to auto-generate code for various assets of your project.
 * [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform framework projects from the command line.
 * [Toybox](https://github.com/giginet/Toybox) - Xcode Playground management made easy.
-* [XcodeGen](https://github.com/yonaskolb/XcodeProj) - Swift tool for generating Xcode projects from a YAML file and your project directory.
+* [XcodeGen](https://github.com/yonaskolb/XcodeProj) - Tool for generating Xcode projects from a YAML file and your project directory.
 
 ## Libs
 *Here you can find a list of snippets and libs for your Swift projects.* 

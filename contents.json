@@ -4999,7 +4999,7 @@
     }, {
       "title": "XcodeGen",
       "category": "misc",
-      "description": "Swift tool for generating Xcode projects from a YAML file and your project directory.",
+      "description": "Tool for generating Xcode projects from a YAML file and your project directory.",
       "homepage": "https://github.com/yonaskolb/XcodeProj"
     }
   ]

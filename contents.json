@@ -5013,8 +5013,13 @@
     }, {
       "title": "ARKit-CoreLocation",
       "category": "ar",
-      "description": "Lovely Augmented Reality Charts for iOS - Built with ARKit",
+      "description": "Combines the high accuracy of AR with the scale of GPS data.",
       "homepage": "https://github.com/ProjectDent/ARKit-CoreLocation"
+    }, {
+      "title": "ShadowsocksX-NG",
+      "category": "network",
+      "description": "A fast tunnel proxy that helps you bypass firewalls.",
+      "homepage": "https://github.com/shadowsocks/ShadowsocksX-NG"
     }
   ]
 }

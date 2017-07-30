@@ -5020,6 +5020,11 @@
       "category": "network",
       "description": "A fast tunnel proxy that helps you bypass firewalls.",
       "homepage": "https://github.com/shadowsocks/ShadowsocksX-NG"
+    }, {
+      "title": "ArcKit",
+      "category": "maps",
+      "description": "A location and activity recording framework for iOS.",
+      "homepage": "https://github.com/sobri909/ArcKit"
     }
   ]
 }

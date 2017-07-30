@@ -5010,6 +5010,11 @@
       "category": "ar",
       "description": "Lovely Augmented Reality Charts for iOS - Built with ARKit",
       "homepage": "https://github.com/Boris-Em/ARCharts"
+    }, {
+      "title": "ARKit-CoreLocation",
+      "category": "ar",
+      "description": "Lovely Augmented Reality Charts for iOS - Built with ARKit",
+      "homepage": "https://github.com/ProjectDent/ARKit-CoreLocation"
     }
   ]
 }

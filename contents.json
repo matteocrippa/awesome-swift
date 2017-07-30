@@ -89,6 +89,10 @@
     "parent": "libs",
     "description": "Libs for AI based projects (Machine Learning, Neural Networks etc)."
   }, {
+    "title": "Augmented Reality",
+    "id": "ar",
+    "parent": "libs"
+  }, {
     "title": "Algorithm",
     "id": "algorithm",
     "parent": "libs"
@@ -5003,7 +5007,7 @@
       "homepage": "https://github.com/yonaskolb/XcodeProj"
     }, {
       "title": "ARCharts",
-      "category": "chart",
+      "category": "ar",
       "description": "Lovely Augmented Reality Charts for iOS - Built with ARKit",
       "homepage": "https://github.com/Boris-Em/ARCharts"
     }

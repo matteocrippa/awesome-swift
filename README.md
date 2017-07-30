@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-865-orange.svg) | July 30, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-868-orange.svg) | July 30, 2017
 
 ### Contributing
 
@@ -42,6 +42,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [API](#api)
   - [App Routing](#app-routing)
   - [App Store](#app-store)
+  - [Augmented Reality](#ar)
   - [Audio](#audio)
   - [Authentication](#authentication)
   - [Bots](#bots)
@@ -327,6 +328,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [InAppFw](https://github.com/sandorgyulai/InAppFramework) - In App Purchase Manager framework.
 * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases framework.
 
+### Augmented Reality
+[back to top](#readme) 
+
+* [ARCharts](https://github.com/Boris-Em/ARCharts) - Lovely Augmented Reality Charts for iOS - Built with ARKit
+* [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
+
 ### Audio
 *Libs to work with audio* [back to top](#readme) 
 
@@ -363,7 +370,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Chart
 [back to top](#readme) 
 
-* [ARCharts](https://github.com/Boris-Em/ARCharts) - Lovely Augmented Reality Charts for iOS - Built with ARKit
 * [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib with animation.
 * [ScrollableGraphView](https://github.com/philackm/ScrollableGraphView) - Adaptive scrollable graph view for iOS to visualise simple discrete datasets.
@@ -846,6 +852,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Maps
 [back to top](#readme) 
 
+* [ArcKit](https://github.com/sobri909/ArcKit) - A location and activity recording framework for iOS.
 * [Cluster](https://github.com/efremidze/Cluster) - Easy Map Annotation Clustering.
 * [GEOSwift](https://github.com/GEOSwift/GEOSwift) - Make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
 
@@ -886,6 +893,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Reach](https://github.com/Isuru-Nanayakkara/Reach) - A simple class to check for internet connection availability.
 * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - A replacement for Apple's Reachability with closures.
 * [ResponseDetective](https://github.com/netguru/ResponseDetective) - A non-intrusive framework for intercepting any outgoing requests and incoming responses between your app and server for debugging purposes.
+* [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - A fast tunnel proxy that helps you bypass firewalls.
 * [Siesta](https://bustoutsolutions.github.io/siesta/) - Elegant abstraction for REST APIs that untangles stateful messes. An alternative to callback- and delegate-based networking.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
 * [SwiftyOAuth](https://github.com/delba/SwiftyOAuth) - A small OAuth library with a built-in set of providers.

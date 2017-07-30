@@ -802,6 +802,11 @@
       "description": "Natural Blocks Based Core Animation Framework.",
       "homepage": "https://github.com/AntonTheDev/FlightAnimator"
     }, {
+      "title": "Gemini",
+      "category": "animation",
+      "description": "Gemini is rich scroll based animation framework.",
+      "homepage": "https://github.com/shoheiyokoyama/Gemini"
+    }, {
       "title": "IBAnimatable",
       "category": "animation",
       "description": "Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.",
@@ -2335,11 +2340,6 @@
       "category": "network",
       "description": "Automatically sets the network activity indicator for any performed request.",
       "homepage": "https://github.com/marcelofabri/BigBrother"
-    }, {
-      "title": "Endpoint",
-      "category": "network",
-      "description": "Elegant API Abstraction.",
-      "homepage": "https://github.com/devxoul/Endpoint"
     }, {
       "title": "Heimdallr.swift",
       "category": "network",
@@ -3888,6 +3888,11 @@
       "description": "Awesome expandable, collapsible tableview cell for iOS.",
       "homepage": "https://github.com/younatics/YNExpandableCell"
     }, {
+      "title": "SwipeCellKit",
+      "category": "uitableview",
+      "description": "Swipeable UITableViewCell based on the stock Mail.app.",
+      "homepage": "https://github.com/SwipeCellKit/SwipeCellKit"
+    }, {
       "title": "ExpyTableView",
       "category": "uitableview",
       "description": "Make your table view expandable just by implementing one method.",
@@ -3932,6 +3937,11 @@
       "category": "utility",
       "description": "A lightweight library for integrating bug-report and feedback features with shake-motion event.",
       "homepage": "https://github.com/wongzigii/Butterfly"
+    }, {
+      "title": "ChainPageCollectionView",
+      "category": "animation",
+      "description": "Fancy two-level collection view layout and animation.",
+      "homepage": "https://github.com/jindulys/ChainPageCollectionView"
     }, {
       "title": "Cache",
       "category": "cache",
@@ -4742,7 +4752,7 @@
       "tags": ["swift", "qrcode", "barcode", "generator", "recognizer"]
     }, {
       "title": "LoginKit",
-      "category": "ui",
+      "category": "authentication",
       "description": "LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.",
       "homepage": "https://github.com/IcaliaLabs/LoginKit"
     }, {
@@ -4956,10 +4966,10 @@
       "description": "Simple way to add parallax header to UIScrollView/UITableView.",
       "homepage": "https://github.com/romansorochak/ParallaxHeader"
     }, {
-     "title": "TaniwhaTextField",
-       "category": "textfield",
-       "description": "Lightweight and beautiful textfield framework, highly customisable, includes float label pattern.",
-       "homepage": "https://github.com/iceman201/TaniwhaTextField"
+      "title": "TaniwhaTextField",
+      "category": "textfield",
+      "description": "Lightweight and beautiful textfield framework, highly customisable, includes float label pattern.",
+      "homepage": "https://github.com/iceman201/TaniwhaTextField"
     }, {
       "title": "DeckTransition",
       "category": "ui",
@@ -4981,6 +4991,16 @@
       "category": "ui",
       "description": "A library of widgets and helpers to build instant-search features on iOS.",
       "homepage": "https://github.com/algolia/instantsearch-ios"
+    }, {
+      "title": "Dratini",
+      "category": "network",
+      "description": "A neat network layer.",
+      "homepage": "https://github.com/kevin0571/Dratini"
+    }, {
+      "title": "XcodeGen",
+      "category": "misc",
+      "description": "Tool for generating Xcode projects from a YAML file and your project directory.",
+      "homepage": "https://github.com/yonaskolb/XcodeProj"
     }
   ]
 }

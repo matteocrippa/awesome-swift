@@ -5001,6 +5001,11 @@
       "category": "misc",
       "description": "Tool for generating Xcode projects from a YAML file and your project directory.",
       "homepage": "https://github.com/yonaskolb/XcodeProj"
+    }, {
+      "title": "ARCharts",
+      "category": "chart",
+      "description": "Lovely Augmented Reality Charts for iOS - Built with ARKit",
+      "homepage": "https://github.com/Boris-Em/ARCharts"
     }
   ]
 }

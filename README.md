@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-868-orange.svg) | July 30, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-868-orange.svg) | July 31, 2017
 
 ### Contributing
 
@@ -42,8 +42,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [API](#api)
   - [App Routing](#app-routing)
   - [App Store](#app-store)
-  - [Augmented Reality](#ar)
   - [Audio](#audio)
+  - [Augmented Reality](#augmented-reality)
   - [Authentication](#authentication)
   - [Bots](#bots)
   - [Cache](#cache)
@@ -328,12 +328,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [InAppFw](https://github.com/sandorgyulai/InAppFramework) - In App Purchase Manager framework.
 * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases framework.
 
-### Augmented Reality
-[back to top](#readme) 
-
-* [ARCharts](https://github.com/Boris-Em/ARCharts) - Lovely Augmented Reality Charts for iOS - Built with ARKit
-* [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
-
 ### Audio
 *Libs to work with audio* [back to top](#readme) 
 
@@ -344,6 +338,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [MusicKit](https://github.com/benzguo/MusicKit) - A framework for composing and transforming music.
 * [SwiftySound](https://github.com/adamcichy/SwiftySound) - Simple library that lets you play sounds with a single line of code.
 * [TuningFork](https://github.com/comyar/TuningFork) - A Simple Tuner for iOS.
+
+### Augmented Reality
+[back to top](#readme) 
+
+* [ARCharts](https://github.com/Boris-Em/ARCharts) - Lovely Augmented Reality Charts for iOS - Built with ARKit
+* [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 
 ### Authentication
 *Easy way to manage auth in your apps.* [back to top](#readme) 

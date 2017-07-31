@@ -90,7 +90,7 @@
     "description": "Libs for AI based projects (Machine Learning, Neural Networks etc)."
   }, {
     "title": "Augmented Reality",
-    "id": "ar",
+    "id": "augmented-reality",
     "parent": "libs"
   }, {
     "title": "Algorithm",
@@ -5007,12 +5007,12 @@
       "homepage": "https://github.com/yonaskolb/XcodeProj"
     }, {
       "title": "ARCharts",
-      "category": "ar",
+      "category": "augmented-reality",
       "description": "Lovely Augmented Reality Charts for iOS - Built with ARKit",
       "homepage": "https://github.com/Boris-Em/ARCharts"
     }, {
       "title": "ARKit-CoreLocation",
-      "category": "ar",
+      "category": "augmented-reality",
       "description": "Combines the high accuracy of AR with the scale of GPS data.",
       "homepage": "https://github.com/ProjectDent/ARKit-CoreLocation"
     }, {

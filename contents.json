@@ -2970,6 +2970,12 @@
       "description": "A well-tested GCD timer.",
       "homepage": "https://github.com/hemantasapkota/GCDTimer"
     }, {
+      "title": "Queuer",
+      "category": "concurrency",
+      "description": "A queue manager, built on top of OperationQueue and Dispatch (aka GCD).",
+      "homepage": "https://github.com/FabrizioBrancati/Queuer",
+      "tags": ["linux"]
+    }, {
       "title": "ActiveLabel",
       "category": "label",
       "description": "UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://).",

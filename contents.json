@@ -5031,6 +5031,12 @@
       "category": "maps",
       "description": "A location and activity recording framework for iOS.",
       "homepage": "https://github.com/sobri909/ArcKit"
+    },
+    {
+      "title": "AwesomeSpotlightView",
+      "category": "walkthrough",
+      "description": "Create tutorial or coach tour.",
+      "homepage": "https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView"
     }
   ]
 }

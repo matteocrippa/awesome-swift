@@ -5040,7 +5040,7 @@
     }, {
       "title": "Stencil",
       "category": "template",
-      "description": "Stencil is a simple and powerful template language for Swift. https://stencil.fuller.li",
+      "description": "Simple and powerful template language.",
       "homepage": "https://github.com/kylef/Stencil"
     }
   ]

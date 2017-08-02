@@ -5042,6 +5042,16 @@
       "category": "template",
       "description": "Simple and powerful template language.",
       "homepage": "https://github.com/kylef/Stencil"
+    }, {
+      "title": "LayoutKit",
+      "category": "layout",
+      "description": "LayoutKit is a fast view layout library for iOS, macOS, and tvOS. http://layoutkit.org",
+      "homepage": "https://github.com/linkedin/LayoutKit"
+    }, {
+      "title": "RAReorderableLayout",
+      "category": "uicollectionview",
+      "description": "A UICollectionView layout which can move an item with drag and drop.",
+      "homepage": "https://github.com/ra1028/RAReorderableLayout"
     }
   ]
 }

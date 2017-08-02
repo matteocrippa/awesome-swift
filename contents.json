@@ -5043,6 +5043,11 @@
       "description": "Simple and powerful template language.",
       "homepage": "https://github.com/kylef/Stencil"
     }, {
+      "title": "ShadowView",
+      "category": "ui",
+      "description": "Make shadows management easy on UIView.",
+      "homepage": "https://github.com/PierrePerrin/ShadowView"
+    },{
       "title": "LayoutKit",
       "category": "layout",
       "description": "LayoutKit is a fast view layout library for iOS, macOS, and tvOS. http://layoutkit.org",

@@ -5042,6 +5042,11 @@
       "category": "template",
       "description": "Simple and powerful template language.",
       "homepage": "https://github.com/kylef/Stencil"
+    }, {
+      "title": "ShadowView",
+      "category": "ui",
+      "description": "Make shadows management easy on UIView.",
+      "homepage": "https://github.com/PierrePerrin/ShadowView"
     }
   ]
 }

@@ -5057,6 +5057,11 @@
       "category": "uicollectionview",
       "description": "A UICollectionView layout which can move an item with drag and drop.",
       "homepage": "https://github.com/ra1028/RAReorderableLayout"
+    }, {
+      "title": "TransitionButton",
+      "category": "button",
+      "description": "UIButton subclass for loading and transition animation.",
+      "homepage": "https://github.com/AladinWay/TransitionButton"
     }
   ]
 }

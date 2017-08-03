@@ -5062,6 +5062,11 @@
       "category": "button",
       "description": "UIButton subclass for loading and transition animation.",
       "homepage": "https://github.com/AladinWay/TransitionButton"
+    }, {
+      "title": "SwiftyOnboardVC",
+      "category": "walkthrough",
+      "description": "Onboard/Walkthrough controller that uses View Controllers as its subviews.",
+      "homepage": "https://github.com/chaser79/SwiftyOnboardVC"
     }
   ]
 }

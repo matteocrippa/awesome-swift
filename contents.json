@@ -5065,7 +5065,7 @@
     }, {
       "title": "SwiftyOnboardVC",
       "category": "walkthrough",
-      "description": "Onboard/Walkthrough controler that uses View controlers as its subviews.",
+      "description": "Onboard/Walkthrough controller that uses View Controllers as its subviews.",
       "homepage": "https://github.com/chaser79/SwiftyOnboardVC"
     }
   ]

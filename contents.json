@@ -4726,6 +4726,11 @@
       "homepage": "https://github.com/KitchenStories/Elissa",
       "tags": ["iOS", "Swift", "UITabBar", "popup", "UIView", "anchor", "UITabBarItem", "Notification"]
     }, {
+      "title": "HHTabBarView",
+      "category": "tab",
+      "description": "A lightweight customized tabbar view.",
+      "homepage": "https://github.com/hemangshah/HHTabBarView"
+    }, {
       "title": "GrowingTextView",
       "category": "ui",
       "description": "UITextView that supports auto growing, placeholder and length limit.",

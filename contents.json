@@ -5073,8 +5073,7 @@
       "category": "ui",
       "description": "Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.",
       "homepage": "https://github.com/MKGitHub/UIPheonix"
-    },
-        {
+    }, {
       "title": "UIDeviceComplete",
       "category": "Device",
       "description": "UIDevice extensions that fill in the missing pieces.",

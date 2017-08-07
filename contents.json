@@ -3003,7 +3003,7 @@
     }, {
       "title": "Animated Tab Bar",
       "category": "tab",
-      "description": "RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.",
+      "description": "RAMAnimatedTabBarController is a Swift module for adding animation to tab bar items.",
       "homepage": "https://github.com/Ramotion/animated-tab-bar"
     }, {
       "title": "AZTransitions",
@@ -4728,7 +4728,7 @@
     }, {
       "title": "HHTabBarView",
       "category": "tab",
-      "description": "A lightweight customized tabbar view.",
+      "description": "A lightweight customized tab bar view.",
       "homepage": "https://github.com/hemangshah/HHTabBarView"
     }, {
       "title": "GrowingTextView",

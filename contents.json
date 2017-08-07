@@ -4727,7 +4727,7 @@
       "tags": ["iOS", "Swift", "UITabBar", "popup", "UIView", "anchor", "UITabBarItem", "Notification"]
     }, {
       "title": "HHTabBarView",
-      "category": "UITabBarController",
+      "category": "tab",
       "description": "A lightweight customized tabbar view.",
       "homepage": "https://github.com/hemangshah/HHTabBarView"
     }, {

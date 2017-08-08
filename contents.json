@@ -5075,7 +5075,7 @@
       "homepage": "https://github.com/MKGitHub/UIPheonix"
     }, {
       "title": "UIDeviceComplete",
-      "category": "Device",
+      "category": "device",
       "description": "UIDevice extensions that fill in the missing pieces.",
       "homepage": "https://github.com/Nirma/UIDeviceComplete"
     }

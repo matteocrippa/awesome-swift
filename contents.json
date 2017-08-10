@@ -3868,6 +3868,11 @@
       "description": "Protocol-oriented UITableView management, powered by generics and associated types.",
       "homepage": "https://github.com/DenHeadless/DTTableViewManager"
     }, {
+      "title": "CollapsibleTable",
+      "category": "uitableview",
+      "description": "Collapsable table view sections with custom section header views.",
+      "homepage": "https://github.com/rob-nash/CollapsibleTable"
+    }, {
       "title": "folding-cell",
       "category": "uitableview",
       "description": "Folding cell transition.",

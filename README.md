@@ -1407,6 +1407,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### UITableView
 [back to top](#readme) 
 
+* [CollapsibleTable](https://github.com/rob-nash/CollapsibleTable) - Collapsable table view sections with custom section header views.
 * [DTTableViewManager](https://github.com/DenHeadless/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
 * [ExpyTableView](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method.
 * [folding-cell](https://github.com/Ramotion/folding-cell) - Folding cell transition.

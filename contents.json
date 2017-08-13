@@ -2495,6 +2495,11 @@
       "description": "Simple TCP socket library.",
       "homepage": "https://github.com/swiftsocket/SwiftSocket"
     }, {
+      "title": "SwiftDSSocket",
+      "category": "socket",
+      "description": "Asynchronous socket framework built atop DispatchSource.",
+      "homepage": "https://github.com/csujedihy/SwiftDSSocket"
+    }, {
       "title": "SwiftWebSocket",
       "category": "socket",
       "description": "A high performance WebSocket client library .",

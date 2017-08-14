@@ -1127,6 +1127,11 @@
       "description": "All wikipedia colors implemented as easy to use UIColor extension.",
       "homepage": "https://github.com/nahive/UIColor-WikiColors"
     }, {
+      "title": "ChromaColorPicker",
+      "category": "colors",
+      "description": "An intuitive and fun iOS color picker.",
+      "homepage": "https://github.com/joncardasis/ChromaColorPicker"
+    }, {
       "title": "Commander",
       "category": "command-line",
       "description": "Compose beautiful command line interfaces.",
@@ -5082,7 +5087,7 @@
       "category": "button",
       "description": "UIButton subclass for loading and transition animation.",
       "homepage": "https://github.com/AladinWay/TransitionButton"
-    }, 
+    },
     {
       "title": "UIPheonix",
       "category": "ui",

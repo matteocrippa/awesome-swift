@@ -3773,6 +3773,11 @@
       "description": "Rotating circle menu.",
       "homepage": "https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu"
     }, {
+      "title": "SwipeMenuViewController",
+      "category": "menu",
+      "description": "Swipable tab and menu View and ViewController.",
+      "homepage": "https://github.com/yysskk/SwipeMenuViewController"
+    }, {
       "title": "YNDropDownMenu",
       "category": "menu",
       "description": "Adorable iOS drop down menu.",

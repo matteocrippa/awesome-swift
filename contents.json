@@ -3913,6 +3913,11 @@
       "description": "Make your table view expandable just by implementing one method.",
       "homepage": "https://github.com/okhanokbay/ExpyTableView"
     }, {
+      "title": "ExpandableCell",
+      "category": "uitableview",
+      "description": "Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate",
+      "homepage": "https://github.com/younatics/ExpandableCell"
+    }, {
       "title": "Alexandria",
       "category": "utility",
       "description": "A large set of convenience extensions for UIKit and Foundation.",

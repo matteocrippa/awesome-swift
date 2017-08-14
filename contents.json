@@ -4255,6 +4255,11 @@
       "description": "an UTI (Uniform Type Identifier) wrapper.",
       "homepage": "https://github.com/cockscomb/UTIKit"
     }, {
+      "title": "Highlighter",
+      "category": "utility",
+      "description": "Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.",
+      "homepage": "https://github.com/younatics/Highlighter"
+    }, {
       "title": "MobilePlayer",
       "category": "video",
       "description": "A powerful and completely customizable media player for iOS.",

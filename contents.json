@@ -1580,7 +1580,7 @@
     }, {
       "title": "AnyDate",
       "category": "date",
-      "description": "Swifty Date & Time API inspired from Java 8 DateTime API.",
+      "description": "Date & Time API inspired from Java 8 DateTime API.",
       "homepage": "https://github.com/Kawoou/AnyDate"
     }, {
       "title": "NSDate-Extensions",

@@ -5113,6 +5113,12 @@
       "category": "device",
       "description": "UIDevice extensions that fill in the missing pieces.",
       "homepage": "https://github.com/Nirma/UIDeviceComplete"
+    }, {
+      "title": "FluxCapacitor",
+      "category": "utility",
+      "description": "FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.",
+      "homepage": "https://github.com/marty-suzuki/FluxCapacitor",
+      "tags": ["flux"]
     }
   ]
 }

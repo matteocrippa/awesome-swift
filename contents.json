@@ -5119,6 +5119,11 @@
       "description": "FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.",
       "homepage": "https://github.com/marty-suzuki/FluxCapacitor",
       "tags": ["flux"]
+    }, {
+      "title": "Observable",
+      "category": "events",
+      "description": "The easiest way to observe values in Swift.",
+      "homepage": "https://github.com/roberthein/Observable"
     }
   ]
 }

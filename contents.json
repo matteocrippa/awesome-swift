@@ -5119,6 +5119,12 @@
       "description": "FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.",
       "homepage": "https://github.com/marty-suzuki/FluxCapacitor",
       "tags": ["flux"]
+    }, {
+        "title": "Cassowary",
+        "category": "auto-layout",
+        "description": "A linear constraint solving library using the same algorithm as AutoLayout.",
+        "homepage": "https://github.com/tribalworldwidelondon/CassowarySwift",
+        "tags": ["cassowary", "constraints", "autolayout"]
     }
   ]
 }

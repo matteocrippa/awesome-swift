@@ -5121,7 +5121,7 @@
       "tags": ["flux"]
     }, {
         "title": "Cassowary",
-        "category": "ui",
+        "category": "auto-layout",
         "description": "A linear constraint solving library using the same algorithm as AutoLayout.",
         "homepage": "https://github.com/tribalworldwidelondon/CassowarySwift",
         "tags": ["cassowary", "constraints", "autolayout"]

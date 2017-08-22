@@ -2075,7 +2075,7 @@
     }, {
       "title": "ZImageCropper",
       "category": "images",
-      "description": "A Swift framework to crop image in any shape.",
+      "description": "A Swift repo to crop image in any shape.",
       "homepage": "https://github.com/ZaidPathan/ZImageCropper"
     },{
       "title": "C4iOS",

@@ -184,6 +184,11 @@
     "parent": "data-management",
     "description": "No more pain with Core Data, here are some interesting libs to handle data management."
   }, {
+    "title": "Multi Database",
+    "id": "multi-database",
+    "parent": "data-management",
+    "description": "Data management layers that involve multiple sources."
+  }, {
     "title": "PDF",
     "id": "pdf",
     "parent": "libs"
@@ -1187,6 +1192,11 @@
       "description": "Communicating sequential processes (CSP), Linux ready.",
       "homepage": "https://github.com/Zewo/Venice",
       "tags": ["linux"]
+    }, {
+      "title": "StorageKit",
+      "category": "multi-database",
+      "description": "Your Data Storage Troubleshooter 🛠",
+      "homepage": "https://github.com/StorageKit/StorageKit"
     }, {
       "title": "AERecord",
       "category": "core-data",

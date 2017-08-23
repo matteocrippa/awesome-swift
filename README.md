@@ -261,6 +261,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework.
 * [MLKit](https://github.com/Somnibyte/MLKit) - A simple machine learning framework.
 * [Swift-AI](https://github.com/Swift-AI/Swift-AI) - The machine learning library.
+* [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - A collection of currently available Core ML Models.
 
 ### Algorithm
 [back to top](#readme) 

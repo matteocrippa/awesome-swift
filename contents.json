@@ -2073,6 +2073,11 @@
       "description": "A high-performance image downloader — powered by YapDatabase.",
       "homepage": "https://github.com/yapstudios/YapImageManager"
     }, {
+      "title": "ZImageCropper",
+      "category": "images",
+      "description": "Crop image in any shape.",
+      "homepage": "https://github.com/ZaidPathan/ZImageCropper"
+    },{
       "title": "C4iOS",
       "category": "kit",
       "description": "Harnesses the power of native iOS programming with a simplified API.",

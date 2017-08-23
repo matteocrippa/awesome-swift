@@ -5139,7 +5139,8 @@
       "title": "Observable",
       "category": "events",
       "description": "The easiest way to observe values in Swift.",
-      "homepage": "https://github.com/roberthein/Observable"
+      "homepage": "https://github.com/roberthein/Observable",
+      "tags": ["observable", "observer", "reactive"]
     }
   ]
 }

@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-870-orange.svg) | July 31, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-888-orange.svg) | August 22, 2017
 
 ### Contributing
 
@@ -58,6 +58,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [JSON](#json)
     - [Key Value Store](#key-value-store)
     - [MongoDB](#mongodb)
+    - [Multi Database](#multi-database)
     - [ORM](#orm)
     - [Other Data](#other-data)
     - [Realm](#realm)
@@ -386,6 +387,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Interesting snippets related to color management and utility.* [back to top](#readme) 
 
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon is a lightweight, yet powerful, color framework for iOS.
+* [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
 * [Colors](https://github.com/icodeforlove/Colors) - Library for using ANSI codes.
 * [CSS3ColorsSwift](https://github.com/WorldDownTown/CSS3ColorsSwift) - A UIColor extension with CSS3 Colors name.
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - An extension to manipulate colors easily.
@@ -497,6 +499,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Perfect-MongoDB](https://github.com/PerfectlySoft/Perfect-MongoDB) :penguin: - A stand-alone wrapper around the mongo-c client library, enabling access to MongoDB servers.
 * [SwiftMongoDB](https://github.com/Danappelxx/SwiftMongoDB) - MongoDB connector.
 
+#### Multi Database
+*Data management layers that involve multiple sources.* [back to top](#readme) 
+
+* [StorageKit](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠
+
 #### ORM
 [back to top](#readme) 
 
@@ -555,6 +562,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Date
 *Handle data formatting easily.* [back to top](#readme) 
 
+* [AnyDate](https://github.com/Kawoou/AnyDate) - Date & Time API inspired from Java 8 DateTime API.
 * [DateHelper](https://github.com/melvitax/DateHelper) - Simple date helper.
 * [Datez](https://github.com/SwiftKitz/Datez) - Library for dealing with `NSDate`, `NSCalendar`, `NSDateComponents`, and `NSTimeInterval`.
 * [Datify](https://github.com/hemangshah/Datify) - Easypeasy date functions.
@@ -580,6 +588,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
 * [DeviceKit](https://github.com/dennisweissmann/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
 * [Luminous](https://github.com/andrealufino/Luminous) - Get everything you need to know about the device.
+* [UIDeviceComplete](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
 
 ### Documentation
 *Generate documentation for Swift code* [back to top](#readme) 
@@ -787,6 +796,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [BrickKit](https://github.com/wayfair/brickkit-ios) - Create complex and responsive layouts in a simple way.
 * [JustUiKit](https://github.com/lfkdsk/JustUiKit) - iOS UI Kit With Android-Style. It is designed to make Android developers build iOS UI easily.
+* [LayoutKit](https://github.com/linkedin/LayoutKit) - LayoutKit is a fast view layout library for iOS, macOS, and tvOS. http://layoutkit.org
 * [ManualLayout](https://github.com/isair/ManualLayout) - Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.
 * [Neon](https://github.com/mamaral/Neon) - A powerful programmatic UI layout framework.
 * [PinLayout](https://mirego.github.io/PinLayout/) - Manual views layouting without auto layout, no magic, pure code, full control. Concise syntax, readable & chainable.
@@ -800,6 +810,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AutoLayoutPlus](https://github.com/ruipfcosta/AutoLayoutPlus) - A bit of steroids for AutoLayout.
 * [Cartography](https://github.com/robb/Cartography) - Declarative auto layout lib for your project.
+* [Cassowary](https://github.com/tribalworldwidelondon/CassowarySwift) - A linear constraint solving library using the same algorithm as AutoLayout.
 * [Cupcake](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
 * [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - Auto Layout made easy.
 * [FormationLayout](https://github.com/evan-liu/FormationLayout) - Auto Layout lib supports group layout and size classes.
@@ -923,6 +934,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
 * [sockets](https://github.com/vapor/sockets) :penguin: - TCP, UDP; Client, Server; Linux, OS X.
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets for iOS and OSX.
+* [SwiftDSSocket](https://github.com/csujedihy/SwiftDSSocket) - Asynchronous socket framework built atop DispatchSource.
 * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - Simple TCP socket library.
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library .
 
@@ -1162,6 +1174,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SAHistoryNavigationViewController](https://github.com/marty-suzuki/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller.
 * [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 * [SelectionDialog](https://github.com/kciter/SelectionDialog) - Simple selection dialog.
+* [ShadowView](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers.
 * [SMSwipeableTabView](https://github.com/smahajan28/SMSwipeableTabView) - Fully customizable control which is mixture of UIPageViewController and Scrollable Tab Bar.
 * [Sonar](https://github.com/thefuntasty/Sonar) - Cool radar-style view.
@@ -1178,6 +1191,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library with a single line of code.
 * [Twinkle](https://github.com/piemonte/Twinkle) - Easy way to make elements in your iOS app twinkle.
 * [UIDropDown](https://github.com/igongora/UIDropDown) - An elegant dropdown for iOS.
+* [UIPheonix](https://github.com/MKGitHub/UIPheonix) - Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.
 * [URLEmbeddedView](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 * [URWeatherView](https://github.com/jegumhon/URWeatherView) - Show weather effects onto a view.
 * [Wallet](https://github.com/rshevchuk/Wallet) - A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.
@@ -1238,6 +1252,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton) - Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.
 * [PMSuperButton](https://github.com/Codeido/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
 * [SwiftShareBubbles](https://github.com/takecian/SwiftShareBubbles) - Animated social share buttons control for iOS.
+* [TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton subclass for loading and transition animation.
 * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons.
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
 
@@ -1300,6 +1315,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SideMenu](https://github.com/jonkykong/SideMenu) - Simple side menu control for iOS inspired by Facebook. Right and Left sides. No coding required.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.
 * [Swift-CircleMenu](https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu) - Rotating circle menu.
+* [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 * [YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) - Adorable iOS drop down menu.
 
@@ -1342,14 +1358,16 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - Adaptive tab bar.
-* [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.
+* [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tab bar items.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - Interesting way to display tabs.
+* [HHTabBarView](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 * [Tabman](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar.
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view.
 
 #### Template
 [back to top](#readme) 
 
+* [Stencil](https://github.com/kylef/Stencil) - Simple and powerful template language.
 * [SwiftCssParser](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
 * [TemplateKit](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces.
 * [Themes](https://github.com/onmyway133/Themes) - Theme management.
@@ -1391,6 +1409,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [Drag and Drop UICollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
 * [FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+* [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout) - A UICollectionView layout which can move an item with drag and drop.
 * [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - Pull-to-refresh animation in UICollectionView with a sticky header flow layout.
 * [Sapporo](https://github.com/nghialv/Sapporo) - A cellmodel-driven CollectionView manager.
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - Fully customizable spreadsheet CollectionViewLayout.
@@ -1399,7 +1418,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### UITableView
 [back to top](#readme) 
 
+* [CollapsibleTable](https://github.com/rob-nash/CollapsibleTable) - Collapsable table view sections with custom section header views.
 * [DTTableViewManager](https://github.com/DenHeadless/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
+* [ExpandableCell](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate
 * [ExpyTableView](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method.
 * [folding-cell](https://github.com/Ramotion/folding-cell) - Folding cell transition.
 * [GridView](https://github.com/KyoheiG3/GridView) - Reusable GridView with excellent performance and customization that can be time table, spreadsheet, paging and more.
@@ -1436,7 +1457,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Dollar](https://github.com/ankurp/Dollar) - Similar to Lo-Dash or Underscore in Javascript.
 * [ExSwift](https://github.com/pNre/ExSwift) - Extensions for standard types and classes.
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - How standard types and classes were supposed to work.
+* [FluxCapacitor](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.
 * [Focus](https://github.com/typelift/Focus) - Optics library (includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
+* [Highlighter](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
 * [Hookah](https://github.com/HookahSwift/Hookah) - Functional library.
 * [ObjectiveKit](https://github.com/marmelroy/ObjectiveKit) - API for Objective C runtime functions.
 * [OpenSourceController](https://github.com/terflogag/OpenSourceController) - The simplest way to display the librarie's licences used in your application.

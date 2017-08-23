@@ -184,6 +184,11 @@
     "parent": "data-management",
     "description": "No more pain with Core Data, here are some interesting libs to handle data management."
   }, {
+    "title": "Multi Database",
+    "id": "multi-database",
+    "parent": "data-management",
+    "description": "Data management layers that involve multiple sources."
+  }, {
     "title": "PDF",
     "id": "pdf",
     "parent": "libs"
@@ -1127,6 +1132,11 @@
       "description": "All wikipedia colors implemented as easy to use UIColor extension.",
       "homepage": "https://github.com/nahive/UIColor-WikiColors"
     }, {
+      "title": "ChromaColorPicker",
+      "category": "colors",
+      "description": "An intuitive and fun iOS color picker.",
+      "homepage": "https://github.com/joncardasis/ChromaColorPicker"
+    }, {
       "title": "Commander",
       "category": "command-line",
       "description": "Compose beautiful command line interfaces.",
@@ -1182,6 +1192,11 @@
       "description": "Communicating sequential processes (CSP), Linux ready.",
       "homepage": "https://github.com/Zewo/Venice",
       "tags": ["linux"]
+    }, {
+      "title": "StorageKit",
+      "category": "multi-database",
+      "description": "Your Data Storage Troubleshooter 🛠",
+      "homepage": "https://github.com/StorageKit/StorageKit"
     }, {
       "title": "AERecord",
       "category": "core-data",
@@ -1572,6 +1587,11 @@
       "category": "other-data",
       "description": "Simplified access to CloudKit with support for subscriptions and local caching.",
       "homepage": "https://github.com/evermeer/EVCloudKitDao"
+    }, {
+      "title": "AnyDate",
+      "category": "date",
+      "description": "Date & Time API inspired from Java 8 DateTime API.",
+      "homepage": "https://github.com/Kawoou/AnyDate"
     }, {
       "title": "NSDate-Extensions",
       "category": "date",
@@ -2495,6 +2515,11 @@
       "description": "Simple TCP socket library.",
       "homepage": "https://github.com/swiftsocket/SwiftSocket"
     }, {
+      "title": "SwiftDSSocket",
+      "category": "socket",
+      "description": "Asynchronous socket framework built atop DispatchSource.",
+      "homepage": "https://github.com/csujedihy/SwiftDSSocket"
+    }, {
       "title": "SwiftWebSocket",
       "category": "socket",
       "description": "A high performance WebSocket client library .",
@@ -3003,7 +3028,7 @@
     }, {
       "title": "Animated Tab Bar",
       "category": "tab",
-      "description": "RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.",
+      "description": "RAMAnimatedTabBarController is a Swift module for adding animation to tab bar items.",
       "homepage": "https://github.com/Ramotion/animated-tab-bar"
     }, {
       "title": "AZTransitions",
@@ -3763,6 +3788,11 @@
       "description": "Rotating circle menu.",
       "homepage": "https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu"
     }, {
+      "title": "SwipeMenuViewController",
+      "category": "menu",
+      "description": "Swipable tab and menu View and ViewController.",
+      "homepage": "https://github.com/yysskk/SwipeMenuViewController"
+    }, {
       "title": "YNDropDownMenu",
       "category": "menu",
       "description": "Adorable iOS drop down menu.",
@@ -3868,6 +3898,11 @@
       "description": "Protocol-oriented UITableView management, powered by generics and associated types.",
       "homepage": "https://github.com/DenHeadless/DTTableViewManager"
     }, {
+      "title": "CollapsibleTable",
+      "category": "uitableview",
+      "description": "Collapsable table view sections with custom section header views.",
+      "homepage": "https://github.com/rob-nash/CollapsibleTable"
+    }, {
       "title": "folding-cell",
       "category": "uitableview",
       "description": "Folding cell transition.",
@@ -3907,6 +3942,11 @@
       "category": "uitableview",
       "description": "Make your table view expandable just by implementing one method.",
       "homepage": "https://github.com/okhanokbay/ExpyTableView"
+    }, {
+      "title": "ExpandableCell",
+      "category": "uitableview",
+      "description": "Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate",
+      "homepage": "https://github.com/younatics/ExpandableCell"
     }, {
       "title": "Alexandria",
       "category": "utility",
@@ -4249,6 +4289,11 @@
       "category": "utility",
       "description": "an UTI (Uniform Type Identifier) wrapper.",
       "homepage": "https://github.com/cockscomb/UTIKit"
+    }, {
+      "title": "Highlighter",
+      "category": "utility",
+      "description": "Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.",
+      "homepage": "https://github.com/younatics/Highlighter"
     }, {
       "title": "MobilePlayer",
       "category": "video",
@@ -4726,6 +4771,11 @@
       "homepage": "https://github.com/KitchenStories/Elissa",
       "tags": ["iOS", "Swift", "UITabBar", "popup", "UIView", "anchor", "UITabBarItem", "Notification"]
     }, {
+      "title": "HHTabBarView",
+      "category": "tab",
+      "description": "A lightweight customized tab bar view.",
+      "homepage": "https://github.com/hemangshah/HHTabBarView"
+    }, {
       "title": "GrowingTextView",
       "category": "ui",
       "description": "UITextView that supports auto growing, placeholder and length limit.",
@@ -5042,6 +5092,49 @@
       "category": "template",
       "description": "Simple and powerful template language.",
       "homepage": "https://github.com/kylef/Stencil"
+    }, {
+      "title": "ShadowView",
+      "category": "ui",
+      "description": "Make shadows management easy on UIView.",
+      "homepage": "https://github.com/PierrePerrin/ShadowView"
+    },{
+      "title": "LayoutKit",
+      "category": "layout",
+      "description": "LayoutKit is a fast view layout library for iOS, macOS, and tvOS. http://layoutkit.org",
+      "homepage": "https://github.com/linkedin/LayoutKit"
+    }, {
+      "title": "RAReorderableLayout",
+      "category": "uicollectionview",
+      "description": "A UICollectionView layout which can move an item with drag and drop.",
+      "homepage": "https://github.com/ra1028/RAReorderableLayout"
+    }, {
+      "title": "TransitionButton",
+      "category": "button",
+      "description": "UIButton subclass for loading and transition animation.",
+      "homepage": "https://github.com/AladinWay/TransitionButton"
+    },
+    {
+      "title": "UIPheonix",
+      "category": "ui",
+      "description": "Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.",
+      "homepage": "https://github.com/MKGitHub/UIPheonix"
+    }, {
+      "title": "UIDeviceComplete",
+      "category": "device",
+      "description": "UIDevice extensions that fill in the missing pieces.",
+      "homepage": "https://github.com/Nirma/UIDeviceComplete"
+    }, {
+      "title": "FluxCapacitor",
+      "category": "utility",
+      "description": "FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.",
+      "homepage": "https://github.com/marty-suzuki/FluxCapacitor",
+      "tags": ["flux"]
+    }, {
+        "title": "Cassowary",
+        "category": "auto-layout",
+        "description": "A linear constraint solving library using the same algorithm as AutoLayout.",
+        "homepage": "https://github.com/tribalworldwidelondon/CassowarySwift",
+        "tags": ["cassowary", "constraints", "autolayout"]
     }
   ]
 }

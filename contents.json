@@ -5152,6 +5152,11 @@
       "homepage": "https://github.com/roberthein/Observable",
       "tags": ["observable", "observer", "reactive"]
     }, {
+      "title": "AZTableViewController",
+      "category": "uitableview",
+      "description": "Elegant and easy way to integrate pagination with placeholder views.",
+      "homepage": "https://github.com/AfrozZaheer/AZTableViewController"
+    }, {
       "title": "NetClient",
       "category": "network",
       "description": "Versatile HTTP networking library.",

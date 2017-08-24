@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-890-orange.svg) | August 23, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-892-orange.svg) | August 24, 2017
 
 ### Contributing
 
@@ -418,6 +418,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives.
 * [Hydra](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code.
+* [Kommander](https://github.com/intelygenz/Kommander-iOS) - Manage the task execution in different threads through Kommands.
 * [Overdrive](https://github.com/arikis/Overdrive) - Fast async task based API with focus on type safety, concurrency and multi threading.
 * [Queuer](https://github.com/FabrizioBrancati/Queuer) :penguin: - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
 * [Safe](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization.
@@ -898,6 +899,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Malibu](https://github.com/hyperoslo/Malibu) - A networking library built on promises.
 * [Moya](https://github.com/Moya/Moya) - Network abstraction layer.
 * [NEKit](https://github.com/zhuhaow/NEKit) - A toolkit for Network Extension Framework.
+* [NetClient](https://github.com/intelygenz/NetClient-iOS) - Versatile HTTP networking library.
 * [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, network debugging library.
 * [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
 * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - OAuth library for iOS.

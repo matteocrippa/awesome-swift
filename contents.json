@@ -5146,6 +5146,16 @@
       "description": "The easiest way to observe values.",
       "homepage": "https://github.com/roberthein/Observable",
       "tags": ["observable", "observer", "reactive"]
+    }, {
+      "title": "NetClient",
+      "category": "network",
+      "description": "Versatile HTTP networking library.",
+      "homepage": "https://github.com/intelygenz/NetClient-iOS"
+    }, {
+      "title": "Kommander",
+      "category": "concurrency",
+      "description": "Manage the task execution in different threads through Kommands.",
+      "homepage": "https://github.com/intelygenz/Kommander-iOS"
     }
   ]
 }

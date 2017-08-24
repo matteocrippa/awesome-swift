@@ -771,6 +771,11 @@
       "description": "The machine learning library.",
       "homepage": "https://github.com/Swift-AI/Swift-AI"
     }, {
+      "title": "CoreML-Models",
+      "category": "ai",
+      "description": "A collection of unique Core ML Models.",
+      "homepage": "https://github.com/likedan/Awesome-CoreML-Models"
+    }, {
       "title": "CenteredCollectionView",
       "category": "uicollectionview",
       "description": "A lightweight UICollectionViewLayout that pages and centers it's cells.",

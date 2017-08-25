@@ -5166,6 +5166,11 @@
       "category": "concurrency",
       "description": "Manage the task execution in different threads through Kommands.",
       "homepage": "https://github.com/intelygenz/Kommander-iOS"
+    }, {
+      "title": "HGPlaceholders",
+      "category": "uitableview",
+      "description": "Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.",
+      "homepage": "https://github.com/HamzaGhazouani/HGPlaceholders"
     }
   ]
 }

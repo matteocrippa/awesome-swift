@@ -2111,8 +2111,8 @@
     }, {
       "title": "PinLayout",
       "category": "layout",
-      "description": "Manual views layouting without auto layout, no magic, pure code, full control. Concise syntax, readable & chainable.",
-      "homepage": "https://mirego.github.io/PinLayout/"
+      "description": "Fast views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise, intuitive, readable & chainable syntax. Works nicely with FlexLayout.",
+      "homepage": "https://github.com/mirego/PinLayout"
     }, {
       "title": "Stevia",
       "category": "layout",

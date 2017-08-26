@@ -5167,6 +5167,11 @@
       "description": "Manage the task execution in different threads through Kommands.",
       "homepage": "https://github.com/intelygenz/Kommander-iOS"
     }, {
+      "title": "Colorify",
+      "category": "colors",
+      "description": "Colorify - simple, yet powerful color library.",
+      "homepage": "https://github.com/czater/Colorify"
+    }, {
       "title": "HGPlaceholders",
       "category": "uitableview",
       "description": "Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.",

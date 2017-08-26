@@ -771,6 +771,11 @@
       "description": "The machine learning library.",
       "homepage": "https://github.com/Swift-AI/Swift-AI"
     }, {
+      "title": "CoreML-Models",
+      "category": "ai",
+      "description": "A collection of unique Core ML Models.",
+      "homepage": "https://github.com/likedan/Awesome-CoreML-Models"
+    }, {
       "title": "CenteredCollectionView",
       "category": "uicollectionview",
       "description": "A lightweight UICollectionViewLayout that pages and centers it's cells.",
@@ -2073,6 +2078,11 @@
       "description": "A high-performance image downloader — powered by YapDatabase.",
       "homepage": "https://github.com/yapstudios/YapImageManager"
     }, {
+      "title": "ZImageCropper",
+      "category": "images",
+      "description": "Crop image in any shape.",
+      "homepage": "https://github.com/ZaidPathan/ZImageCropper"
+    },{
       "title": "C4iOS",
       "category": "kit",
       "description": "Harnesses the power of native iOS programming with a simplified API.",
@@ -2101,8 +2111,8 @@
     }, {
       "title": "PinLayout",
       "category": "layout",
-      "description": "Manual views layouting without auto layout, no magic, pure code, full control. Concise syntax, readable & chainable.",
-      "homepage": "https://mirego.github.io/PinLayout/"
+      "description": "Fast views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise, intuitive, readable & chainable syntax. Works nicely with FlexLayout.",
+      "homepage": "https://github.com/mirego/PinLayout"
     }, {
       "title": "Stevia",
       "category": "layout",
@@ -5135,6 +5145,37 @@
         "description": "A linear constraint solving library using the same algorithm as AutoLayout.",
         "homepage": "https://github.com/tribalworldwidelondon/CassowarySwift",
         "tags": ["cassowary", "constraints", "autolayout"]
+    }, {
+      "title": "Observable",
+      "category": "events",
+      "description": "The easiest way to observe values.",
+      "homepage": "https://github.com/roberthein/Observable",
+      "tags": ["observable", "observer", "reactive"]
+    }, {
+      "title": "AZTableViewController",
+      "category": "uitableview",
+      "description": "Elegant and easy way to integrate pagination with placeholder views.",
+      "homepage": "https://github.com/AfrozZaheer/AZTableViewController"
+    }, {
+      "title": "NetClient",
+      "category": "network",
+      "description": "Versatile HTTP networking library.",
+      "homepage": "https://github.com/intelygenz/NetClient-iOS"
+    }, {
+      "title": "Kommander",
+      "category": "concurrency",
+      "description": "Manage the task execution in different threads through Kommands.",
+      "homepage": "https://github.com/intelygenz/Kommander-iOS"
+    }, {
+      "title": "Colorify",
+      "category": "colors",
+      "description": "Colorify - simple, yet powerful color library.",
+      "homepage": "https://github.com/czater/Colorify"
+    }, {
+      "title": "HGPlaceholders",
+      "category": "uitableview",
+      "description": "Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.",
+      "homepage": "https://github.com/HamzaGhazouani/HGPlaceholders"
     }
   ]
 }

@@ -5181,6 +5181,11 @@
       "category": "key-value-store",
       "description": "Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS",
       "homepage": "https://github.com/nmdias/DefaultsKit"
+    }, {
+      "title": "iCard",
+      "category": "payment",
+      "description": "Bank Card Generator with Swift using SnapKit DSL",
+      "homepage": "https://github.com/eliakorkmaz/iCard"
     }
   ]
 }

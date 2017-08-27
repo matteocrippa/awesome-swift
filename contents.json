@@ -5184,7 +5184,7 @@
     }, {
       "title": "iCard",
       "category": "payment",
-      "description": "Bank Card Generator with Swift using SnapKit DSL",
+      "description": "Bank Card Generator using SnapKit DSL",
       "homepage": "https://github.com/eliakorkmaz/iCard"
     }
   ]

@@ -2111,7 +2111,7 @@
     }, {
       "title": "FlexLayout",
       "category": "layout",
-      "description": "FlexLayout adds a nice Swift interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax. Works perfectly with PinLayout.",
+      "description": "FlexLayout adds a nice and clean interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax. Works perfectly with PinLayout.",
       "homepage": "https://github.com/lucdion/FlexLayout/"
     }, {
       "title": "PinLayout",

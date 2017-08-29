@@ -2109,6 +2109,11 @@
       "description": "A simple static table views for iOS.",
       "homepage": "https://github.com/venmo/Static"
     }, {
+      "title": "FlexLayout",
+      "category": "layout",
+      "description": "FlexLayout adds a nice and clean interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax. Works perfectly with PinLayout.",
+      "homepage": "https://github.com/lucdion/FlexLayout/"
+    }, {
       "title": "PinLayout",
       "category": "layout",
       "description": "Fast views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise, intuitive, readable & chainable syntax. Works nicely with FlexLayout.",

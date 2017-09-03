@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-901-orange.svg) | September 01, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-902-orange.svg) | September 03, 2017
 
 ### Contributing
 
@@ -1534,6 +1534,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Version Tracker Swift](https://github.com/tbaranes/VersionTrackerSwift) - Versions tracker for your iOS, OS X, and tvOS app.
 * [Version Update](https://github.com/tenric/VersionUpdate) - Check and update app's version for both AppStore & Fir.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers.
+* [VersionsTracker](https://github.com/martnst/VersionsTracker) - Versions tracker keeping track of os and app version installation history including dates.
 
 ### Video
 [back to top](#readme) 

@@ -5201,11 +5201,21 @@
       "category": "video",
       "description": "Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.",
       "homepage": "https://github.com/MillmanY/MMPlayerView"
+    }, {
+      "title": "MMPlayerView",
+      "category": "video",
+      "description": "Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.",
+      "homepage": "https://github.com/MillmanY/MMPlayerView"
     },  {
       "title": "SpotifyLogin",
       "category": "authentication",
       "description": "Authenticate with the Spotify API.",
       "homepage": "https://github.com/spotify/SpotifyLogin"
+    }, {
+      "title": "MediaBrowser",
+      "category": "ui",
+      "description": "A simple iOS photo and video browser with optional grid view, captions and selections.",
+      "homepage": "https://github.com/younatics/MediaBrowser"
     }
   ]
 }

@@ -4985,6 +4985,11 @@
       "description": "Analytics abstraction layer.",
       "homepage": "https://github.com/devxoul/Umbrella"
     }, {
+      "title": "Tracker Aggregator",
+      "category": "analytics",
+      "description": "An abstraction layer for analytics in your app to keep your tracking code clean and reusable.",
+      "homepage": "https://github.com/kafejo/Tracker-Aggregator"
+    }, {
       "title": "URWeatherView",
       "category": "ui",
       "description": "Show weather effects onto a view.",

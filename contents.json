@@ -2082,6 +2082,11 @@
       "category": "images",
       "description": "Crop image in any shape.",
       "homepage": "https://github.com/ZaidPathan/ZImageCropper"
+    }, {
+      "title": "DTPhotoViewerController",
+      "category": "images",
+      "description": "A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.",
+      "homepage": "https://github.com/tungvoduc/DTPhotoViewerController"
     },{
       "title": "C4iOS",
       "category": "kit",

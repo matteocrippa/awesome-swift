@@ -5211,6 +5211,11 @@
       "category": "ui",
       "description": "A simple way to hide the notch on the iPhone X.",
       "homepage": "https://github.com/HarshilShah/NotchKit"
+    }, {
+      "title": "VegaScroll",
+      "category": "ui",
+      "description": "VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.",
+      "homepage": "https://github.com/AppliKeySolutions/VegaScroll"
     }
   ]
 }

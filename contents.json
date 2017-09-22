@@ -5206,6 +5206,11 @@
       "category": "authentication",
       "description": "Authenticate with the Spotify API.",
       "homepage": "https://github.com/spotify/SpotifyLogin"
+    }, {
+      "title": "NotchKit",
+      "category": "ui",
+      "description": "A simple way to hide the notch on the iPhone X.",
+      "homepage": "https://github.com/HarshilShah/NotchKit"
     }
   ]
 }

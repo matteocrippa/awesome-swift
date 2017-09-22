@@ -2812,7 +2812,7 @@
       "title": "Mockingjay",
       "category": "mock",
       "description": "An elegant library for stubbing HTTP requests with ease.",
-      "homepage": "https://github.com/kylef-archive/Mockingjay"
+      "homepage": "https://github.com/kylef/Mockingjay"
     }, {
       "title": "Mockit",
       "category": "mock",

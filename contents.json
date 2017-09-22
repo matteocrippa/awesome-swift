@@ -616,11 +616,6 @@
       "description": "An interesting guide to learn Swift.",
       "homepage": "https://github.com/domenicosolazzo/practice-swift"
     }, {
-      "title": "Swift Examples",
-      "category": "third-party-guides",
-      "description": "Reusable examples code.",
-      "homepage": "https://github.com/cbutron/Swift"
-    }, {
       "title": "Swift Web Weekly",
       "category": "third-party-guides",
       "description": "A free, hand-picked list of the best links for Swift Web Developers, every Monday in your inbox.",

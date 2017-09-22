@@ -609,7 +609,7 @@
       "title": "This Week In Swift",
       "category": "newsletter",
       "description": "Weekly Newsletter on Swift.",
-      "homepage": "http://swiftnews.curated.co/"
+      "homepage": "https://swiftnews.curated.co/"
     }, {
       "title": "Practice Swift",
       "category": "third-party-guides",
@@ -2712,7 +2712,7 @@
       "title": "Siphash",
       "category": "cryptography",
       "description": "Simple and secure hashing with the SipHash algorithm.",
-      "homepage": "https://github.com/lorentey/SipHash"
+      "homepage": "https://github.com/attaswift/SipHash"
     }, {
       "title": "SweetHMAC",
       "category": "cryptography",
@@ -3144,7 +3144,7 @@
       "title": "FillableLoaders",
       "category": "ui",
       "description": "Fillable loaders progress.",
-      "homepage": "https://github.com/poolqf/FillableLoaders"
+      "homepage": "https://github.com/polqf/FillableLoaders"
     }, {
       "title": "FlagKit",
       "category": "ui",

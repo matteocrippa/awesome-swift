@@ -1,7 +1,7 @@
 {
   "title": "Awesome Swift",
   "header": "# Awesome Swift\n \n<!-- \n\nPLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)\n\n -->\n\n",
-  "header_contributing": "Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!",
+  "header_contributing": "Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!!",
   "ios_app_link": "https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427",
   "categories": [{
     "title": "Guides",
@@ -609,17 +609,12 @@
       "title": "This Week In Swift",
       "category": "newsletter",
       "description": "Weekly Newsletter on Swift.",
-      "homepage": "http://swiftnews.curated.co/"
+      "homepage": "https://swiftnews.curated.co/"
     }, {
       "title": "Practice Swift",
       "category": "third-party-guides",
       "description": "An interesting guide to learn Swift.",
       "homepage": "https://github.com/domenicosolazzo/practice-swift"
-    }, {
-      "title": "Swift Examples",
-      "category": "third-party-guides",
-      "description": "Reusable examples code.",
-      "homepage": "https://github.com/cbutron/Swift"
     }, {
       "title": "Swift Web Weekly",
       "category": "third-party-guides",
@@ -2082,6 +2077,11 @@
       "category": "images",
       "description": "Crop image in any shape.",
       "homepage": "https://github.com/ZaidPathan/ZImageCropper"
+    }, {
+      "title": "DTPhotoViewerController",
+      "category": "images",
+      "description": "A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.",
+      "homepage": "https://github.com/tungvoduc/DTPhotoViewerController"
     },{
       "title": "C4iOS",
       "category": "kit",
@@ -2707,7 +2707,7 @@
       "title": "Siphash",
       "category": "cryptography",
       "description": "Simple and secure hashing with the SipHash algorithm.",
-      "homepage": "https://github.com/lorentey/SipHash"
+      "homepage": "https://github.com/attaswift/SipHash"
     }, {
       "title": "SweetHMAC",
       "category": "cryptography",
@@ -2807,7 +2807,7 @@
       "title": "Mockingjay",
       "category": "mock",
       "description": "An elegant library for stubbing HTTP requests with ease.",
-      "homepage": "https://github.com/kylef-archive/Mockingjay"
+      "homepage": "https://github.com/kylef/Mockingjay"
     }, {
       "title": "Mockit",
       "category": "mock",
@@ -3139,7 +3139,7 @@
       "title": "FillableLoaders",
       "category": "ui",
       "description": "Fillable loaders progress.",
-      "homepage": "https://github.com/poolqf/FillableLoaders"
+      "homepage": "https://github.com/polqf/FillableLoaders"
     }, {
       "title": "FlagKit",
       "category": "ui",
@@ -5211,6 +5211,16 @@
       "category": "authentication",
       "description": "Authenticate with the Spotify API.",
       "homepage": "https://github.com/spotify/SpotifyLogin"
+    }, {
+      "title": "NotchKit",
+      "category": "ui",
+      "description": "A simple way to hide the notch on the iPhone X.",
+      "homepage": "https://github.com/HarshilShah/NotchKit"
+    }, {
+      "title": "VegaScroll",
+      "category": "ui",
+      "description": "VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.",
+      "homepage": "https://github.com/AppliKeySolutions/VegaScroll"
     }, {
       "title": "MediaBrowser",
       "category": "ui",

@@ -5202,11 +5202,6 @@
       "description": "Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.",
       "homepage": "https://github.com/MillmanY/MMPlayerView"
     }, {
-      "title": "MMPlayerView",
-      "category": "video",
-      "description": "Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.",
-      "homepage": "https://github.com/MillmanY/MMPlayerView"
-    },  {
       "title": "SpotifyLogin",
       "category": "authentication",
       "description": "Authenticate with the Spotify API.",

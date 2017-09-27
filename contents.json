@@ -5201,7 +5201,7 @@
       "category": "video",
       "description": "Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.",
       "homepage": "https://github.com/MillmanY/MMPlayerView"
-    },  {
+    }, {
       "title": "SpotifyLogin",
       "category": "authentication",
       "description": "Authenticate with the Spotify API.",
@@ -5216,6 +5216,11 @@
       "category": "ui",
       "description": "VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.",
       "homepage": "https://github.com/AppliKeySolutions/VegaScroll"
+    }, {
+      "title": "MediaBrowser",
+      "category": "ui",
+      "description": "A simple iOS photo and video browser with optional grid view, captions and selections.",
+      "homepage": "https://github.com/younatics/MediaBrowser"
     }
   ]
 }

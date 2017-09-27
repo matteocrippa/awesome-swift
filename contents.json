@@ -5221,6 +5221,12 @@
       "category": "ui",
       "description": "A simple iOS photo and video browser with optional grid view, captions and selections.",
       "homepage": "https://github.com/younatics/MediaBrowser"
+    }, {
+      "title": "SwiftSoup",
+      "category": "html",
+      "description": "Pure Swift HTML Parser, with best of DOM, CSS, and jquery.",
+      "homepage": "https://github.com/scinfu/SwiftSoup",
+      "tags": ["linux"]
     }
   ]
 }

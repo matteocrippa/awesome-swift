@@ -5221,6 +5221,11 @@
       "category": "ui",
       "description": "A simple iOS photo and video browser with optional grid view, captions and selections.",
       "homepage": "https://github.com/younatics/MediaBrowser"
+    }, {
+      "title": "Mint",
+      "category": "dependency-managers",
+      "description": "A package manager that installs and runs Swift command line tools",
+      "homepage": "https://github.com/yonaskolb/Mint"
     }
   ]
 }

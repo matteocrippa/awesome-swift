@@ -5236,6 +5236,11 @@
       "category": "dependency-managers",
       "description": "A package manager that installs and runs Swift command line tools",
       "homepage": "https://github.com/yonaskolb/Mint"
+    }, {
+      "title": "BulletinBoard",
+      "category": "ui",
+      "description": "Generates and manages contextual cards displayed at the bottom of the screen.",
+      "homepage": "https://github.com/alexaubry/BulletinBoard"
     }
   ]
 }

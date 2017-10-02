@@ -5236,6 +5236,12 @@
       "category": "dependency-managers",
       "description": "A package manager that installs and runs Swift command line tools",
       "homepage": "https://github.com/yonaskolb/Mint"
+    }, {
+      "title": "SwiftSoup",
+      "category": "html",
+      "description": "Pure Swift HTML Parser, with best of DOM, CSS, and jquery.",
+      "homepage": "https://github.com/scinfu/SwiftSoup",
+      "tags": ["linux"]
     }
   ]
 }

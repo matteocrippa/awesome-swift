@@ -2853,7 +2853,7 @@
     }, {
       "title": "Nimble",
       "category": "testing",
-      "description": "A matcher framework",
+      "description": "A matcher framework.",
       "homepage": "https://github.com/Quick/Nimble"
     }, {
       "title": "Apodimark",

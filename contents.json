@@ -4678,6 +4678,11 @@
       "homepage": "https://github.com/totocaster/Typist",
       "tags": ["iOS", "swift", "keyboard"]
     }, {
+      "title": "IQKeyboardManager",
+      "category": "keyboard",
+      "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.",
+      "homepage": "https://github.com/hackiftekhar/IQKeyboardManager"
+    }, {
       "title": "Getting Started",
       "category": "official-guides",
       "description": "Find information about the how to use the Swift programming language.",

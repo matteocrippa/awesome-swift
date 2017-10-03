@@ -5242,6 +5242,11 @@
       "description": "Pure Swift HTML Parser, with best of DOM, CSS, and jquery.",
       "homepage": "https://github.com/scinfu/SwiftSoup",
       "tags": ["linux"]
+    }, {
+      "title": "BulletinBoard",
+      "category": "ui",
+      "description": "Generates and manages contextual cards displayed at the bottom of the screen.",
+      "homepage": "https://github.com/alexaubry/BulletinBoard"
     }
   ]
 }

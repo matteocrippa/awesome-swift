@@ -1235,6 +1235,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [PMAlertController](https://github.com/Codeido/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
+* [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) - Design custom prompts with a great scope of options to choose from.
 * [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) - Lightweight dropdown message bar.
@@ -1357,7 +1358,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [AREK](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
 * [Permission](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - A Periscope-inspired way to ask for iOS permissions.
-* [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) - Design custom prompts with a great scope of options to choose from.
 
 #### StackView
 [back to top](#readme) 

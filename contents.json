@@ -3844,7 +3844,7 @@
       "homepage": "https://github.com/nickoneill/PermissionScope"
     }, {
       "title": "Swift-Prompts",
-      "category": "permissions",
+      "category": "alert",
       "description": "Design custom prompts with a great scope of options to choose from.",
       "homepage": "https://github.com/GabrielAlva/Swift-Prompts"
     }, {

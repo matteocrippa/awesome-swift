@@ -2851,6 +2851,11 @@
       "description": "Answers to common \"How do I test this with UI Testing?\" questions with a working example app.",
       "homepage": "https://github.com/joemasilotti/UI-Testing-Cheat-Sheet"
     }, {
+      "title": "Nimble",
+      "category": "testing",
+      "description": "A matcher framework.",
+      "homepage": "https://github.com/Quick/Nimble"
+    }, {
       "title": "Apodimark",
       "category": "text",
       "description": "Fast, flexible markdown parser.",
@@ -4673,6 +4678,11 @@
       "homepage": "https://github.com/totocaster/Typist",
       "tags": ["iOS", "swift", "keyboard"]
     }, {
+      "title": "IQKeyboardManager",
+      "category": "keyboard",
+      "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.",
+      "homepage": "https://github.com/hackiftekhar/IQKeyboardManager"
+    }, {
       "title": "Getting Started",
       "category": "official-guides",
       "description": "Find information about the how to use the Swift programming language.",
@@ -5201,7 +5211,7 @@
       "category": "video",
       "description": "Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.",
       "homepage": "https://github.com/MillmanY/MMPlayerView"
-    },  {
+    }, {
       "title": "SpotifyLogin",
       "category": "authentication",
       "description": "Authenticate with the Spotify API.",
@@ -5218,9 +5228,30 @@
       "homepage": "https://github.com/AppliKeySolutions/VegaScroll"
     }, {
       "title": "whats-new-in-swift-4",
-               "category": "Guides",
-               "description": "An Xcode playground showcasing the new features in Swift 4.0. https://oleb.net",
+               "category": "third-party-guides",
+               "description": "An Xcode playground showcasing the new features in Swift 4.0.",
                "homepage": "https://github.com/ole/whats-new-in-swift-4"
-               }
+               }, {
+      "title": "MediaBrowser",
+      "category": "ui",
+      "description": "A simple iOS photo and video browser with optional grid view, captions and selections.",
+      "homepage": "https://github.com/younatics/MediaBrowser"
+    }, {
+      "title": "Mint",
+      "category": "dependency-managers",
+      "description": "A package manager that installs and runs Swift command line tools",
+      "homepage": "https://github.com/yonaskolb/Mint"
+    }, {
+      "title": "SwiftSoup",
+      "category": "html",
+      "description": "Pure Swift HTML Parser, with best of DOM, CSS, and jquery.",
+      "homepage": "https://github.com/scinfu/SwiftSoup",
+      "tags": ["linux"]
+    }, {
+      "title": "BulletinBoard",
+      "category": "ui",
+      "description": "Generates and manages contextual cards displayed at the bottom of the screen.",
+      "homepage": "https://github.com/alexaubry/BulletinBoard"
+    }
   ]
 }

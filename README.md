@@ -577,6 +577,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions.
 * [TrueTime.swift](https://github.com/instacart/TrueTime.swift) - Get the true current time impervious to device clock time changes (NTP library).
+* [Time](https://github.com/dreymonde/Time) - Type-safe time calculations, powered by generics.
 
 ### Dependency Injection
 *Dependency injection libs* [back to top](#readme) 

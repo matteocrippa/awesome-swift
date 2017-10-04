@@ -1644,6 +1644,11 @@
       "description": "Intuitive NSDate extensions.",
       "homepage": "https://github.com/naoty/Timepiece"
     }, {
+      "title": "Time",
+      "category": "date",
+      "description": "Type-safe time calculations, powered by generics.",
+      "homepage": "https://github.com/dreymonde/Time"
+    }, {
       "title": "TrueTime.swift",
       "category": "date",
       "description": "Get the true current time impervious to device clock time changes (NTP library).",

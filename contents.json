@@ -997,6 +997,11 @@
       "description": "Twitter framework.",
       "homepage": "https://github.com/mattdonnelly/Swifter"
     }, {
+      "title": "SwiftInstagram",
+      "category": "api",
+      "description": "Instagram API wrapper.",
+      "homepage": "https://github.com/AnderGoig/SwiftInstagram"
+    }, {
       "title": "Swinject",
       "category": "dependency-injection",
       "description": "A dependency injection framework.",

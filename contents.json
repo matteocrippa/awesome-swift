@@ -5267,6 +5267,11 @@
       "category": "utility",
       "description": "LifetimeTracker can surface retain cycle / memory issues right as you develop your application, and it will surface them to you immediately, so you can find them with more ease.",
       "homepage": "https://github.com/krzysztofzablocki/LifetimeTracker"
+    }, {
+      "title": "ShelfView-iOS",
+      "category": "uicollectionview",
+      "description": "iOS custom view to display books on shelf",
+      "homepage": "https://github.com/tdscientist/ShelfView-iOS"
     }
   ]
 }

@@ -5237,11 +5237,6 @@
       "description": "VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.",
       "homepage": "https://github.com/AppliKeySolutions/VegaScroll"
     }, {
-      "title": "whats-new-in-swift-4",
-               "category": "third-party-guides",
-               "description": "An Xcode playground showcasing the new features in Swift 4.0.",
-               "homepage": "https://github.com/ole/whats-new-in-swift-4"
-               }, {
       "title": "MediaBrowser",
       "category": "ui",
       "description": "A simple iOS photo and video browser with optional grid view, captions and selections.",
@@ -5272,6 +5267,11 @@
       "category": "uicollectionview",
       "description": "iOS custom view to display books on shelf",
       "homepage": "https://github.com/tdscientist/ShelfView-iOS"
+    }, {
+      "title": "whats-new-in-swift-4",
+      "category": "third-party-guides",
+      "description": "An Xcode playground showcasing the new features in Swift 4.0.",
+       "homepage": "https://github.com/ole/whats-new-in-swift-4"
     }
   ]
 }

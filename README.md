@@ -347,6 +347,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [ARCharts](https://github.com/Boris-Em/ARCharts) - Lovely Augmented Reality Charts for iOS - Built with ARKit
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
+* [ARKit Navigation](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality using ARKit and MapKit.
 
 ### Authentication
 *Easy way to manage auth in your apps.* [back to top](#readme) 

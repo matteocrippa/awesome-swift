@@ -4491,10 +4491,10 @@
       "description": "A very flexible message bar for iOS.",
       "homepage": "https://github.com/SwiftKickMobile/SwiftMessages"
     }, {
-      "title": "Swift 3 Module Template",
+      "title": "Swift 4 Module Template",
       "category": "boilerplates",
       "description": "An opinionated starting point for awesome, reusable modules.",
-      "homepage": "https://github.com/fulldecent/swift3-module-template"
+      "homepage": "https://github.com/fulldecent/swift4-module-template"
     }, {
       "title": "Toybox",
       "category": "misc",
@@ -5111,6 +5111,11 @@
       "category": "augmented-reality",
       "description": "Combines the high accuracy of AR with the scale of GPS data.",
       "homepage": "https://github.com/ProjectDent/ARKit-CoreLocation"
+    }, {
+      "title": "ARKit-Navigation",
+      "category": "augmented-reality",
+      "description": "Navigation in augmented reality with MapKit.",
+      "homepage": "https://github.com/chriswebb09/ARKitNavigationDemo"
     }, {
       "title": "ShadowsocksX-NG",
       "category": "network",

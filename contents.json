@@ -5112,6 +5112,11 @@
       "description": "Combines the high accuracy of AR with the scale of GPS data.",
       "homepage": "https://github.com/ProjectDent/ARKit-CoreLocation"
     }, {
+      "title": "ARKit-Navigation",
+      "category": "augmented-reality",
+      "description": "Navigation in augmented reality with MapKit.",
+      "homepage": "https://github.com/chriswebb09/ARKitNavigationDemo"
+    }, {
       "title": "ShadowsocksX-NG",
       "category": "network",
       "description": "A fast tunnel proxy that helps you bypass firewalls.",

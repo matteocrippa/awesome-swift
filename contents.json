@@ -5272,6 +5272,11 @@
       "category": "uicollectionview",
       "description": "iOS custom view to display books on shelf",
       "homepage": "https://github.com/tdscientist/ShelfView-iOS"
+    }, {
+      "title": "whats-new-in-swift-4",
+      "category": "third-party-guides",
+      "description": "An Xcode playground showcasing the new features in Swift 4.0.",
+      "homepage": "https://github.com/ole/whats-new-in-swift-4"
     }
   ]
 }

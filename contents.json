@@ -4491,10 +4491,10 @@
       "description": "A very flexible message bar for iOS.",
       "homepage": "https://github.com/SwiftKickMobile/SwiftMessages"
     }, {
-      "title": "Swift 3 Module Template",
+      "title": "Swift 4 Module Template",
       "category": "boilerplates",
       "description": "An opinionated starting point for awesome, reusable modules.",
-      "homepage": "https://github.com/fulldecent/swift3-module-template"
+      "homepage": "https://github.com/fulldecent/swift4-module-template"
     }, {
       "title": "Toybox",
       "category": "misc",

@@ -5272,6 +5272,11 @@
       "category": "uicollectionview",
       "description": "iOS custom view to display books on shelf",
       "homepage": "https://github.com/tdscientist/ShelfView-iOS"
+    }, {
+      "title": "Bamboo",
+      "category": "auto-layout",
+      "description": "Auto Layout (and manual layout) in one line.",
+      "homepage": "https://github.com/wordlessj/Bamboo"
     }
   ]
 }

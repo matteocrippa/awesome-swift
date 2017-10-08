@@ -5277,6 +5277,26 @@
       "category": "third-party-guides",
       "description": "An Xcode playground showcasing the new features in Swift 4.0.",
       "homepage": "https://github.com/ole/whats-new-in-swift-4"
+    }, {
+      "title": "Swift in Depth",
+      "category": "third-party-guides",
+      "description": "A deep dive into Swift",
+      "homepage": "https://www.manning.com/books/swift-in-depth"
+    }, {
+      "title": "Hello Swift!",
+      "category": "third-party-guides",
+      "description": "iOS programming for kids and beginners",
+      "homepage": "https://www.manning.com/books/hello-swift"
+    }, {
+      "title": "Anyone Can Create an App",
+      "category": "third-party-guides",
+      "description": "A beginner's guide to iOS programming",
+      "homepage": "https://www.manning.com/books/anyone-can-create-an-app"
+    }, {
+      "title": "iOS Development with Swift",
+      "category": "third-party-guides",
+      "description": "A hands-on guide to creating apps for iPhone and iPad",
+      "homepage": "https://www.manning.com/books/ios-development-with-swift"
     }
   ]
 }

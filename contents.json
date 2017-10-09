@@ -5278,6 +5278,11 @@
       "description": "An Xcode playground showcasing the new features in Swift 4.0.",
       "homepage": "https://github.com/ole/whats-new-in-swift-4"
     }, {
+      "title": "Cachyr",
+      "category": "cache",
+      "description": "A small key-value data cache for iOS, macOS and tvOS, written in Swift.",
+      "homepage": "https://github.com/YR/Cachyr"
+    }, {
       "title": "SectionScrubber",
       "category": "uitableview",
       "description": "A component to quickly scroll between collection view sections.",

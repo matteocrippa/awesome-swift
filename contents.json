@@ -316,7 +316,7 @@
     "title": "Key Value Coding",
     "id": "key-value-coding",
     "parent": "libs",
-    "description": "Libraries for key-value coding in Swift"
+    "description": "Libraries for key-value coding"
   }, {
     "title": "Kit",
     "id": "kit",
@@ -406,7 +406,7 @@
     "title": "Cryptography",
     "id": "cryptography",
     "parent": "security",
-    "description": "Deal with cryptography method easily in Swift"
+    "description": "Deal with cryptography method easily"
   }, {
     "title": "Keychain",
     "id": "keychain",
@@ -5239,7 +5239,7 @@
     }, {
       "title": "VegaScroll",
       "category": "ui",
-      "description": "VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.",
+      "description": "VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4.",
       "homepage": "https://github.com/AppliKeySolutions/VegaScroll"
     }, {
       "title": "MediaBrowser",
@@ -5285,7 +5285,7 @@
     }, {
       "title": "Cachyr",
       "category": "cache",
-      "description": "A small key-value data cache for iOS, macOS and tvOS, written in Swift.",
+      "description": "A small key-value data cache for iOS, macOS and tvOS.",
       "homepage": "https://github.com/YR/Cachyr"
     }, {
       "title": "SectionScrubber",

@@ -5257,6 +5257,11 @@
       "category": "ui",
       "description": "Generates and manages contextual cards displayed at the bottom of the screen.",
       "homepage": "https://github.com/alexaubry/BulletinBoard"
+    }, {
+      "title": "Closures",
+      "category": "utility",
+      "description": "Swifty closures for UIKit and Foundation.",
+      "homepage": "https://github.com/vhesener/Closures"
     }
   ]
 }

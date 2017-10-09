@@ -5273,6 +5273,11 @@
       "description": "iOS custom view to display books on shelf",
       "homepage": "https://github.com/tdscientist/ShelfView-iOS"
     }, {
+      "title": "Bamboo",
+      "category": "auto-layout",
+      "description": "Auto Layout (and manual layout) in one line.",
+      "homepage": "https://github.com/wordlessj/Bamboo"
+    }, {
       "title": "whats-new-in-swift-4",
       "category": "third-party-guides",
       "description": "An Xcode playground showcasing the new features in Swift 4.0.",

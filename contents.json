@@ -5292,6 +5292,11 @@
       "category": "uitableview",
       "description": "A component to quickly scroll between collection view sections.",
       "homepage": "https://github.com/bakkenbaeck/SectionScrubber"
+    }, {
+      "title": "SwiftyUI",
+      "category": "ui",
+      "description": "High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.",
+      "homepage": "https://github.com/haoking/SwiftyUI"
     }
   ]
 }

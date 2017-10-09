@@ -5277,6 +5277,11 @@
       "category": "third-party-guides",
       "description": "An Xcode playground showcasing the new features in Swift 4.0.",
       "homepage": "https://github.com/ole/whats-new-in-swift-4"
+    }, {
+      "title": "SectionScrubber",
+      "category": "uitableview",
+      "description": "A component to quickly scroll between collection view sections.",
+      "homepage": "https://github.com/bakkenbaeck/SectionScrubber"
     }
   ]
 }

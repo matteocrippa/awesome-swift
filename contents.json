@@ -5292,6 +5292,11 @@
       "category": "uitableview",
       "description": "A component to quickly scroll between collection view sections.",
       "homepage": "https://github.com/bakkenbaeck/SectionScrubber"
+    }, {
+      "title": "PTEventView",
+      "category": "calendar",
+      "description": "An Event View based on Apple's Event Detail View. Supports ARC, Autolayout and editing via StoryBoard.",
+      "homepage": "https://github.com/amantaneja/PTEventView"
     }
   ]
 }

@@ -3523,6 +3523,11 @@
       "description": "Paging view controller and scroll tab view.",
       "homepage": "https://github.com/EndouMari/TabPageViewController"
     }, {
+      "title": "DTPagerController",
+      "category": "tab",
+      "description": "Container view controller to display a set of ViewControllers in a horizontal scroll view",
+      "homepage": "https://github.com/tungvoduc/DTPagerController"
+    }, {
       "title": "TagCellLayout",
       "category": "uicollectionview",
       "description": "UICollectionView layout for Tags with Left, Center & Right alignments.",

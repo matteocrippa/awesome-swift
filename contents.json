@@ -1037,6 +1037,11 @@
       "description": "BLE (Bluetooth LE) for U.",
       "homepage": "https://github.com/1amageek/Bleu"
     }, {
+      "title": "PeerConnectivity",
+      "category": "bluetooth",
+      "description": "Functional wrapper for Apple's MultipeerConnectivity framework.",
+      "homepage": "https://github.com/rchatham/PeerConnectivity"
+    }, {
       "title": "ALCameraViewController",
       "category": "camera",
       "description": "Camera view controller with custom image picker and image cropping.",

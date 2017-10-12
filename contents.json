@@ -5297,6 +5297,11 @@
       "category": "uitableview",
       "description": "A component to quickly scroll between collection view sections.",
       "homepage": "https://github.com/bakkenbaeck/SectionScrubber"
+    }, {
+      "title": "Corridor",
+      "category": "dependency-injection",
+      "description": "A Coreader-like Dependency Injection μFramework.",
+      "homepage": "https://github.com/symentis/Corridor"
     }
   ]
 }

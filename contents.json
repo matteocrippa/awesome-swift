@@ -5298,6 +5298,11 @@
       "description": "A component to quickly scroll between collection view sections.",
       "homepage": "https://github.com/bakkenbaeck/SectionScrubber"
     }, {
+      "title": "Closures",
+      "category": "utility",
+      "description": "Swifty closures for UIKit and Foundation.",
+      "homepage": "https://github.com/vhesener/Closures"
+    }, {
       "title": "Corridor",
       "category": "dependency-injection",
       "description": "A Coreader-like Dependency Injection μFramework.",

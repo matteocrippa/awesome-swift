@@ -882,6 +882,11 @@
       "description": "Your fast and friendly physics-based animation system.",
       "homepage": "https://github.com/yapstudios/YapAnimator"
     }, {
+      "title": "ViewAnimator",
+      "category": "animation",
+      "description": "Brings your UI to life with just one line.",
+      "homepage": "https://github.com/marcosgriselli/ViewAnimator"
+    }, {
       "title": "Appz",
       "category": "app-routing",
       "description": "Launch external apps and deeplink with ease.",

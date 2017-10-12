@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-919-orange.svg) | October 09, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-921-orange.svg) | October 12, 2017
 
 ### Contributing
 
@@ -369,7 +369,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - Manage cache easy.
 * [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache.
-* [Cachyr](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift.
+* [Cachyr](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS.
 * [Carlos](https://github.com/WeltN24/Carlos) - A simple but flexible cache.
 * [EVURLCache](https://github.com/evermeer/EVURLCache) - If you want to make your app still works when it's offline.
 * [SwiftMemCache](https://github.com/ctews/SwiftMemCache) - Memory Cache with namespace & TTL support.
@@ -587,6 +587,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Dependency injection libs* [back to top](#readme) 
 
 * [Cleanse](https://github.com/square/Cleanse) - A Lightweight Dependency Injection Framework by Square.
+* [Corridor](https://github.com/symentis/Corridor) - A Coreader-like Dependency Injection μFramework.
 * [Dip](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 * [Swinject](https://github.com/Swinject/Swinject) - A dependency injection framework.
 * [Typhoon](https://github.com/appsquickly/Typhoon) - Dependency injection toolkit.
@@ -788,7 +789,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ZImageCropper](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
 
 ### Key Value Coding
-*Libraries for key-value coding in Swift* [back to top](#readme) 
+*Libraries for key-value coding* [back to top](#readme) 
 
 
 ### Keyboard
@@ -1020,7 +1021,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 
 #### Cryptography
-*Deal with cryptography method easily in Swift* [back to top](#readme) 
+*Deal with cryptography method easily* [back to top](#readme) 
 
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) :penguin: - Crypto related functions and helpers.
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library.
@@ -1216,7 +1217,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [UIPheonix](https://github.com/MKGitHub/UIPheonix) - Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.
 * [URLEmbeddedView](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 * [URWeatherView](https://github.com/jegumhon/URWeatherView) - Show weather effects onto a view.
-* [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.
+* [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4.
 * [Wallet](https://github.com/rshevchuk/Wallet) - A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.
 * [WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
 * [YNSearch](https://github.com/younatics/YNSearch) - Awesome fully customizable search view like Pinterest.
@@ -1384,6 +1385,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - Adaptive tab bar.
 * [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tab bar items.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - Interesting way to display tabs.
+* [DTPagerController](https://github.com/tungvoduc/DTPagerController) - Container view controller to display a set of ViewControllers in a horizontal scroll view
 * [HHTabBarView](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 * [Tabman](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar.
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view.

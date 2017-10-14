@@ -823,8 +823,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - Confirm view positions with executing app.
 
 #### Auto Layout
-*Bored of using storyboard? Give a try to declarative auto layout libs.* [back to top](#readme) 
+*Bored of using storyboard? Give a try to declarative auto layout libs.* [back to top](#readme)
 
+* [KVConstraintKit](https://github.com/keshavvishwkarma/KVConstraintKit) - An Impressive Swift Autolayout DSL for iOS, tvOS & OSX.
 * [AutoLayoutPlus](https://github.com/ruipfcosta/AutoLayoutPlus) - A bit of steroids for AutoLayout.
 * [Bamboo](https://github.com/wordlessj/Bamboo) - Auto Layout (and manual layout) in one line.
 * [Cartography](https://github.com/robb/Cartography) - Declarative auto layout lib for your project.

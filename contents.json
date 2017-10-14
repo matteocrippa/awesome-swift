@@ -3843,6 +3843,11 @@
       "description": "Drawer view controller that easy to use.",
       "homepage": "https://github.com/Kawoou/KWDrawerController"
     }, {
+      "title": "PagingKit",
+      "category": "menu",
+      "description": "PagingKit provides customizable menu UI",
+      "homepage": "https://github.com/kazuhiro4949/PagingKit"
+    }, {
       "title": "Caishen",
       "category": "payment",
       "description": "A Payment Card UI & Validator for iOS.",

@@ -5317,6 +5317,11 @@
       "category": "dependency-injection",
       "description": "A Coreader-like Dependency Injection μFramework.",
       "homepage": "https://github.com/symentis/Corridor"
+    }, {
+      "title": "SwiftyUI",
+      "category": "ui",
+      "description": "High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.",
+      "homepage": "https://github.com/haoking/SwiftyUI"
     }
   ]
 }

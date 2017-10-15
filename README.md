@@ -1099,6 +1099,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [PageController](https://github.com/hirohisa/PageController) - Infinite paging controller.
 * [PageControls](https://github.com/popwarsweet/PageControls) - Custom UIPageControl.
+* [PSPageControl](https://github.com/sochalewski/PSPageControl) - Custom UIPageViewController that applies parallax effect.
 
 #### Payment
 [back to top](#readme) 

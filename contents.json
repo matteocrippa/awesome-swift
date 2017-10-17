@@ -5325,7 +5325,7 @@
     }, {
       "title": "BigInt",
       "category": "math",
-      "description": "Arbitrary-precision arithmetic in swift.",
+      "description": "Arbitrary-precision arithmetic.",
       "homepage": "https://github.com/attaswift/BigInt"
     }
   ]

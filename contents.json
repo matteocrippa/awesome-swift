@@ -5322,6 +5322,11 @@
       "category": "ui",
       "description": "High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.",
       "homepage": "https://github.com/haoking/SwiftyUI"
+    }, {
+      "title": "BigInt",
+      "category": "math",
+      "description": "Arbitrary-precision arithmetic.",
+      "homepage": "https://github.com/attaswift/BigInt"
     }
   ]
 }

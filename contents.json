@@ -1507,6 +1507,11 @@
       "description": "Effortlessly synchronize NSUserDefaults over iCloud.",
       "homepage": "https://github.com/ArtSabintsev/Zephyr"
     }, {
+      "title": "Default",
+      "category": "key-value-store",
+      "description": "Modern interface to UserDefaults + Codable support",
+      "homepage": "https://github.com/Nirma/Default"
+    }, {
       "title": "MongoKitten",
       "category": "mongodb",
       "description": "MongoDB Connector.",

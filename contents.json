@@ -1042,6 +1042,11 @@
       "description": "BLE (Bluetooth LE) for U.",
       "homepage": "https://github.com/1amageek/Bleu"
     }, {
+      "title": "SwiftyBluetooth",
+      "category": "bluetooth",
+      "description": "Simple and reliable closure based wrapper around CoreBluetooth.",
+      "homepage": "https://github.com/jordanebelanger/SwiftyBluetooth"
+    }, {
       "title": "ALCameraViewController",
       "category": "camera",
       "description": "Camera view controller with custom image picker and image cropping.",

@@ -566,6 +566,11 @@
     "parent": "libs"
   }],
   "projects": [{
+		"title": "Cards XI",
+		"category": "transition",
+		"description": "Awesome iOS 11 AppStore's Card Views.",
+		"homepage": "https://github.com/PaoloCuscela/Cards"
+    }, {
       "title": "Apple eBook",
       "category": "official-guides",
       "description": "Official Apple eBook for Swift beginners.",

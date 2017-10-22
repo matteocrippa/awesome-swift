@@ -5337,6 +5337,12 @@
       "category": "math",
       "description": "Arbitrary-precision arithmetic.",
       "homepage": "https://github.com/attaswift/BigInt"
+    },
+    {
+      "title": "KALoader",
+      "category": "ui",
+      "description": "Beautiful animated placeholders for showing loading of data",
+      "homepage": "https://github.com/Kirillzzy/KALoader"
     }
   ]
 }

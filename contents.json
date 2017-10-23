@@ -5262,6 +5262,11 @@
       "description": "Authenticate with the Spotify API.",
       "homepage": "https://github.com/spotify/SpotifyLogin"
     }, {
+		"title": "NotchToolkit",
+		"category": "ui",
+		"description": "A framework for iOS that allow developers use the iPhone X notch in creative ways.",
+		"homepage": "https://github.com/AFathi/NotchToolkit",
+    }, {
       "title": "NotchKit",
       "category": "ui",
       "description": "A simple way to hide the notch on the iPhone X.",

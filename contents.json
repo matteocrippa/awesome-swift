@@ -5348,6 +5348,11 @@
       "category": "ui",
       "description": "Beautiful animated placeholders for showing loading of data",
       "homepage": "https://github.com/Kirillzzy/KALoader"
+    }, {
+      "title": "Cards",
+      "category": "ui",
+      "description": "Awesome iOS 11 appstore cards in swift 4.",
+      "homepage": "https://github.com/PaoloCuscela/Cards"
     }
   ]
 }

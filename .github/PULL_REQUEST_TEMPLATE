@@ -1,10 +1,15 @@
 <!-- Thanks for contributing to awesome-swift 😊 -->
 
-<!-- Reminder: for new projects, add your entry in alphabetical order -->
+<!-- Reminder: Please update contents.json instead of the README -->
 
 <!-- Please fill out the short form below -->
 
-- **Project name**:
-- **Project url**:
-- **Project description**:
+- **Project Name**:
+- **Project URL**:
+- **Project Description**:
 - **Why it should be added to `awesome-swift`**:
+- [ ] At least 15 stars (GitHub project)
+- [ ] Support `Swift 4`
+- [ ] Updated **contents.json** instead of README
+- [ ] Lib is fully open sourced, written in Swift and not a wrapper over compiled lib
+- [ ] Description does not say "written in Swift" or variant 🤓

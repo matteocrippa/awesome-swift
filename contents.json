@@ -2412,7 +2412,7 @@
     }, {
       "title": "Conduit",
       "category": "network",
-      "description": "Robust Swift networking for web APIs",
+      "description": "Robust networking for web APIs",
       "homepage": "https://github.com/mindbody/Conduit"
     }, {
       "title": "Heimdallr.swift",

@@ -2414,8 +2414,7 @@
       "category": "network",
       "description": "Robust Swift networking for web APIs",
       "homepage": "https://github.com/mindbody/Conduit"
-    },
-    {
+    }, {
       "title": "Heimdallr.swift",
       "category": "network",
       "description": "Easy to use OAuth 2 library for iOS.",

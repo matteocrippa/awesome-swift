@@ -1684,6 +1684,12 @@
       "description": "Soulful docs.",
       "homepage": "https://github.com/realm/jazzy/"
     }, {
+      "title": "SourceDocs",
+      "category": "documentation",
+      "description": "Generate Markdown reference documentation that lives with your code.",
+      "homepage": "https://github.com/eneko/SourceDocs/",
+  		"tags": ["documentation", "reference", "markdown", "generator"]
+    }, {
       "title": "swiftdoc-parser",
       "category": "documentation",
       "description": "SwiftDoc.org header parsing and HTML generating utilities.",

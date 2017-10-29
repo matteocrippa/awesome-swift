@@ -571,6 +571,11 @@
     "parent": "libs"
   }],
   "projects": [{
+		"title": "Cards XI",
+		"category": "transition",
+		"description": "Awesome iOS 11 AppStore's Card Views.",
+		"homepage": "https://github.com/PaoloCuscela/Cards"
+    }, {
       "title": "Apple eBook",
       "category": "official-guides",
       "description": "Official Apple eBook for Swift beginners.",
@@ -1047,6 +1052,11 @@
       "description": "BLE (Bluetooth LE) for U.",
       "homepage": "https://github.com/1amageek/Bleu"
     }, {
+      "title": "SwiftyBluetooth",
+      "category": "bluetooth",
+      "description": "Simple and reliable closure based wrapper around CoreBluetooth.",
+      "homepage": "https://github.com/jordanebelanger/SwiftyBluetooth"
+    }, {
       "title": "ALCameraViewController",
       "category": "camera",
       "description": "Camera view controller with custom image picker and image cropping.",
@@ -1507,6 +1517,11 @@
       "description": "Effortlessly synchronize NSUserDefaults over iCloud.",
       "homepage": "https://github.com/ArtSabintsev/Zephyr"
     }, {
+      "title": "Default",
+      "category": "key-value-store",
+      "description": "Modern interface to UserDefaults + Codable support",
+      "homepage": "https://github.com/Nirma/Default"
+    }, {
       "title": "MongoKitten",
       "category": "mongodb",
       "description": "MongoDB Connector.",
@@ -1673,6 +1688,12 @@
       "category": "documentation",
       "description": "Soulful docs.",
       "homepage": "https://github.com/realm/jazzy/"
+    }, {
+      "title": "SourceDocs",
+      "category": "documentation",
+      "description": "Generate Markdown reference documentation that lives with your code.",
+      "homepage": "https://github.com/eneko/SourceDocs/",
+  		"tags": ["documentation", "reference", "markdown", "generator"]
     }, {
       "title": "swiftdoc-parser",
       "category": "documentation",
@@ -5252,11 +5273,6 @@
       "description": "Authenticate with the Spotify API.",
       "homepage": "https://github.com/spotify/SpotifyLogin"
     }, {
-      "title": "NotchKit",
-      "category": "ui",
-      "description": "A simple way to hide the notch on the iPhone X.",
-      "homepage": "https://github.com/HarshilShah/NotchKit"
-    }, {
       "title": "VegaScroll",
       "category": "ui",
       "description": "VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4.",
@@ -5327,6 +5343,17 @@
       "category": "ui",
       "description": "High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.",
       "homepage": "https://github.com/haoking/SwiftyUI"
+    }, {
+      "title": "BigInt",
+      "category": "math",
+      "description": "Arbitrary-precision arithmetic.",
+      "homepage": "https://github.com/attaswift/BigInt"
+    },
+    {
+      "title": "KALoader",
+      "category": "ui",
+      "description": "Beautiful animated placeholders for showing loading of data",
+      "homepage": "https://github.com/Kirillzzy/KALoader"
     }
   ]
 }

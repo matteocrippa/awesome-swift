@@ -3609,6 +3609,11 @@
       "description": "Highly customizable alert/notification/success/error/alarm popup.",
       "homepage": "https://github.com/candostdagdeviren/CDAlertView"
     }, {
+      "title": "CFNotify",
+      "category": "alert",
+      "description": "A customizable framework to create draggable alert views.",
+      "homepage": "https://github.com/hallelujahbaby/CFNotify"
+    }, {
       "title": "EZAlertController",
       "category": "alert",
       "description": "Easy UIAlertController.",

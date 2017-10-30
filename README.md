@@ -409,6 +409,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Hex to UIColor converter.
 * [UIColor-WikiColors](https://github.com/nahive/UIColor-WikiColors) - All wikipedia colors implemented as easy to use UIColor extension.
+* [Lorikeet](https://github.com/valdirunars/Lorikeet) - A lightweight Swift framework for aesthetically pleasing color-scheme generation and CIE color-difference calculation.
 
 ### Command Line
 *Create command line applications.* [back to top](#readme) 

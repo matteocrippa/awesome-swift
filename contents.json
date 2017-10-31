@@ -328,6 +328,11 @@
     "parent": "libs",
     "description": "Libs to help you with layout."
   }, {
+      "title": "KVConstraintKit",
+      "category": "auto-layout",
+      "description": "An Impressive Swift Autolayout DSL for iOS, tvOS & OSX.",
+      "homepage": "https://github.com/keshavvishwkarma/KVConstraintKit"
+  }, {
     "title": "Auto Layout",
     "id": "auto-layout",
     "parent": "layout",

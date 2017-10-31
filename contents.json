@@ -328,11 +328,6 @@
     "parent": "libs",
     "description": "Libs to help you with layout."
   }, {
-      "title": "KVConstraintKit",
-      "id": "layout",
-      "parent": "libs",
-      "description": "An Impressive Swift Autolayout DSL for iOS, tvOS & OSX."
-  }, {
     "title": "Auto Layout",
     "id": "auto-layout",
     "parent": "layout",
@@ -2134,6 +2129,11 @@
       "description": "A collection of useful classes, structs and extensions to develop Apps faster.",
       "homepage": "https://github.com/FabrizioBrancati/BFKit-Swift",
       "tags": ["linux"]
+    }, {
+      "title": "KVConstraintKit",
+      "category": "layout",
+      "description": "An Impressive Swift Autolayout DSL for iOS, tvOS & OSX.",
+      "homepage": "https://github.com/keshavvishwkarma/KVConstraintKit"
     }, {
       "title": "ManualLayout",
       "category": "layout",

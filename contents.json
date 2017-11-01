@@ -2132,7 +2132,7 @@
     }, {
       "title": "KVConstraintKit",
       "category": "layout",
-      "description": "An Impressive Swift Autolayout DSL for iOS, tvOS & OSX.",
+      "description": "An Impressive Autolayout DSL for iOS, tvOS & OSX.",
       "homepage": "https://github.com/keshavvishwkarma/KVConstraintKit"
     }, {
       "title": "ManualLayout",

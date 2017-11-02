@@ -5348,17 +5348,16 @@
       "category": "math",
       "description": "Arbitrary-precision arithmetic.",
       "homepage": "https://github.com/attaswift/BigInt"
-    },
-    {
+    }, {
       "title": "KALoader",
       "category": "ui",
       "description": "Beautiful animated placeholders for showing loading of data",
       "homepage": "https://github.com/Kirillzzy/KALoader"
-    }, {
-      "title": "Cards",
+    },{
+      "title": "LetterAvatarKit",
       "category": "ui",
-      "description": "Awesome iOS 11 appstore cards in swift 4.",
-      "homepage": "https://github.com/PaoloCuscela/Cards"
+      "description": "A UIImage extension that generates letter-based avatars written in Swift.",
+      "homepage": "https://github.com/vpeschenkov/LetterAvatarKit"
     }
   ]
 }

@@ -566,6 +566,11 @@
     "parent": "libs"
   }],
   "projects": [{
+		"title": "Cards XI",
+		"category": "transition",
+		"description": "Awesome iOS 11 AppStore's Card Views.",
+		"homepage": "https://github.com/PaoloCuscela/Cards"
+    }, {
       "title": "Apple eBook",
       "category": "official-guides",
       "description": "Official Apple eBook for Swift beginners.",
@@ -882,6 +887,11 @@
       "description": "Your fast and friendly physics-based animation system.",
       "homepage": "https://github.com/yapstudios/YapAnimator"
     }, {
+      "title": "ViewAnimator",
+      "category": "animation",
+      "description": "Brings your UI to life with just one line.",
+      "homepage": "https://github.com/marcosgriselli/ViewAnimator"
+    }, {
       "title": "Appz",
       "category": "app-routing",
       "description": "Launch external apps and deeplink with ease.",
@@ -1036,6 +1046,11 @@
       "category": "bluetooth",
       "description": "BLE (Bluetooth LE) for U.",
       "homepage": "https://github.com/1amageek/Bleu"
+    }, {
+      "title": "SwiftyBluetooth",
+      "category": "bluetooth",
+      "description": "Simple and reliable closure based wrapper around CoreBluetooth.",
+      "homepage": "https://github.com/jordanebelanger/SwiftyBluetooth"
     }, {
       "title": "ALCameraViewController",
       "category": "camera",
@@ -1497,6 +1512,11 @@
       "description": "Effortlessly synchronize NSUserDefaults over iCloud.",
       "homepage": "https://github.com/ArtSabintsev/Zephyr"
     }, {
+      "title": "Default",
+      "category": "key-value-store",
+      "description": "Modern interface to UserDefaults + Codable support",
+      "homepage": "https://github.com/Nirma/Default"
+    }, {
       "title": "MongoKitten",
       "category": "mongodb",
       "description": "MongoDB Connector.",
@@ -1663,6 +1683,12 @@
       "category": "documentation",
       "description": "Soulful docs.",
       "homepage": "https://github.com/realm/jazzy/"
+    }, {
+      "title": "SourceDocs",
+      "category": "documentation",
+      "description": "Generate Markdown reference documentation that lives with your code.",
+      "homepage": "https://github.com/eneko/SourceDocs/",
+  		"tags": ["documentation", "reference", "markdown", "generator"]
     }, {
       "title": "swiftdoc-parser",
       "category": "documentation",
@@ -3523,6 +3549,11 @@
       "description": "Paging view controller and scroll tab view.",
       "homepage": "https://github.com/EndouMari/TabPageViewController"
     }, {
+      "title": "DTPagerController",
+      "category": "tab",
+      "description": "Container view controller to display a set of ViewControllers in a horizontal scroll view",
+      "homepage": "https://github.com/tungvoduc/DTPagerController"
+    }, {
       "title": "TagCellLayout",
       "category": "uicollectionview",
       "description": "UICollectionView layout for Tags with Left, Center & Right alignments.",
@@ -3577,6 +3608,11 @@
       "category": "alert",
       "description": "Highly customizable alert/notification/success/error/alarm popup.",
       "homepage": "https://github.com/candostdagdeviren/CDAlertView"
+    }, {
+      "title": "CFNotify",
+      "category": "alert",
+      "description": "A customizable framework to create draggable alert views.",
+      "homepage": "https://github.com/hallelujahbaby/CFNotify"
     }, {
       "title": "EZAlertController",
       "category": "alert",
@@ -3832,6 +3868,11 @@
       "category": "menu",
       "description": "Drawer view controller that easy to use.",
       "homepage": "https://github.com/Kawoou/KWDrawerController"
+    }, {
+      "title": "PagingKit",
+      "category": "menu",
+      "description": "PagingKit provides customizable menu UI",
+      "homepage": "https://github.com/kazuhiro4949/PagingKit"
     }, {
       "title": "Caishen",
       "category": "payment",
@@ -5232,11 +5273,6 @@
       "description": "Authenticate with the Spotify API.",
       "homepage": "https://github.com/spotify/SpotifyLogin"
     }, {
-      "title": "NotchKit",
-      "category": "ui",
-      "description": "A simple way to hide the notch on the iPhone X.",
-      "homepage": "https://github.com/HarshilShah/NotchKit"
-    }, {
       "title": "VegaScroll",
       "category": "ui",
       "description": "VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4.",
@@ -5292,6 +5328,32 @@
       "category": "uitableview",
       "description": "A component to quickly scroll between collection view sections.",
       "homepage": "https://github.com/bakkenbaeck/SectionScrubber"
+    }, {
+      "title": "Closures",
+      "category": "utility",
+      "description": "Swifty closures for UIKit and Foundation.",
+      "homepage": "https://github.com/vhesener/Closures"
+    }, {
+      "title": "Corridor",
+      "category": "dependency-injection",
+      "description": "A Coreader-like Dependency Injection μFramework.",
+      "homepage": "https://github.com/symentis/Corridor"
+    }, {
+      "title": "SwiftyUI",
+      "category": "ui",
+      "description": "High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.",
+      "homepage": "https://github.com/haoking/SwiftyUI"
+    }, {
+      "title": "BigInt",
+      "category": "math",
+      "description": "Arbitrary-precision arithmetic.",
+      "homepage": "https://github.com/attaswift/BigInt"
+    },
+    {
+      "title": "KALoader",
+      "category": "ui",
+      "description": "Beautiful animated placeholders for showing loading of data",
+      "homepage": "https://github.com/Kirillzzy/KALoader"
     }
   ]
 }

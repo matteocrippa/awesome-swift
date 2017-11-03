@@ -5359,6 +5359,12 @@
       "category": "ui",
       "description": "Beautiful animated placeholders for showing loading of data",
       "homepage": "https://github.com/Kirillzzy/KALoader"
+    },
+    {
+	    "title": "GravitySlider",
+	    "category": "ui",
+	    "description": "Beautiful alternative to the standard UICollectionView flow layout",
+	    "homepage": "https://github.com/ApplikeySolutions/GravitySlider"
     }
   ]
 }

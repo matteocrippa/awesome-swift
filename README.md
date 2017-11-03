@@ -1451,6 +1451,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - Fully customizable spreadsheet CollectionViewLayout.
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
++* [GravitySlider](https://github.com/ApplikeySolutions/GravitySlider) - GravitySlider is a beautiful alternative to the standard UICollectionView flow layout.
 
 #### UITableView
 [back to top](#readme) 

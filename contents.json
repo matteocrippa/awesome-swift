@@ -2130,6 +2130,11 @@
       "homepage": "https://github.com/FabrizioBrancati/BFKit-Swift",
       "tags": ["linux"]
     }, {
+      "title": "KVConstraintKit",
+      "category": "auto-layout",
+      "description": "An Impressive Autolayout DSL for iOS, tvOS & OSX.",
+      "homepage": "https://github.com/keshavvishwkarma/KVConstraintKit"
+    }, {
       "title": "ManualLayout",
       "category": "layout",
       "description": "Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.",

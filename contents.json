@@ -1012,6 +1012,11 @@
       "description": "Instagram API wrapper.",
       "homepage": "https://github.com/AnderGoig/SwiftInstagram"
     }, {
+      "title": "InstagramLogin",
+      "category": "authentication",
+      "description": "Simple way to authenticate Instagram accounts.",
+      "homepage": "https://github.com/AnderGoig/InstagramLogin"
+    }, {
       "title": "Swinject",
       "category": "dependency-injection",
       "description": "A dependency injection framework.",

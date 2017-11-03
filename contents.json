@@ -5359,6 +5359,11 @@
       "category": "ui",
       "description": "Beautiful animated placeholders for showing loading of data",
       "homepage": "https://github.com/Kirillzzy/KALoader"
+    }, {
+      "title": "CardsLayout",
+      "category": "uicollectionview",
+      "description": "Nice card-designed custom CollectionView layout",
+      "homepage": "https://github.com/filletofish/CardsLayout"
     }
   ]
 }

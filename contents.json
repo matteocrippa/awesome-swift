@@ -3502,6 +3502,11 @@
       "category": "walkthrough",
       "description": "The easiest way to create a great walkthrough experience in your apps.",
       "homepage": "https://github.com/ruipfcosta/SwiftyWalkthrough"
+    },, {
+      "title": "WhatsNew",
+      "category": "walkthrough",
+      "description": "Showcase new features after an app update similar to Pages, Numbers and Keynote.",
+      "homepage": "https://github.com/BalestraPatrick/WhatsNew"
     }, {
       "title": "Switch",
       "category": "switch",

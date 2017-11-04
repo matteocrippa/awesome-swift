@@ -584,6 +584,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Time](https://github.com/dreymonde/Time) - Type-safe time calculations, powered by generics.
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions.
 * [TrueTime.swift](https://github.com/instacart/TrueTime.swift) - Get the true current time impervious to device clock time changes (NTP library).
+* [Time](https://github.com/dreymonde/Time) - Type-safe time calculations, powered by generics.
 
 ### Dependency Injection
 *Dependency injection libs* [back to top](#readme) 
@@ -1483,6 +1484,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) - A simple keyframe-based animation framework for iOS. Perfect for scrolling app intros.
 * [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) - An iOS framework that allows developers to create beautiful onboarding experiences.
 * [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps.
+* [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) - Showcase new features after an app update similar to Pages, Numbers and Keynote.
 
 ### Utility
 *Some interesting utilities to help you in your projects* [back to top](#readme) 

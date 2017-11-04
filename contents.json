@@ -1157,6 +1157,11 @@
       "description": "An intuitive and fun iOS color picker.",
       "homepage": "https://github.com/joncardasis/ChromaColorPicker"
     }, {
+      "title": "Lorikeet",
+      "category": "colors",
+      "description": "A framework providing methods related to visual color difference. E.g. generate color schemes, get complementary colors for readability etc.",
+      "homepage": "https://github.com/valdirunars/Lorikeet"
+    }, {
       "title": "Commander",
       "category": "command-line",
       "description": "Compose beautiful command line interfaces.",

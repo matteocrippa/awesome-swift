@@ -5365,6 +5365,14 @@
 	    "category": "uicollectionview",
 	    "description": "Beautiful alternative to the standard UICollectionView flow layout.",
 	    "homepage": "https://github.com/ApplikeySolutions/GravitySlider"
+    },
+    {
+	    "title": "WhatsNew",
+	    "category": "utility",
+	    "description": "Showcase new features after an app update similar to Pages, Numbers and Keynote.",
+	    "homepage": "https://github.com/BalestraPatrick/WhatsNew"
     }
+	       
+	       
   ]
 }

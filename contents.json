@@ -5376,6 +5376,11 @@
       "category": "utility",
       "description": "Digger is a lightweight download framework that requires only one line of code to complete the file download task.", 
       "homepage": "https://github.com/cornerAnt/Digger"
-    } 
+    }, { 
+      "title": "AXPhotoViewer",
+      "category": "images",
+      "description": "An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.",
+      "homepage": "https://github.com/alexhillc/AXPhotoViewer"
+    }
   ]
 }

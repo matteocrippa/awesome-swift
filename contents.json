@@ -1012,6 +1012,11 @@
       "description": "Instagram API wrapper.",
       "homepage": "https://github.com/AnderGoig/SwiftInstagram"
     }, {
+      "title": "InstagramLogin",
+      "category": "authentication",
+      "description": "Simple way to authenticate Instagram accounts.",
+      "homepage": "https://github.com/AnderGoig/InstagramLogin"
+    }, {
       "title": "Swinject",
       "category": "dependency-injection",
       "description": "A dependency injection framework.",
@@ -5371,12 +5376,18 @@
 	    "category": "utility",
 	    "description": "Showcase new features after an app update similar to Pages, Numbers and Keynote.",
 	    "homepage": "https://github.com/BalestraPatrick/WhatsNew"
+    }, 
+    {
+      "title": "AXPhotoViewer",
+      "category": "images",
+      "description": "An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.",
+      "homepage": "https://github.com/alexhillc/AXPhotoViewer"
     },
     {
 	    "title": "ARVideoKit",
 	    "category": "augmented-reality",
 	    "description": "Record & capture ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆.",
 	    "homepage": "https://github.com/AFathi/ARVideoKit"
-    }	       
+    }	     
   ]
 }

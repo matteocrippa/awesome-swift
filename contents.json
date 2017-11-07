@@ -5371,8 +5371,11 @@
 	    "category": "utility",
 	    "description": "Showcase new features after an app update similar to Pages, Numbers and Keynote.",
 	    "homepage": "https://github.com/BalestraPatrick/WhatsNew"
-    }
-	       
-	       
+    }, {
+      "title": "Digger",
+      "category": "utility",
+      "description": "Digger is a lightweight download framework that requires only one line of code to complete the file download task.", 
+      "homepage": "https://github.com/cornerAnt/Digger"
+    } 
   ]
 }

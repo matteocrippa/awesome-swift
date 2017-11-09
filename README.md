@@ -456,6 +456,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 * [JustPersist](https://github.com/justeat/JustPersist) - Easiest and safest way to do persistence on iOS with Core Data support out of the box.
 * [QueryKit](https://github.com/QueryKit/QueryKit) - An easy way to play with Core Data filtering.
+* [Records](https://github.com/rob-nash/Records) - In just a few minutes, setup a fully functioning CoreData implementation that embraces the static, type-safe nature of Swift.
 * [Skopelos](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data.
 * [SugarRecord](https://github.com/carambalabs/SugarRecord) - Helps with Core Data and Realm.
 * [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with Core Data a bit easier.

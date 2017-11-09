@@ -1233,6 +1233,11 @@
       "description": "Simple Core Data wrapper library.",
       "homepage": "https://github.com/Alecrim/AlecrimCoreData"
     }, {
+      "title": "Records",
+      "category": "core-data",
+      "description": "In just a few minutes, setup a fully functioning CoreData implementation that embraces the static, type-safe nature of Swift.",
+      "homepage": "https://github.com/rob-nash/Records"
+    }, {
       "title": "Cadmium",
       "category": "core-data",
       "description": "Framework that hides the complexity of managed object contexts.",

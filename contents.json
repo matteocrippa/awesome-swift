@@ -1012,6 +1012,11 @@
       "description": "Instagram API wrapper.",
       "homepage": "https://github.com/AnderGoig/SwiftInstagram"
     }, {
+      "title": "InstagramLogin",
+      "category": "authentication",
+      "description": "Simple way to authenticate Instagram accounts.",
+      "homepage": "https://github.com/AnderGoig/InstagramLogin"
+    }, {
       "title": "Swinject",
       "category": "dependency-injection",
       "description": "A dependency injection framework.",
@@ -2130,6 +2135,11 @@
       "homepage": "https://github.com/FabrizioBrancati/BFKit-Swift",
       "tags": ["linux"]
     }, {
+      "title": "KVConstraintKit",
+      "category": "auto-layout",
+      "description": "An Impressive Autolayout DSL for iOS, tvOS & OSX.",
+      "homepage": "https://github.com/keshavvishwkarma/KVConstraintKit"
+    }, {
       "title": "ManualLayout",
       "category": "layout",
       "description": "Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.",
@@ -2147,8 +2157,8 @@
     }, {
       "title": "FlexLayout",
       "category": "layout",
-      "description": "FlexLayout adds a nice and clean interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax. Works perfectly with PinLayout.",
-      "homepage": "https://github.com/lucdion/FlexLayout/"
+      "description": "Nice and clean interface to the highly optimized Facebook yoga Flexbox implementation.",
+      "homepage": "https://github.com/layoutBox/FlexLayout"
     }, {
       "title": "PinLayout",
       "category": "layout",
@@ -5002,7 +5012,7 @@
     }, {
       "title": "FSPagerView",
       "category": "uicollectionview",
-      "description": "FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.",
+      "description": "Elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.",
       "homepage": "https://github.com/WenchaoD/FSPagerView",
       "tags": ["infnite-scroll", "banner-view", "banner-slider", "banner", "uicollectionview", "pages"]
     }, {
@@ -5078,12 +5088,12 @@
     }, {
       "title": "PryntTrimmerView",
       "category": "video",
-      "description": "A library of UI components to trim and crop videos.",
+      "description": "Trim and crop videos.",
       "homepage": "https://github.com/prynt/PryntTrimmerView"
     }, {
       "title": "GridView",
       "category": "uitableview",
-      "description": "Reusable GridView with excellent performance and customization that can be time table, spreadsheet, paging and more.",
+      "description": "Can be customized as a time table, spreadsheet, paging and more.",
       "homepage": "https://github.com/KyoheiG3/GridView"
     }, {
       "title": "StepProgressView",
@@ -5098,12 +5108,12 @@
     }, {
       "title": "AGCircularPicker",
       "category": "ui",
-      "description": "AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter.",
+      "description": "Helpful component for creating a controller aimed to manage any calculated parameter.",
       "homepage": "https://github.com/agilie/AGCircularPicker",
       "tags": ["iOS", "swift", "color", "circular-picker", "picker"]
     }, {
       "title": "ParallaxHeader",
-      "category": "ui",
+      "category": "uitableview",
       "description": "Simple way to add parallax header to UIScrollView/UITableView.",
       "homepage": "https://github.com/romansorochak/ParallaxHeader"
     }, {
@@ -5186,7 +5196,7 @@
     },{
       "title": "LayoutKit",
       "category": "layout",
-      "description": "LayoutKit is a fast view layout library for iOS, macOS, and tvOS. http://layoutkit.org",
+      "description": "LayoutKit is a fast view layout library for iOS, macOS, and tvOS.",
       "homepage": "https://github.com/linkedin/LayoutKit"
     }, {
       "title": "RAReorderableLayout",
@@ -5255,12 +5265,12 @@
     }, {
       "title": "DefaultsKit",
       "category": "key-value-store",
-      "description": "Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS",
+      "description": "Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS.",
       "homepage": "https://github.com/nmdias/DefaultsKit"
     }, {
       "title": "iCard",
       "category": "payment",
-      "description": "Bank Card Generator using SnapKit DSL",
+      "description": "Bank Card Generator using SnapKit DSL.",
       "homepage": "https://github.com/eliakorkmaz/iCard"
     }, {
       "title": "MMPlayerView",
@@ -5274,23 +5284,23 @@
       "homepage": "https://github.com/spotify/SpotifyLogin"
     }, {
       "title": "VegaScroll",
-      "category": "ui",
-      "description": "VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4.",
+      "category": "uicollectionview",
+      "description": "Lightweight animation flowlayout for UICollectionView completely written in Swift 4.",
       "homepage": "https://github.com/AppliKeySolutions/VegaScroll"
     }, {
       "title": "MediaBrowser",
       "category": "ui",
-      "description": "A simple iOS photo and video browser with optional grid view, captions and selections.",
+      "description": "Simple iOS photo and video browser with optional grid view, captions and selections.",
       "homepage": "https://github.com/younatics/MediaBrowser"
     }, {
       "title": "Mint",
       "category": "dependency-managers",
-      "description": "A package manager that installs and runs Swift command line tools",
+      "description": "A package manager that installs and runs Swift command line tools.",
       "homepage": "https://github.com/yonaskolb/Mint"
     }, {
       "title": "SwiftSoup",
       "category": "html",
-      "description": "Pure Swift HTML Parser, with best of DOM, CSS, and jquery.",
+      "description": "HTML Parser, with best of DOM, CSS, and jquery.",
       "homepage": "https://github.com/scinfu/SwiftSoup",
       "tags": ["linux"]
     }, {
@@ -5301,12 +5311,12 @@
     }, {
       "title": "LifetimeTracker",
       "category": "utility",
-      "description": "LifetimeTracker can surface retain cycle / memory issues right as you develop your application, and it will surface them to you immediately, so you can find them with more ease.",
+      "description": "Surface retain cycle / memory issues right as you develop your application.",
       "homepage": "https://github.com/krzysztofzablocki/LifetimeTracker"
     }, {
       "title": "ShelfView-iOS",
       "category": "uicollectionview",
-      "description": "iOS custom view to display books on shelf",
+      "description": "iOS custom view to display books on shelf.",
       "homepage": "https://github.com/tdscientist/ShelfView-iOS"
     }, {
       "title": "Bamboo",
@@ -5352,8 +5362,30 @@
     {
       "title": "KALoader",
       "category": "ui",
-      "description": "Beautiful animated placeholders for showing loading of data",
+      "description": "Beautiful animated placeholders for showing loading of data.",
       "homepage": "https://github.com/Kirillzzy/KALoader"
+    },
+    {
+	    "title": "GravitySlider",
+	    "category": "uicollectionview",
+	    "description": "Beautiful alternative to the standard UICollectionView flow layout.",
+	    "homepage": "https://github.com/ApplikeySolutions/GravitySlider"
+    },
+    {
+	    "title": "WhatsNew",
+	    "category": "utility",
+	    "description": "Showcase new features after an app update similar to Pages, Numbers and Keynote.",
+	    "homepage": "https://github.com/BalestraPatrick/WhatsNew"
+    }, {
+      "title": "AXPhotoViewer",
+      "category": "images",
+      "description": "An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.",
+      "homepage": "https://github.com/alexhillc/AXPhotoViewer"
+    }, {
+      "title": "SkeletonView",
+      "category": "ui",
+      "description": "An elegant way to show users that something is happening and also prepare them to which contents he is waiting.",
+      "homepage": "https://github.com/Juanpe/SkeletonView"
     }
   ]
 }

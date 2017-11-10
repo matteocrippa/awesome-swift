@@ -1298,6 +1298,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - UI calendar handler.
 * [Koyomi](https://github.com/shoheiyokoyama/Koyomi) - Simple customizable calendar component.
 * [Workaholic](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
+* [Karmadust](https://github.com/mmick66/CalendarView) - A calendar component for iOS in both vertical and horizontal layout + access to native calendar events.
 
 #### Form
 [back to top](#readme) 

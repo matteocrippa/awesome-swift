@@ -2750,6 +2750,11 @@
       "description": "A wrapper for Apple's Common Crypto library.",
       "homepage": "https://github.com/iosdevzone/IDZSwiftCommonCrypto"
     }, {
+      "title": "SCrypto",
+      "category": "cryptography",
+      "description": "Elegant Swift interface to access the CommonCrypto routines.",
+      "homepage": "https://github.com/sgl0v/scrypto"
+    }, {
       "title": "Siphash",
       "category": "cryptography",
       "description": "Simple and secure hashing with the SipHash algorithm.",

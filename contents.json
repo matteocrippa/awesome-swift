@@ -5397,6 +5397,11 @@
       "category": "menu",
       "description": "Interactive view transition to display menus with flowing and bouncing effects.",
       "homepage": "https://github.com/yannickl/FlowingMenu"
+    },{
+      "title": "Windless",
+      "category": "ui",
+      "description": "Windless makes it easy to implement invisible layout loading view.",
+      "homepage": "https://github.com/Interactive-Studio/Windless"
     }
   ]
 }

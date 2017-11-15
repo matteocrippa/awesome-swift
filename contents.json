@@ -5392,6 +5392,11 @@
   		"description": "[In]visible ReCaptcha for iOS.",
   		"homepage": "https://github.com/fjcaetano/ReCaptcha",
   		"tags": ["google", "reactive", "rxswift", "webview"]
+    },{
+      "title": "Windless",
+      "category": "ui",
+      "description": "Windless makes it easy to implement invisible layout loading view.",
+      "homepage": "https://github.com/Interactive-Studio/Windless"
     }
   ]
 }

@@ -1603,6 +1603,11 @@
       "description": "A lightweight XMLParser for assembling and parsing XML values written for iOS 8+.",
       "homepage": "https://github.com/Mozharovsky/XMLParser"
     }, {
+      "title": "CheatyXML",
+      "category": "xml",
+      "description": "A powerful framework designed to manage XML easily.",
+      "homepage": "https://github.com/lobodart/CheatyXML"
+    }, {
       "title": "SwiftyXML",
       "category": "xml",
       "description": "The most swifty way to deal with XML.",

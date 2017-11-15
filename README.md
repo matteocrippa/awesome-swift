@@ -305,6 +305,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Walker](https://github.com/RamonGilabert/Walker) - An animation engine to make your animations easy and more readable.
 * [YapAnimator](https://github.com/yapstudios/YapAnimator) - Your fast and friendly physics-based animation system.
 * [ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning) - A custom transition with image zooming animation.
+* [Kinieta](https://github.com/mmick66/kinieta) - An animation engine for UIViews with an beautiful and intuitive API and very readable code.
 
 ### API
 *Quick libs to get access to third party API services* [back to top](#readme) 
@@ -1298,6 +1299,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - UI calendar handler.
 * [Koyomi](https://github.com/shoheiyokoyama/Koyomi) - Simple customizable calendar component.
 * [Workaholic](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
+* [Karmadust](https://github.com/mmick66/CalendarView) - A calendar component for iOS in both vertical and horizontal layout + access to native calendar events.
 
 #### Form
 [back to top](#readme) 

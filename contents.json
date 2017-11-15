@@ -5428,6 +5428,11 @@
       "category": "ui",
       "description": "Windless makes it easy to implement invisible layout loading view.",
       "homepage": "https://github.com/Interactive-Studio/Windless"
+    },{
+      "title": "Karmadust",
+      "category": "calendar",
+      "description": "Unidirectional Calendar Component with Native Events Support.",
+      "homepage": "https://github.com/mmick66/CalendarView"
     }
   ]
 }

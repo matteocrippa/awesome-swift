@@ -5386,6 +5386,12 @@
       "category": "ui",
       "description": "An elegant way to show users that something is happening and also prepare them to which contents he is waiting.",
       "homepage": "https://github.com/Juanpe/SkeletonView"
+    }, {
+  		"title": "ReCaptcha",
+  		"category": "authentication",
+  		"description": "[In]visible ReCaptcha for iOS.",
+  		"homepage": "https://github.com/fjcaetano/ReCaptcha",
+  		"tags": ["google", "reactive", "rxswift", "webview"]
     }
   ]
 }

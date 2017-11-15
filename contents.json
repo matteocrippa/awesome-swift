@@ -5392,6 +5392,11 @@
   		"description": "[In]visible ReCaptcha for iOS.",
   		"homepage": "https://github.com/fjcaetano/ReCaptcha",
   		"tags": ["google", "reactive", "rxswift", "webview"]
+    }, {
+      "title": "FlowingMenu",
+      "category": "menu",
+      "description": "Interactive view transition to display menus with flowing and bouncing effects.",
+      "homepage": "https://github.com/yannickl/FlowingMenu"
     },{
       "title": "Windless",
       "category": "ui",

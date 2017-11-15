@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-932-orange.svg) | November 03, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-939-orange.svg) | November 15, 2017
 
 ### Contributing
 
@@ -233,7 +233,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Dependency manager software for Swift.* 
 * [Carthage](https://github.com/Carthage/Carthage) - A new dependency manager.
 * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The most used dependency manager.
-* [Mint](https://github.com/yonaskolb/Mint) - A package manager that installs and runs Swift command line tools
+* [Mint](https://github.com/yonaskolb/Mint) - A package manager that installs and runs Swift command line tools.
 * [swift-package-manager](https://github.com/apple/swift-package-manager) - SPM is the Package Manager for the Swift Programming Language.
 
 ## Patterns
@@ -355,7 +355,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Easy way to manage auth in your apps.* [back to top](#readme) 
 
 * [Cely](https://github.com/chaione/Cely) - A Plug-n-Play login framework.
+* [InstagramLogin](https://github.com/AnderGoig/InstagramLogin) - Simple way to authenticate Instagram accounts.
 * [LoginKit](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
+* [ReCaptcha](https://github.com/fjcaetano/ReCaptcha) - [In]visible ReCaptcha for iOS.
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps.
 * [SpotifyLogin](https://github.com/spotify/SpotifyLogin) - Authenticate with the Spotify API.
 * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
@@ -495,7 +497,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Default](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support
-* [DefaultsKit](https://github.com/nmdias/DefaultsKit) - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS
+* [DefaultsKit](https://github.com/nmdias/DefaultsKit) - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS.
 * [Palau](https://github.com/symentis/Palau) - Typesafe NSUserDefaults with custom rules.
 * [Prephirences](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
 * [Storez](https://github.com/SwiftKitz/Storez) - Safe, statically-typed, store-agnostic key-value storage.
@@ -755,6 +757,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Agrume](https://github.com/JanGorman/Agrume) - A lemony fresh iOS image viewer.
 * [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - AlamofireImage is an image component library for Alamofire.
 * [APNGKit](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
+* [AXPhotoViewer](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - A library that displays spherical or cylindrical panoramas with touch or motion based controls.
 * [DTPhotoViewerController](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
 * [FacebookImagePicker](https://github.com/terflogag/FacebookImagePicker) - Facebook album photo picker.
@@ -814,9 +817,9 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Libs to help you with layout.* [back to top](#readme) 
 
 * [BrickKit](https://github.com/wayfair/brickkit-ios) - Create complex and responsive layouts in a simple way.
-* [FlexLayout](https://github.com/lucdion/FlexLayout/) - FlexLayout adds a nice and clean interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax. Works perfectly with PinLayout.
+* [FlexLayout](https://github.com/layoutBox/FlexLayout) - Nice and clean interface to the highly optimized Facebook yoga Flexbox implementation.
 * [JustUiKit](https://github.com/lfkdsk/JustUiKit) - iOS UI Kit With Android-Style. It is designed to make Android developers build iOS UI easily.
-* [LayoutKit](https://github.com/linkedin/LayoutKit) - LayoutKit is a fast view layout library for iOS, macOS, and tvOS. http://layoutkit.org
+* [LayoutKit](https://github.com/linkedin/LayoutKit) - LayoutKit is a fast view layout library for iOS, macOS, and tvOS.
 * [ManualLayout](https://github.com/isair/ManualLayout) - Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.
 * [Neon](https://github.com/mamaral/Neon) - A powerful programmatic UI layout framework.
 * [PinLayout](https://github.com/mirego/PinLayout) - Fast views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise, intuitive, readable & chainable syntax. Works nicely with FlexLayout.
@@ -942,7 +945,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser.
 * [Kanna](https://github.com/tid-kijyun/Kanna) - Another XML/HTML parser.
-* [SwiftSoup](https://github.com/scinfu/SwiftSoup) :penguin: - Pure Swift HTML Parser, with best of DOM, CSS, and jquery.
+* [SwiftSoup](https://github.com/scinfu/SwiftSoup) :penguin: - HTML Parser, with best of DOM, CSS, and jquery.
 * [WKZombie](https://github.com/mkoehnke/WKZombie) - Headless browser.
 
 #### Messaging Protocol
@@ -1133,7 +1136,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *A collection of pre-packaged transitions & cool ui stuffs.* [back to top](#readme) 
 
 * [AECoreDataUI](https://github.com/tadija/AERecord) - Core Data driven UI.
-* [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter.
+* [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - Helpful component for creating a controller aimed to manage any calculated parameter.
 * [AmazingBubbles](https://github.com/GlebRadchenko/AmazingBubbles) - Apple Music like Bubble Picker using Dynamic Animation (faster / more lightweight than SpriteKit).
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 * [AZTransitions](https://github.com/azimin/AZTransitions) - API to make great custom transitions in one method.
@@ -1170,7 +1173,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ImagePickerSheetController](https://github.com/lbrndnr/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
 * [InfoView](https://github.com/anatoliyv/InfoView) - Simple information view with pointed arrow.
 * [InstantSearch iOS](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
-* [KALoader](https://github.com/Kirillzzy/KALoader) - Beautiful animated placeholders for showing loading of data
+* [KALoader](https://github.com/Kirillzzy/KALoader) - Beautiful animated placeholders for showing loading of data.
 * [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) - A UINavigationController subclass that support pop interactive UINavigationBar with hidden or show.
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
@@ -1182,7 +1185,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [MantleModal](https://github.com/canalesb93/MantleModal) - A simple modal resource that uses a UIScrollView to allow the user to close the modal by dragging it down.
 * [Material](https://github.com/CosmicMind/Material) - Express your creativity with Material, an animation and graphics framework for Google's Material Design and Apple's Flat UI.
 * [MaterialKit](https://github.com/nghialv/MaterialKit) - Material design components.
-* [MediaBrowser](https://github.com/younatics/MediaBrowser) - A simple iOS photo and video browser with optional grid view, captions and selections.
+* [MediaBrowser](https://github.com/younatics/MediaBrowser) - Simple iOS photo and video browser with optional grid view, captions and selections.
 * [MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium scroll style menubar.
 * [MICountryPicker](https://github.com/mustafaibrahim989/MICountryPicker) - Country picker with search option.
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect.
@@ -1192,7 +1195,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
 * [Otafuku](https://github.com/tasanobu/Otafuku) - Some utility classes to use WKWebView.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Panoramic facebook story clone.
-* [ParallaxHeader](https://github.com/romansorochak/ParallaxHeader) - Simple way to add parallax header to UIScrollView/UITableView.
 * [ParallaxView](https://github.com/PGSSoft/ParallaxView) - Controls and extensions for tvOS that add parallax effect to your application.
 * [PPAssetsActionController](https://github.com/pantuspavel/PPAssetsActionController) - Highly customizable Action Sheet Controller with assets preview.
 * [PPSwiftGifs](https://github.com/peterprokop/PPSwiftGifs) - Convenient way to show animated GIF images as a part of iOS GUI.
@@ -1204,6 +1206,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 * [SelectionDialog](https://github.com/kciter/SelectionDialog) - Simple selection dialog.
 * [ShadowView](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
+* [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers.
 * [SMSwipeableTabView](https://github.com/smahajan28/SMSwipeableTabView) - Fully customizable control which is mixture of UIPageViewController and Scrollable Tab Bar.
 * [Sonar](https://github.com/thefuntasty/Sonar) - Cool radar-style view.
@@ -1224,8 +1227,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [UIPheonix](https://github.com/MKGitHub/UIPheonix) - Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.
 * [URLEmbeddedView](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 * [URWeatherView](https://github.com/jegumhon/URWeatherView) - Show weather effects onto a view.
-* [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4.
 * [Wallet](https://github.com/rshevchuk/Wallet) - A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.
+* [Windless](https://github.com/Interactive-Studio/Windless) - Windless makes it easy to implement invisible layout loading view.
 * [WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
 * [YNSearch](https://github.com/younatics/YNSearch) - Awesome fully customizable search view like Pinterest.
 
@@ -1365,7 +1368,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Caishen](https://github.com/prolificinteractive/Caishen) - A Payment Card UI & Validator for iOS.
-* [iCard](https://github.com/eliakorkmaz/iCard) - Bank Card Generator using SnapKit DSL
+* [iCard](https://github.com/eliakorkmaz/iCard) - Bank Card Generator using SnapKit DSL.
 * [MFCard](https://github.com/MobileFirstInc/MFCard) - Easily integrate Credit Card payments in iOS App.
 
 #### Permissions
@@ -1444,13 +1447,15 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that pages and centers it's cells.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [Drag and Drop UICollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
-* [FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+* [FSPagerView](https://github.com/WenchaoD/FSPagerView) - Elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+* [GravitySlider](https://github.com/ApplikeySolutions/GravitySlider) - Beautiful alternative to the standard UICollectionView flow layout.
 * [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout) - A UICollectionView layout which can move an item with drag and drop.
 * [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - Pull-to-refresh animation in UICollectionView with a sticky header flow layout.
 * [Sapporo](https://github.com/nghialv/Sapporo) - A cellmodel-driven CollectionView manager.
-* [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf
+* [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - Fully customizable spreadsheet CollectionViewLayout.
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
+* [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - Lightweight animation flowlayout for UICollectionView completely written in Swift 4.
 
 #### UITableView
 [back to top](#readme) 
@@ -1461,9 +1466,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ExpandableCell](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate
 * [ExpyTableView](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method.
 * [folding-cell](https://github.com/Ramotion/folding-cell) - Folding cell transition.
-* [GridView](https://github.com/KyoheiG3/GridView) - Reusable GridView with excellent performance and customization that can be time table, spreadsheet, paging and more.
+* [GridView](https://github.com/KyoheiG3/GridView) - Can be customized as a time table, spreadsheet, paging and more.
 * [Hakuba](https://github.com/nghialv/Hakuba) - A new way to manage UITableView without the code of UITableViewDelegate and UITableViewDataSource.
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.
+* [ParallaxHeader](https://github.com/romansorochak/ParallaxHeader) - Simple way to add parallax header to UIScrollView/UITableView.
 * [Persei](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView.
 * [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 * [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension) - UITableView extension that enables the insertion of cells the from bottom of a table view.
@@ -1502,7 +1508,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Focus](https://github.com/typelift/Focus) - Optics library (includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
 * [Highlighter](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
 * [Hookah](https://github.com/HookahSwift/Hookah) - Functional library.
-* [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - LifetimeTracker can surface retain cycle / memory issues right as you develop your application, and it will surface them to you immediately, so you can find them with more ease.
+* [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Surface retain cycle / memory issues right as you develop your application.
 * [ObjectiveKit](https://github.com/marmelroy/ObjectiveKit) - API for Objective C runtime functions.
 * [OpenSourceController](https://github.com/terflogag/OpenSourceController) - The simplest way to display the librarie's licences used in your application.
 * [Popsicle](https://github.com/DavdRoman/Popsicle) - Delightful, extensible value interpolation framework.
@@ -1538,6 +1544,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Then](https://github.com/devxoul/Then) - Super sweet syntactic sugar for initializers.
 * [undefined](https://github.com/weissi/swift-undefined) - Nano framework which defines Haskell's undefined.
 * [UTIKit](https://github.com/cockscomb/UTIKit) - an UTI (Uniform Type Identifier) wrapper.
+* [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) - Showcase new features after an app update similar to Pages, Numbers and Keynote.
 * [XestiMonitors](https://github.com/eBardX/XestiMonitors) - An extensible monitoring framework.
 
 ### Validation
@@ -1574,6 +1581,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 * [Player](https://github.com/piemonte/Player) - iOS video player, simple drop in component for playing and streaming media.
 * [PlayerView](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
-* [PryntTrimmerView](https://github.com/prynt/PryntTrimmerView) - A library of UI components to trim and crop videos.
+* [PryntTrimmerView](https://github.com/prynt/PryntTrimmerView) - Trim and crop videos.
 * [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - Easy to Use UIView subclass for implementating a video background.
 * [VGPlayer](https://github.com/VeinGuo/VGPlayer) - A simple iOS video player, support play local and network, background playback mode, automatic caching while playing.

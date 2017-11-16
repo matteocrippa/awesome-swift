@@ -5406,6 +5406,11 @@
       "category": "ui",
       "description": "An elegant way to show users that something is happening and also prepare them to which contents he is waiting.",
       "homepage": "https://github.com/Juanpe/SkeletonView"
+      }, {
+        "title": "Digger",
+        "category": "utility",
+        "description": "Lightweight download framework that requires only one line of code to complete the file download task.", 
+        "homepage": "https://github.com/cornerAnt/Digger"      
     }, {
   		"title": "RxWebSocket",
   		"category": "socket",

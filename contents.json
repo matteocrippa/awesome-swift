@@ -3889,6 +3889,11 @@
       "description": "Adorable iOS drop down menu.",
       "homepage": "https://github.com/younatics/YNDropDownMenu"
     }, {
+      "title": "HHFloatingView",
+      "category": "menu",
+      "description": "An easy to use and setup floating view for your app.",
+      "homepage": "https://github.com/hemangshah/HHFloatingView"
+    }, {
       "title": "KWDrawerController",
       "category": "menu",
       "description": "Drawer view controller that easy to use.",

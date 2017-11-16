@@ -2433,7 +2433,7 @@
     }, {
       "title": "Conduit",
       "category": "network",
-      "description": "Robust networking for web APIs",
+      "description": "Robust networking for web APIs.",
       "homepage": "https://github.com/mindbody/Conduit"
     }, {
       "title": "Heimdallr.swift",
@@ -5382,7 +5382,7 @@
     }, {
       "title": "CardsLayout",
       "category": "uicollectionview",
-      "description": "Nice card-designed custom CollectionView layout",
+      "description": "Nice card-designed custom CollectionView layout.",
       "homepage": "https://github.com/filletofish/CardsLayout"
     },
     {

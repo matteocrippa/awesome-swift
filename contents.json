@@ -5438,6 +5438,11 @@
       "category": "calendar",
       "description": "Unidirectional Calendar Component with Native Events Support.",
       "homepage": "https://github.com/mmick66/CalendarView"
+    }, {
+      "title": "Mandoline",
+      "category": "ui",
+      "description": "An iOS picker view to serve all your 'picking' needs.",
+      "homepage": "https://github.com/blueapron/Mandoline"
     }
   ]
 }

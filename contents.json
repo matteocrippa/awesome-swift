@@ -5409,9 +5409,9 @@
     }, {
   		"title": "RxWebSocket",
   		"category": "socket",
-  		"description": "[In]visible ReCaptcha for iOS.",
-  		"homepage": "https://github.com/fjcaetano/ReCaptcha",
-  		"tags": ["google", "reactive", "rxswift", "webview"]
+  		"description": "Reactive WebSockets.",
+  		"homepage": "https://github.com/fjcaetano/RxWebSocket",
+  		"tags": ["reactive", "rxswift"]
     }, {
   		"title": "ReCaptcha",
   		"category": "authentication",

@@ -5419,6 +5419,11 @@
   		"homepage": "https://github.com/fjcaetano/ReCaptcha",
   		"tags": ["google", "reactive", "rxswift", "webview"]
     }, {
+      "title": "Mandoline",
+      "category": "ui",
+      "description": "An iOS picker view to serve all your 'picking' needs.",
+      "homepage": "https://github.com/blueapron/Mandoline"
+    }, {
       "title": "FlowingMenu",
       "category": "menu",
       "description": "Interactive view transition to display menus with flowing and bouncing effects.",

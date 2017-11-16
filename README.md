@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-946-orange.svg) | November 16, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-947-orange.svg) | November 16, 2017
 
 ### Contributing
 
@@ -917,7 +917,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Alamofire](https://github.com/Alamofire/Alamofire) :penguin: - Elegant networking.
 * [APIKit](https://github.com/ishkawa/APIKit) - Library for building type-safe web API client.
 * [BigBrother](https://github.com/marcelofabri/BigBrother) - Automatically sets the network activity indicator for any performed request.
-* [Conduit](https://github.com/mindbody/Conduit) - Robust networking for web APIs
+* [Conduit](https://github.com/mindbody/Conduit) - Robust networking for web APIs.
 * [Dratini](https://github.com/kevin0571/Dratini) - A neat network layer.
 * [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
 * [Just](https://github.com/JustHTTP/Just) :penguin: - HTTP for Humans (a python-requests style HTTP library).
@@ -1348,6 +1348,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [FlowingMenu](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
 * [FrostedSidebar](https://github.com/edekhayser/FrostedSidebar) - Hamburger Menu and iOS 8 API's.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Guillotine style menu.
+* [HHFloatingView](https://github.com/hemangshah/HHFloatingView) - An easy to use and setup floating view for your app.
 * [InteractiveSideMenu](https://github.com/handsomecode/InteractiveSideMenu) - Customizable iOS Interactive Side Menu.
 * [KWDrawerController](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
 * [MediumMenu](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app.
@@ -1450,7 +1451,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - Collection view layout that makes your cells bounce.
-* [CardsLayout](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout
+* [CardsLayout](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 * [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that pages and centers it's cells.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [Drag and Drop UICollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.

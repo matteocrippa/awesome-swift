@@ -5443,6 +5443,11 @@
       "category": "ui",
       "description": "An iOS picker view to serve all your 'picking' needs.",
       "homepage": "https://github.com/blueapron/Mandoline"
+    }, {
+      "title": "Viewer",
+      "category": "images",
+      "description": "Image viewer (or Lightbox) with support for local and remote videos and images.",
+      "homepage": "https://github.com/bakkenbaeck/Viewer"
     }
   ]
 }

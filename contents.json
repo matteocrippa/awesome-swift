@@ -5448,6 +5448,11 @@
       "category": "images",
       "description": "Image viewer (or Lightbox) with support for local and remote videos and images.",
       "homepage": "https://github.com/bakkenbaeck/Viewer"
+    }, {
+      "title": "VueFlux",
+      "category": "events",
+      "description": "Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.",
+      "homepage": "https://github.com/ra1028/VueFlux"
     }
   ]
 }

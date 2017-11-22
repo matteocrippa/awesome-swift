@@ -5171,7 +5171,7 @@
       "title": "XcodeGen",
       "category": "misc",
       "description": "Tool for generating Xcode projects from a YAML file and your project directory.",
-      "homepage": "https://github.com/yonaskolb/XcodeProj"
+      "homepage": "https://github.com/yonaskolb/XcodeGen"
     }, {
       "title": "ARCharts",
       "category": "augmented-reality",

@@ -2622,7 +2622,7 @@
       "title": "Edge",
       "category": "webserver",
       "description": "Multiplatform Web and Networking Framework.",
-      "homepage": "https://github.com/SwiftOnEdge/Edge",
+      "homepage": "https://github.com/skylab-inc/Edge",
       "tags": ["linux"]
     }, {
       "title": "Express",
@@ -3999,11 +3999,6 @@
       "description": "Protocol-oriented UITableView management, powered by generics and associated types.",
       "homepage": "https://github.com/DenHeadless/DTTableViewManager"
     }, {
-      "title": "CollapsibleTable",
-      "category": "uitableview",
-      "description": "Collapsable table view sections with custom section header views.",
-      "homepage": "https://github.com/rob-nash/CollapsibleTable"
-    }, {
       "title": "folding-cell",
       "category": "uitableview",
       "description": "Folding cell transition.",
@@ -5171,7 +5166,7 @@
       "title": "XcodeGen",
       "category": "misc",
       "description": "Tool for generating Xcode projects from a YAML file and your project directory.",
-      "homepage": "https://github.com/yonaskolb/XcodeProj"
+      "homepage": "https://github.com/yonaskolb/XcodeGen"
     }, {
       "title": "ARCharts",
       "category": "augmented-reality",

@@ -5448,6 +5448,11 @@
       "category": "events",
       "description": "Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.",
       "homepage": "https://github.com/ra1028/VueFlux"
+    }, {
+      "title": "LinkedInSignIn",
+      "category": "authentication",
+      "description": "Simple view controller to login and retrieve access token from LinkedIn.",
+      "homepage": "https://github.com/serhii-londar/LinkedInSignIn"
     }
   ]
 }

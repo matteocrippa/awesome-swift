@@ -1012,6 +1012,11 @@
       "description": "Instagram API wrapper.",
       "homepage": "https://github.com/AnderGoig/SwiftInstagram"
     }, {
+      "title": "InstagramLogin",
+      "category": "authentication",
+      "description": "Simple way to authenticate Instagram accounts.",
+      "homepage": "https://github.com/AnderGoig/InstagramLogin"
+    }, {
       "title": "Swinject",
       "category": "dependency-injection",
       "description": "A dependency injection framework.",
@@ -1597,6 +1602,11 @@
       "category": "xml",
       "description": "A lightweight XMLParser for assembling and parsing XML values written for iOS 8+.",
       "homepage": "https://github.com/Mozharovsky/XMLParser"
+    }, {
+      "title": "CheatyXML",
+      "category": "xml",
+      "description": "A powerful framework designed to manage XML easily.",
+      "homepage": "https://github.com/lobodart/CheatyXML"
     }, {
       "title": "SwiftyXML",
       "category": "xml",
@@ -2421,6 +2431,11 @@
       "description": "Automatically sets the network activity indicator for any performed request.",
       "homepage": "https://github.com/marcelofabri/BigBrother"
     }, {
+      "title": "Conduit",
+      "category": "network",
+      "description": "Robust networking for web APIs.",
+      "homepage": "https://github.com/mindbody/Conduit"
+    }, {
       "title": "Heimdallr.swift",
       "category": "network",
       "description": "Easy to use OAuth 2 library for iOS.",
@@ -2607,7 +2622,7 @@
       "title": "Edge",
       "category": "webserver",
       "description": "Multiplatform Web and Networking Framework.",
-      "homepage": "https://github.com/SwiftOnEdge/Edge",
+      "homepage": "https://github.com/skylab-inc/Edge",
       "tags": ["linux"]
     }, {
       "title": "Express",
@@ -2744,6 +2759,11 @@
       "category": "cryptography",
       "description": "A wrapper for Apple's Common Crypto library.",
       "homepage": "https://github.com/iosdevzone/IDZSwiftCommonCrypto"
+    }, {
+      "title": "SCrypto",
+      "category": "cryptography",
+      "description": "Elegant Swift interface to access the CommonCrypto routines.",
+      "homepage": "https://github.com/sgl0v/scrypto"
     }, {
       "title": "Siphash",
       "category": "cryptography",
@@ -3869,6 +3889,11 @@
       "description": "Adorable iOS drop down menu.",
       "homepage": "https://github.com/younatics/YNDropDownMenu"
     }, {
+      "title": "HHFloatingView",
+      "category": "menu",
+      "description": "An easy to use and setup floating view for your app.",
+      "homepage": "https://github.com/hemangshah/HHFloatingView"
+    }, {
       "title": "KWDrawerController",
       "category": "menu",
       "description": "Drawer view controller that easy to use.",
@@ -3973,11 +3998,6 @@
       "category": "uitableview",
       "description": "Protocol-oriented UITableView management, powered by generics and associated types.",
       "homepage": "https://github.com/DenHeadless/DTTableViewManager"
-    }, {
-      "title": "CollapsibleTable",
-      "category": "uitableview",
-      "description": "Collapsable table view sections with custom section header views.",
-      "homepage": "https://github.com/rob-nash/CollapsibleTable"
     }, {
       "title": "folding-cell",
       "category": "uitableview",
@@ -5146,7 +5166,7 @@
       "title": "XcodeGen",
       "category": "misc",
       "description": "Tool for generating Xcode projects from a YAML file and your project directory.",
-      "homepage": "https://github.com/yonaskolb/XcodeProj"
+      "homepage": "https://github.com/yonaskolb/XcodeGen"
     }, {
       "title": "ARCharts",
       "category": "augmented-reality",
@@ -5359,6 +5379,11 @@
       "category": "ui",
       "description": "Beautiful animated placeholders for showing loading of data.",
       "homepage": "https://github.com/Kirillzzy/KALoader"
+    }, {
+      "title": "CardsLayout",
+      "category": "uicollectionview",
+      "description": "Nice card-designed custom CollectionView layout.",
+      "homepage": "https://github.com/filletofish/CardsLayout"
     },
     {
 	    "title": "GravitySlider",
@@ -5367,10 +5392,62 @@
 	    "homepage": "https://github.com/ApplikeySolutions/GravitySlider"
     },
     {
-        "title": "Digger",
-        "category": "utility",
-        "description": "Digger is a lightweight download framework that requires only one line of code to complete the file download task.",
-        "homepage": "https://github.com/cornerAnt/Digger"
+	    "title": "WhatsNew",
+	    "category": "utility",
+	    "description": "Showcase new features after an app update similar to Pages, Numbers and Keynote.",
+	    "homepage": "https://github.com/BalestraPatrick/WhatsNew"
+    }, {
+      "title": "AXPhotoViewer",
+      "category": "images",
+      "description": "An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.",
+      "homepage": "https://github.com/alexhillc/AXPhotoViewer"
+    }, {
+      "title": "SkeletonView",
+      "category": "ui",
+      "description": "An elegant way to show users that something is happening and also prepare them to which contents he is waiting.",
+      "homepage": "https://github.com/Juanpe/SkeletonView"
+    }, {
+  		"title": "RxWebSocket",
+  		"category": "socket",
+  		"description": "Reactive WebSockets.",
+  		"homepage": "https://github.com/fjcaetano/RxWebSocket",
+  		"tags": ["reactive", "rxswift"]
+    }, {
+  		"title": "ReCaptcha",
+  		"category": "authentication",
+  		"description": "[In]visible ReCaptcha for iOS.",
+  		"homepage": "https://github.com/fjcaetano/ReCaptcha",
+  		"tags": ["google", "reactive", "rxswift", "webview"]
+    }, {
+      "title": "FlowingMenu",
+      "category": "menu",
+      "description": "Interactive view transition to display menus with flowing and bouncing effects.",
+      "homepage": "https://github.com/yannickl/FlowingMenu"
+    },{
+      "title": "Windless",
+      "category": "ui",
+      "description": "Windless makes it easy to implement invisible layout loading view.",
+      "homepage": "https://github.com/Interactive-Studio/Windless"
+    },{
+      "title": "Karmadust",
+      "category": "calendar",
+      "description": "Unidirectional Calendar Component with Native Events Support.",
+      "homepage": "https://github.com/mmick66/CalendarView"
+    }, {
+      "title": "Mandoline",
+      "category": "ui",
+      "description": "An iOS picker view to serve all your 'picking' needs.",
+      "homepage": "https://github.com/blueapron/Mandoline"
+    }, {
+      "title": "Viewer",
+      "category": "images",
+      "description": "Image viewer (or Lightbox) with support for local and remote videos and images.",
+      "homepage": "https://github.com/bakkenbaeck/Viewer"
+    }, {
+      "title": "VueFlux",
+      "category": "events",
+      "description": "Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.",
+      "homepage": "https://github.com/ra1028/VueFlux"
     }
   ]
 }

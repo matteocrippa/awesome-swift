@@ -5448,6 +5448,11 @@
       "category": "events",
       "description": "Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.",
       "homepage": "https://github.com/ra1028/VueFlux"
+    }, {
+      "title": "Lona",
+      "category": "utility",
+      "description": "A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.",
+      "homepage": "https://github.com/airbnb/Lona"
     }
   ]
 }

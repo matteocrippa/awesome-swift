@@ -5448,6 +5448,11 @@
       "category": "events",
       "description": "Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.",
       "homepage": "https://github.com/ra1028/VueFlux"
+    }, {
+      "title": "Chronology",
+      "category": "date",
+      "description": "Building a better date/time library.",
+      "homepage": "https://github.com/davedelong/Chronology"
     }
   ]
 }

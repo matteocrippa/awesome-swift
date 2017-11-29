@@ -5448,6 +5448,11 @@
       "category": "events",
       "description": "Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.",
       "homepage": "https://github.com/ra1028/VueFlux"
+    }, {
+      "title": "Swift Developments",
+      "category": "newsletter",
+      "description": "A weekly curated newsletter for people interested in designing and developing their own apps using Swift.",
+      "homepage": "https://andybargh.com/swiftdevelopments"
     }
   ]
 }

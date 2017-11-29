@@ -5478,6 +5478,7 @@
       "description": "Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.",
       "homepage": "https://github.com/ra1028/VueFlux"
     }, {
+<<<<<<< HEAD
       "title": "Ciao",
       "category": "network",
       "description": "Publish and discover services using mDNS (Bonjour, Zeroconf).",
@@ -5561,6 +5562,11 @@
       "category": "ui",
       "description": "A slider widget with a popup bubble displaying the precise value selected.",
       "homepage": "https://github.com/Ramotion/fluid-slider"
+    }, {
+      "title": "Swift Developments",
+      "category": "newsletter",
+      "description": "A weekly curated newsletter for people interested in designing and developing their own apps using Swift.",
+      "homepage": "https://andybargh.com/swiftdevelopments"
     }
   ]
 }

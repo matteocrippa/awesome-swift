@@ -5448,6 +5448,11 @@
       "category": "events",
       "description": "Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.",
       "homepage": "https://github.com/ra1028/VueFlux"
+    }, {
+      "title": "Ciao",
+      "category": "network",
+      "description": "Publish and discover services using mDNS(Bonjour, Zeroconf)",
+      "homepage": "https://github.com/AlTavares/Ciao"
     }
   ]
 }

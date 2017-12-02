@@ -1967,7 +1967,7 @@
       "title": "FacebookImagePicker",
       "category": "images",
       "description": "Facebook album photo picker.",
-      "homepage": "https://github.com/terflogag/FacebookImagePicker"
+      "homepage": "https://github.com/floriangbh/FacebookImagePicker"
     }, {
       "title": "Filterpedia",
       "category": "images",
@@ -4187,7 +4187,7 @@
       "title": "OpenSourceController",
       "category": "utility",
       "description": "The simplest way to display the librarie's licences used in your application.",
-      "homepage": "https://github.com/terflogag/OpenSourceController"
+      "homepage": "https://github.com/floriangbh/OpenSourceController"
     }, {
       "title": "Money",
       "category": "currency",

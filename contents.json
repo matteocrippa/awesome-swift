@@ -5453,6 +5453,12 @@
       "category": "network",
       "description": "Publish and discover services using mDNS(Bonjour, Zeroconf)",
       "homepage": "https://github.com/AlTavares/Ciao"
+    }, {
+	    "title": "ARVoxelKit",
+	    "category": "augmented-reality",
+	    "description": "Voxel graphic framework using ARKit",
+	    "homepage": "https://github.com/VoxxxelAR/ARVoxelKit",
+	    "tags": ["AR", "augmented", "reality", "voxel"]
     }
   ]
 }

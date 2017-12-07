@@ -5459,6 +5459,11 @@
 	    "description": "Voxel graphic framework using ARKit",
 	    "homepage": "https://github.com/VoxxxelAR/ARVoxelKit",
 	    "tags": ["AR", "augmented", "reality", "voxel"]
+    }, {
+      "title": "Chronology",
+      "category": "date",
+      "description": "Building a better date/time library.",
+      "homepage": "https://github.com/davedelong/Chronology"
     }
   ]
 }

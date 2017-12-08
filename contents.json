@@ -5459,6 +5459,12 @@
 	    "description": "Voxel graphic framework using ARKit",
 	    "homepage": "https://github.com/VoxxxelAR/ARVoxelKit",
 	    "tags": ["AR", "augmented", "reality", "voxel"]
+    }, {
+	    "title": "JsonMapper",
+	    "category": "json",
+	    "description": "Fast json mapper without using reflection",
+	    "homepage": "https://github.com/GlebRadchenko/JsonMapper",
+	    "tags": ["json", "mapper", "reflection"]
     }
   ]
 }

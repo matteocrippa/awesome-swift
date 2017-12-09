@@ -2124,6 +2124,11 @@
       "description": "Crop image in any shape.",
       "homepage": "https://github.com/ZaidPathan/ZImageCropper"
     }, {
+      "title": "LetterAvatarKit",
+      "category": "images",
+      "description": "A UIImage extension that generates letter-based avatars.",
+      "homepage": "https://github.com/vpeschenkov/LetterAvatarKit"
+    }, {
       "title": "DTPhotoViewerController",
       "category": "images",
       "description": "A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.",

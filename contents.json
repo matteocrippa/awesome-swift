@@ -3554,6 +3554,11 @@
       "description": "A simple keyframe-based animation framework for iOS. Perfect for scrolling app intros.",
       "homepage": "https://github.com/IFTTT/RazzleDazzle"
     }, {
+      "title": "SwiftCharts",
+      "category": "chart",
+      "description": "Highly customizable charts for iOS.",
+      "homepage": "https://github.com/i-schuetz/SwiftCharts"
+    }, {
       "title": "SwiftyWalkthrough",
       "category": "walkthrough",
       "description": "The easiest way to create a great walkthrough experience in your apps.",

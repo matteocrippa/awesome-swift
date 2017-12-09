@@ -5470,6 +5470,11 @@
 	    "homepage": "https://github.com/VoxxxelAR/ARVoxelKit",
 	    "tags": ["AR", "augmented", "reality", "voxel"]
     }, {
+      "title": "Chronology",
+      "category": "date",
+      "description": "Building a better date/time library.",
+      "homepage": "https://github.com/davedelong/Chronology"
+    }, {
       "title": "L10n-swift",
       "category": "localization",
       "description": "Localization of an application with ability to change language \"on the fly\" and support for plural forms in any language.",

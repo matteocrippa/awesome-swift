@@ -4119,6 +4119,11 @@
       "description": "Compass helps you setup a central navigation system for your application.",
       "homepage": "https://github.com/hyperoslo/Compass"
     }, {
+      "title": "Weavy",
+      "category": "app-routing",
+      "description": "Weavy is a navigation framework based on a weaving pattern that fits well with Reactive Programming.",
+      "homepage": "https://github.com/twittemb/Weavy"
+    }, {
       "title": "Curry",
       "category": "utility",
       "description": "Function currying.",

@@ -1283,10 +1283,10 @@
       "description": "DataKernel is a minimalistic wrapper around Core Data stack to ease persistence operations. No external dependencies.",
       "homepage": "https://github.com/mrdekk/DataKernel"
     }, {
-      "title": "LeetCode_Swift",
+      "title": "LeetCode-Swift",
       "category": "other-data",
       "description": "Solutions to LeetCode interview questions.",
-      "homepage": "https://github.com/soapyigu/LeetCode_Swift"
+      "homepage": "https://github.com/soapyigu/LeetCode-Swift"
     }, {
       "title": "Algorithm",
       "category": "algorithm",

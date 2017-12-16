@@ -3544,6 +3544,11 @@
       "description": "A Material Design drop down for iOS.",
       "homepage": "https://github.com/AssistoLab/DropDown"
     }, {
+      "title": "Mixin",
+      "category": "ui",
+      "description": "React.js like Mixin. More powerful Protocol-Oriented Programming",
+      "homepage": "https://github.com/oney/Mixin"
+    }, {
       "title": "SwiftValidator",
       "category": "validation",
       "description": "A rule-based validation library.",

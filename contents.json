@@ -2310,7 +2310,7 @@
       "title": "Evergreen",
       "category": "logging",
       "description": "Most natural logging.",
-      "homepage": "https://github.com/knly/Evergreen"
+      "homepage": "https://github.com/nilsleiffischer/Evergreen"
     }, {
       "title": "HeliumLogger",
       "category": "logging",
@@ -5490,6 +5490,11 @@
       "category": "ui",
       "description": "A simple, customizable view for efficiently collecting country information in iOS apps.",
       "homepage": "https://github.com/kizitonwose/CountryPickerView"
+    }, {
+      "title": "Sprinter",
+      "category": "text",
+      "description": "A library for formatting strings.",
+      "homepage": "https://github.com/nicklockwood/Sprinter"
     }
   ]
 }

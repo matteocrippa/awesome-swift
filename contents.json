@@ -5505,6 +5505,12 @@
       "category": "Syntactic Sugar",
       "description": "Sweet Syntactic Sugar for your Swift",
       "homepage": "https://github.com/chrisbkarani/Sukari"
+    }, {
+      "title": "Shiny",
+      "category": "ui",
+      "description": "Iridescent Effect View (inspired by Apple Pay Cash)",
+      "homepage": "https://github.com/efremidze/Shiny",
+      "tags": ["hologram", "animation", "applepay", "swift"]
     }
   ]
 }

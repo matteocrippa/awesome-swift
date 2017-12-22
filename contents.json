@@ -2624,9 +2624,9 @@
       "homepage": "https://github.com/johnno1962/Dynamo",
       "tags": ["linux"]
     }, {
-      "title": "Edge",
+      "title": "Lightning",
       "category": "webserver",
-      "description": "Multiplatform Web and Networking Framework.",
+      "description": "Multiplatform Single-threaded Non-blocking Web and Networking Framework.",
       "homepage": "https://github.com/skylab-inc/Lightning",
       "tags": ["linux"]
     }, {

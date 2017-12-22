@@ -2627,7 +2627,7 @@
       "title": "Edge",
       "category": "webserver",
       "description": "Multiplatform Web and Networking Framework.",
-      "homepage": "https://github.com/skylab-inc/Edge",
+      "homepage": "https://github.com/skylab-inc/Lightning",
       "tags": ["linux"]
     }, {
       "title": "Express",

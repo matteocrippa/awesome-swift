@@ -5495,6 +5495,11 @@
       "category": "text",
       "description": "A library for formatting strings.",
       "homepage": "https://github.com/nicklockwood/Sprinter"
+    }, {
+      "title": "YBSlantedCollectionViewLayout",
+      "category": "uicollectionview",
+      "description": "UICollectionViewLayout to show slanted content.",
+      "homepage": "https://github.com/yacir/YBSlantedCollectionViewLayout"
     }
   ]
 }

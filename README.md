@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-956-orange.svg) | December 13, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-961-orange.svg) | December 22, 2017
 
 ### Contributing
 
@@ -881,7 +881,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - Configurable and extensible high-level logging API that is simple, lightweight and performant.
 * [Dotzu](https://github.com/remirobert/Dotzu) - Debbuger tool for iOS developer. Display logs, network request, device informations, crash logs while using the app.
 * [Duration](https://github.com/SwiftStudies/Duration) :penguin: - Lightweight logging library focused on reporting timings for operations.
-* [Evergreen](https://github.com/knly/Evergreen) - Most natural logging.
+* [Evergreen](https://github.com/nilsleiffischer/Evergreen) - Most natural logging.
 * [HeliumLogger](https://github.com/IBM-Swift/HeliumLogger) :penguin: - IBM's lightweight logging framework.
 * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
 * [Printer](https://github.com/hemangshah/printer) - A fancy logger for your next app.
@@ -985,7 +985,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Blackfire](https://github.com/elliottminns/blackfire) :penguin: - A minimal, fast and unopinionated web framework.
 * [Curassow](https://github.com/kylef/Curassow) :penguin: - HTTP server using the pre-fork worker model.
 * [Dynamo](https://github.com/johnno1962/Dynamo) :penguin: - High performance web server supporting dynamic content.
-* [Edge](https://github.com/skylab-inc/Edge) :penguin: - Multiplatform Web and Networking Framework.
+* [Edge](https://github.com/skylab-inc/Lightning) :penguin: - Multiplatform Web and Networking Framework.
 * [Embassy](https://github.com/envoy/Embassy) :penguin: - Super lightweight async HTTP server library.
 * [Express](https://github.com/crossroadlabs/Express) :penguin: - Web Application framework, supporting both Synchronous and Asynchronous (Futures based) styles. Inspired by Play framework and Express.js.
 * [Frank](https://github.com/kylef/Frank) :penguin: - Frank is a DSL for quickly writing web applications.
@@ -1125,6 +1125,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [RichEditorView](https://github.com/cjwirth/RichEditorView) -  RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
 * [Roman](https://github.com/nvzqz/Roman) :penguin: - Seamless Roman numeral conversion.
 * [SmarkDown](https://github.com/SwiftStudies/SmarkDown) :penguin: - Markdown processing conforming to Gruber's standards.
+* [Sprinter](https://github.com/nicklockwood/Sprinter) - A library for formatting strings.
 * [SwiftRichString](https://github.com/malcommac/SwiftRichString) - Elegant & Painless Attributed Strings Management Library.
 * [SwiftString](https://github.com/amayne/SwiftString) - A lightweight string extension.
 * [SwiftVerbalExpressions](https://github.com/VerbalExpressions/SwiftVerbalExpressions) - VerbalExpressions porting.
@@ -1157,6 +1158,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects.
 * [CostumeKit](https://github.com/jakemarsh/CostumeKit) - Base types for theming an app.
+* [CountryPickerView](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
 * [CustomSegue](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects.
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS 10 Apple Music now playing transition.
 * [Dodo](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
@@ -1220,6 +1222,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 * [SelectionDialog](https://github.com/kciter/SelectionDialog) - Simple selection dialog.
 * [ShadowView](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
+* [Shiny](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash)
 * [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers.
 * [SMSwipeableTabView](https://github.com/smahajan28/SMSwipeableTabView) - Fully customizable control which is mixture of UIPageViewController and Scrollable Tab Bar.
@@ -1474,6 +1477,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - Fully customizable spreadsheet CollectionViewLayout.
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
 * [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - Lightweight animation flowlayout for UICollectionView completely written in Swift 4.
+* [YBSlantedCollectionViewLayout](https://github.com/yacir/YBSlantedCollectionViewLayout) - UICollectionViewLayout to show slanted content.
 
 #### UITableView
 [back to top](#readme) 

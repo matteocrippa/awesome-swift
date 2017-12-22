@@ -5500,6 +5500,11 @@
       "category": "uicollectionview",
       "description": "UICollectionViewLayout to show slanted content.",
       "homepage": "https://github.com/yacir/YBSlantedCollectionViewLayout"
+    } , {
+      "title": "Sukari",
+      "category": "Syntactic Sugar",
+      "description": "Sweet Syntactic Sugar for your Swift",
+      "homepage": "https://github.com/chrisbkarani/Sukari"
     }, {
       "title": "Shiny",
       "category": "ui",

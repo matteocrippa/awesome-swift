@@ -5500,6 +5500,12 @@
       "category": "uicollectionview",
       "description": "UICollectionViewLayout to show slanted content.",
       "homepage": "https://github.com/yacir/YBSlantedCollectionViewLayout"
+    }, {
+      "title": "Shiny",
+      "category": "ui",
+      "description": "Iridescent Effect View (inspired by Apple Pay Cash)",
+      "homepage": "https://github.com/efremidze/Shiny",
+      "tags": ["hologram", "animation", "applepay", "swift"]
     }
   ]
 }

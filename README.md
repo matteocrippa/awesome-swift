@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-961-orange.svg) | December 22, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-962-orange.svg) | December 27, 2017
 
 ### Contributing
 
@@ -985,13 +985,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Blackfire](https://github.com/elliottminns/blackfire) :penguin: - A minimal, fast and unopinionated web framework.
 * [Curassow](https://github.com/kylef/Curassow) :penguin: - HTTP server using the pre-fork worker model.
 * [Dynamo](https://github.com/johnno1962/Dynamo) :penguin: - High performance web server supporting dynamic content.
-* [Edge](https://github.com/skylab-inc/Lightning) :penguin: - Multiplatform Web and Networking Framework.
 * [Embassy](https://github.com/envoy/Embassy) :penguin: - Super lightweight async HTTP server library.
 * [Express](https://github.com/crossroadlabs/Express) :penguin: - Web Application framework, supporting both Synchronous and Asynchronous (Futures based) styles. Inspired by Play framework and Express.js.
 * [Frank](https://github.com/kylef/Frank) :penguin: - Frank is a DSL for quickly writing web applications.
 * [http4swift](https://github.com/takebayashi/http4swift) :penguin: - A simple HTTP server.
 * [Kitura](https://github.com/IBM-Swift/Kitura) :penguin: - IBM's web framework and server for web services.
 * [Kunugi](https://github.com/novi/Kunugi) :penguin: - Minimal web framework and middleware.
+* [Lightning](https://github.com/skylab-inc/Lightning) :penguin: - Multiplatform Single-threaded Non-blocking Web and Networking Framework.
 * [Noze.io](https://github.com/NozeIO/Noze.io) :penguin: - Evented I/O streams like Node.js.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) :penguin: - Server-side Swift. The Perfect library, application server, connectors and example apps.
 * [swifter](https://github.com/httpswift/swifter) :penguin: - Http server with routing handler.
@@ -1564,6 +1564,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Swiftz](https://github.com/typelift/Swiftz) - Functional programming.
 * [Then](https://github.com/devxoul/Then) - Super sweet syntactic sugar for initializers.
 * [undefined](https://github.com/weissi/swift-undefined) - Nano framework which defines Haskell's undefined.
+* [URLQueryItemEncoder](https://github.com/pitiphong-p/URLQueryItemEncoder) - An Encoder for encoding any Encodable value into an array of URLQueryItem.
 * [UTIKit](https://github.com/cockscomb/UTIKit) - an UTI (Uniform Type Identifier) wrapper.
 * [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) - Showcase new features after an app update similar to Pages, Numbers and Keynote.
 * [XestiMonitors](https://github.com/eBardX/XestiMonitors) - An extensible monitoring framework.

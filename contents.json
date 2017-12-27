@@ -5511,6 +5511,12 @@
       "description": "Iridescent Effect View (inspired by Apple Pay Cash)",
       "homepage": "https://github.com/efremidze/Shiny",
       "tags": ["hologram", "animation", "applepay", "swift"]
+    }, {
+      "title": "URLQueryItemEncoder",
+      "category": "utility",
+      "description": "An Encoder for encoding any Encodable value into an array of URLQueryItem.",
+      "homepage": "https://github.com/pitiphong-p/URLQueryItemEncoder",
+      "tags": ["urlqueryitem", "codable", "encoder", "swift"]
     }
   ]
 }

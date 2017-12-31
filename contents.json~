@@ -4119,10 +4119,10 @@
       "description": "Compass helps you setup a central navigation system for your application.",
       "homepage": "https://github.com/hyperoslo/Compass"
     }, {
-      "title": "RxFlow",
+      "title": "Weavy",
       "category": "app-routing",
-      "description": "RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.",
-      "homepage": "https://github.com/RxSwiftCommunity/RxFlow"
+      "description": "Weavy is a navigation framework based on a weaving pattern that fits well with Reactive Programming.",
+      "homepage": "https://github.com/twittemb/Weavy"
     }, {
       "title": "Curry",
       "category": "utility",

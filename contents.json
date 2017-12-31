@@ -5496,10 +5496,10 @@
       "description": "A library for formatting strings.",
       "homepage": "https://github.com/nicklockwood/Sprinter"
     }, {
-      "title": "YBSlantedCollectionViewLayout",
+      "title": " CollectionViewSlantedLayout",
       "category": "uicollectionview",
       "description": "UICollectionViewLayout to show slanted content.",
-      "homepage": "https://github.com/yacir/YBSlantedCollectionViewLayout"
+      "homepage": "https://github.com/yacir/CollectionViewSlantedLayout"
     } , {
       "title": "Sukari",
       "category": "Syntactic Sugar",

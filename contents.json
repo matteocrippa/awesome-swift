@@ -5505,7 +5505,7 @@
       "category": "uicollectionview",
       "description": "UICollectionViewLayout to show slanted content.",
       "homepage": "https://github.com/yacir/CollectionViewSlantedLayout"
-    } , {
+    }, {
       "title": "Sukari",
       "category": "Syntactic Sugar",
       "description": "Sweet Syntactic Sugar for your Swift",
@@ -5522,6 +5522,11 @@
       "description": "An Encoder for encoding any Encodable value into an array of URLQueryItem.",
       "homepage": "https://github.com/pitiphong-p/URLQueryItemEncoder",
       "tags": ["urlqueryitem", "codable", "encoder", "swift"]
+    }, {
+      "title": "MCScratchImageView",
+      "category": "images",
+      "description": "A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below",
+      "homepage": "https://github.com/Minecodecraft/MCScratchImageView"
     }, {
       "title": "Ease",
       "category": "animation",

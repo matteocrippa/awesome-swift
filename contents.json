@@ -5517,6 +5517,11 @@
       "description": "An Encoder for encoding any Encodable value into an array of URLQueryItem.",
       "homepage": "https://github.com/pitiphong-p/URLQueryItemEncoder",
       "tags": ["urlqueryitem", "codable", "encoder", "swift"]
+    },{
+      "title": "ReviewMonitor",
+      "category": "utility",
+      "description": "iTunes Connect manager app for iOS.",
+      "homepage": "https://github.com/RishabhTayal/ReviewMonitor"
     }
   ]
 }

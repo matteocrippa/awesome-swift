@@ -3634,6 +3634,11 @@
       "description": "Modern, easy UIAlertController wrapper.",
       "homepage": "https://github.com/sgr-ksmt/Alertift"
     }, {
+      "title": "Zingle",
+      "category": "alert",
+      "description": "An alert will display underneath your UINavigationBar.",
+      "homepage": "https://github.com/hemangshah/Zingle"
+    }, {
       "title": "AlertKit",
       "category": "alert",
       "description": "Alert with a single line of code.",

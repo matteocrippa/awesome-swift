@@ -1890,7 +1890,7 @@
     }, {
       "title": "UIFontComplete",
       "category": "fonts",
-      "description": "Make working with UIFont faster and less error-prone.",
+      "description": "Font management (System & Custom) for iOS and tvOS.",
       "homepage": "https://github.com/Nirma/UIFontComplete"
     }, {
       "title": "SwiftIcons",

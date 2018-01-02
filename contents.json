@@ -3634,6 +3634,11 @@
       "description": "Modern, easy UIAlertController wrapper.",
       "homepage": "https://github.com/sgr-ksmt/Alertift"
     }, {
+      "title": "Zingle",
+      "category": "alert",
+      "description": "An alert will display underneath your UINavigationBar.",
+      "homepage": "https://github.com/hemangshah/Zingle"
+    }, {
       "title": "AlertKit",
       "category": "alert",
       "description": "Alert with a single line of code.",
@@ -5522,6 +5527,11 @@
       "category": "images",
       "description": "A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below",
       "homepage": "https://github.com/Minecodecraft/MCScratchImageView"
+    }, {
+      "title": "Ease",
+      "category": "animation",
+      "description": "Animate everything with Ease",
+      "homepage": "https://github.com/roberthein/Ease"
     }
   ]
 }

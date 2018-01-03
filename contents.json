@@ -788,8 +788,8 @@
     }, {
       "title": "Advance",
       "category": "animation",
-      "description": "A powerful animation framework for iOS.",
-      "homepage": "https://github.com/storehouse/Advance"
+      "description": "A powerful animation framework for iOS, tvOS, and OS X.",
+      "homepage": "https://github.com/timdonnelly/Advance"
     }, {
       "title": "Animo",
       "category": "animation",

@@ -5471,7 +5471,7 @@
     }, {
       "title": "Ciao",
       "category": "network",
-      "description": "Publish and discover services using mDNS(Bonjour, Zeroconf)",
+      "description": "Publish and discover services using mDNS (Bonjour, Zeroconf).",
       "homepage": "https://github.com/AlTavares/Ciao"
     }, {
 	    "title": "ARVoxelKit",
@@ -5508,12 +5508,12 @@
     }, {
       "title": "Sukari",
       "category": "Syntactic Sugar",
-      "description": "Sweet Syntactic Sugar for your Swift",
+      "description": "Sweet Syntactic Sugar.",
       "homepage": "https://github.com/xrisyz/Sukari"
     }, {
       "title": "Shiny",
       "category": "ui",
-      "description": "Iridescent Effect View (inspired by Apple Pay Cash)",
+      "description": "Iridescent Effect View (inspired by Apple Pay Cash).",
       "homepage": "https://github.com/efremidze/Shiny",
       "tags": ["hologram", "animation", "applepay", "swift"]
     }, {
@@ -5525,12 +5525,12 @@
     }, {
       "title": "MCScratchImageView",
       "category": "images",
-      "description": "A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below",
+      "description": "A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.",
       "homepage": "https://github.com/Minecodecraft/MCScratchImageView"
     }, {
       "title": "Ease",
       "category": "animation",
-      "description": "Animate everything with Ease",
+      "description": "Animate everything with Ease.",
       "homepage": "https://github.com/roberthein/Ease"
     }
   ]

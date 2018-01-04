@@ -5532,6 +5532,11 @@
       "category": "animation",
       "description": "Animate everything with Ease.",
       "homepage": "https://github.com/roberthein/Ease"
+    }, {
+      "title": "StatusAlert",
+      "category": "alert",
+      "description": "Display Apple system-like self-hiding status alerts without interrupting user flow.",
+      "homepage": "https://github.com/LowKostKustomz/StatusAlert"
     }
   ]
 }

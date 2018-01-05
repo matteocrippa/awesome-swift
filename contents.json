@@ -5537,6 +5537,11 @@
       "category": "alert",
       "description": "Display Apple system-like self-hiding status alerts without interrupting user flow.",
       "homepage": "https://github.com/LowKostKustomz/StatusAlert"
+    }, {
+      "title": "Beak",
+      "category": "misc",
+      "description": "A command line interface for your Swift scripts.",
+      "homepage": "https://github.com/yonaskolb/Beak"
     }
   ]
 }

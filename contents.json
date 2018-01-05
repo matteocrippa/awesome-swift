@@ -417,6 +417,10 @@
     "parent": "hardware",
     "description": "Manage your device sensors in a faster and easier way"
   }, {
+    "title": "Styling",
+    "id": "styling",
+    "parent": "libs"
+  }, {
     "title": "System",
     "id": "system",
     "parent": "libs"
@@ -5532,6 +5536,11 @@
       "category": "animation",
       "description": "Animate everything with Ease.",
       "homepage": "https://github.com/roberthein/Ease"
+    }, {
+      "title": "Stylist",
+      "category": "styling",
+      "description": "Define UI styles in a hot-loadable external yaml or json file.",
+      "homepage": "https://github.com/yonaskolb/Stylist"
     }, {
       "title": "StatusAlert",
       "category": "alert",

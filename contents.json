@@ -5551,6 +5551,11 @@
       "category": "misc",
       "description": "A command line interface for your Swift scripts.",
       "homepage": "https://github.com/yonaskolb/Beak"
+    }, {
+      "title": "Kinieta",
+      "category": "animation",
+      "description": "An incredibly Intuitive Animation Engine with an Great API and Readable Code.",
+      "homepage": "https://github.com/mmick66/kinieta"
     }
   ]
 }

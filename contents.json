@@ -3538,8 +3538,8 @@
       "homepage": "https://github.com/aschuch/StatefulViewController"
     }, {
       "title": "SwiftTheme",
-      "category": "ui",
-      "description": "Powerful theme/skin manager for iOS 7+.",
+      "category": "styling",
+      "description": "Powerful theme/skin manager for iOS 8+.",
       "homepage": "https://github.com/jiecao-fm/SwiftTheme"
     },
     {
@@ -5081,7 +5081,7 @@
       "homepage": "https://github.com/100mango/SwiftCssParser"
     }, {
       "title": "Themes",
-      "category": "template",
+      "category": "styling",
       "description": "Theme management.",
       "homepage": "https://github.com/onmyway133/Themes"
     }, {

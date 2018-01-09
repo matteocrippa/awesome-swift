@@ -1161,6 +1161,11 @@
       "description": "All wikipedia colors implemented as easy to use UIColor extension.",
       "homepage": "https://github.com/nahive/UIColor-WikiColors"
     }, {
+      "title": "UIGradient",
+      "category": "colors",
+      "description": "A simple and powerful library for using gradient layer, image, color",
+      "homepage": "https://github.com/dqhieu/UIGradient"
+    }, {
       "title": "ChromaColorPicker",
       "category": "colors",
       "description": "An intuitive and fun iOS color picker.",

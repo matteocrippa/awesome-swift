@@ -5556,6 +5556,11 @@
       "category": "misc",
       "description": "A command line interface for your Swift scripts.",
       "homepage": "https://github.com/yonaskolb/Beak"
+    }, {
+      "title": "Fluid Slider",
+      "category": "ui",
+      "description": "A slider widget with a popup bubble displaying the precise value selected.",
+      "homepage": "https://github.com/Ramotion/fluid-slider"
     }
   ]
 }

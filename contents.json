@@ -568,6 +568,14 @@
     "title": "Scripting",
     "id": "scripting",
     "parent": "libs"
+  }, {
+    "title": "Game Engine",
+    "id": "game-engine",
+    "parent": "libs"
+  }, {
+    "title": "2D",
+    "id": "game-engine-2d",
+    "parent": "game-engine"
   }],
   "projects": [{
 		"title": "Cards XI",
@@ -5568,7 +5576,7 @@
       "homepage": "https://github.com/JohnSundell/SwiftTips"
     }, {
       "title": "ImagineEngine",
-      "category": "game",
+      "category": "game-engine-2d",
       "description": "Blazing fasst 2D gaming engine.",
       "homepage": "https://github.com/JohnSundell/ImagineEngine"
     }

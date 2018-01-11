@@ -5579,6 +5579,11 @@
       "category": "game-engine-2d",
       "description": "Blazing fasst 2D gaming engine.",
       "homepage": "https://github.com/JohnSundell/ImagineEngine"
+    }, {
+      "title": "PanelKit",
+      "category": "ui",
+      "description": "A UI framework that enables panels on iOS.",
+      "homepage": "https://github.com/louisdh/panelkit"
     }
 
 

@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-970-orange.svg) | January 10, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-975-orange.svg) | January 11, 2018
 
 ### Contributing
 
@@ -77,6 +77,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
   - [Events](#events)
   - [Files](#files)
   - [Fonts](#fonts)
+  - [Game Engine](#game-engine)
+    - [2D](#game-engine-2d)
   - [Games](#games)
   - [Gesture](#gesture)
   - [Hardware](#hardware)
@@ -188,6 +190,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftDoc](http://swiftdoc.org/) - Auto-generated documentation.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A Chinese written guide.
 * [SwiftIntro](https://github.com/Sajjon/SwiftIntro) - Memory game implementation that also teaches Swift.
+* [SwiftTips](https://github.com/JohnSundell/SwiftTips) - A collection of useful tips share on Twitter by @JohnSundell.
 * [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - App to learn to code.
 * [The Swift Web Developer](https://theswiftwebdeveloper.com) - A publication for Swift Web Developers.
 * [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
@@ -693,6 +696,15 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftIcons](https://github.com/ranesr/SwiftIcons) - Library for Font Icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather.
 * [UIFontComplete](https://github.com/Nirma/UIFontComplete) - Font management (System & Custom) for iOS and tvOS.
 
+### Game Engine
+[back to top](#readme) 
+
+
+#### 2D
+[back to top](#readme) 
+
+* [ImagineEngine](https://github.com/JohnSundell/ImagineEngine) - Blazing fasst 2D gaming engine.
+
 ### Games
 [back to top](#readme) 
 
@@ -1075,6 +1087,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Styling
 [back to top](#readme) 
 
+* [Ambience](https://github.com/tmergulhao/Ambience) - Brightness aware accessibility theme switching without coding.
 * [Stylist](https://github.com/yonaskolb/Stylist) - Define UI styles in a hot-loadable external yaml or json file.
 * [SwiftTheme](https://github.com/jiecao-fm/SwiftTheme) - Powerful theme/skin manager for iOS 8+.
 * [Themes](https://github.com/onmyway133/Themes) - Theme management.
@@ -1223,6 +1236,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
 * [Otafuku](https://github.com/tasanobu/Otafuku) - Some utility classes to use WKWebView.
+* [PanelKit](https://github.com/louisdh/panelkit) - A UI framework that enables panels on iOS.
 * [Panoramic](https://github.com/iSame7/Panoramic) - Panoramic facebook story clone.
 * [ParallaxView](https://github.com/PGSSoft/ParallaxView) - Controls and extensions for tvOS that add parallax effect to your application.
 * [PPAssetsActionController](https://github.com/pantuspavel/PPAssetsActionController) - Highly customizable Action Sheet Controller with assets preview.
@@ -1535,6 +1549,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Closures](https://github.com/vhesener/Closures) - Swifty closures for UIKit and Foundation.
 * [Cormorant](https://github.com/austinzheng/Cormorant) - Clojure(ish) interpreter.
 * [Curry](https://github.com/thoughtbot/Curry) - Function currying.
+* [DeepDiff](https://github.com/onmyway133/DeepDiff) - Fast diff library.
 * [Dollar](https://github.com/ankurp/Dollar) - Similar to Lo-Dash or Underscore in Javascript.
 * [ExSwift](https://github.com/pNre/ExSwift) - Extensions for standard types and classes.
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - How standard types and classes were supposed to work.

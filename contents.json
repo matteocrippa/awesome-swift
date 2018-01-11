@@ -5584,6 +5584,11 @@
       "category": "ui",
       "description": "A UI framework that enables panels on iOS.",
       "homepage": "https://github.com/louisdh/panelkit"
+    }, {
+      "title": "DeepDiff",
+      "category": "utility",
+      "description": "Fast diff library.",
+      "homepage": "https://github.com/onmyway133/DeepDiff"
     }
 
 

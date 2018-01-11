@@ -5570,6 +5570,11 @@
       "description": "A slider widget with a popup bubble displaying the precise value selected.",
       "homepage": "https://github.com/Ramotion/fluid-slider"
     }, {
+      "title": "Swift Developments",
+      "category": "newsletter",
+      "description": "A weekly curated newsletter containing for people interested in designing and developing their own iOS, watchOS and Apple TV apps.",
+      "homepage": "https://andybargh.com/swiftdevelopments"
+  	}, {
       "title": "SwiftTips",
       "category": "third-party-guides",
       "description": "A collection of useful tips share on Twitter by @JohnSundell.",

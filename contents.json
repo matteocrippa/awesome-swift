@@ -919,6 +919,11 @@
       "description": "In App Purchase Manager framework.",
       "homepage": "https://github.com/sandorgyulai/InAppFramework"
     }, {
+      "title": "InAppPurchase",
+      "category": "app-store",
+      "description": "A Simple, Lightweight and Safe framework for In App Purchase.",
+      "homepage": "https://github.com/jinSasaki/InAppPurchase"
+    }, {
       "title": "SwiftyStoreKit",
       "category": "app-store",
       "description": "Lightweight In App Purchases framework.",

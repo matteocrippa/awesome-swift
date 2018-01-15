@@ -5599,6 +5599,11 @@
       "category": "styling",
       "description": "Brightness aware accessibility theme switching without coding.",
       "homepage": "https://github.com/tmergulhao/Ambience"
+    }, {
+      "title": "Alerts Pickers",
+      "category": "alert",
+      "description": "Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.",
+      "homepage": "https://github.com/dillidon/Alerts-Pickers"
     }
 
   ]

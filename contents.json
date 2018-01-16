@@ -1235,6 +1235,12 @@
       "homepage": "https://github.com/Zewo/Venice",
       "tags": ["linux"]
     }, {
+      "title": "GroupWork",
+      "category": "concurrency",
+      "description": "Easy concurrent, asynchronous tasks.",
+      "homepage": "https://github.com/quanvo87/GroupWork",
+      "tags": ["linux"]
+    }, {
       "title": "StorageKit",
       "category": "multi-database",
       "description": "Your Data Storage Troubleshooter 🛠",

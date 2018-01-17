@@ -3667,6 +3667,11 @@
       "description": "Alert with a single line of code.",
       "homepage": "https://github.com/thii/AlertKit"
     }, {
+      "title": "C2Alert",
+      "category": "alert",
+      "description": "C2Alert is a simple alert library with good and customizable design.",
+      "homepage": "https://github.com/c2mInc/C2Alert"
+    }, {
       "title": "CDAlertView",
       "category": "alert",
       "description": "Highly customizable alert/notification/success/error/alarm popup.",

@@ -721,7 +721,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftyGestureRecognition](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
 * [SwipyCell](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 * [Tactile](https://github.com/delba/Tactile) - Attach function handlers to gesture and control events in a more expressive and safer way.
-* [ShowTime](https://github.com/KaneCheshire/ShowTime) - The easiest way to show off your iOS taps and gestures for demos and videos.
 
 ### Hardware
 *A category dedicated to hardware related libs* [back to top](#readme) 

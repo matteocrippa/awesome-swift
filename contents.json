@@ -5152,11 +5152,6 @@
       "homepage": "https://github.com/roberthein/Observable",
       "tags": ["observable", "observer", "reactive"]
     }, {
-      "title": "AZTableViewController",
-      "category": "uitableview",
-      "description": "Elegant and easy way to integrate pagination with placeholder views.",
-      "homepage": "https://github.com/AfrozZaheer/AZTableViewController"
-    }, {
       "title": "NetClient",
       "category": "network",
       "description": "Versatile HTTP networking library.",
@@ -5166,6 +5161,16 @@
       "category": "concurrency",
       "description": "Manage the task execution in different threads through Kommands.",
       "homepage": "https://github.com/intelygenz/Kommander-iOS"
+    }, {
+      "title": "AZTableViewController",
+      "category": "uitableview",
+      "description": "Elegant and easy way to integrate pagination with placeholder views.",
+      "homepage": "https://github.com/AfrozZaheer/AZTableViewController"
+    }, {
+      "title": "AZCollectionViewController",
+      "category": "uicollectionview",
+      "description": "Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.",
+      "homepage": "https://github.com/AfrozZaheer/AZCollectionViewController"
     }
   ]
 }

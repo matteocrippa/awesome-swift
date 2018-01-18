@@ -1957,6 +1957,11 @@
       "description": "Attach function handlers to gesture and control events in a more expressive and safer way.",
       "homepage": "https://github.com/delba/Tactile"
     }, {
+      "title": "ShowTime",
+      "category": "gesture",
+      "description": "Show off your iOS taps and gestures for demos and videos with just one line of code.",
+      "homepage": "https://github.com/KaneCheshire/ShowTime"
+    }, {
       "title": "iBeacon",
       "category": "ibeacon",
       "description": "iBeacon implementation.",

@@ -623,11 +623,6 @@
       "description": "Collection of tuts that will help you learn Swift via playground.",
       "homepage": "https://github.com/nettlep/learn-swift"
     }, {
-      "title": "This Week In Swift",
-      "category": "newsletter",
-      "description": "Weekly Newsletter on Swift.",
-      "homepage": "https://swiftnews.curated.co/"
-    }, {
       "title": "Practice Swift",
       "category": "third-party-guides",
       "description": "An interesting guide to learn Swift.",

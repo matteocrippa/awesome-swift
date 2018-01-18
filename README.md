@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-976-orange.svg) | January 11, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-978-orange.svg) | January 18, 2018
 
 ### Contributing
 
@@ -156,7 +156,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Newsletter
 [back to top](#readme) 
 
-* [Swift Developments](https://andybargh.com/swiftdevelopments) - A weekly curated newsletter containing for people interested in designing and developing their own iOS, watchOS and Apple TV apps.
+* [Swift Developments](https://andybargh.com/swiftdevelopments/) - A weekly curated newsletter containing for people interested in designing and developing their own iOS, watchOS and Apple TV apps.
 * [Swift Newsletter by Natasha the Robot](https://www.natashatherobot.com) - Curated newsletter.
 * [Swift Weekly Brief](https://swiftweekly.github.io) - A multi author curated newsletter.
 * [This Week In Swift](https://swiftnews.curated.co/) - Weekly Newsletter on Swift.
@@ -438,6 +438,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Easier ways to work with concurrency.* [back to top](#readme) 
 
 * [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives.
+* [GroupWork](https://github.com/quanvo87/GroupWork) :penguin: - Easy concurrent, asynchronous tasks.
 * [Hydra](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code.
 * [Kommander](https://github.com/intelygenz/Kommander-iOS) - Manage the task execution in different threads through Kommands.
 * [Overdrive](https://github.com/arikis/Overdrive) - Fast async task based API with focus on type safety, concurrency and multi threading.
@@ -718,6 +719,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [NiceGesture](https://github.com/lacklock/NiceGesture) - Using UIGestureRecognizers in a intuitive way.
 * [PeekPop](https://github.com/marmelroy/PeekPop) - Framework for backwards-compatible Peek and Pop.
 * [SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator) - Allow the iPhone Simulator to test 3D Touch.
+* [ShowTime](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
 * [SwiftyGestureRecognition](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
 * [SwipyCell](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 * [Tactile](https://github.com/delba/Tactile) - Attach function handlers to gesture and control events in a more expressive and safer way.
@@ -1015,7 +1017,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [swifter](https://github.com/httpswift/swifter) :penguin: - Http server with routing handler.
 * [Swifton](https://github.com/necolt/Swifton) :penguin: - A Ruby on Rails inspired Web Framework that runs on Linux and OS X.
 * [SwiftyHTTP](https://github.com/AlwaysRightInstitute/SwiftyHTTP) - A simple GCD based HTTP client and server.
-* [Tailor](https://github.com/brownleej/tailor) - A framework for building web apps.
 * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers.
 * [Trevi](https://github.com/Yoseob/Trevi) - A powerful Web Application Server Framework Project.
 * [Vapor](https://github.com/vapor/vapor) :penguin: - Elegant web framework that works on iOS, OS X, and Ubuntu.
@@ -1281,6 +1282,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Alertift](https://github.com/sgr-ksmt/Alertift) - Modern, easy UIAlertController wrapper.
 * [AlertKit](https://github.com/thii/AlertKit) - Alert with a single line of code.
+* [Alerts Pickers](https://github.com/dillidon/Alerts-Pickers) - Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup.
 * [CFNotify](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable alert views.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy UIAlertController.

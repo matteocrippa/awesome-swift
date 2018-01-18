@@ -1957,6 +1957,11 @@
       "description": "Attach function handlers to gesture and control events in a more expressive and safer way.",
       "homepage": "https://github.com/delba/Tactile"
     }, {
+      "title": "ShowTime",
+      "category": "gesture",
+      "description": "Show off your iOS taps and gestures for demos and videos with just one line of code.",
+      "homepage": "https://github.com/KaneCheshire/ShowTime"
+    }, {
       "title": "iBeacon",
       "category": "ibeacon",
       "description": "iBeacon implementation.",
@@ -2717,11 +2722,6 @@
       "description": "A Ruby on Rails inspired Web Framework that runs on Linux and OS X.",
       "homepage": "https://github.com/necolt/Swifton",
       "tags": ["linux"]
-    }, {
-      "title": "Tailor",
-      "category": "webserver",
-      "description": "A framework for building web apps.",
-      "homepage": "https://github.com/brownleej/tailor"
     }, {
       "title": "Taylor",
       "category": "webserver",
@@ -5579,7 +5579,7 @@
       "title": "Swift Developments",
       "category": "newsletter",
       "description": "A weekly curated newsletter containing for people interested in designing and developing their own iOS, watchOS and Apple TV apps.",
-      "homepage": "https://andybargh.com/swiftdevelopments"
+      "homepage": "https://andybargh.com/swiftdevelopments/"
   	}, {
       "title": "SwiftTips",
       "category": "third-party-guides",
@@ -5611,15 +5611,11 @@
       "description": "Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.",
       "homepage": "https://github.com/dillidon/Alerts-Pickers"
     }, {
-      "title": "AZTableViewController",
-      "category": "uitableview",
-      "description": "Elegant and easy way to integrate pagination with placeholder views.",
-      "homepage": "https://github.com/AfrozZaheer/AZTableViewController"
-    }, {
       "title": "AZCollectionViewController",
       "category": "uicollectionview",
       "description": "Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.",
       "homepage": "https://github.com/AfrozZaheer/AZCollectionViewController"
     },
+    }
   ]
 }

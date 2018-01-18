@@ -5610,6 +5610,11 @@
       "category": "alert",
       "description": "Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.",
       "homepage": "https://github.com/dillidon/Alerts-Pickers"
+    }, {
+      "title": "AZCollectionViewController",
+      "category": "uicollectionview",
+      "description": "Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.",
+      "homepage": "https://github.com/AfrozZaheer/AZCollectionViewController"
     }
   ]
 }

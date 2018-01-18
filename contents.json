@@ -2723,11 +2723,6 @@
       "homepage": "https://github.com/necolt/Swifton",
       "tags": ["linux"]
     }, {
-      "title": "Tailor",
-      "category": "webserver",
-      "description": "A framework for building web apps.",
-      "homepage": "https://github.com/brownleej/tailor"
-    }, {
       "title": "Taylor",
       "category": "webserver",
       "description": "A lightweight library for writing HTTP web servers.",
@@ -5616,6 +5611,5 @@
       "description": "Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.",
       "homepage": "https://github.com/dillidon/Alerts-Pickers"
     }
-
   ]
 }

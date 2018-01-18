@@ -5615,6 +5615,6 @@
       "category": "uicollectionview",
       "description": "Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.",
       "homepage": "https://github.com/AfrozZaheer/AZCollectionViewController"
-    },
+    }
   ]
 }

@@ -1477,8 +1477,7 @@
       "title": "SwiftyJSON",
       "category": "json",
       "description": "A lib for JSON with error handling.",
-      "homepage": "https://github.com/SwiftyJSON/SwiftyJSON",
-      "tags": ["linux"]
+      "homepage": "https://github.com/SwiftyJSON/SwiftyJSON"
     }, {
       "title": "Freddy",
       "category": "json",

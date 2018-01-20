@@ -5609,6 +5609,11 @@
       "category": "uicollectionview",
       "description": "Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.",
       "homepage": "https://github.com/AfrozZaheer/AZCollectionViewController"
+    }, {
+      "title": "GradientLoadingBar",
+      "category": "hud",
+      "description": "An animated gradient loading bar.",
+      "homepage": "https://github.com/fxm90/GradientLoadingBar"
     }
   ]
 }

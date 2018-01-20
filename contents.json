@@ -5619,6 +5619,11 @@
       "category": "hud",
       "description": "An animated gradient loading bar.",
       "homepage": "https://github.com/fxm90/GradientLoadingBar"
+    }, {
+      "title": "GradientProgressBar",
+      "category": "ui",
+      "description": "A customizable gradient progress bar (UIProgressView)",
+      "homepage": "https://github.com/fxm90/GradientProgressBar"
     }
   ]
 }

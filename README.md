@@ -821,6 +821,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage) - XAnimatedImage is a performant animated GIF engine for iOS based on FLAnimatedImage.
 * [YapImageManager](https://github.com/yapstudios/YapImageManager) - A high-performance image downloader — powered by YapDatabase.
 * [ZImageCropper](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
+* [PhotoViewerController](https://github.com/botirjon/PhotoViewerController) - A customizable photo viewer with bottom and top actions, title, and bottom captions to display collection of photos, inspired by Apple Photos.
+
 
 ### Key Value Coding
 *Libraries for key-value coding* [back to top](#readme) 

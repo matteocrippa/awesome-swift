@@ -2809,7 +2809,7 @@
     }, {
       "title": "RNCryptor",
       "category": "cryptography",
-      "description": "CCCryptor (Apple's AES encryption) wrappers for iOS and Mac in Swift.",
+      "description": "CCCryptor (Apple's AES encryption) wrappers for iOS and Mac.",
       "homepage": "https://github.com/RNCryptor/RNCryptor"
     }, {
       "title": "keychain-swift",

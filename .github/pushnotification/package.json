@@ -1,0 +1,11 @@
+{
+  "name": "pushnotification",
+  "version": "0.0.1",
+  "description": "Send a push notification to subcribers if a PR is accepted",
+  "main": "sendpush.js",
+  "author": "Matteo Crippa",
+  "license": "MIT",
+  "dependencies": {
+    "node-onesignal": "^0.3.1"
+  }
+}

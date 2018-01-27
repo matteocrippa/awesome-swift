@@ -2807,6 +2807,11 @@
       "description": "Crypto toolkit.",
       "homepage": "https://github.com/SwiftP2P/SwiftSSL"
     }, {
+      "title": "RNCryptor",
+      "category": "cryptography",
+      "description": "CCCryptor (Apple's AES encryption) wrappers for iOS and Mac.",
+      "homepage": "https://github.com/RNCryptor/RNCryptor"
+    }, {
       "title": "keychain-swift",
       "category": "keychain",
       "description": "Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.",

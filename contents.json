@@ -5630,6 +5630,12 @@
       "description": "A modern device detection and querying library.",
       "homepage": "https://github.com/bojan/Thingy",
       "tags": ["device", "system"]
+    }, {
+		  "title": "Kinieta",
+		  "category": "animation",
+		  "description": "An simple Animation Engine for iOS with an Intuitive API and Readable Code",
+		  "homepage": "https://github.com/mmick66/kinieta",
+		  "tags": ["animation", "engine", "motion", "bezier"]
     }
   ]
 }

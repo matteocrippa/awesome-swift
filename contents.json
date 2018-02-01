@@ -2771,6 +2771,11 @@
       "homepage": "https://github.com/sleekbyte/tailor",
       "tags": ["linux"]
     }, {
+      "title": "IBLinter",
+      "category": "quality",
+      "description": "A linter tool for Interface Builder.",
+      "homepage": "https://github.com/kateinoigakukun/IBLinter"
+    }, {
       "title": "CryptoSwift",
       "category": "cryptography",
       "description": "Crypto related functions and helpers.",

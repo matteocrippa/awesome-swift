@@ -5630,6 +5630,11 @@
       "homepage": "https://github.com/bojan/Thingy",
       "tags": ["device", "system"]
     }, {
+      "title": "NextLevelSessionExporter",
+      "category": "video",
+      "description": "Export and transcode media.",
+      "homepage": "https://github.com/NextLevel/NextLevelSessionExporter"
+    }, {
       "title": "Online Swift Playground",
       "category": "repl",
       "description": "Online Swift Playground.",

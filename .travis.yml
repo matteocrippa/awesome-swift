@@ -6,7 +6,7 @@ before_script:
   - gem install awesome_bot
   - sudo pip install json-spec
 script:
-  - awesome_bot contents.json -w AERecord,theswiftwebdeveloper,bluemix
+  - awesome_bot contents.json -w AERecord,theswiftwebdeveloper,bluemix,swiftplayground
   - json validate --schema-file=.github/schema.json --document-file=contents.json
   - node .github/upgradeDb.js
 after_success:

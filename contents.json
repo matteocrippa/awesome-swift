@@ -5607,7 +5607,7 @@
       "title": "Alerts Pickers",
       "category": "alert",
       "description": "Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.",
-      "homepage": "https://github.com/dillidon/Alerts-Pickers"
+      "homepage": "https://github.com/dillidon/alerts-and-pickers"
     }, {
       "title": "AZCollectionViewController",
       "category": "uicollectionview",

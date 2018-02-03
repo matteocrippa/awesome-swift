@@ -5629,6 +5629,12 @@
       "description": "A modern device detection and querying library.",
       "homepage": "https://github.com/bojan/Thingy",
       "tags": ["device", "system"]
+    }, {
+      "title": "Online Swift Playground",
+      "category": "repl",
+      "description": "Online Swift Playground.",
+      "homepage": "http://online.swiftplayground.run",
+      "tags": ["swift", "repl", "playground"]
     }
   ]
 }

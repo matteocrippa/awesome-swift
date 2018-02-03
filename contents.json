@@ -5025,12 +5025,6 @@
       "description": "Collection view layout that makes your cells bounce.",
       "homepage": "https://github.com/roberthein/BouncyLayout"
     }, {
-      "title": "IBM Swift Sandbox",
-      "category": "repl",
-      "description": "Interactive website that lets you write code and execute it in a server environment.",
-      "homepage": "https://swift.sandbox.bluemix.net",
-      "tags": ["swift", "repl", "cloud", "docker", "sandbox", "linux"]
-    }, {
       "title": "Haptica",
       "category": "haptic-feedback",
       "description": "Easy Haptic Feedback Generator.",

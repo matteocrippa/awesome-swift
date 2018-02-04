@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-984-orange.svg) | February 03, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-985-orange.svg) | February 04, 2018
 
 ### Contributing
 
@@ -298,6 +298,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [Interpolate](https://github.com/marmelroy/Interpolate) - Interpolation framework for creating interactive gesture-driven animations.
 * [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit) - Animate easy and with less code.
+* [Kinieta](https://github.com/mmick66/kinieta) - An simple Animation Engine for iOS with an Intuitive API and Readable Code
 * [Morgan](https://github.com/RamonGilabert/Morgan) - An always growing animation set.
 * [Pastel](https://github.com/cruisediary/Pastel) - Gradient animation effect like Instagram.
 * [Presentation](https://github.com/hyperoslo/Presentation) - A library to help you to make tutorials, release notes and animated pages.

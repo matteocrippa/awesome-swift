@@ -2771,6 +2771,11 @@
       "homepage": "https://github.com/sleekbyte/tailor",
       "tags": ["linux"]
     }, {
+      "title": "IBLinter",
+      "category": "quality",
+      "description": "A linter tool for Interface Builder.",
+      "homepage": "https://github.com/kateinoigakukun/IBLinter"
+    }, {
       "title": "CryptoSwift",
       "category": "cryptography",
       "description": "Crypto related functions and helpers.",
@@ -5020,12 +5025,6 @@
       "description": "Collection view layout that makes your cells bounce.",
       "homepage": "https://github.com/roberthein/BouncyLayout"
     }, {
-      "title": "IBM Swift Sandbox",
-      "category": "repl",
-      "description": "Interactive website that lets you write code and execute it in a server environment.",
-      "homepage": "https://swift.sandbox.bluemix.net",
-      "tags": ["swift", "repl", "cloud", "docker", "sandbox", "linux"]
-    }, {
       "title": "Haptica",
       "category": "haptic-feedback",
       "description": "Easy Haptic Feedback Generator.",
@@ -5608,7 +5607,7 @@
       "title": "Alerts Pickers",
       "category": "alert",
       "description": "Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.",
-      "homepage": "https://github.com/dillidon/Alerts-Pickers"
+      "homepage": "https://github.com/dillidon/alerts-and-pickers"
     }, {
       "title": "AZCollectionViewController",
       "category": "uicollectionview",
@@ -5636,6 +5635,17 @@
 		  "description": "An simple Animation Engine for iOS with an Intuitive API and Readable Code",
 		  "homepage": "https://github.com/mmick66/kinieta",
 		  "tags": ["animation", "engine", "motion", "bezier"]
+    }, {
+      "title": "NextLevelSessionExporter",
+      "category": "video",
+      "description": "Export and transcode media.",
+      "homepage": "https://github.com/NextLevel/NextLevelSessionExporter"
+    }, {
+      "title": "Online Swift Playground",
+      "category": "repl",
+      "description": "Online Swift Playground.",
+      "homepage": "http://online.swiftplayground.run",
+      "tags": ["swift", "repl", "playground"]
     }
   ]
 }

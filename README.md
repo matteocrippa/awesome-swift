@@ -180,6 +180,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - A cool 30 days tutorial.
 * [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about the Swift language.
+* [Hackr.io's Curated Swift Resorces](https://hackr.io/tutorials/learn-ios-swift) - Learn iOS & Swift online from the best iOS & Swift tutorials and courses recommended by the programming community.
 * [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - An organized list of essential Swift Language Topics.
 * [Developing iOS Apps with Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961) - Stanford course by Paul Hegarty.
 * [Hacking With Swift](https://www.hackingwithswift.com) - Complete training course that teaches app development through 30 hands-on projects, for free.

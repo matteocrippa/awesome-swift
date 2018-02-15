@@ -5581,7 +5581,7 @@
   	}, {
       "title": "SwiftTips",
       "category": "third-party-guides",
-      "description": "A collection of useful tips share on Twitter by @JohnSundell.",
+      "description": "A collection of useful tips by John Sundell.",
       "homepage": "https://github.com/JohnSundell/SwiftTips"
     }, {
       "title": "ImagineEngine",
@@ -5621,7 +5621,7 @@
     }, {
       "title": "GradientProgressBar",
       "category": "ui",
-      "description": "A customizable gradient progress bar (UIProgressView)",
+      "description": "A customizable gradient progress bar (UIProgressView).",
       "homepage": "https://github.com/fxm90/GradientProgressBar"
     }, {
       "title": "Thingy",

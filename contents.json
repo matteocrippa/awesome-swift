@@ -5646,6 +5646,12 @@
       "description": "Online Swift Playground.",
       "homepage": "http://online.swiftplayground.run",
       "tags": ["swift", "repl", "playground"]
+    }, {
+	"title": "TimePicker",
+	"category": "gesture",
+	"description": "Configurable time picker component based on a pan gesture and its velocity.",
+	"homepage": "https://github.com/Endore8/TimePicker",
+	"tags": ["swift", "time", "picker", "gesture"]
     }
   ]
 }

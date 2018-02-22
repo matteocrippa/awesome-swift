@@ -3946,6 +3946,11 @@
       "description": "PagingKit provides customizable menu UI",
       "homepage": "https://github.com/kazuhiro4949/PagingKit"
     }, {
+      "title": "Parchment",
+      "category": "menu",
+      "description": "A paging view controller with a highly customizable menu, built on UICollectionView.",
+      "homepage": "https://github.com/rechsteiner/Parchment"
+    }, {
       "title": "Caishen",
       "category": "payment",
       "description": "A Payment Card UI & Validator for iOS.",

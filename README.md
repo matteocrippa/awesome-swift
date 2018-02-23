@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-985-orange.svg) | February 04, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-986-orange.svg) | February 23, 2018
 
 ### Contributing
 
@@ -190,7 +190,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftDoc](http://swiftdoc.org/) - Auto-generated documentation.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A Chinese written guide.
 * [SwiftIntro](https://github.com/Sajjon/SwiftIntro) - Memory game implementation that also teaches Swift.
-* [SwiftTips](https://github.com/JohnSundell/SwiftTips) - A collection of useful tips share on Twitter by @JohnSundell.
+* [SwiftTips](https://github.com/JohnSundell/SwiftTips) - A collection of useful tips by John Sundell.
 * [The Swift Web Developer](https://theswiftwebdeveloper.com) - A publication for Swift Web Developers.
 * [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
 
@@ -1208,7 +1208,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Geometry](https://github.com/artman/Geometry) - extensions for UIView.
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) - A pull to refresh that supports GIF images as track animations.
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
-* [GradientProgressBar](https://github.com/fxm90/GradientProgressBar) - A customizable gradient progress bar (UIProgressView)
+* [GradientProgressBar](https://github.com/fxm90/GradientProgressBar) - A customizable gradient progress bar (UIProgressView).
 * [GRMustache](https://github.com/groue/GRMustache.swift) - Flexible Mustache templates.
 * [GrowingTextView](https://github.com/KennethTsang/GrowingTextView) - UITextView that supports auto growing, placeholder and length limit.
 * [Hexacon](https://github.com/gautier-gdx/Hexacon) - A new way to display content in your app like the Apple Watch SpringBoard.
@@ -1405,6 +1405,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Pagemenu](https://github.com/PageMenu/PageMenu) - Pagination enabled view controller.
 * [PagingKit](https://github.com/kazuhiro4949/PagingKit) - PagingKit provides customizable menu UI
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu.
+* [Parchment](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu, built on UICollectionView.
 * [SideMenu](https://github.com/jonkykong/SideMenu) - Simple side menu control for iOS inspired by Facebook. Right and Left sides. No coding required.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app.
 * [Swift-CircleMenu](https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu) - Rotating circle menu.

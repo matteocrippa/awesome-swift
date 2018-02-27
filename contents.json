@@ -2560,6 +2560,11 @@
       "description": "Lightweight network abstraction layer, written on top of Alamofire.",
       "homepage": "https://github.com/MLSDev/TRON"
     }, {
+      "title": "PerfectAPIClient",
+      "category": "network",
+      "description": "An API Client based on a network abstraction layer for the Perfect Server-Side Swift Framework",
+      "homepage": "https://github.com/SvenTiigi/PerfectAPIClient"
+    }, {
       "title": "Fuzi",
       "category": "html",
       "description": "A fast & lightweight XML/HTML parser with XPath & CSS support.",

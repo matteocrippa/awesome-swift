@@ -2535,6 +2535,11 @@
       "description": "Elegant abstraction for REST APIs that untangles stateful messes. An alternative to callback- and delegate-based networking.",
       "homepage": "https://bustoutsolutions.github.io/siesta/"
     }, {
+      "title": "SolarNetwork",
+      "category": "network",
+      "description": "Elegant network abstraction layer.",
+      "homepage": "https://github.com/ThreeGayHub/SolarNetwork"
+    }, {
       "title": "SwiftHTTP",
       "category": "network",
       "description": "NSURLSession wrapper.",

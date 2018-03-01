@@ -5667,6 +5667,11 @@
 	    "description": "Capture & record ARKit videos, photos, Live Photos, and GIFs",
 	    "homepage": "https://github.com/AFathi/ARVideoKit",
 	    "tags": ["AR", "augmented", "reality", "video"]
+    }, {
+      "title": "Tempura",
+      "category": "events",
+      "description": "A holistic approach to iOS development, inspired by Redux and MVVM.",
+      "homepage": "https://github.com/BendingSpoons/tempura-swift"
     }
   ]
 }

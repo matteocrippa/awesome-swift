@@ -5667,6 +5667,11 @@
 	    "description": "Capture & record ARKit videos, photos, Live Photos, and GIFs",
 	    "homepage": "https://github.com/AFathi/ARVideoKit",
 	    "tags": ["AR", "augmented", "reality", "video"]
+    }, {
+      "title": "Shallows",
+      "category": "multi-database",
+      "description": "Your lightweight persistence toolbox.",
+      "homepage": "https://github.com/dreymonde/Shallows"
     }
   ]
 }

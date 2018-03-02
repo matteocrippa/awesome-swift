@@ -1453,6 +1453,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Tab
 [back to top](#readme) 
 
+* [SmoothTab](https://github.com/yervandsar/SmoothTab) - Smooth customizable tabs for iOS apps..
 * [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - Adaptive tab bar.
 * [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tab bar items.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - Interesting way to display tabs.

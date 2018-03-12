@@ -1743,7 +1743,7 @@
       "title": "Bond",
       "category": "events",
       "description": "Binding framework.",
-      "homepage": "https://github.com/ReactiveKit/Bond"
+      "homepage": "https://github.com/DeclarativeHub/Bond"
     }, {
       "title": "BrightFutures",
       "category": "events",
@@ -2084,7 +2084,7 @@
       "title": "SwiftGif",
       "category": "images",
       "description": "A small UIImage extension with GIF support.",
-      "homepage": "https://github.com/bahlo/SwiftGif"
+      "homepage": "https://github.com/swiftgif/SwiftGif"
     }, {
       "title": "SwiftSVG",
       "category": "images",

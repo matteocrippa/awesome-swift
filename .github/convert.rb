@@ -90,7 +90,7 @@ end
 
 def output_contributing(j)
   o = "\n\n### Contributing\n\n"
-  o << contributing
+  o << j['contributing']
   o
 end
 

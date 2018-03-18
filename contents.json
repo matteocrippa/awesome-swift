@@ -3968,7 +3968,8 @@
       "title": "Parchment",
       "category": "menu",
       "description": "A paging view controller with a highly customizable menu, built on UICollectionView.",
-      "homepage": "https://github.com/rechsteiner/Parchment"
+      "homepage": "https://github.com/rechsteiner/Parchment",
+      "swift": 4
     }, {
       "title": "Caishen",
       "category": "payment",

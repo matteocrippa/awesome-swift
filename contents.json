@@ -5692,6 +5692,13 @@
       "category": "uicollectionview",
       "description": "A framework that is meant to make your life easier when working with collection view flow layouts.",
       "homepage": "https://github.com/zenangst/Blueprints"
+    },
+    {
+      "title": "Delegated",
+      "category": "utility",
+      "description": "Closure-based delegation without memory leaks",
+      "homepage": "https://github.com/dreymonde/Delegated",
+      "swift": 4
     }
   ]
 }

@@ -5697,8 +5697,15 @@
     {
       "title": "Delegated",
       "category": "utility",
-      "description": "Closure-based delegation without memory leaks",
+      "description": "Closure-based delegation without memory leaks.",
       "homepage": "https://github.com/dreymonde/Delegated",
+      "swift": 4
+    },
+    {
+      "title": "LayoutLess",
+      "category": "layout",
+      "description": "Write less UI Code.",
+      "homepage": "https://github.com/DeclarativeHub/Layoutless",
       "swift": 4
     }
   ]

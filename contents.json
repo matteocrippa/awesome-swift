@@ -847,8 +847,9 @@
       "category": "animation",
       "description": "Gradient animation effect like Instagram.",
       "homepage": "https://github.com/cruisediary/Pastel",
-      "tags": ["swift", "animation", "instagram"]
-    }, {
+      "tags": ["swift", "animation", "instagram"],
+      "swift": 4
+  }, {
       "title": "Presentation",
       "category": "animation",
       "description": "A library to help you to make tutorials, release notes and animated pages.",

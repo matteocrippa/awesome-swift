@@ -761,7 +761,7 @@
       "title": "BrainCore",
       "category": "ai",
       "description": "The iOS and OS X neural network framework.",
-      "homepage": "https://github.com/aleph7/BrainCore"
+      "homepage": "https://github.com/alejandro-isaza/BrainCore"
     }, {
       "title": "MLKit",
       "category": "ai",
@@ -2426,7 +2426,7 @@
       "title": "PlotKit",
       "category": "math",
       "description": "Plots made easy.",
-      "homepage": "https://github.com/aleph7/PlotKit"
+      "homepage": "https://github.com/alejandro-isaza/PlotKit"
     }, {
       "title": "SigmaSwiftStatistics",
       "category": "math",
@@ -2441,7 +2441,7 @@
       "title": "Upsurge",
       "category": "math",
       "description": "Simple and fast matrix and vector math.",
-      "homepage": "https://github.com/aleph7/Upsurge"
+      "homepage": "https://github.com/alejandro-isaza/Upsurge"
     }, {
       "title": "agent",
       "category": "network",

@@ -153,7 +153,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 [back to top](#readme) 
 
 * [Swift Developments](https://andybargh.com/swiftdevelopments/) - A weekly curated newsletter containing for people interested in designing and developing their own iOS, watchOS and Apple TV apps.
-* [Swift Newsletter by Natasha the Robot](https://www.natashatherobot.com) - Curated newsletter.
+* [Swift Newsletter by Natasha the Robot](https://www.natashatherobot.com) - Curated newsletter (no longer supported).
 * [Swift Weekly Brief](https://swiftweekly.github.io) - A multi author curated newsletter.
 * [WeeklyCocoa.News](https://weeklycocoa.news) - Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.
 

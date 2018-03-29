@@ -5707,6 +5707,13 @@
       "description": "Write less UI Code.",
       "homepage": "https://github.com/DeclarativeHub/Layoutless",
       "swift": 4
+    },
+     {
+      "title": "MapViewPlus",
+      "category": "maps",
+      "description": "Use any custom view as custom callout view of your MKMapView with cool animations. Also, easily use any image as annotation view.",
+      "homepage": "https://github.com/okhanokbay/MapViewPlus",
+      "tags": ["map", "customcalloutview", "calloutview", "annotationview", "swift", "mapkit", "MKMapView"]
     }
   ]
 }

@@ -5707,6 +5707,12 @@
       "description": "Write less UI Code.",
       "homepage": "https://github.com/DeclarativeHub/Layoutless",
       "swift": 4
+    },
+    {
+      "title": "RetroProgress",
+      "category": "ui",
+      "description": "Retro looking progress bar straight from the 90s.",
+      "homepage": "https://github.com/hyperoslo/RetroProgress"
     }
   ]
 }

@@ -5672,6 +5672,6 @@
       "category": "text",
       "description": "PredicateFlow is a builder that allows you to write amazing, strong-typed and easy-to-read NSPredicate.",
       "homepage": "https://github.com/andreadelfante/PredicateFlow"
-    },
+    }
   ]
 }

@@ -1,0 +1,8 @@
+{
+  "name": "check-swift-version",
+  "version": "1.0.0",
+  "description": "Checks project swift version",
+  "main": "index.js",
+  "author": "Matteo Crippa",
+  "license": "MIT"
+}

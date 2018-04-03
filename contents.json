@@ -5667,6 +5667,11 @@
 	    "description": "Capture & record ARKit videos, photos, Live Photos, and GIFs",
 	    "homepage": "https://github.com/AFathi/ARVideoKit",
 	    "tags": ["AR", "augmented", "reality", "video"]
-    }
+    }, {
+      "title": "PredicateFlow",
+      "category": "text",
+      "description": "PredicateFlow is a builder that allows you to write amazing, strong-typed and easy-to-read NSPredicate.",
+      "homepage": "https://github.com/andreadelfante/PredicateFlow"
+    },
   ]
 }

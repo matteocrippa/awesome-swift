@@ -5707,6 +5707,14 @@
       "description": "Write less UI Code.",
       "homepage": "https://github.com/DeclarativeHub/Layoutless",
       "swift": 4
+    },
+    {
+      "title": "BlockiesSwift",
+      "category": "images",
+      "description": "Unique blocky identicons/profile picture generator.",
+      "homepage": "https://github.com/Boilertalk/BlockiesSwift",
+      "swift": 4,
+      "tags": ["profile-picture", "identicons", "image", "generator"]
     }
   ]
 }

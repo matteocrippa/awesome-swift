@@ -5713,6 +5713,12 @@
       "category": "other-data",
       "description": "KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.",
       "homepage": "https://github.com/vincent-pradeilles/KeyPathKit"
+    },
+    {
+      "title": "swift-tips",
+      "category": "third-party-guides",
+      "description": "A series of useful tips by Vincent Pradeilles",
+      "homepage": "https://github.com/vincent-pradeilles/swift-tips"
     }
   ]
 }

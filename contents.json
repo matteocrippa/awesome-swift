@@ -5707,6 +5707,12 @@
       "description": "Write less UI Code.",
       "homepage": "https://github.com/DeclarativeHub/Layoutless",
       "swift": 4
+    },
+    {
+      "title": "KeyPathKit",
+      "category": "other-data",
+      "description": "KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.",
+      "homepage": "https://github.com/vincent-pradeilles/KeyPathKit"
     }
   ]
 }

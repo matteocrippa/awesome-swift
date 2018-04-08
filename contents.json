@@ -2616,7 +2616,7 @@
       "title": "sockets",
       "category": "socket",
       "description": "TCP, UDP; Client, Server; Linux, OS X.",
-      "homepage": "https://github.com/vapor/sockets",
+      "homepage": "https://github.com/vapor-community/sockets",
       "tags": ["linux"]
     }, {
       "title": "Starscream",
@@ -2790,7 +2790,7 @@
       "title": "IBLinter",
       "category": "quality",
       "description": "A linter tool for Interface Builder.",
-      "homepage": "https://github.com/kateinoigakukun/IBLinter"
+      "homepage": "https://github.com/IBDecodable/IBLinter"
     }, {
       "title": "CryptoSwift",
       "category": "cryptography",
@@ -2999,7 +2999,7 @@
       "title": "MarkdownKit",
       "category": "text",
       "description": "A simple and customizable Markdown Parser.",
-      "homepage": "https://github.com/ivanbruel/MarkdownKit"
+      "homepage": "https://github.com/bmoliveira/MarkdownKit"
     }, {
       "title": "MarkyMark",
       "category": "text",

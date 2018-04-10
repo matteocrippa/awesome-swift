@@ -271,6 +271,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Algorithm](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models.
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures, with explanations.
 * [SwiftLCS](https://github.com/Frugghi/SwiftLCS) :penguin: - implementation of the longest common subsequence (LCS) algorithm.
+* [classic-problem-solving-and-data-structures-in-swift](https://github.com/smalam119/classic-problem-solving-algorithms-and-data-structures-in-swift) - Implementation of some classic and popular data structures, algorithms and problem solving.
 
 ### Analytics
 *Analytics related libraries to easily track your app usage* [back to top](#readme) 

@@ -5719,6 +5719,14 @@
       "category": "third-party-guides",
       "description": "A series of useful tips by Vincent Pradeilles",
       "homepage": "https://github.com/vincent-pradeilles/swift-tips"
-    }
+    },
+		{
+	    "title": "Dots",
+	    "category": "network",
+	    "description": "Lightweight Concurrent Networking Framework",
+	    "homepage": "https://github.com/iAmrSalman/Dots",
+	    "tags": ["iamrsalman", "swift", "networking", "concurrency", "ios", "macos", "tvos", "watchos", "cocoapods", "carthage", "swift-package-manager"],
+      "swift": 4
+		}
   ]
 }

@@ -5719,6 +5719,13 @@
       "category": "third-party-guides",
       "description": "A series of useful tips by Vincent Pradeilles",
       "homepage": "https://github.com/vincent-pradeilles/swift-tips"
+    },
+    {
+      "title": "Swift for Scripting",
+      "category": "scripting",
+      "description": "A hand-curated collection of useful and informative Swift Scripting materials.",
+      "homepage": "https://github.com/artemnovichkov/Swift-For-Scripting",
+      "tags": ["swift", "scripting"]
     }
   ]
 }

@@ -5719,6 +5719,12 @@
       "category": "third-party-guides",
       "description": "A series of useful tips by Vincent Pradeilles",
       "homepage": "https://github.com/vincent-pradeilles/swift-tips"
+    },
+    {
+      "title": "live-news-viper",
+      "category": "Patterns",
+      "description": "A basic application to showcase VIPER design pattern",
+      "homepage": "https://github.com/smalam119/live-news-viper"
     }
   ]
 }

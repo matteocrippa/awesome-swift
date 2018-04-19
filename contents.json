@@ -5719,6 +5719,12 @@
       "category": "third-party-guides",
       "description": "A series of useful tips by Vincent Pradeilles",
       "homepage": "https://github.com/vincent-pradeilles/swift-tips"
+    },
+    {
+      "title": "StorageManager",
+      "category": "other-data",
+      "description": "Safe and easy way to use FileManager as Database.",
+      "homepage": "https://github.com/iAmrSalman/StorageManager"
     }
   ]
 }

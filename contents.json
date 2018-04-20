@@ -2201,7 +2201,7 @@
     }, {
       "title": "PinLayout",
       "category": "layout",
-      "description": "Fast views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise, intuitive, readable & chainable syntax. Works nicely with FlexLayout.",
+      "description": "Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS]",
       "homepage": "https://github.com/mirego/PinLayout"
     }, {
       "title": "Stevia",

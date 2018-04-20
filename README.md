@@ -10,11 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-992-orange.svg) | March 05, 2018
-
-### Contributing
-
-Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!!
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 997 | April 08, 2018
 
 ### Contents
 
@@ -157,7 +153,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Swift Developments](https://andybargh.com/swiftdevelopments/) - A weekly curated newsletter containing for people interested in designing and developing their own iOS, watchOS and Apple TV apps.
-* [Swift Newsletter by Natasha the Robot](https://www.natashatherobot.com) - Curated newsletter.
+* [Swift Newsletter by Natasha the Robot (discontinued, look the archive)](https://www.natashatherobot.com) - Curated newsletter.
 * [Swift Weekly Brief](https://swiftweekly.github.io) - A multi author curated newsletter.
 * [WeeklyCocoa.News](https://weeklycocoa.news) - Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.
 
@@ -187,6 +183,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - An interesting guide to learn Swift.
 * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development.
 * [Swift Web Weekly](http://swiftwebweekly.com) - A free, hand-picked list of the best links for Swift Web Developers, every Monday in your inbox.
+* [swift-tips](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles
 * [SwiftDoc](http://swiftdoc.org/) - Auto-generated documentation.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A Chinese written guide.
 * [SwiftIntro](https://github.com/Sajjon/SwiftIntro) - Memory game implementation that also teaches Swift.
@@ -263,7 +260,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### AI
 *Libs for AI based projects (Machine Learning, Neural Networks etc).* [back to top](#readme) 
 
-* [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework.
+* [BrainCore](https://github.com/alejandro-isaza/BrainCore) - The iOS and OS X neural network framework.
 * [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 * [MLKit](https://github.com/Somnibyte/MLKit) - A simple machine learning framework.
 * [Swift-AI](https://github.com/Swift-AI/Swift-AI) - The machine learning library.
@@ -540,6 +537,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [CSVParser](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
 * [EVCloudKitDao](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+* [KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
 * [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift) - Solutions to LeetCode interview questions.
 * [Pencil](https://github.com/naru-jpn/pencil) - Write any value to file.
 
@@ -648,7 +646,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.* [back to top](#readme) 
 
 * [Aftermath](https://github.com/hyperoslo/Aftermath) - Stateless message-driven micro-framework.
-* [Bond](https://github.com/ReactiveKit/Bond) - Binding framework.
+* [Bond](https://github.com/DeclarativeHub/Bond) - Binding framework.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - Promise and future lib.
 * [Caravel](https://github.com/coshx/caravel) - Event bus for UIWebView and JS.
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - Implementation of event emitters and listeners.
@@ -812,7 +810,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Sharaku](https://github.com/makomori/Sharaku) - Image filtering UI library like Instagram.
 * [Snowflake](https://github.com/onmyway133/Snowflake) - Work with SVG.
 * [SwiftGen-Assets](https://github.com/SwiftGen/SwiftGen#assets-catalogs) - A tool to auto-generate `enums` for all your `UIImages` from your Assets Catalogs.
-* [SwiftGif](https://github.com/bahlo/SwiftGif) - A small UIImage extension with GIF support.
+* [SwiftGif](https://github.com/swiftgif/SwiftGif) - A small UIImage extension with GIF support.
 * [SwiftSVG](https://github.com/mchoe/SwiftSVG) - A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).
 * [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
 * [TextDrawer](https://github.com/remirobert/TextDrawer) - A UIView allows you to add text with gesture on UIView or UIImage, support resize, rotate, move and edit.
@@ -851,6 +849,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [FlexLayout](https://github.com/layoutBox/FlexLayout) - Nice and clean interface to the highly optimized Facebook yoga Flexbox implementation.
 * [JustUiKit](https://github.com/lfkdsk/JustUiKit) - iOS UI Kit With Android-Style. It is designed to make Android developers build iOS UI easily.
 * [LayoutKit](https://github.com/linkedin/LayoutKit) - LayoutKit is a fast view layout library for iOS, macOS, and tvOS.
+* [LayoutLess](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
 * [ManualLayout](https://github.com/isair/ManualLayout) - Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.
 * [Neon](https://github.com/mamaral/Neon) - A powerful programmatic UI layout framework.
 * [PinLayout](https://github.com/mirego/PinLayout) - Fast views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise, intuitive, readable & chainable syntax. Works nicely with FlexLayout.
@@ -921,10 +920,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Maps
 [back to top](#readme) 
 
-* [ArcKit](https://github.com/sobri909/ArcKit) - A location and activity recording framework for iOS.
 * [Cluster](https://github.com/efremidze/Cluster) - Easy Map Annotation Clustering.
 * [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
 * [GEOSwift](https://github.com/GEOSwift/GEOSwift) - Make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
+* [LocoKit](https://github.com/sobri909/LocoKit) - A location and activity recording framework for iOS.
 
 ### Math
 [back to top](#readme) 
@@ -932,10 +931,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Arithmosophi](https://github.com/phimage/Arithmosophi) - Set of protocols for Arithmetic and Logical operations.
 * [BigInt](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic.
 * [DDMathParser](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
-* [PlotKit](https://github.com/aleph7/PlotKit) - Plots made easy.
+* [PlotKit](https://github.com/alejandro-isaza/PlotKit) - Plots made easy.
 * [SigmaSwiftStatistics](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
 * [swix](https://github.com/stsievert/swix) - A general matrix language.
-* [Upsurge](https://github.com/aleph7/Upsurge) - Simple and fast matrix and vector math.
+* [Upsurge](https://github.com/alejandro-isaza/Upsurge) - Simple and fast matrix and vector math.
 
 ### Natural Language Processing
 [back to top](#readme) 
@@ -998,7 +997,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [RxWebSocket](https://github.com/fjcaetano/RxWebSocket) - Reactive WebSockets.
 * [Socket.IO](https://github.com/socketio/socket.io-client-swift) :penguin: - Socket.IO client for iOS/OS X.
 * [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
-* [sockets](https://github.com/vapor/sockets) :penguin: - TCP, UDP; Client, Server; Linux, OS X.
+* [sockets](https://github.com/vapor-community/sockets) :penguin: - TCP, UDP; Client, Server; Linux, OS X.
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets for iOS and OSX.
 * [SwiftDSSocket](https://github.com/csujedihy/SwiftDSSocket) - Asynchronous socket framework built atop DispatchSource.
 * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - Simple TCP socket library.
@@ -1049,7 +1048,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Quality
 [back to top](#readme) 
 
-* [IBLinter](https://github.com/kateinoigakukun/IBLinter) - A linter tool for Interface Builder.
+* [IBLinter](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce coding conventions.
 * [Swimat](https://github.com/Jintin/Swimat) - Xcode plugin to format code.
 * [Tailor](https://github.com/sleekbyte/tailor) :penguin: - Cross-platform static analyzer that helps you to write cleaner code and avoid bugs.
@@ -1145,7 +1144,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [edhita](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS.
 * [Format](https://github.com/marmelroy/Format) - Formatting kit for numbers, addresses and colors.
 * [Markdown](https://github.com/crossroadlabs/Markdown) :penguin: - Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown).
-* [MarkdownKit](https://github.com/ivanbruel/MarkdownKit) - A simple and customizable Markdown Parser.
+* [MarkdownKit](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
 * [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
 * [MarkyMark](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
 * [Mustard](https://github.com/mathewsanders/Mustard) - Library for tokenizing strings when splitting by whitespace doesn't cut it.
@@ -1506,6 +1505,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.
+* [Blueprints](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - Collection view layout that makes your cells bounce.
 * [CardsLayout](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 * [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that pages and centers it's cells.
@@ -1566,6 +1566,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Cormorant](https://github.com/austinzheng/Cormorant) - Clojure(ish) interpreter.
 * [Curry](https://github.com/thoughtbot/Curry) - Function currying.
 * [DeepDiff](https://github.com/onmyway133/DeepDiff) - Fast diff library.
+* [Delegated](https://github.com/dreymonde/Delegated) - Closure-based delegation without memory leaks.
 * [Dollar](https://github.com/ankurp/Dollar) - Similar to Lo-Dash or Underscore in Javascript.
 * [ExSwift](https://github.com/pNre/ExSwift) - Extensions for standard types and classes.
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - How standard types and classes were supposed to work.
@@ -1651,3 +1652,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [PryntTrimmerView](https://github.com/prynt/PryntTrimmerView) - Trim and crop videos.
 * [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - Easy to Use UIView subclass for implementating a video background.
 * [VGPlayer](https://github.com/VeinGuo/VGPlayer) - A simple iOS video player, support play local and network, background playback mode, automatic caching while playing.
+
+
+### Contributing
+
+Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!!

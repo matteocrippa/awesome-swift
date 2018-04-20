@@ -761,7 +761,7 @@
       "title": "BrainCore",
       "category": "ai",
       "description": "The iOS and OS X neural network framework.",
-      "homepage": "https://github.com/aleph7/BrainCore"
+      "homepage": "https://github.com/alejandro-isaza/BrainCore"
     }, {
       "title": "MLKit",
       "category": "ai",
@@ -847,8 +847,9 @@
       "category": "animation",
       "description": "Gradient animation effect like Instagram.",
       "homepage": "https://github.com/cruisediary/Pastel",
-      "tags": ["swift", "animation", "instagram"]
-    }, {
+      "tags": ["swift", "animation", "instagram"],
+      "swift": 4
+  }, {
       "title": "Presentation",
       "category": "animation",
       "description": "A library to help you to make tutorials, release notes and animated pages.",
@@ -2425,7 +2426,7 @@
       "title": "PlotKit",
       "category": "math",
       "description": "Plots made easy.",
-      "homepage": "https://github.com/aleph7/PlotKit"
+      "homepage": "https://github.com/alejandro-isaza/PlotKit"
     }, {
       "title": "SigmaSwiftStatistics",
       "category": "math",
@@ -2440,7 +2441,7 @@
       "title": "Upsurge",
       "category": "math",
       "description": "Simple and fast matrix and vector math.",
-      "homepage": "https://github.com/aleph7/Upsurge"
+      "homepage": "https://github.com/alejandro-isaza/Upsurge"
     }, {
       "title": "agent",
       "category": "network",
@@ -2615,7 +2616,7 @@
       "title": "sockets",
       "category": "socket",
       "description": "TCP, UDP; Client, Server; Linux, OS X.",
-      "homepage": "https://github.com/vapor/sockets",
+      "homepage": "https://github.com/vapor-community/sockets",
       "tags": ["linux"]
     }, {
       "title": "Starscream",
@@ -2789,7 +2790,7 @@
       "title": "IBLinter",
       "category": "quality",
       "description": "A linter tool for Interface Builder.",
-      "homepage": "https://github.com/kateinoigakukun/IBLinter"
+      "homepage": "https://github.com/IBDecodable/IBLinter"
     }, {
       "title": "CryptoSwift",
       "category": "cryptography",
@@ -2998,7 +2999,7 @@
       "title": "MarkdownKit",
       "category": "text",
       "description": "A simple and customizable Markdown Parser.",
-      "homepage": "https://github.com/ivanbruel/MarkdownKit"
+      "homepage": "https://github.com/bmoliveira/MarkdownKit"
     }, {
       "title": "MarkyMark",
       "category": "text",
@@ -3142,7 +3143,8 @@
       "title": "AECoreDataUI",
       "category": "ui",
       "description": "Core Data driven UI.",
-      "homepage": "https://github.com/tadija/AERecord"
+      "homepage": "https://github.com/tadija/AERecord",
+      "swift": 4
     }, {
       "title": "AIFlatSwitch",
       "category": "switch",
@@ -3152,7 +3154,8 @@
       "title": "AMScrollingNavbar",
       "category": "ui",
       "description": "Scrollable UINavigationBar that follows the scrolling of a UIScrollView.",
-      "homepage": "https://github.com/andreamazz/AMScrollingNavbar"
+      "homepage": "https://github.com/andreamazz/AMScrollingNavbar",
+      "swift": 4
     }, {
       "title": "Animated Tab Bar",
       "category": "tab",
@@ -3162,7 +3165,8 @@
       "title": "AZTransitions",
       "category": "ui",
       "description": "API to make great custom transitions in one method.",
-      "homepage": "https://github.com/azimin/AZTransitions"
+      "homepage": "https://github.com/azimin/AZTransitions",
+      "swift": 3
     }, {
       "title": "BreakOutToRefresh",
       "category": "ui",
@@ -3964,7 +3968,8 @@
       "title": "Parchment",
       "category": "menu",
       "description": "A paging view controller with a highly customizable menu, built on UICollectionView.",
-      "homepage": "https://github.com/rechsteiner/Parchment"
+      "homepage": "https://github.com/rechsteiner/Parchment",
+      "swift": 4
     }, {
       "title": "Caishen",
       "category": "payment",
@@ -4970,7 +4975,8 @@
       "category": "ui",
       "description": "Apple Music like Bubble Picker using Dynamic Animation (faster / more lightweight than SpriteKit).",
       "homepage": "https://github.com/GlebRadchenko/AmazingBubbles",
-      "tags": ["swift", "applemusic", "uikitdynamics", "bubblepicker", "applemusic"]
+      "tags": ["swift", "applemusic", "uikitdynamics", "bubblepicker", "applemusic"],
+      "swift": 3
     }, {
       "title": "AsyncNinja",
       "category": "concurrency",
@@ -5097,7 +5103,7 @@
       "description": "Easy to use, very customisable pin entry.",
       "homepage": "https://github.com/Fawxy/CBPinEntryView"
     }, {
-      "title": "Swift Newsletter by Natasha the Robot",
+      "title": "Swift Newsletter by Natasha the Robot (discontinued, look the archive)",
       "category": "newsletter",
       "description": "Curated newsletter.",
       "homepage": "https://www.natashatherobot.com"
@@ -5249,10 +5255,10 @@
       "description": "A fast tunnel proxy that helps you bypass firewalls.",
       "homepage": "https://github.com/shadowsocks/ShadowsocksX-NG"
     }, {
-      "title": "ArcKit",
+      "title": "LocoKit",
       "category": "maps",
       "description": "A location and activity recording framework for iOS.",
-      "homepage": "https://github.com/sobri909/ArcKit"
+      "homepage": "https://github.com/sobri909/LocoKit"
     },
     {
       "title": "AwesomeSpotlightView",
@@ -5673,6 +5679,11 @@
 	    "homepage": "https://github.com/AFathi/ARVideoKit",
 	    "tags": ["AR", "augmented", "reality", "video"]
     }, {
+      "title": "Shallows",
+      "category": "multi-database",
+      "description": "Your lightweight persistence toolbox.",
+      "homepage": "https://github.com/dreymonde/Shallows"
+    },{      
       "title": "Tempura",
       "category": "events",
       "description": "A holistic approach to iOS development, inspired by Redux and MVVM.",
@@ -5692,6 +5703,32 @@
       "category": "app-routing",
       "description": "Lightweight way to handle internal and external deeplinks for iOS.",
       "homepage": "https://github.com/MaksimKurpa/Linker"
-    } 
+    },
+    {
+      "title": "Delegated",
+      "category": "utility",
+      "description": "Closure-based delegation without memory leaks.",
+      "homepage": "https://github.com/dreymonde/Delegated",
+      "swift": 4
+    },
+    {
+      "title": "LayoutLess",
+      "category": "layout",
+      "description": "Write less UI Code.",
+      "homepage": "https://github.com/DeclarativeHub/Layoutless",
+      "swift": 4
+    },
+    {
+      "title": "KeyPathKit",
+      "category": "other-data",
+      "description": "KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.",
+      "homepage": "https://github.com/vincent-pradeilles/KeyPathKit"
+    },
+    {
+      "title": "swift-tips",
+      "category": "third-party-guides",
+      "description": "A series of useful tips by Vincent Pradeilles",
+      "homepage": "https://github.com/vincent-pradeilles/swift-tips"
+    }
   ]
 }

@@ -5679,6 +5679,11 @@
 	    "homepage": "https://github.com/AFathi/ARVideoKit",
 	    "tags": ["AR", "augmented", "reality", "video"]
     }, {
+      "title": "Shallows",
+      "category": "multi-database",
+      "description": "Your lightweight persistence toolbox.",
+      "homepage": "https://github.com/dreymonde/Shallows"
+    },{      
       "title": "Tempura",
       "category": "events",
       "description": "A holistic approach to iOS development, inspired by Redux and MVVM.",
@@ -5693,6 +5698,11 @@
       "category": "uicollectionview",
       "description": "A framework that is meant to make your life easier when working with collection view flow layouts.",
       "homepage": "https://github.com/zenangst/Blueprints"
+    }, {
+      "title": "Linker",
+      "category": "app-routing",
+      "description": "Lightweight way to handle internal and external deeplinks for iOS.",
+      "homepage": "https://github.com/MaksimKurpa/Linker"
     },
     {
       "title": "Delegated",
@@ -5725,6 +5735,12 @@
       "category": "localization",
       "description": "Localize apps using e.g. regular expressions in Localizable.strings.",
       "homepage": "https://github.com/andresilvagomez/Localize"
+    },
+    {      
+      "title": "StorageManager",
+      "category": "other-data",
+      "description": "Safe and easy way to use FileManager as Database.",
+      "homepage": "https://github.com/iAmrSalman/StorageManager"
     }
   ]
 }

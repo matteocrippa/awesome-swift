@@ -5730,7 +5730,12 @@
       "swift": 4
     },
     {
-      "title": "KeyPathKit",
+      "title": "RetroProgress",
+      "category": "ui",
+      "description": "Retro looking progress bar straight from the 90s.",
+      "homepage": "https://github.com/hyperoslo/RetroProgress"
+    },
+    {      "title": "KeyPathKit",
       "category": "other-data",
       "description": "KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.",
       "homepage": "https://github.com/vincent-pradeilles/KeyPathKit"

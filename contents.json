@@ -1187,6 +1187,12 @@
       "homepage": "https://github.com/jatoben/CommandLine",
       "tags": ["linux"]
     }, {
+      "title": "LineNoise",
+      "category": "command-line",
+      "description": "A zero-dependency replacement for readline",
+      "homepage": "https://github.com/andybest/linenoise-swift",
+      "tags": ["linux"]
+    }, {
       "title": "SwiftCLI",
       "category": "command-line",
       "description": "A powerful framework that can be used to develop a CLI.",

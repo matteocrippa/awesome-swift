@@ -3956,11 +3956,6 @@
       "description": "Adorable iOS drop down menu.",
       "homepage": "https://github.com/younatics/YNDropDownMenu"
     }, {
-      "title": "PopMenu",
-      "category": "menu",
-      "description": "😎 A cool and customizable popup style action sheet for iOS.",
-      "homepage": "https://github.com/CaliCastle/PopMenu"
-    }, {
       "title": "HHFloatingView",
       "category": "menu",
       "description": "An easy to use and setup floating view for your app.",

@@ -1794,7 +1794,7 @@
       "title": "Reactor",
       "category": "events",
       "description": "Powering your RAC architecture.",
-      "homepage": "https://github.com/MailOnline/Reactor"
+      "homepage": "https://github.com/RuiAAPeres/Reactor"
     }, {
       "title": "ReactorKit",
       "category": "events",
@@ -2019,7 +2019,7 @@
     }, {
       "title": "ImageScout",
       "category": "images",
-      "description": "Implementation of [fastimage](https://pypi.python.org/pypi/fastimage/0.2.1) - supports PNG, GIF, and JPEG.",
+      "description": "Implementation of [fastimage](https://pypi.org/pypi/fastimage/0.2.1) - supports PNG, GIF, and JPEG.",
       "homepage": "https://github.com/kaishin/ImageScout"
     }, {
       "title": "JLStickerTextView",
@@ -3743,7 +3743,7 @@
       "title": "PMAlertController",
       "category": "alert",
       "description": "PMAlertController is a great and customizable substitute to UIAlertController.",
-      "homepage": "https://github.com/Codeido/PMAlertController"
+      "homepage": "https://github.com/pmusolino/PMAlertController"
     }, {
       "title": "SCLAlertView",
       "category": "alert",
@@ -3778,7 +3778,7 @@
       "title": "HYAlertController",
       "category": "alert",
       "description": "A simple and minimalist iOS AlertController.",
-      "homepage": "https://github.com/castial/HYAlertController"
+      "homepage": "https://github.com/iafine/HYAlertController"
     }, {
       "title": "SuperDelegate",
       "category": "applicationdelegate",
@@ -3858,7 +3858,7 @@
       "title": "PMSuperButton",
       "category": "button",
       "description": "A powerful UIButton with super powers, customizable from Storyboard.",
-      "homepage": "https://github.com/Codeido/PMSuperButton"
+      "homepage": "https://github.com/pmusolino/PMSuperButton"
     }, {
       "title": "Eureka",
       "category": "form",
@@ -4240,11 +4240,6 @@
       "category": "validation",
       "description": "Allows you to validate inputs of text fields and text views in a convenient way.",
       "homepage": "https://github.com/ustwo/formvalidator-swift"
-    }, {
-      "title": "Hookah",
-      "category": "utility",
-      "description": "Functional library.",
-      "homepage": "https://github.com/HookahSwift/Hookah"
     }, {
       "title": "Cormorant",
       "category": "utility",

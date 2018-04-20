@@ -5679,6 +5679,11 @@
 	    "homepage": "https://github.com/AFathi/ARVideoKit",
 	    "tags": ["AR", "augmented", "reality", "video"]
     }, {
+      "title": "Shallows",
+      "category": "multi-database",
+      "description": "Your lightweight persistence toolbox.",
+      "homepage": "https://github.com/dreymonde/Shallows"
+    },{      
       "title": "Tempura",
       "category": "events",
       "description": "A holistic approach to iOS development, inspired by Redux and MVVM.",

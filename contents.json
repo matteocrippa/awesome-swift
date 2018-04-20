@@ -2019,7 +2019,7 @@
     }, {
       "title": "ImageScout",
       "category": "images",
-      "description": "Implementation of [fastimage](https://pypi.org/pypi/fastimage/0.2.1) - supports PNG, GIF, and JPEG.",
+      "description": "Implementation of [fastimage](https://pypi.org/pypi/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.",
       "homepage": "https://github.com/kaishin/ImageScout"
     }, {
       "title": "JLStickerTextView",

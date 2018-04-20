@@ -5698,6 +5698,11 @@
       "category": "uicollectionview",
       "description": "A framework that is meant to make your life easier when working with collection view flow layouts.",
       "homepage": "https://github.com/zenangst/Blueprints"
+    }, {
+      "title": "Linker",
+      "category": "app-routing",
+      "description": "Lightweight way to handle internal and external deeplinks for iOS.",
+      "homepage": "https://github.com/MaksimKurpa/Linker"
     },
     {
       "title": "Delegated",

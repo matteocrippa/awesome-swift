@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 995 | March 18, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 997 | April 08, 2018
 
 ### Contents
 
@@ -153,7 +153,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 [back to top](#readme) 
 
 * [Swift Developments](https://andybargh.com/swiftdevelopments/) - A weekly curated newsletter containing for people interested in designing and developing their own iOS, watchOS and Apple TV apps.
-* [Swift Newsletter by Natasha the Robot](https://www.natashatherobot.com) - Curated newsletter.
+* [Swift Newsletter by Natasha the Robot (discontinued, look the archive)](https://www.natashatherobot.com) - Curated newsletter.
 * [Swift Weekly Brief](https://swiftweekly.github.io) - A multi author curated newsletter.
 * [WeeklyCocoa.News](https://weeklycocoa.news) - Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.
 
@@ -183,6 +183,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - An interesting guide to learn Swift.
 * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development.
 * [Swift Web Weekly](http://swiftwebweekly.com) - A free, hand-picked list of the best links for Swift Web Developers, every Monday in your inbox.
+* [swift-tips](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles
 * [SwiftDoc](http://swiftdoc.org/) - Auto-generated documentation.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A Chinese written guide.
 * [SwiftIntro](https://github.com/Sajjon/SwiftIntro) - Memory game implementation that also teaches Swift.
@@ -536,6 +537,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [CSVParser](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
 * [EVCloudKitDao](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+* [KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
 * [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift) - Solutions to LeetCode interview questions.
 * [Pencil](https://github.com/naru-jpn/pencil) - Write any value to file.
 
@@ -887,6 +889,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation) - Get rid of "Optional(...)" and "nil" in string interpolation. Easy pluralization.
 * [Swifternalization](https://github.com/tomkowz/Swifternalization) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - A tool to auto-generate `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`).
+* [Localize](https://github.com/andresilvagomez/Localize) - Easy tool to localize apps using JSON or Strings and of course IBDesignables with extensions for UI components.
 
 ### Location
 [back to top](#readme) 
@@ -995,7 +998,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [RxWebSocket](https://github.com/fjcaetano/RxWebSocket) - Reactive WebSockets.
 * [Socket.IO](https://github.com/socketio/socket.io-client-swift) :penguin: - Socket.IO client for iOS/OS X.
 * [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
-* [sockets](https://github.com/vapor/sockets) :penguin: - TCP, UDP; Client, Server; Linux, OS X.
+* [sockets](https://github.com/vapor-community/sockets) :penguin: - TCP, UDP; Client, Server; Linux, OS X.
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets for iOS and OSX.
 * [SwiftDSSocket](https://github.com/csujedihy/SwiftDSSocket) - Asynchronous socket framework built atop DispatchSource.
 * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - Simple TCP socket library.
@@ -1046,7 +1049,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 ### Quality
 [back to top](#readme) 
 
-* [IBLinter](https://github.com/kateinoigakukun/IBLinter) - A linter tool for Interface Builder.
+* [IBLinter](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce coding conventions.
 * [Swimat](https://github.com/Jintin/Swimat) - Xcode plugin to format code.
 * [Tailor](https://github.com/sleekbyte/tailor) :penguin: - Cross-platform static analyzer that helps you to write cleaner code and avoid bugs.
@@ -1142,7 +1145,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [edhita](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS.
 * [Format](https://github.com/marmelroy/Format) - Formatting kit for numbers, addresses and colors.
 * [Markdown](https://github.com/crossroadlabs/Markdown) :penguin: - Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown).
-* [MarkdownKit](https://github.com/ivanbruel/MarkdownKit) - A simple and customizable Markdown Parser.
+* [MarkdownKit](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
 * [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
 * [MarkyMark](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
 * [Mustard](https://github.com/mathewsanders/Mustard) - Library for tokenizing strings when splitting by whitespace doesn't cut it.

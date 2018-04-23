@@ -5752,6 +5752,12 @@
       "category": "other-data",
       "description": "Safe and easy way to use FileManager as Database.",
       "homepage": "https://github.com/iAmrSalman/StorageManager"
+    },
+    {
+      "title": "ThumbnailView",
+      "category": "UICollectionView",
+      "description": "Present thumbnail images, like PDFThumbnailView on iOS 11.",
+      "homepage": "https://github.com/iAmrSalman/StorageManager"
     }
   ]
 }

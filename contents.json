@@ -3977,6 +3977,11 @@
       "homepage": "https://github.com/rechsteiner/Parchment",
       "swift": 4
     }, {
+     "title": "PopMenu",
+     "category": "menu",
+     "description": "😎 A cool and customizable popup style action sheet for iOS.",
+     "homepage": "https://github.com/CaliCastle/PopMenu"
+    }, {
       "title": "Caishen",
       "category": "payment",
       "description": "A Payment Card UI & Validator for iOS.",

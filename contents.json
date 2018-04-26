@@ -3786,6 +3786,11 @@
       "description": "A simple and minimalist iOS AlertController.",
       "homepage": "https://github.com/iafine/HYAlertController"
     }, {
+      "title": "NotchyAlert",
+      "category": "alert",
+      "description": "Use the iPhone X notch space to display creative alerts.",
+      "homepage": "https://github.com/TheAbstractDev/NotchyAlert"
+    }, {
       "title": "SuperDelegate",
       "category": "applicationdelegate",
       "description": "SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.",

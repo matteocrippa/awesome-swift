@@ -23,7 +23,13 @@
     "title": "Newsletter",
     "id": "newsletter",
     "parent": "guides"
-  }, {
+  },
+  {
+    "title": "Posts and Blogs",
+    "id": "posts-blogs",
+    "parent": "guides"
+  },
+  {
     "title": "Calendar",
     "id": "calendar",
     "parent": "ui"
@@ -657,7 +663,14 @@
       "category": "newsletter",
       "description": "Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.",
       "homepage": "https://weeklycocoa.news"
-    }, {
+    },
+    {
+      "title": "Swift Tips",
+      "category": "posts-blogs",
+      "description": "Swift tips & tricks from developer John Sundell",
+      "homepage": "https://github.com/JohnSundell/SwiftTips"
+    },
+    {
       "title": "GitHub",
       "category": "style-guides",
       "description": "Style guide & coding conventions.",
@@ -5694,7 +5707,7 @@
       "category": "multi-database",
       "description": "Your lightweight persistence toolbox.",
       "homepage": "https://github.com/dreymonde/Shallows"
-    },{      
+    },{
       "title": "Tempura",
       "category": "events",
       "description": "A holistic approach to iOS development, inspired by Redux and MVVM.",
@@ -5752,7 +5765,7 @@
       "description": "Localize apps using e.g. regular expressions in Localizable.strings.",
       "homepage": "https://github.com/andresilvagomez/Localize"
     },
-    {      
+    {
       "title": "StorageManager",
       "category": "other-data",
       "description": "Safe and easy way to use FileManager as Database.",

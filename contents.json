@@ -3776,11 +3776,6 @@
       "description": "Fully customizable and extensible action sheet controller.",
       "homepage": "https://github.com/xmartlabs/XLActionController"
     }, {
-      "title": "MaterialActionSheetController",
-      "category": "alert",
-      "description": "A Google like action sheet, easy to use and customizable.",
-      "homepage": "https://github.com/ntnhon/MaterialActionSheetController"
-    }, {
       "title": "SuperDelegate",
       "category": "applicationdelegate",
       "description": "SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.",

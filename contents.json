@@ -23,7 +23,13 @@
     "title": "Newsletter",
     "id": "newsletter",
     "parent": "guides"
-  }, {
+  },
+  {
+    "title": "Dev Tools",
+    "id": "dev-tools",
+    "parent": "dev-tools"
+  },
+  {
     "title": "Calendar",
     "id": "calendar",
     "parent": "ui"
@@ -5694,7 +5700,7 @@
       "category": "multi-database",
       "description": "Your lightweight persistence toolbox.",
       "homepage": "https://github.com/dreymonde/Shallows"
-    },{      
+    },{
       "title": "Tempura",
       "category": "events",
       "description": "A holistic approach to iOS development, inspired by Redux and MVVM.",
@@ -5752,7 +5758,7 @@
       "description": "Localize apps using e.g. regular expressions in Localizable.strings.",
       "homepage": "https://github.com/andresilvagomez/Localize"
     },
-    {      
+    {
       "title": "StorageManager",
       "category": "other-data",
       "description": "Safe and easy way to use FileManager as Database.",
@@ -5763,6 +5769,13 @@
       "category": "network",
       "description": "Lightweight Concurrent Networking Framework.",
       "homepage": "https://github.com/iAmrSalman/Dots"
-		}
+		},
+    {
+      "title": "GitKraken",
+      "category": "dev-tools",
+      "description": "Visual Git client - The legendary Git GUI client for Windows, Mac and Linux",
+      "homepage": "https://www.gitkraken.com/"
+    },
+
   ]
 }

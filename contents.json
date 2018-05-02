@@ -3781,11 +3781,6 @@
       "description": "A Google like action sheet, easy to use and customizable.",
       "homepage": "https://github.com/ntnhon/MaterialActionSheetController"
     }, {
-      "title": "HYAlertController",
-      "category": "alert",
-      "description": "A simple and minimalist iOS AlertController.",
-      "homepage": "https://github.com/iafine/HYAlertController"
-    }, {
       "title": "SuperDelegate",
       "category": "applicationdelegate",
       "description": "SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.",
@@ -4122,11 +4117,6 @@
       "description": "Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate",
       "homepage": "https://github.com/younatics/ExpandableCell"
     }, {
-      "title": "Alexandria",
-      "category": "utility",
-      "description": "A large set of convenience extensions for UIKit and Foundation.",
-      "homepage": "https://github.com/ovenbits/Alexandria"
-    }, {
       "title": "AlexaSkillsKit",
       "category": "utility",
       "description": "Develop custom Alexa Skills.",
@@ -4216,12 +4206,7 @@
       "category": "cache",
       "description": "If you want to make your app still works when it's offline.",
       "homepage": "https://github.com/evermeer/EVURLCache"
-    }, {
-      "title": "ExSwift",
-      "category": "utility",
-      "description": "Extensions for standard types and classes.",
-      "homepage": "https://github.com/pNre/ExSwift"
-    }, {
+    },  {
       "title": "EZSwiftExtensions",
       "category": "utility",
       "description": "How standard types and classes were supposed to work.",
@@ -4408,11 +4393,6 @@
       "category": "utility",
       "description": "A framework of extensions for SequenceType, inspired by Python's itertools.",
       "homepage": "https://github.com/oisdk/SwiftSequence"
-    }, {
-      "title": "SwiftSortUtils",
-      "category": "utility",
-      "description": "Useful functions and extensions for sorting.",
-      "homepage": "https://github.com/dsmatter/SwiftSortUtils"
     }, {
       "title": "SwiftTweaks",
       "category": "utility",

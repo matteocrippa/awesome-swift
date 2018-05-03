@@ -45,7 +45,8 @@
     "title": "Editor Support",
     "id": "editor-support",
     "description": "Support for your favorite editors."
-  }, {
+  },
+  {
     "title": "Emacs",
     "id": "emacs",
     "parent": "editor-support"
@@ -53,7 +54,13 @@
     "title": "Vim",
     "id": "vim",
     "parent": "editor-support"
-  }, {
+  },
+  {
+    "title": "Community",
+    "id": "community",
+    "parent": "community"
+  },
+  {
     "title": "Benchmark",
     "id": "benchmark"
   }, {
@@ -5669,7 +5676,7 @@
       "category": "multi-database",
       "description": "Your lightweight persistence toolbox.",
       "homepage": "https://github.com/dreymonde/Shallows"
-    },{      
+    },{
       "title": "Tempura",
       "category": "events",
       "description": "A holistic approach to iOS development, inspired by Redux and MVVM.",
@@ -5727,7 +5734,7 @@
       "description": "Localize apps using e.g. regular expressions in Localizable.strings.",
       "homepage": "https://github.com/andresilvagomez/Localize"
     },
-    {      
+    {
       "title": "StorageManager",
       "category": "other-data",
       "description": "Safe and easy way to use FileManager as Database.",
@@ -5738,6 +5745,12 @@
       "category": "network",
       "description": "Lightweight Concurrent Networking Framework.",
       "homepage": "https://github.com/iAmrSalman/Dots"
-		}
+		},
+    {
+      "title": "iOS developers",
+      "category": "community",
+      "description": "Slack free open community of iOS Developers with channels like 'help'",
+      "homepage": "https://www.google.com/url?q=https%3A%2F%2Fios-developers.io%2F&sa=D&sntz=1&usg=AFQjCNFHVW4kUd9kTxziCz2k0Oi5oURtyA"
+    }
   ]
 }

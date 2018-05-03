@@ -5738,6 +5738,11 @@
       "category": "network",
       "description": "Lightweight Concurrent Networking Framework.",
       "homepage": "https://github.com/iAmrSalman/Dots"
-		}
+		}, {
+      "title": "merchantkit",
+      "category": "app-store",
+      "description": "A modern In-App Purchases management framework for iOS.",
+      "homepage": "https://github.com/benjaminmayo/merchantkit"
+    }
   ]
 }

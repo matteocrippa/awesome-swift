@@ -3691,11 +3691,6 @@
       "description": "An alert will display underneath your UINavigationBar.",
       "homepage": "https://github.com/hemangshah/Zingle"
     }, {
-      "title": "AlertKit",
-      "category": "alert",
-      "description": "Alert with a single line of code.",
-      "homepage": "https://github.com/thii/AlertKit"
-    }, {
       "title": "CDAlertView",
       "category": "alert",
       "description": "Highly customizable alert/notification/success/error/alarm popup.",
@@ -3710,11 +3705,6 @@
       "category": "alert",
       "description": "Easy UIAlertController.",
       "homepage": "https://github.com/thellimist/EZAlertController"
-    }, {
-      "title": "GoogleWearAlert",
-      "category": "alert",
-      "description": "Google Wear Alert style.",
-      "homepage": "https://github.com/AshRobinson/GoogleWearAlert"
     }, {
       "title": "GSMessage",
       "category": "alert",

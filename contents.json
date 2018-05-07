@@ -5738,6 +5738,13 @@
       "category": "app-store",
       "description": "A modern In-App Purchases management framework for iOS.",
       "homepage": "https://github.com/benjaminmayo/merchantkit"
+    },
+    {
+      "title": "MapViewPlus",
+      "category": "maps",
+      "description": "Use any custom view as custom callout view for MKMapView with cool animations. Use any image as annotation view.",
+      "homepage": "https://github.com/okhanokbay/MapViewPlus",
+      "tags": ["map", "customcalloutview", "calloutview", "annotationview", "swift", "MapKit", "MKMapView"]
     }
   ]
 }

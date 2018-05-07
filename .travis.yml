@@ -4,11 +4,9 @@ rvm: 2.2
 node_js: "0.10"
 before_script:
   - gem install awesome_bot
-  - gem install danger
   - sudo pip install json-spec
 script:
   - awesome_bot contents.json -w AERecord,theswiftwebdeveloper,bluemix,swiftplayground
-  - danger
   - json validate --schema-file=.github/schema.json --document-file=contents.json
   - node .github/upgradeDb.js
 after_success:

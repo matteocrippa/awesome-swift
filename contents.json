@@ -2653,7 +2653,7 @@
       "title": "Curassow",
       "category": "webserver",
       "description": "HTTP server using the pre-fork worker model.",
-      "homepage": "https://github.com/kylef/Curassow",
+      "homepage": "https://github.com/kylef-archive/Curassow",
       "tags": ["linux"]
     }, {
       "title": "Blackfire",
@@ -2689,7 +2689,7 @@
       "title": "Frank",
       "category": "webserver",
       "description": "Frank is a DSL for quickly writing web applications.",
-      "homepage": "https://github.com/kylef/Frank",
+      "homepage": "https://github.com/kylef-archive/Frank",
       "tags": ["linux"]
     }, {
       "title": "http4swift",
@@ -5240,7 +5240,7 @@
       "title": "Stencil",
       "category": "template",
       "description": "Simple and powerful template language.",
-      "homepage": "https://github.com/kylef/Stencil"
+      "homepage": "https://github.com/stencilproject/Stencil"
     }, {
       "title": "ShadowView",
       "category": "ui",

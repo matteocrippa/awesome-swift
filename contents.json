@@ -1268,6 +1268,12 @@
       "description": "simple and elegant way to handle Core Data.",
       "homepage": "https://github.com/JohnEstropia/CoreStore"
     }, {
+      "title": "Records",
+      "category": "core-data",
+      "description": "In just a few minutes, setup a fully functioning CoreData implementation that embraces the static, type-safe nature of Swift.",
+      "homepage": "https://github.com/rob-nash/Records"
+    },
+    {
       "title": "CoreValue",
       "category": "core-data",
       "description": "Lightweight Framework for using Core Data with Value Types.",

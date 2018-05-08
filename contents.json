@@ -5680,6 +5680,12 @@
       "description": "It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.",
       "homepage": "https://github.com/touchlane/SlideController"
     }, {
+      "title": "Croc",
+      "category": "text",
+      "description": "A lightweight Emoji parsing and querying library.",
+      "homepage": "https://github.com/JKalash/Croc",
+      "tags": ["emoji", "croc", "macOS", "iOS", "tvOS"]
+    }, {
       "title": "Blueprints",
       "category": "uicollectionview",
       "description": "A framework that is meant to make your life easier when working with collection view flow layouts.",

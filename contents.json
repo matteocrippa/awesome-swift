@@ -895,6 +895,11 @@
       "description": "Brings your UI to life with just one line.",
       "homepage": "https://github.com/marcosgriselli/ViewAnimator"
     }, {
+      "title": "SpriteKitEasingSwift",
+      "category": "animation",
+      "description": "Better Easing for SpriteKit.",
+      "homepage": "https://github.com/craiggrummitt/SpriteKitEasingSwift"
+    }, {
       "title": "Appz",
       "category": "app-routing",
       "description": "Launch external apps and deeplink with ease.",
@@ -2025,7 +2030,7 @@
     }, {
       "title": "ImageScout",
       "category": "images",
-      "description": "Implementation of [fastimage](https://pypi.org/pypi/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.",
+      "description": "Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.",
       "homepage": "https://github.com/kaishin/ImageScout"
     }, {
       "title": "JLStickerTextView",
@@ -2201,7 +2206,7 @@
     }, {
       "title": "PinLayout",
       "category": "layout",
-      "description": "Fast views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise, intuitive, readable & chainable syntax. Works nicely with FlexLayout.",
+      "description": "Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS]",
       "homepage": "https://github.com/mirego/PinLayout"
     }, {
       "title": "Stevia",
@@ -2572,6 +2577,11 @@
       "description": "An API Client based on a network abstraction layer for the Perfect Server-Side Swift Framework",
       "homepage": "https://github.com/SvenTiigi/PerfectAPIClient"
     }, {
+      "title": "MultiPeer",
+      "category": "network",
+      "description": "A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices",
+      "homepage": "https://github.com/dingwilson/MultiPeer"
+    }, {
       "title": "Fuzi",
       "category": "html",
       "description": "A fast & lightweight XML/HTML parser with XPath & CSS support.",
@@ -2653,7 +2663,7 @@
       "title": "Curassow",
       "category": "webserver",
       "description": "HTTP server using the pre-fork worker model.",
-      "homepage": "https://github.com/kylef/Curassow",
+      "homepage": "https://github.com/kylef-archive/Curassow",
       "tags": ["linux"]
     }, {
       "title": "Blackfire",
@@ -2689,7 +2699,7 @@
       "title": "Frank",
       "category": "webserver",
       "description": "Frank is a DSL for quickly writing web applications.",
-      "homepage": "https://github.com/kylef/Frank",
+      "homepage": "https://github.com/kylef-archive/Frank",
       "tags": ["linux"]
     }, {
       "title": "http4swift",
@@ -3691,11 +3701,6 @@
       "description": "An alert will display underneath your UINavigationBar.",
       "homepage": "https://github.com/hemangshah/Zingle"
     }, {
-      "title": "AlertKit",
-      "category": "alert",
-      "description": "Alert with a single line of code.",
-      "homepage": "https://github.com/thii/AlertKit"
-    }, {
       "title": "CDAlertView",
       "category": "alert",
       "description": "Highly customizable alert/notification/success/error/alarm popup.",
@@ -3710,11 +3715,6 @@
       "category": "alert",
       "description": "Easy UIAlertController.",
       "homepage": "https://github.com/thellimist/EZAlertController"
-    }, {
-      "title": "GoogleWearAlert",
-      "category": "alert",
-      "description": "Google Wear Alert style.",
-      "homepage": "https://github.com/AshRobinson/GoogleWearAlert"
     }, {
       "title": "GSMessage",
       "category": "alert",
@@ -3775,16 +3775,6 @@
       "category": "alert",
       "description": "Fully customizable and extensible action sheet controller.",
       "homepage": "https://github.com/xmartlabs/XLActionController"
-    }, {
-      "title": "MaterialActionSheetController",
-      "category": "alert",
-      "description": "A Google like action sheet, easy to use and customizable.",
-      "homepage": "https://github.com/ntnhon/MaterialActionSheetController"
-    }, {
-      "title": "HYAlertController",
-      "category": "alert",
-      "description": "A simple and minimalist iOS AlertController.",
-      "homepage": "https://github.com/iafine/HYAlertController"
     }, {
       "title": "SuperDelegate",
       "category": "applicationdelegate",
@@ -3956,11 +3946,6 @@
       "description": "Adorable iOS drop down menu.",
       "homepage": "https://github.com/younatics/YNDropDownMenu"
     }, {
-      "title": "PopMenu",
-      "category": "menu",
-      "description": "😎 A cool and customizable popup style action sheet for iOS.",
-      "homepage": "https://github.com/CaliCastle/PopMenu"
-    }, {
       "title": "HHFloatingView",
       "category": "menu",
       "description": "An easy to use and setup floating view for your app.",
@@ -3981,6 +3966,11 @@
       "description": "A paging view controller with a highly customizable menu, built on UICollectionView.",
       "homepage": "https://github.com/rechsteiner/Parchment",
       "swift": 4
+    }, {
+     "title": "PopMenu",
+     "category": "menu",
+     "description": "😎 A cool and customizable popup style action sheet for iOS.",
+     "homepage": "https://github.com/CaliCastle/PopMenu"
     }, {
       "title": "Caishen",
       "category": "payment",
@@ -4122,11 +4112,6 @@
       "description": "Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate",
       "homepage": "https://github.com/younatics/ExpandableCell"
     }, {
-      "title": "Alexandria",
-      "category": "utility",
-      "description": "A large set of convenience extensions for UIKit and Foundation.",
-      "homepage": "https://github.com/ovenbits/Alexandria"
-    }, {
       "title": "AlexaSkillsKit",
       "category": "utility",
       "description": "Develop custom Alexa Skills.",
@@ -4216,12 +4201,7 @@
       "category": "cache",
       "description": "If you want to make your app still works when it's offline.",
       "homepage": "https://github.com/evermeer/EVURLCache"
-    }, {
-      "title": "ExSwift",
-      "category": "utility",
-      "description": "Extensions for standard types and classes.",
-      "homepage": "https://github.com/pNre/ExSwift"
-    }, {
+    },  {
       "title": "EZSwiftExtensions",
       "category": "utility",
       "description": "How standard types and classes were supposed to work.",
@@ -4408,11 +4388,6 @@
       "category": "utility",
       "description": "A framework of extensions for SequenceType, inspired by Python's itertools.",
       "homepage": "https://github.com/oisdk/SwiftSequence"
-    }, {
-      "title": "SwiftSortUtils",
-      "category": "utility",
-      "description": "Useful functions and extensions for sorting.",
-      "homepage": "https://github.com/dsmatter/SwiftSortUtils"
     }, {
       "title": "SwiftTweaks",
       "category": "utility",
@@ -5275,7 +5250,7 @@
       "title": "Stencil",
       "category": "template",
       "description": "Simple and powerful template language.",
-      "homepage": "https://github.com/kylef/Stencil"
+      "homepage": "https://github.com/stencilproject/Stencil"
     }, {
       "title": "ShadowView",
       "category": "ui",
@@ -5685,6 +5660,11 @@
 	    "homepage": "https://github.com/AFathi/ARVideoKit",
 	    "tags": ["AR", "augmented", "reality", "video"]
     }, {
+      "title": "PredicateFlow",
+      "category": "text",
+      "description": "PredicateFlow is a builder that allows you to write amazing, strong-typed and easy-to-read NSPredicate.",
+      "homepage": "https://github.com/andreadelfante/PredicateFlow"
+    }, {
       "title": "Shallows",
       "category": "multi-database",
       "description": "Your lightweight persistence toolbox.",
@@ -5733,6 +5713,12 @@
       "tags": ["profile-picture", "identicons", "image", "generator"]
     },
     {
+      "title": "RetroProgress",
+      "category": "ui",
+      "description": "Retro looking progress bar straight from the 90s.",
+      "homepage": "https://github.com/hyperoslo/RetroProgress"
+    },
+    {      
       "title": "KeyPathKit",
       "category": "other-data",
       "description": "KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.",
@@ -5755,6 +5741,24 @@
       "category": "other-data",
       "description": "Safe and easy way to use FileManager as Database.",
       "homepage": "https://github.com/iAmrSalman/StorageManager"
+    },
+		{
+      "title": "Dots",
+      "category": "network",
+      "description": "Lightweight Concurrent Networking Framework.",
+      "homepage": "https://github.com/iAmrSalman/Dots"
+		}, {
+      "title": "merchantkit",
+      "category": "app-store",
+      "description": "A modern In-App Purchases management framework for iOS.",
+      "homepage": "https://github.com/benjaminmayo/merchantkit"
+    },
+    {
+      "title": "MapViewPlus",
+      "category": "maps",
+      "description": "Use any custom view as custom callout view for MKMapView with cool animations. Use any image as annotation view.",
+      "homepage": "https://github.com/okhanokbay/MapViewPlus",
+      "tags": ["map", "customcalloutview", "calloutview", "annotationview", "swift", "MapKit", "MKMapView"]
     }
   ]
 }

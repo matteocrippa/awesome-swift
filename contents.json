@@ -895,6 +895,11 @@
       "description": "Brings your UI to life with just one line.",
       "homepage": "https://github.com/marcosgriselli/ViewAnimator"
     }, {
+      "title": "SpriteKitEasingSwift",
+      "category": "animation",
+      "description": "Better Easing for SpriteKit.",
+      "homepage": "https://github.com/craiggrummitt/SpriteKitEasingSwift"
+    }, {
       "title": "Appz",
       "category": "app-routing",
       "description": "Launch external apps and deeplink with ease.",

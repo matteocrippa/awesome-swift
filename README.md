@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1005 | May 08, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1004 | May 09, 2018
 
 ### Contents
 
@@ -1088,7 +1088,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Siphash](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
 * [SweetHMAC](https://github.com/jancassio/SweetHMAC) - A tiny and easy to use class to encrypt strings using HMAC algorithms.
 * [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - Interface to the Sodium library for common crypto operations for iOS and OS X.
-* [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - Crypto toolkit.
 
 #### Keychain
 [back to top](#readme) 

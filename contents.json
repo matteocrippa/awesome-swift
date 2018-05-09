@@ -2845,11 +2845,6 @@
       "description": "Interface to the Sodium library for common crypto operations for iOS and OS X.",
       "homepage": "https://github.com/jedisct1/swift-sodium"
     }, {
-      "title": "SwiftSSL",
-      "category": "cryptography",
-      "description": "Crypto toolkit.",
-      "homepage": "https://github.com/SwiftP2P/SwiftSSL"
-    }, {
       "title": "RNCryptor",
       "category": "cryptography",
       "description": "CCCryptor (Apple's AES encryption) wrappers for iOS and Mac.",

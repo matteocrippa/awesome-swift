@@ -895,6 +895,11 @@
       "description": "Brings your UI to life with just one line.",
       "homepage": "https://github.com/marcosgriselli/ViewAnimator"
     }, {
+      "title": "SpriteKitEasingSwift",
+      "category": "animation",
+      "description": "Better Easing for SpriteKit.",
+      "homepage": "https://github.com/craiggrummitt/SpriteKitEasingSwift"
+    }, {
       "title": "Appz",
       "category": "app-routing",
       "description": "Launch external apps and deeplink with ease.",
@@ -1268,6 +1273,12 @@
       "description": "simple and elegant way to handle Core Data.",
       "homepage": "https://github.com/JohnEstropia/CoreStore"
     }, {
+      "title": "Records",
+      "category": "core-data",
+      "description": "In just a few minutes, setup a fully functioning CoreData implementation that embraces the static, type-safe nature of Swift.",
+      "homepage": "https://github.com/rob-nash/Records"
+    },
+    {
       "title": "CoreValue",
       "category": "core-data",
       "description": "Lightweight Framework for using Core Data with Value Types.",
@@ -2572,6 +2583,11 @@
       "description": "An API Client based on a network abstraction layer for the Perfect Server-Side Swift Framework",
       "homepage": "https://github.com/SvenTiigi/PerfectAPIClient"
     }, {
+      "title": "MultiPeer",
+      "category": "network",
+      "description": "A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices",
+      "homepage": "https://github.com/dingwilson/MultiPeer"
+    }, {
       "title": "Fuzi",
       "category": "html",
       "description": "A fast & lightweight XML/HTML parser with XPath & CSS support.",
@@ -2653,7 +2669,7 @@
       "title": "Curassow",
       "category": "webserver",
       "description": "HTTP server using the pre-fork worker model.",
-      "homepage": "https://github.com/kylef/Curassow",
+      "homepage": "https://github.com/kylef-archive/Curassow",
       "tags": ["linux"]
     }, {
       "title": "Blackfire",
@@ -2689,7 +2705,7 @@
       "title": "Frank",
       "category": "webserver",
       "description": "Frank is a DSL for quickly writing web applications.",
-      "homepage": "https://github.com/kylef/Frank",
+      "homepage": "https://github.com/kylef-archive/Frank",
       "tags": ["linux"]
     }, {
       "title": "http4swift",
@@ -2828,11 +2844,6 @@
       "category": "cryptography",
       "description": "Interface to the Sodium library for common crypto operations for iOS and OS X.",
       "homepage": "https://github.com/jedisct1/swift-sodium"
-    }, {
-      "title": "SwiftSSL",
-      "category": "cryptography",
-      "description": "Crypto toolkit.",
-      "homepage": "https://github.com/SwiftP2P/SwiftSSL"
     }, {
       "title": "RNCryptor",
       "category": "cryptography",
@@ -3691,11 +3702,6 @@
       "description": "An alert will display underneath your UINavigationBar.",
       "homepage": "https://github.com/hemangshah/Zingle"
     }, {
-      "title": "AlertKit",
-      "category": "alert",
-      "description": "Alert with a single line of code.",
-      "homepage": "https://github.com/thii/AlertKit"
-    }, {
       "title": "CDAlertView",
       "category": "alert",
       "description": "Highly customizable alert/notification/success/error/alarm popup.",
@@ -3710,11 +3716,6 @@
       "category": "alert",
       "description": "Easy UIAlertController.",
       "homepage": "https://github.com/thellimist/EZAlertController"
-    }, {
-      "title": "GoogleWearAlert",
-      "category": "alert",
-      "description": "Google Wear Alert style.",
-      "homepage": "https://github.com/AshRobinson/GoogleWearAlert"
     }, {
       "title": "GSMessage",
       "category": "alert",
@@ -5250,7 +5251,7 @@
       "title": "Stencil",
       "category": "template",
       "description": "Simple and powerful template language.",
-      "homepage": "https://github.com/kylef/Stencil"
+      "homepage": "https://github.com/stencilproject/Stencil"
     }, {
       "title": "ShadowView",
       "category": "ui",
@@ -5680,6 +5681,12 @@
       "description": "It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.",
       "homepage": "https://github.com/touchlane/SlideController"
     }, {
+      "title": "Croc",
+      "category": "text",
+      "description": "A lightweight Emoji parsing and querying library.",
+      "homepage": "https://github.com/JKalash/Croc",
+      "tags": ["emoji", "croc", "macOS", "iOS", "tvOS"]
+    }, {
       "title": "Blueprints",
       "category": "uicollectionview",
       "description": "A framework that is meant to make your life easier when working with collection view flow layouts.",
@@ -5705,12 +5712,21 @@
       "swift": 4
     },
     {
+      "title": "BlockiesSwift",
+      "category": "images",
+      "description": "Unique blocky identicons/profile picture generator.",
+      "homepage": "https://github.com/Boilertalk/BlockiesSwift",
+      "swift": 4,
+      "tags": ["profile-picture", "identicons", "image", "generator"]
+    },
+    {
       "title": "RetroProgress",
       "category": "ui",
       "description": "Retro looking progress bar straight from the 90s.",
       "homepage": "https://github.com/hyperoslo/RetroProgress"
     },
-    {      "title": "KeyPathKit",
+    {      
+      "title": "KeyPathKit",
       "category": "other-data",
       "description": "KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.",
       "homepage": "https://github.com/vincent-pradeilles/KeyPathKit"
@@ -5745,10 +5761,18 @@
       "homepage": "https://github.com/benjaminmayo/merchantkit"
     },
     {
+      "title": "MapViewPlus",
+      "category": "maps",
+      "description": "Use any custom view as custom callout view for MKMapView with cool animations. Use any image as annotation view.",
+      "homepage": "https://github.com/okhanokbay/MapViewPlus",
+      "tags": ["map", "customcalloutview", "calloutview", "annotationview", "swift", "MapKit", "MKMapView"]
+    },
+    {
       "title": "TraceLog",
       "category": "logging",
       "description": "Dead Simple: logging the way it's meant to be!  Runs on ios, osx, and linux.",
-      "homepage": "https://github.com/tonystone/tracelog"
+      "homepage": "https://github.com/tonystone/tracelog",
+      "tags": ["log", "logger", "logging", "logging-library", "debug", "trace", "log-level", "swift", "ios", "osx", "linux", "tvos", "watchos", "swift-package-manager", "cocoapods"]
     }
   ]
 }

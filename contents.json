@@ -5766,6 +5766,13 @@
       "description": "Use any custom view as custom callout view for MKMapView with cool animations. Use any image as annotation view.",
       "homepage": "https://github.com/okhanokbay/MapViewPlus",
       "tags": ["map", "customcalloutview", "calloutview", "annotationview", "swift", "MapKit", "MKMapView"]
+    },
+    {
+      "title": "Swift for Scripting",
+      "category": "scripting",
+      "description": "A hand-curated collection of useful and informative Swift Scripting materials.",
+      "homepage": "https://github.com/artemnovichkov/Swift-For-Scripting",
+      "tags": ["swift", "scripting"]
     }
   ]
 }

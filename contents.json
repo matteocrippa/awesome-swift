@@ -5768,6 +5768,12 @@
       "tags": ["map", "customcalloutview", "calloutview", "annotationview", "swift", "MapKit", "MKMapView"]
     },
     {
+      "title": "Swift for Scripting",
+      "category": "scripting",
+      "description": "A hand-curated collection of useful and informative scripting material.",
+      "homepage": "https://github.com/artemnovichkov/Swift-For-Scripting",
+      "tags": ["swift", "scripting"]
+    }, {
       "title": "TraceLog",
       "category": "logging",
       "description": "Dead Simple: logging the way it's meant to be!  Runs on iOS, macOS, and Linux.",

@@ -382,6 +382,11 @@
     "id": "socket",
     "parent": "network"
   }, {
+    "title": "Gem",
+    "id": "Gem",
+    "parent": "network"
+    "description": "A light weight network library with automated model parser for rapped development."
+  },{
     "title": "Webserver",
     "id": "webserver",
     "parent": "network",
@@ -452,6 +457,11 @@
     "id": "thread",
     "parent": "libs",
     "description": "Threading, task-based or asynchronous programming, Grand Central Dispatch (GCD) wrapper"
+  }, {
+    "title": "SwiftyTask",
+    "id": "thrSwiftyTaskead",
+    "parent": "libs",
+    "description": "An extreme queuing system with high performance for managing all task in app with closure"
   }, {
     "title": "UI",
     "id": "ui",

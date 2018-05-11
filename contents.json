@@ -5591,6 +5591,12 @@
       "description": "Dead Simple: logging the way it's meant to be!  Runs on iOS, macOS, and Linux.",
       "homepage": "https://github.com/tonystone/tracelog",
       "tags": ["log", "logger", "logging", "logging-library", "debug", "trace", "log-level", "swift", "ios", "macos", "linux", "tvos", "watchos", "swift-package-manager", "cocoapods"]
+    }, {
+      "title": "EasyTransitions",
+      "category": "transition",
+      "description": "A simple way to create custom interactive UIViewController transitions.",
+      "homepage": "https://github.com/marcosgriselli/EasyTransitions",
+      "tags": ["ios", "tvos"]
     }
   ]
 }

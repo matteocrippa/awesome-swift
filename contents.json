@@ -1523,11 +1523,6 @@
       "homepage": "https://github.com/OpenKitten/MongoKitten",
       "tags": ["linux"]
     }, {
-      "title": "SwiftMongoDB",
-      "category": "mongodb",
-      "description": "MongoDB connector.",
-      "homepage": "https://github.com/Danappelxx/SwiftMongoDB"
-    }, {
       "title": "Perfect-MongoDB",
       "category": "mongodb",
       "description": "A stand-alone wrapper around the mongo-c client library, enabling access to MongoDB servers.",

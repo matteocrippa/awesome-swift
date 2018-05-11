@@ -60,8 +60,8 @@
     "title": "Converters",
     "id": "converters"
   }, {
-    "title": "Demo Apps",
-    "id": "demo-apps",
+    "title": "Other Awesome Lists",
+    "id": "other-awesome-lists",
     "description": "Check out apps on these projects:"
   }, {
     "title": "Dependency Managers",
@@ -694,12 +694,12 @@
       "homepage": "https://github.com/sheerun/vim-polyglot"
     }, {
       "title": "open-source-ios-apps",
-      "category": "demo-apps",
+      "category": "other-awesome-lists",
       "description": "A collaborative list of open-source iOS Apps.",
       "homepage": "https://github.com/dkhamsing/open-source-ios-apps"
     }, {
       "title": "awesome-macOS",
-      "category": "demo-apps",
+      "category": "other-awesome-lists",
       "description": "A curated list of awesome applications, softwares, tools and shiny things for macOS.",
       "homepage": "https://github.com/iCHAIT/awesome-macOS"
     }, {

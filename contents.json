@@ -5592,6 +5592,11 @@
       "description": "A simple way to create custom interactive UIViewController transitions.",
       "homepage": "https://github.com/marcosgriselli/EasyTransitions",
       "tags": ["ios", "tvos"]
+    }, {
+      "title": "ImageDetect",
+      "category": "images",
+      "description": "Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.",
+      "homepage": "https://github.com/Feghal/ImageDetect"
     }
   ]
 }

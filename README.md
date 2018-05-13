@@ -627,6 +627,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 [back to top](#readme) 
 
 * [Hedwig](https://github.com/onevcat/Hedwig) :penguin: - Send email to any SMTP server like a boss.
+* [EmailOctopusKit](https://github.com/caloon/EmailOctopusKit) Email Campaigns and Marketing Automation on iOS powered by EmailOctopus 
 
 ### Embedded Systems
 *Build your embedded Linux projects on a RaspberryPi, BeagleBone, C.H.I.P. and other boards.* [back to top](#readme) 

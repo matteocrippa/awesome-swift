@@ -5597,6 +5597,11 @@
       "category": "images",
       "description": "Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.",
       "homepage": "https://github.com/Feghal/ImageDetect"
+    }, {
+      "title": "Poly",
+      "category": "augmented-reality",
+      "description": "Unofficial Google Poly SDK – explore the world of 3D",
+      "homepage": "https://github.com/piemonte/Poly"
     }
   ]
 }

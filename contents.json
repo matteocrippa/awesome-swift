@@ -4367,11 +4367,6 @@
       "description": "An iOS text field that represents different Tags.",
       "homepage": "https://github.com/whitesmith/WSTagsField"
     }, {
-      "title": "ImageOpenTransition",
-      "category": "transition",
-      "description": "Beautiful and precise transitions between ViewControllers images.",
-      "homepage": "https://github.com/mcmatan/ImageOpenTransition"
-    }, {
       "title": "PasswordTextField",
       "category": "textfield",
       "description": "A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.",

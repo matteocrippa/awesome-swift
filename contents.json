@@ -1020,6 +1020,11 @@
       "description": "Dependency injection toolkit.",
       "homepage": "https://github.com/appsquickly/Typhoon"
     }, {
+      "title": "Weaver",
+      "category": "dependency-injection",
+      "description": "A declarative, easy-to-use and safe Dependency Injection framework for Swift",
+      "homepage": "https://github.com/scribd/Weaver"
+    }, {
       "title": "BlueCap",
       "category": "bluetooth",
       "description": "Wrapper around CoreBluetooth and much more.",

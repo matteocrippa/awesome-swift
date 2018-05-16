@@ -1414,7 +1414,7 @@
     }, {
       "title": "HandyJSON",
       "category": "json",
-      "description": "A handy swift JSON-object serialization/deserialization library.",
+      "description": "A handy Swift JSON-object serialization/deserialization library.",
       "homepage": "https://github.com/alibaba/handyjson"
     }, {
       "title": "Himotoki",
@@ -4418,7 +4418,7 @@
       "description": "A very flexible message bar for iOS.",
       "homepage": "https://github.com/SwiftKickMobile/SwiftMessages"
     }, {
-      "title": "Swift 4 Module Template",
+      "title": "Swift Module Template",
       "category": "boilerplates",
       "description": "An opinionated starting point for awesome, reusable modules.",
       "homepage": "https://github.com/fulldecent/swift4-module-template"
@@ -4531,7 +4531,7 @@
     {
       "title": "SwifterSwift",
       "category": "utility",
-      "description": "A handy collection of more than 500 native Swift 3 extensions to boost your productivity. ",
+      "description": "A handy collection of more than 500 native Swift extensions to boost your productivity. ",
       "homepage": "https://github.com/SwifterSwift/SwifterSwift",
       "tags": ["extensions", "ios"]
     },
@@ -4656,7 +4656,7 @@
       "tags": ["linux", "swagger", "swift", "CI", "generator", "template", "open-api"]
     },
     {
-      "title": "Swift 3 VIPER Module Template",
+      "title": "Swift VIPER Module Template",
       "category": "boilerplates",
       "description": "Xcode template for VIPER Architecture.",
       "homepage": "https://github.com/Juanpe/Swift-VIPER-Module"
@@ -5156,7 +5156,7 @@
     }, {
       "title": "VegaScroll",
       "category": "uicollectionview",
-      "description": "Lightweight animation flowlayout for UICollectionView completely written in Swift 4.",
+      "description": "Lightweight animation flowlayout for UICollectionView completely written in Swift.",
       "homepage": "https://github.com/AppliKeySolutions/VegaScroll"
     }, {
       "title": "MediaBrowser",

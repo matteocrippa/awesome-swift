@@ -652,7 +652,14 @@
       "category": "third-party-guides",
       "description": "Memory game implementation that also teaches Swift.",
       "homepage": "https://github.com/Sajjon/SwiftIntro"
-    }, {
+    }, 
+    {
+     "title": "Ray Wenderlich Tutorials, Videos, Podcasts and books",
+     "category": "third-party-guides",
+     "description": "High quality programming tutorials",
+     "homepage": "https://www.raywenderlich.com"
+   },
+    {
       "title": "WeeklyCocoa.News",
       "category": "newsletter",
       "description": "Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.",

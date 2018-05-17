@@ -1755,6 +1755,11 @@
       "description": "Future/Promises Library.",
       "homepage": "https://github.com/FutureKit/FutureKit"
     }, {
+      "title": "Tomorrowland",
+      "category": "events",
+      "description": "Lightweight Promises for Swift & Obj-C.",
+      "homepage": "https://github.com/kballard/Tomorrowland"
+    }, {
       "title": "Notificationz",
       "category": "events",
       "description": "Helping you own `NSNotificationCenter` by providing a simple, customizable adapter.",

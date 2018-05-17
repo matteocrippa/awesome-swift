@@ -1489,6 +1489,11 @@
       "description": "JSONFeed parser with built in reader for jsonfeed.org.",
       "homepage": "https://github.com/wesbillman/JSONFeed"
     }, {
+      "title": "PMJSON",
+      "category": "json",
+      "description": "Pure Swift JSON encoding/decoding library.",
+      "homepage": "https://github.com/postmates/PMJSON"
+    }, {
       "title": "YamlSwift",
       "category": "yaml",
       "description": "Load YAML and JSON documents.",

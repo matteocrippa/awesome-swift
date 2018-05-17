@@ -1840,6 +1840,11 @@
       "description": "NoticeObserveKit is type-safe NotificationCenter wrapper that associates notice type with info type.",
       "homepage": "https://github.com/marty-suzuki/NoticeObserveKit"
     }, {
+      "title": "PMKVObserver",
+      "category": "events",
+      "description": "Modern thread-safe and type-safe key-value observing for Swift and Objective-C.",
+      "homepage": "https://github.com/postmates/PMKVObserver/"
+    }, {
       "title": "FontAwesome.swift",
       "category": "fonts",
       "description": "Use FontAwesome in your projects.",

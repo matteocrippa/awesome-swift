@@ -5629,6 +5629,11 @@
       "category": "images",
       "description": "Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.",
       "homepage": "https://github.com/Feghal/ImageDetect"
+    }, {
+      "title": "TheAnimation",
+      "category": "animation",
+      "description": "Type-safe CAAnimation wrapper. It makes preventing to set wrong type values. ",
+      "homepage": "https://github.com/marty-suzuki/TheAnimation"
     }
   ]
 }

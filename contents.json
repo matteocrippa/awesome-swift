@@ -2520,6 +2520,11 @@
       "description": "A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices",
       "homepage": "https://github.com/dingwilson/MultiPeer"
     }, {
+      "title": "PMHTTP",
+      "category": "network",
+      "description": "Swift/Obj-C HTTP framework with a focus on REST and JSON.",
+      "homepage": "https://github.com/postmates/PMHTTP"
+    }, {
       "title": "Fuzi",
       "category": "html",
       "description": "A fast & lightweight XML/HTML parser with XPath & CSS support.",

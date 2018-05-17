@@ -5634,6 +5634,11 @@
       "category": "animation",
       "description": "Type-safe CAAnimation wrapper. It makes preventing to set wrong type values. ",
       "homepage": "https://github.com/marty-suzuki/TheAnimation"
+    }, {
+      "title": "Poi",
+      "category": "animation",
+      "description": "Poi makes you use card UI like tinder UI .You can use it like tableview method. ",
+      "homepage": "https://github.com/HideakiTouhara/Poi"
     }
   ]
 }

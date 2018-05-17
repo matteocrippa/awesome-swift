@@ -5270,6 +5270,11 @@
 	    "description": "Showcase new features after an app update similar to Pages, Numbers and Keynote.",
 	    "homepage": "https://github.com/BalestraPatrick/WhatsNew"
     }, {
+      "title": "TSAO",
+      "category": "utility",
+      "description": "Type-Safe Associated Objects in Swift.",
+      "homepage": "https://github.com/kballard/swift-tsao"
+    }, {
       "title": "AXPhotoViewer",
       "category": "images",
       "description": "An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.",

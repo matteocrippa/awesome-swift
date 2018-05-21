@@ -28,6 +28,10 @@
     "id": "calendar",
     "parent": "ui"
   }, {
+    "title": "Cards",
+    "id": "cards",
+    "parent": "ui"
+  }, {
     "title": "Style Guides",
     "id": "style-guides",
     "parent": "guides"
@@ -4490,6 +4494,11 @@
       "category": "calendar",
       "description": "Fully customizable calendar day view.",
       "homepage": "https://github.com/richardtop/CalendarKit"
+    }, {
+      "title": "CardParts",
+      "category": "cards",
+      "description": "A reactive, card-based UI framework built on UIKit for iOS developers",
+      "homepage": "https://github.com/intuit/CardParts"
     }, {
       "title": "CSVParser",
       "category": "other-data",

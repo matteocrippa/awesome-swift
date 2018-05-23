@@ -4852,6 +4852,11 @@
       "category": "animation",
       "description": "Poi makes you use card UI like tinder UI .You can use it like tableview method.",
       "homepage": "https://github.com/HideakiTouhara/Poi"
+    }, {
+      "title": "ClassicKit",
+      "category": "ui",
+      "description": "A collection of classic-style UI components.",
+      "homepage": "https://github.com/Baddaboo/ClassicKit"
     }
   ]
 }

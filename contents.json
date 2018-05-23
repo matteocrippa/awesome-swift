@@ -4852,6 +4852,12 @@
       "category": "animation",
       "description": "Poi makes you use card UI like tinder UI .You can use it like tableview method.",
       "homepage": "https://github.com/HideakiTouhara/Poi"
+    }, {
+	    "title": "DNWebSocket",
+	    "category": "socket",
+	    "description": "Object-Oriented, Swift-style WebSocket Library (RFC 6455) for Swift-compatible Platforms.",
+	    "homepage": "https://github.com/GlebRadchenko/DNWebSocket",
+	    "tags": ["websocket", "socket", "io", "network", "networking"]
     }
   ]
 }

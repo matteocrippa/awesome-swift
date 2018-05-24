@@ -4863,6 +4863,11 @@
       "category": "ui",
       "description": "A collection of classic-style UI components.",
       "homepage": "https://github.com/Baddaboo/ClassicKit"
+    }, {
+      "title": "SwiftEntryKit",
+      "category": "alert",
+      "description": "A simple and versatile pop-up presenter.",
+      "homepage": "https://github.com/huri000/SwiftEntryKit"
     }
   ]
 }

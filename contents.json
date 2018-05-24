@@ -4863,6 +4863,11 @@
       "category": "ui",
       "description": "A collection of classic-style UI components.",
       "homepage": "https://github.com/Baddaboo/ClassicKit"
+    }, {
+      "title": "App Architecture",
+      "category": "patterns",
+      "description": "A sample Code of the App Architecture Book.",
+      "homepage": "https://github.com/objcio/app-architecture"
     }
   ]
 }

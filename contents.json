@@ -4868,6 +4868,11 @@
       "category": "alert",
       "description": "A simple and versatile pop-up presenter.",
       "homepage": "https://github.com/huri000/SwiftEntryKit"
+    }, {
+      "title": "App Architecture",
+      "category": "patterns",
+      "description": "A sample Code of the App Architecture Book.",
+      "homepage": "https://github.com/objcio/app-architecture"
     }
   ]
 }

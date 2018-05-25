@@ -1458,7 +1458,7 @@
     }, {
       "title": "NVDate",
       "category": "date",
-      "description": "Swift4 Date extension library.",
+      "description": "Date extension library.",
       "homepage": "https://github.com/novalagung/nvdate"
     }, {
       "title": "SwiftDate",

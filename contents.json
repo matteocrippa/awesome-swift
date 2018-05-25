@@ -1456,6 +1456,11 @@
       "description": "Library for dealing with `NSDate`, `NSCalendar`, `NSDateComponents`, and `NSTimeInterval`.",
       "homepage": "https://github.com/SwiftKitz/Datez"
     }, {
+      "title": "NVDate",
+      "category": "date",
+      "description": "Date extension library.",
+      "homepage": "https://github.com/novalagung/nvdate"
+    }, {
       "title": "SwiftDate",
       "category": "date",
       "description": "Easy NSDate Management.",

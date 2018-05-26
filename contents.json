@@ -4504,6 +4504,12 @@
 	    "homepage": "https://github.com/ApplikeySolutions/GravitySlider"
     },
     {
+      "title": "WhatsNewKit",
+      "category": "utility",
+      "description": "Showcase your awesome new app features.",
+      "homepage": "https://github.com/SvenTiigi/WhatsNewKit"
+    },
+    {
 	    "title": "WhatsNew",
 	    "category": "utility",
 	    "description": "Showcase new features after an app update similar to Pages, Numbers and Keynote.",

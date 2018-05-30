@@ -3292,11 +3292,6 @@
       "description": "Bubble transition in an easy way.",
       "homepage": "https://github.com/andreamazz/BubbleTransition"
     }, {
-      "title": "ElasticTransition",
-      "category": "transition",
-      "description": "An interactive transition that simulates an elastic drag.",
-      "homepage": "https://github.com/lkzhao/ElasticTransition"
-    }, {
       "title": "MusicPlayerTransition",
       "category": "transition",
       "description": "Custom interactive transition like Apple Music iOS App.",

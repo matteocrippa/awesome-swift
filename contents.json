@@ -2895,11 +2895,6 @@
       "description": "Option list managed as a reel.",
       "homepage": "https://github.com/Ramotion/reel-search"
     }, {
-      "title": "SAConfettiView",
-      "category": "ui",
-      "description": "Easily add fun, multi-colored confetti to your app.",
-      "homepage": "https://github.com/sudeepag/SAConfettiView"
-    }, {
       "title": "SAHistoryNavigationViewController",
       "category": "ui",
       "description": "iOS task manager like UI in UINavigationContoller.",

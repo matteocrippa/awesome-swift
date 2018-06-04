@@ -4874,6 +4874,11 @@
       "category": "patterns",
       "description": "A sample Code of the App Architecture Book.",
       "homepage": "https://github.com/objcio/app-architecture"
+    }, {
+      "title": "Differific",
+      "category": "utility",
+      "description": "A fast and convenient diffing framework.",
+      "homepage": "https://github.com/zenangst/Differific"
     }
   ]
 }

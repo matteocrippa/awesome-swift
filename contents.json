@@ -4874,6 +4874,11 @@
       "category": "patterns",
       "description": "A sample Code of the App Architecture Book.",
       "homepage": "https://github.com/objcio/app-architecture"
+    }, {
+      "title": "Family",
+      "category": "ui",
+      "description": "A child view controller framework that makes setting up your parent controllers as easy as pie.",
+      "homepage": "https://github.com/zenangst/Family"
     }
   ]
 }

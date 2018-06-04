@@ -4875,6 +4875,11 @@
       "description": "A sample Code of the App Architecture Book.",
       "homepage": "https://github.com/objcio/app-architecture"
     }, {
+      "title": "Vaccine",
+      "category": "utility",
+      "description": "Make your apps immune to recompile-decease",
+      "homepage": "https://github.com/zenangst/Vaccine"
+    }, {
       "title": "Differific",
       "category": "utility",
       "description": "A fast and convenient diffing framework.",

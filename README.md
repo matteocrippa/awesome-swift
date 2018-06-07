@@ -842,6 +842,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
 * [Willow](https://github.com/Nike-Inc/Willow) - Willow is a powerful, yet lightweight logging library.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
+* [AlamofireLogbook](https://github.com/mikeAttia/AlamofireLogbook) - An Alamofire network activity log view
 
 ### Maps
 [back to top](#readme) 

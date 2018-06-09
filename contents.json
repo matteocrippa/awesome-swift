@@ -3078,7 +3078,7 @@
     }, {
       "title": "PopupDialog",
       "category": "alert",
-      "description": "A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertController alert style.",
+      "description": "A simple, customizable popup dialog. Replaces UIAlertController alert style.",
       "homepage": "https://github.com/orderella/PopupDialog"
     }, {
       "title": "SCLAlertView",

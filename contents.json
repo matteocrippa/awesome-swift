@@ -3076,6 +3076,11 @@
       "description": "PMAlertController is a great and customizable substitute to UIAlertController.",
       "homepage": "https://github.com/pmusolino/PMAlertController"
     }, {
+      "title": "PopupDialog",
+      "category": "alert",
+      "description": "A simple, customizable popup dialog. Replaces UIAlertController alert style.",
+      "homepage": "https://github.com/orderella/PopupDialog"
+    }, {
       "title": "SCLAlertView",
       "category": "alert",
       "description": "Animated Alert view.",

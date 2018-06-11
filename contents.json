@@ -4894,6 +4894,12 @@
       "category": "utility",
       "description": "A fast and convenient diffing framework.",
       "homepage": "https://github.com/zenangst/Differific"
+    }, {
+      "title": "RxReduce",
+      "category": "events",
+      "description": "Reactive implementation of the state container pattern (like Redux). It is based on the simple concepts of state immutability and unidirectionnal data flow.",
+      "homepage": "https://github.com/RxSwiftCommunity/RxReduce",
+      "tags": ["rxswift", "redux", "state container"]
     }
   ]
 }

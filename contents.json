@@ -2951,11 +2951,6 @@
       "description": "Lightweight dropdown message bar.",
       "homepage": "https://github.com/morizotter/SwiftyDrop"
     }, {
-      "title": "RazzleDazzle",
-      "category": "walkthrough",
-      "description": "A simple keyframe-based animation framework for iOS. Perfect for scrolling app intros.",
-      "homepage": "https://github.com/IFTTT/RazzleDazzle"
-    }, {
       "title": "SwiftCharts",
       "category": "chart",
       "description": "Highly customizable charts for iOS.",

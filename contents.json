@@ -2664,11 +2664,6 @@
       "description": "Lightweight loading activity HUD.",
       "homepage": "https://github.com/goktugyil/EZLoadingActivity"
     }, {
-      "title": "EZSwipeController",
-      "category": "ui",
-      "description": "UIPageViewController like Snapchat/Tinder/iOS Main Pages.",
-      "homepage": "https://github.com/goktugyil/EZSwipeController"
-    }, {
       "title": "FAQView",
       "category": "ui",
       "description": "An easy to use FAQ view for iOS.",

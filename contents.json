@@ -3332,6 +3332,11 @@
       "description": "PullToRefresh library.",
       "homepage": "https://github.com/dekatotoro/PullToRefreshSwift"
     }, {
+       "title": "QuickTableViewController",
+       "category": "uitableview",
+       "description": "A simple way to create a UITableView for settings.",
+       "homepage": "https://github.com/bcylin/QuickTableViewController"
+    }, {
       "title": "Shoyu",
       "category": "uitableview",
       "description": "Easier way to represent the structure of UITableView.",

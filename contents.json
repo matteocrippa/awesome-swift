@@ -4895,6 +4895,12 @@
       "description": "Reactive implementation of the state container pattern (like Redux). It is based on the simple concepts of state immutability and unidirectionnal data flow.",
       "homepage": "https://github.com/RxSwiftCommunity/RxReduce",
       "tags": ["rxswift", "redux", "state container"]
+    }, {
+      "title": "swift-protobuf",
+      "category": "utility",
+      "description": "A plugin and runtime library for using Google's Protocol Buffer.",
+      "homepage": "https://github.com/apple/swift-protobuf",
+      "tags": ["linux"]
     }
   ]
 }

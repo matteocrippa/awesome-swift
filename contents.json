@@ -4896,6 +4896,11 @@
       "homepage": "https://github.com/RxSwiftCommunity/RxReduce",
       "tags": ["rxswift", "redux", "state container"]
     }, {
+      "title": "MessengerKit",
+      "category": "chat",
+      "description": "A UI framework for building messenger interfaces.",
+      "homepage": "https://github.com/steve228uk/MessengerKit"
+    }, {
       "title": "swift-protobuf",
       "category": "utility",
       "description": "A plugin and runtime library for using Google's Protocol Buffer.",

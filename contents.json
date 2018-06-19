@@ -4895,6 +4895,11 @@
       "description": "Reactive implementation of the state container pattern (like Redux). It is based on the simple concepts of state immutability and unidirectionnal data flow.",
       "homepage": "https://github.com/RxSwiftCommunity/RxReduce",
       "tags": ["rxswift", "redux", "state container"]
+    }, {
+      "title": "MessengerKit",
+      "category": "chat",
+      "description": "A UI framework for building messenger interfaces.",
+      "homepage": "https://github.com/steve228uk/MessengerKit"
     }
   ]
 }

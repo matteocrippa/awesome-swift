@@ -4900,6 +4900,12 @@
       "category": "chat",
       "description": "A UI framework for building messenger interfaces.",
       "homepage": "https://github.com/steve228uk/MessengerKit"
+    }, {
+      "title": "swift-protobuf",
+      "category": "utility",
+      "description": "A plugin and runtime library for using Google's Protocol Buffer.",
+      "homepage": "https://github.com/apple/swift-protobuf",
+      "tags": ["linux"]
     }
   ]
 }

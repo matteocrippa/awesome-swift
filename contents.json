@@ -4906,6 +4906,11 @@
       "description": "A plugin and runtime library for using Google's Protocol Buffer.",
       "homepage": "https://github.com/apple/swift-protobuf",
       "tags": ["linux"]
+    }, {
+      "title": "VerticalCardSwiper",
+      "category": "cards",
+      "description": "A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.",
+      "homepage": "https://github.com/JoniVR/VerticalCardSwiper"
     }
   ]
 }

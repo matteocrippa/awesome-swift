@@ -889,6 +889,11 @@
       "description": "A Lightweight Dependency Injection Framework by Square.",
       "homepage": "https://github.com/square/Cleanse"
     }, {
+      "title": "Deli",
+      "category": "dependency-injection",
+      "description": "Deli is an easy-to-use Dependency Injection(DI).",
+      "homepage": "https://github.com/kawoou/Deli"	    
+    }, {
       "title": "Dip",
       "category": "dependency-injection",
       "description": "A simple Dependency Injection Container.",
@@ -2940,6 +2945,11 @@
       "category": "validation",
       "description": "A rule-based validation library.",
       "homepage": "https://github.com/SwiftValidatorCommunity/SwiftValidator"
+    }, {
+      "title": "RxValidator",
+      "parent": "validation",
+      "description": "Simple, Extensible, Flexible Validation Checker",
+      "homepage": "https://github.com/vbmania/RxValidator"
     }, {
       "title": "SwiftyDrop",
       "category": "alert",

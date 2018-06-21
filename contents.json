@@ -4911,6 +4911,11 @@
       "category": "cards",
       "description": "A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.",
       "homepage": "https://github.com/JoniVR/VerticalCardSwiper"
+    }, {
+      "title": "AnimatedMaskLabel",
+      "category": "label",
+      "description": "A nice gradient animated label that make easy to add a shimmering effect to any view.",
+      "homepage": "https://github.com/imjog/AnimatedMaskLabel"
     }
   ]
 }

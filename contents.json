@@ -2936,7 +2936,7 @@
       "homepage": "https://github.com/AssistoLab/DropDown"
     }, {
       "title": "RxValidator",
-      "parent": "validation",
+      "category": "validation",
       "description": "Simple, Extensible, Flexible Validation Checker",
       "homepage": "https://github.com/vbmania/RxValidator"
     }, {

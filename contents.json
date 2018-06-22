@@ -2929,12 +2929,16 @@
       "category": "styling",
       "description": "Powerful theme/skin manager for iOS 8+.",
       "homepage": "https://github.com/jiecao-fm/SwiftTheme"
-    },
-    {
+    }, {
       "title": "DropDown",
       "category": "ui",
       "description": "A Material Design drop down for iOS.",
       "homepage": "https://github.com/AssistoLab/DropDown"
+    }, {
+      "title": "RxValidator",
+      "parent": "validation",
+      "description": "Simple, Extensible, Flexible Validation Checker",
+      "homepage": "https://github.com/vbmania/RxValidator"
     }, {
       "title": "SwiftValidator",
       "category": "validation",

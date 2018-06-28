@@ -3361,6 +3361,11 @@
       "description": "Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate",
       "homepage": "https://github.com/younatics/ExpandableCell"
     }, {
+      "title": "SimpleSource",
+      "category": "uitableview",
+      "description": "Easy and type-safe iOS table and collection views.",
+      "homepage": "https://github.com/Squarespace/simple-source "
+    }, {
       "title": "AlexaSkillsKit",
       "category": "utility",
       "description": "Develop custom Alexa Skills.",
@@ -4071,6 +4076,11 @@
       "category": "uicollectionview",
       "description": "Fully customizable spreadsheet CollectionViewLayout.",
       "homepage": "https://github.com/stuffrabbit/SwiftSpreadsheet"
+    }, {
+      "title": "SimpleSource",
+      "category": "uicollectionview",
+      "description": "Easy and type-safe iOS table and collection views.",
+      "homepage": "https://github.com/Squarespace/simple-source "
     }, {
       "title": "SwiftyOnboard",
       "category": "walkthrough",

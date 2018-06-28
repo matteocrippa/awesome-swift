@@ -4931,6 +4931,11 @@
       "description": "Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.",
       "homepage": "https://github.com/givip/Telegrammer",
       "tags": ["linux", "swiftnio", "serverside"]
+    }, {
+      "title": "example-ios-apps",
+      "category": "other-awesome-lists",
+      "description": "An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.",
+      "homepage": "https://github.com/imjog/example-ios-apps"
     }
   ]
 }

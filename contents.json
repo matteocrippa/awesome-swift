@@ -4936,6 +4936,11 @@
       "category": "other-awesome-lists",
       "description": "An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.",
       "homepage": "https://github.com/imjog/example-ios-apps"
+    }, {
+      "title": "UserDefaultsStore",
+      "category": "key-value-store",
+      "description": "Why not use UserDefaults to store Codable objects 😉",
+      "homepage": "https://github.com/omaralbeik/UserDefaultsStore"
     }
   ]
 }

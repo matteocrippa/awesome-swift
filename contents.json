@@ -1187,6 +1187,11 @@
       "description": "A concise Mantle-like way of working with Realm and JSON.",
       "homepage": "https://github.com/matthewcheok/Realm-JSON"
     }, {
+      "title": "RealmWrapper",
+      "category": "realm",
+      "description": "Safe and easy wrappers for RealmSwift.",
+      "homepage": "https://github.com/k-lpmg/RealmWrapper"
+    }, {
       "title": "KZFileWatchers",
       "category": "files",
       "description": "A micro-framework for observing file changes, both local and remote.",

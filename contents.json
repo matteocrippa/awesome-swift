@@ -1090,6 +1090,12 @@
       "homepage": "https://github.com/Zewo/Venice",
       "tags": ["linux"]
     }, {
+      "title": "Futures",
+      "category": "concurrency",
+      "description": "Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side.",
+      "homepage": "https://github.com/formbound/Futures",
+      "tags": ["linux"]
+    }, {
       "title": "GroupWork",
       "category": "concurrency",
       "description": "Easy concurrent, asynchronous tasks.",

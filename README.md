@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 844 | June 28, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 847 | July 06, 2018
 
 ### Contents
 
@@ -416,6 +416,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 *Easier ways to work with concurrency.* [back to top](#readme) 
 
 * [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives.
+* [Futures](https://github.com/formbound/Futures) :penguin: - Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side.
 * [GroupWork](https://github.com/quanvo87/GroupWork) :penguin: - Easy concurrent, asynchronous tasks.
 * [Hydra](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code.
 * [Kommander](https://github.com/intelygenz/Kommander-iOS) - Manage the task execution in different threads through Kommands.
@@ -482,6 +483,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Storez](https://github.com/SwiftKitz/Storez) - Safe, statically-typed, store-agnostic key-value storage.
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - A Key-Value store backed by LevelDB.
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - Cleaner, nicer syntax for NSUserDefaults.
+* [UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore) - Why not use UserDefaults to store Codable objects 😉
 * [Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
 
 #### MongoDB
@@ -1362,7 +1364,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - Bubble transition in an easy way.
 * [Cards XI](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views.
 * [EasyTransitions](https://github.com/marcosgriselli/EasyTransitions) - A simple way to create custom interactive UIViewController transitions.
-* [Hero](https://github.com/lkzhao/Hero) - Elegant transition library for iOS.
+* [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition) - Custom interactive transition like Apple Music iOS App.
 * [PinterestSwift](https://github.com/demonnico/PinterestSwift) - Pinterest style transition.
 * [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
@@ -1384,6 +1386,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [GravitySlider](https://github.com/ApplikeySolutions/GravitySlider) - Beautiful alternative to the standard UICollectionView flow layout.
 * [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout) - A UICollectionView layout which can move an item with drag and drop.
 * [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
+* [SimpleSource](https://github.com/Squarespace/simple-source ) - Easy and type-safe iOS table and collection views.
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - Fully customizable spreadsheet CollectionViewLayout.
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
 * [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - Lightweight animation flowlayout for UICollectionView completely written in Swift.

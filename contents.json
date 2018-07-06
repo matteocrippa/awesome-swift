@@ -3315,7 +3315,7 @@
       "title": "Hero",
       "category": "transition",
       "description": "Elegant transition library for iOS.",
-      "homepage": "https://github.com/lkzhao/Hero"
+      "homepage": "https://github.com/HeroTransitions/Hero"
     }, {
       "title": "DTTableViewManager",
       "category": "uitableview",
@@ -3366,11 +3366,6 @@
       "category": "uitableview",
       "description": "Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate",
       "homepage": "https://github.com/younatics/ExpandableCell"
-    }, {
-      "title": "SimpleSource",
-      "category": "uitableview",
-      "description": "Easy and type-safe iOS table and collection views.",
-      "homepage": "https://github.com/Squarespace/simple-source "
     }, {
       "title": "AlexaSkillsKit",
       "category": "utility",

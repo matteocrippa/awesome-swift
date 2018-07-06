@@ -3315,7 +3315,7 @@
       "title": "Hero",
       "category": "transition",
       "description": "Elegant transition library for iOS.",
-      "homepage": "https://github.com/lkzhao/Hero"
+      "homepage": "https://github.com/HeroTransitions/Hero"
     }, {
       "title": "DTTableViewManager",
       "category": "uitableview",

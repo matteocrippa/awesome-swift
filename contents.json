@@ -4958,6 +4958,12 @@
       "category": "app-routing",
       "description": ":oncoming_bus: Crossroad is an URL router focused on handling Custom URL Schemes.",
       "homepage": "https://github.com/giginet/Crossroad"
+    },
+    {
+      "title": "Sica",
+      "category": "animation",
+      "description": "Simple Interface Core Animation. Run type-safe animation sequencially or parallelly.",
+      "homepage": "https://github.com/cats-oss/Sica"
     }
   ]
 }

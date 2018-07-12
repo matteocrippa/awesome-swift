@@ -4964,6 +4964,12 @@
       "category": "animation",
       "description": "Simple Interface Core Animation. Run type-safe animation sequencially or parallelly.",
       "homepage": "https://github.com/cats-oss/Sica"
+    },
+    {
+      "title": "StyledTextKit",
+      "category": "textfield",
+      "description": "Declarative building and fast rendering attributed string library.",
+      "homepage": "https://github.com/GitHawkApp/StyledTextKit"
     }
   ]
 }

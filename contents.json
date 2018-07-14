@@ -1720,6 +1720,11 @@
       "description": "GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.",
       "homepage": "https://github.com/BradLarson/GPUImage2"
     }, {
+      "title": "GPUImage 3",
+      "category": "images",
+      "description": "GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.",
+      "homepage": "https://github.com/BradLarson/GPUImage3"
+    }, {
       "title": "HanekeSwift",
       "category": "images",
       "description": "A lightweight generic cache for iOS with extra love for images.",

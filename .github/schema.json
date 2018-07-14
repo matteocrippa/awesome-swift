@@ -87,6 +87,11 @@
 						"description": "A place to put any metadata for a project. The items can be any type.",
 						"type": "array",
 						"default": []
+					},
+					"swift": {
+						"title": "Supported Swift Version",
+						"description": "Currently supported swift version",
+						"type": "number"
 					}
 
 				},

@@ -183,7 +183,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development.
 * [Swift Web Weekly](http://swiftwebweekly.com) - A free, hand-picked list of the best links for Swift Web Developers, every Monday in your inbox.
 * [swift-tips](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles
-* [SwiftDoc](http://swiftdoc.org/) - Auto-generated documentation.
+* [SwiftDoc](https://swiftdoc.org/ ) - Auto-generated documentation.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A Chinese written guide.
 * [SwiftTips](https://github.com/JohnSundell/SwiftTips) - A collection of useful tips by John Sundell.
 * [The Swift Web Developer](https://theswiftwebdeveloper.com) - A publication for Swift Web Developers.

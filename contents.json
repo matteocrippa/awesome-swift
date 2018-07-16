@@ -4975,6 +4975,12 @@
       "category": "textfield",
       "description": "Declarative building and fast rendering attributed string library.",
       "homepage": "https://github.com/GitHawkApp/StyledTextKit"
+    }, {
+      "title": "Perfect-CRUD",
+      "category": "orm",
+      "description": "CRUD is an object-relational mapping (ORM) system using Codable protocol.",
+      "homepage": "https://github.com/PerfectlySoft/Perfect-CRUD",
+      "tags": ["linux"]
     },
     {
       "title": "Wormholy",

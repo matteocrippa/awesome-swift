@@ -4978,7 +4978,7 @@
     }, {
       "title": "Perfect-CRUD",
       "category": "orm",
-      "description": "CRUD is an object-relational mapping (ORM) system for Swift 4+. ",
+      "description": "CRUD is a relational database object management system (ORM) using Codable protocol.",
       "homepage": "https://github.com/PerfectlySoft/Perfect-CRUD",
       "tags": ["linux"]
     }

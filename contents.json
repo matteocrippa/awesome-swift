@@ -4982,7 +4982,6 @@
       "description": "iOS network debugging, like a wizard 🧙‍.",
       "homepage": "https://github.com/pmusolino/Wormholy", 
       "tags": ["network", "debugger", "log", "logger", "logging", "logging-library", "debug", "sniffer", "NSURLSession", "Alamofire", "AFNetworking"]
-    },
-	   
+    }   
   ]
 }

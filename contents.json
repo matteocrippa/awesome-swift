@@ -4975,6 +4975,14 @@
       "category": "textfield",
       "description": "Declarative building and fast rendering attributed string library.",
       "homepage": "https://github.com/GitHawkApp/StyledTextKit"
-    }
+    },
+    {
+      "title": "Wormholy",
+      "category": "network",
+      "description": "iOS network debugging, like a wizard 🧙‍.",
+      "homepage": "https://github.com/pmusolino/Wormholy", 
+      "tags": ["network", "debugger", "log", "logger", "logging", "logging-library", "debug", "sniffer", "NSURLSession", "Alamofire", "AFNetworking"]
+    },
+	   
   ]
 }

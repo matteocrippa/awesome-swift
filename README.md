@@ -225,6 +225,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * [example-ios-apps](https://github.com/imjog/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+* [Awesome iOS Interview](https://github.com/dashvlas/awesome-ios-interview) - List of the questions that helps you to prepare for the interview. A small guide is useful for those looking to hire an iOS developer for work.
 
 ## Dependency Managers
 *Dependency manager software for Swift.* 

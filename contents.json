@@ -1906,6 +1906,11 @@
       "description": "A concise but flexible DSL for creating Auto Layout constraints and adding subviews.",
       "homepage": "https://github.com/jmfieldman/Mortar"
     }, {
+      "title": "NorthLayout",
+      "category": "auto-layout",
+      "description": "Fast path to layout using Visual Format Language (VFL) with extended syntax",
+      "homepage": "https://github.com/banjun/NorthLayout"
+    }, {
       "title": "PureLayout",
       "category": "auto-layout",
       "description": "The ultimate API for iOS & OS X Auto Layout.",

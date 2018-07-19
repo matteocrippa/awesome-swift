@@ -4993,6 +4993,13 @@
       "description": "iOS network debugging, like a wizard 🧙‍.",
       "homepage": "https://github.com/pmusolino/Wormholy", 
       "tags": ["network", "debugger", "log", "logger", "logging", "logging-library", "debug", "sniffer", "NSURLSession", "Alamofire", "AFNetworking"]
+    },
+    {
+      "title": "Awesome iOS Interview",
+      "category": "other-awesome-lists",
+      "description": "List of the questions that helps you to prepare for the interview",
+      "homepage": "https://github.com/dashvlas/awesome-ios-interview", 
+      "tags": ["interview", "ios-developer", "question list"]
     }   
   ]
 }

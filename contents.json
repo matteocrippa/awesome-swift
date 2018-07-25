@@ -4190,6 +4190,11 @@
       "description": "Curated newsletter.",
       "homepage": "https://www.natashatherobot.com"
     }, {
+      "title": "Indie iOS Focus Weekly",
+      "category": "newsletter",
+      "description": "Curated weekly iOS newsletter.",
+      "homepage": "https://indieiosfocus.com"
+    }, {
       "title": "Swift Weekly Brief",
       "category": "newsletter",
       "description": "A multi author curated newsletter.",

@@ -5011,6 +5011,12 @@
       "description": "Powerful and easy to use Swift Query Builder.",
       "homepage": "https://github.com/MihaelIsaev/FluentQuery",
       "tags": ["linux"]
+    }, {
+      "title": "EtherWalletKit",
+      "category": "utility",
+      "description": "Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.",
+      "homepage": "https://github.com/SteadyAction/EtherWalletKit",
+      "tags": ["ethereum", "wallet", "ethereum-wallet", "swift", "ios", "blockchain", "coin", "token", "crypto", "cryptocurrency", "cryptowallet"]
     }
   ]
 }

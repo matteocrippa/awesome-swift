@@ -5017,6 +5017,12 @@
       "description": "Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.",
       "homepage": "https://github.com/SteadyAction/EtherWalletKit",
       "tags": ["ethereum", "wallet", "ethereum-wallet", "swift", "ios", "blockchain", "coin", "token", "crypto", "cryptocurrency", "cryptowallet"]
+    }, {
+      "title": "EasyFutures",
+      "category": "events",
+      "description": "🔗Futures & Promises. Easy to use. Highly combinable.",
+      "homepage": "https://github.com/DimaMishchenko/EasyFutures",
+      "tags": ["swift", "future", "futures", "promise", "promises", "ios"]
     }
   ]
 }

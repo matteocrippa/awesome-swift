@@ -5023,6 +5023,11 @@
       "description": "🔗Futures & Promises. Easy to use. Highly combinable.",
       "homepage": "https://github.com/DimaMishchenko/EasyFutures",
       "tags": ["swift", "future", "futures", "promise", "promises", "ios"]
+    }, {
+      "title": "Cabbage",
+      "category": "video",
+      "description": "A video composition framework build on top of AVFoundation.",
+      "homepage": "https://github.com/VideoFlint/Cabbage"
     }
   ]
 }

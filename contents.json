@@ -1613,7 +1613,12 @@
       "category": "events",
       "description": "Modern thread-safe and type-safe key-value observing for Swift and Objective-C.",
       "homepage": "https://github.com/postmates/PMKVObserver/"
-    }, {
+    },{
+      "title": "TopicEventBus",
+      "category": "events",
+      "description": "Publish–subscribe design pattern implementation framework, with ability to publish events by topic.",
+      "homepage": "https://github.com/mcmatan/topicEventBus"
+    },{
       "title": "FontAwesome.swift",
       "category": "fonts",
       "description": "Use FontAwesome in your projects.",

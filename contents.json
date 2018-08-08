@@ -5033,6 +5033,11 @@
       "category": "video",
       "description": "A video composition framework build on top of AVFoundation.",
       "homepage": "https://github.com/VideoFlint/Cabbage"
+    }, {
+      "title": "DifferenceKit",
+      "category": "utility",
+      "description": "💻 A fast and flexible O(n) difference algorithm framework for Swift collection.",
+      "homepage": "https://github.com/ra1028/DifferenceKit"
     }
   ]
 }

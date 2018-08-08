@@ -1613,7 +1613,12 @@
       "category": "events",
       "description": "Modern thread-safe and type-safe key-value observing for Swift and Objective-C.",
       "homepage": "https://github.com/postmates/PMKVObserver/"
-    }, {
+    },{
+      "title": "TopicEventBus",
+      "category": "events",
+      "description": "Publish–subscribe design pattern implementation framework, with ability to publish events by topic.",
+      "homepage": "https://github.com/mcmatan/topicEventBus"
+    },{
       "title": "FontAwesome.swift",
       "category": "fonts",
       "description": "Use FontAwesome in your projects.",
@@ -5029,11 +5034,16 @@
       "description": "A video composition framework build on top of AVFoundation.",
       "homepage": "https://github.com/VideoFlint/Cabbage"
     }, {
-	"title": "MJMaterialSwitch",
-	"category": "switch",
-	"description": "A Customizable Switch UI for iOS, Inspired from Google's Material Design.",
-	"homepage": "https://github.com/JaleelNazir/MJMaterialSwitch",
-	"tags": ["switch", "material-ui", "animation", "material-design","uicontrol", "swift", "ios"]
+	    "title": "MJMaterialSwitch",
+	    "category": "switch",
+	    "description": "A Customizable Switch UI for iOS, Inspired from Google's Material Design.",
+	    "homepage": "https://github.com/JaleelNazir/MJMaterialSwitch",
+	    "tags": ["switch", "material-ui", "animation", "material-design", "uicontrol", "swift", "ios"]
+    }, {
+      "title": "DifferenceKit",
+      "category": "utility",
+      "description": "💻 A fast and flexible O(n) difference algorithm framework for Swift collection.",
+      "homepage": "https://github.com/ra1028/DifferenceKit"
     }
   ]
 }

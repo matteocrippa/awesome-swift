@@ -5040,6 +5040,12 @@
       "homepage": "https://github.com/jianstm/Schedule",
       "tags": ["timer", "gcd", "ios", "macos", "watchos", "tvos", "linux"]
     }, {
+      "title": "ExpandableButton",
+      "category": "button",
+      "description": "Customizable and easy to use expandable button.",
+      "homepage": "https://github.com/DimaMishchenko/ExpandableButton",
+      "tags": ["swift", "button", "uibutton", "expandable", "ui", "ios"]
+    }, {
 	    "title": "MJMaterialSwitch",
 	    "category": "switch",
 	    "description": "A Customizable Switch UI for iOS, Inspired from Google's Material Design.",

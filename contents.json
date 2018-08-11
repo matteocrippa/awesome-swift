@@ -5046,11 +5046,11 @@
       "homepage": "https://github.com/DimaMishchenko/ExpandableButton",
       "tags": ["swift", "button", "uibutton", "expandable", "ui", "ios"]
     }, {
-	    "title": "MJMaterialSwitch",
-	    "category": "switch",
-	    "description": "A Customizable Switch UI for iOS, Inspired from Google's Material Design.",
-	    "homepage": "https://github.com/JaleelNazir/MJMaterialSwitch",
-	    "tags": ["switch", "material-ui", "animation", "material-design", "uicontrol", "swift", "ios"]
+      "title": "MJMaterialSwitch",
+      "category": "switch",
+      "description": "A Customizable Switch UI for iOS, Inspired from Google's Material Design.",
+      "homepage": "https://github.com/JaleelNazir/MJMaterialSwitch",
+      "tags": ["switch", "material-ui", "animation", "material-design", "uicontrol", "swift", "ios"]
     }, {
       "title": "DifferenceKit",
       "category": "utility",

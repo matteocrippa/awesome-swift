@@ -5034,6 +5034,12 @@
       "description": "A video composition framework build on top of AVFoundation.",
       "homepage": "https://github.com/VideoFlint/Cabbage"
     }, {
+      "title": "Schedule",
+      "category": "thread",
+      "description": "A missing lightweight task scheduler with an incredibly human-friendly syntax.",
+      "homepage": "https://github.com/jianstm/Schedule",
+      "tags": ["timer", "gcd", "ios", "macos", "watchos", "tvos", "linux"]
+    }, {
       "title": "ExpandableButton",
       "category": "button",
       "description": "Customizable and easy to use expandable button.",

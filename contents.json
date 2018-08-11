@@ -5031,7 +5031,7 @@
     }, {
       "title": "Schedule",
       "category": "thread",
-      "description": "A missing lightweight task scheduler for Swift with an incredibly human-friendly syntax.",
+      "description": "A missing lightweight task scheduler with an incredibly human-friendly syntax.",
       "homepage": "https://github.com/jianstm/Schedule",
       "tags": ["timer", "gcd", "ios", "macos", "watchos", "tvos", "linux"]
     }  

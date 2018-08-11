@@ -5034,6 +5034,12 @@
       "description": "A video composition framework build on top of AVFoundation.",
       "homepage": "https://github.com/VideoFlint/Cabbage"
     }, {
+      "title": "ExpandableButton",
+      "category": "button",
+      "description": "Customizable and easy to use expandable button.",
+      "homepage": "https://github.com/DimaMishchenko/ExpandableButton",
+      "tags": ["swift", "button", "uibutton", "expandable", "ui", "ios"]
+    }, {
 	    "title": "MJMaterialSwitch",
 	    "category": "switch",
 	    "description": "A Customizable Switch UI for iOS, Inspired from Google's Material Design.",

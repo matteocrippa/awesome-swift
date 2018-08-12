@@ -635,7 +635,7 @@
       "title": "SwiftDoc",
       "category": "third-party-guides",
       "description": "Auto-generated documentation.",
-      "homepage": "http://swiftdoc.org/"
+      "homepage": "https://swiftdoc.org/"
     }, {
       "title": "SwiftGuide CN",
       "category": "third-party-guides",
@@ -1613,7 +1613,12 @@
       "category": "events",
       "description": "Modern thread-safe and type-safe key-value observing for Swift and Objective-C.",
       "homepage": "https://github.com/postmates/PMKVObserver/"
-    }, {
+    },{
+      "title": "TopicEventBus",
+      "category": "events",
+      "description": "Publish–subscribe design pattern implementation framework, with ability to publish events by topic.",
+      "homepage": "https://github.com/mcmatan/topicEventBus"
+    },{
       "title": "FontAwesome.swift",
       "category": "fonts",
       "description": "Use FontAwesome in your projects.",
@@ -1905,6 +1910,11 @@
       "category": "auto-layout",
       "description": "A concise but flexible DSL for creating Auto Layout constraints and adding subviews.",
       "homepage": "https://github.com/jmfieldman/Mortar"
+    }, {
+      "title": "NorthLayout",
+      "category": "auto-layout",
+      "description": "Fast path to layout using Visual Format Language (VFL) with extended syntax",
+      "homepage": "https://github.com/banjun/NorthLayout"
     }, {
       "title": "PureLayout",
       "category": "auto-layout",
@@ -2367,6 +2377,11 @@
       "category": "cryptography",
       "description": "CCCryptor (Apple's AES encryption) wrappers for iOS and Mac.",
       "homepage": "https://github.com/RNCryptor/RNCryptor"
+    }, {
+      "title": "Themis",
+      "category": "cryptography",
+      "description": "Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.",
+      "homepage": "https://github.com/cossacklabs/themis"
     }, {
       "title": "keychain-swift",
       "category": "keychain",
@@ -4180,6 +4195,11 @@
       "description": "Curated newsletter.",
       "homepage": "https://www.natashatherobot.com"
     }, {
+      "title": "Indie iOS Focus Weekly",
+      "category": "newsletter",
+      "description": "Curated weekly iOS newsletter.",
+      "homepage": "https://indieiosfocus.com"
+    }, {
       "title": "Swift Weekly Brief",
       "category": "newsletter",
       "description": "A multi author curated newsletter.",
@@ -4957,24 +4977,85 @@
       "category": "key-value-store",
       "description": "Why not use UserDefaults to store Codable objects 😉",
       "homepage": "https://github.com/omaralbeik/UserDefaultsStore"
-    },
-    {
+    }, {
       "title": "Crossroad",
       "category": "app-routing",
       "description": ":oncoming_bus: Crossroad is an URL router focused on handling Custom URL Schemes.",
       "homepage": "https://github.com/giginet/Crossroad"
-    },
-    {
+    }, {
       "title": "Sica",
       "category": "animation",
       "description": "Simple Interface Core Animation. Run type-safe animation sequencially or parallelly.",
       "homepage": "https://github.com/cats-oss/Sica"
-    },
-    {
+    }, {
       "title": "StyledTextKit",
       "category": "textfield",
       "description": "Declarative building and fast rendering attributed string library.",
       "homepage": "https://github.com/GitHawkApp/StyledTextKit"
+    }, {
+      "title": "Perfect-CRUD",
+      "category": "orm",
+      "description": "CRUD is an object-relational mapping (ORM) system using Codable protocol.",
+      "homepage": "https://github.com/PerfectlySoft/Perfect-CRUD",
+      "tags": ["linux"]
+    }, {
+      "title": "Wormholy",
+      "category": "network",
+      "description": "iOS network debugging, like a wizard 🧙‍.",
+      "homepage": "https://github.com/pmusolino/Wormholy",
+      "tags": ["network", "debugger", "log", "logger", "logging", "logging-library", "debug", "sniffer", "NSURLSession", "Alamofire", "AFNetworking"]
+    }, {
+      "title": "Awesome iOS Interview",
+      "category": "other-awesome-lists",
+      "description": "List of the questions that helps you to prepare for the interview",
+      "homepage": "https://github.com/dashvlas/awesome-ios-interview",
+      "tags": ["interview", "ios-developer", "question list"]
+    }, {
+      "title": "FluentQuery",
+      "category": "utility",
+      "description": "Powerful and easy to use Swift Query Builder.",
+      "homepage": "https://github.com/MihaelIsaev/FluentQuery",
+      "tags": ["linux"]
+    }, {
+      "title": "EtherWalletKit",
+      "category": "utility",
+      "description": "Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.",
+      "homepage": "https://github.com/SteadyAction/EtherWalletKit",
+      "tags": ["ethereum", "wallet", "ethereum-wallet", "swift", "ios", "blockchain", "coin", "token", "crypto", "cryptocurrency", "cryptowallet"]
+    }, {
+      "title": "EasyFutures",
+      "category": "events",
+      "description": "🔗Futures & Promises. Easy to use. Highly combinable.",
+      "homepage": "https://github.com/DimaMishchenko/EasyFutures",
+      "tags": ["swift", "future", "futures", "promise", "promises", "ios"]
+    }, {
+      "title": "Cabbage",
+      "category": "video",
+      "description": "A video composition framework build on top of AVFoundation.",
+      "homepage": "https://github.com/VideoFlint/Cabbage"
+    }, {
+      "title": "Schedule",
+      "category": "thread",
+      "description": "A missing lightweight task scheduler with an incredibly human-friendly syntax.",
+      "homepage": "https://github.com/jianstm/Schedule",
+      "tags": ["timer", "gcd", "ios", "macos", "watchos", "tvos", "linux"]
+    }, {
+      "title": "ExpandableButton",
+      "category": "button",
+      "description": "Customizable and easy to use expandable button.",
+      "homepage": "https://github.com/DimaMishchenko/ExpandableButton",
+      "tags": ["swift", "button", "uibutton", "expandable", "ui", "ios"]
+    }, {
+      "title": "MJMaterialSwitch",
+      "category": "switch",
+      "description": "A Customizable Switch UI for iOS, Inspired from Google's Material Design.",
+      "homepage": "https://github.com/JaleelNazir/MJMaterialSwitch",
+      "tags": ["switch", "material-ui", "animation", "material-design", "uicontrol", "swift", "ios"]
+    }, {
+      "title": "DifferenceKit",
+      "category": "utility",
+      "description": "💻 A fast and flexible O(n) difference algorithm framework for Swift collection.",
+      "homepage": "https://github.com/ra1028/DifferenceKit"
     }
   ]
 }

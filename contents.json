@@ -5056,6 +5056,11 @@
       "category": "utility",
       "description": "💻 A fast and flexible O(n) difference algorithm framework for Swift collection.",
       "homepage": "https://github.com/ra1028/DifferenceKit"
+    }, {
+      "title": "Disk",
+      "category": "other-data",
+      "description": "Delightful framework for iOS to easily persist structs, images, and data.",
+      "homepage": "https://github.com/saoudrizwan/Disk"
     }
   ]
 }

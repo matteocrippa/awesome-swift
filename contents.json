@@ -83,6 +83,10 @@
     "id": "libs",
     "description": "Here you can find a list of snippets and libs for your Swift projects."
   }, {
+    "title": "Accessibility",
+    "id": "accessibility",
+    "parent": "libs"
+  }, {
     "title": "Analytics",
     "id": "analytics",
     "parent": "libs",

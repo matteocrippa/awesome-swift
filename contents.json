@@ -726,6 +726,12 @@
       "description": "Easily generate cross platform framework projects from the command line.",
       "homepage": "https://github.com/JohnSundell/SwiftPlate"
     }, {
+      "title": "Capable",
+      "category": "accessibility",
+      "description": "Track accessibility features to improve your app for people with certain disabilities.",
+      "homepage": "https://github.com/chrs1885/Capable",
+      "tags": ["swift", "accessibility", "iOS", "tvOS", "watchOS", "macOS"]
+    }, {
       "title": "MLKit",
       "category": "ai",
       "description": "A simple machine learning framework.",

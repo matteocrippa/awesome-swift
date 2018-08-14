@@ -83,6 +83,10 @@
     "id": "libs",
     "description": "Here you can find a list of snippets and libs for your Swift projects."
   }, {
+    "title": "Accessibility",
+    "id": "accessibility",
+    "parent": "libs"
+  }, {
     "title": "Analytics",
     "id": "analytics",
     "parent": "libs",
@@ -721,6 +725,12 @@
       "category": "misc",
       "description": "Easily generate cross platform framework projects from the command line.",
       "homepage": "https://github.com/JohnSundell/SwiftPlate"
+    }, {
+      "title": "Capable",
+      "category": "accessibility",
+      "description": "Track accessibility features to improve your app for people with certain disabilities.",
+      "homepage": "https://github.com/chrs1885/Capable",
+      "tags": ["swift", "accessibility", "iOS", "tvOS", "watchOS", "macOS"]
     }, {
       "title": "MLKit",
       "category": "ai",

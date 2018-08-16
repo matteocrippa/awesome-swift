@@ -5071,6 +5071,11 @@
       "category": "other-data",
       "description": "Delightful framework for iOS to easily persist structs, images, and data.",
       "homepage": "https://github.com/saoudrizwan/Disk"
+    }, {
+      "title": "SwiftyComments",
+      "category": "uitableview",
+      "description": "Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.",
+      "homepage": "https://github.com/tsucres/SwiftyComments"
     }
   ]
 }

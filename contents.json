@@ -5071,6 +5071,12 @@
       "category": "other-data",
       "description": "Delightful framework for iOS to easily persist structs, images, and data.",
       "homepage": "https://github.com/saoudrizwan/Disk"
+    },
+    {
+      "title": "OKTableViewLiaison",
+      "category": "uitableview",
+      "description": "Framework to help you better manage UITableViews",
+      "homepage": "https://github.com/okcupid/OKTableViewLiaison"
     }, {
       "title": "SwiftyComments",
       "category": "uitableview",

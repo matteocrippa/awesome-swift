@@ -5077,6 +5077,11 @@
       "category": "uitableview",
       "description": "Framework to help you better manage UITableViews",
       "homepage": "https://github.com/okcupid/OKTableViewLiaison"
+    }, {
+      "title": "SwiftyComments",
+      "category": "uitableview",
+      "description": "Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.",
+      "homepage": "https://github.com/tsucres/SwiftyComments"
     }
   ]
 }

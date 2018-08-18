@@ -648,7 +648,7 @@
     }, {
      "title": "Ray Wenderlich Tutorials, Videos, Podcasts and books",
      "category": "third-party-guides",
-     "description": "High quality programming tutorials",
+     "description": "High quality programming tutorials.",
      "homepage": "https://www.raywenderlich.com"
    }, {
       "title": "WeeklyCocoa.News",
@@ -906,7 +906,7 @@
     }, {
       "title": "RandomUserSwift",
       "category": "api",
-      "description": "Framework to Generate Random Users - An Unofficial SDK for randomuser.me",
+      "description": "Framework to Generate Random Users - An Unofficial SDK for randomuser.me.",
       "homepage": "https://github.com/dingwilson/RandomUserSwift"
     }, {
       "title": "GooglePlacesAutocomplete",
@@ -951,7 +951,7 @@
     }, {
       "title": "Weaver",
       "category": "dependency-injection",
-      "description": "A declarative, easy-to-use and safe Dependency Injection framework for Swift",
+      "description": "A declarative, easy-to-use and safe Dependency Injection framework.",
       "homepage": "https://github.com/scribd/Weaver"
     }, {
       "title": "BlueCap",
@@ -1051,7 +1051,7 @@
     }, {
       "title": "UIGradient",
       "category": "colors",
-      "description": "A simple and powerful library for using gradient layer, image, color",
+      "description": "A simple and powerful library for using gradient layer, image, color.",
       "homepage": "https://github.com/dqhieu/UIGradient"
     }, {
       "title": "ChromaColorPicker",
@@ -1073,7 +1073,7 @@
     }, {
       "title": "LineNoise",
       "category": "command-line",
-      "description": "A zero-dependency replacement for readline",
+      "description": "A zero-dependency replacement for readline.",
       "homepage": "https://github.com/andybest/linenoise-swift",
       "tags": ["linux"]
     }, {
@@ -1114,7 +1114,7 @@
     }, {
       "title": "StorageKit",
       "category": "multi-database",
-      "description": "Your Data Storage Troubleshooter 🛠",
+      "description": "Your Data Storage Troubleshooter 🛠.",
       "homepage": "https://github.com/StorageKit/StorageKit"
     }, {
       "title": "AERecord",
@@ -1262,7 +1262,7 @@
     }, {
       "title": "EVReflection",
       "category": "json",
-      "description": "Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable",
+      "description": "Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable.",
       "homepage": "https://github.com/evermeer/EVReflection"
     }, {
       "title": "Genome",
@@ -1373,7 +1373,7 @@
     }, {
       "title": "Default",
       "category": "key-value-store",
-      "description": "Modern interface to UserDefaults + Codable support",
+      "description": "Modern interface to UserDefaults + Codable support.",
       "homepage": "https://github.com/Nirma/Default"
     }, {
       "title": "MongoKitten",
@@ -1923,7 +1923,7 @@
     }, {
       "title": "NorthLayout",
       "category": "auto-layout",
-      "description": "Fast path to layout using Visual Format Language (VFL) with extended syntax",
+      "description": "Fast path to layout using Visual Format Language (VFL) with extended syntax.",
       "homepage": "https://github.com/banjun/NorthLayout"
     }, {
       "title": "PureLayout",
@@ -2191,12 +2191,12 @@
     }, {
       "title": "PerfectAPIClient",
       "category": "network",
-      "description": "An API Client based on a network abstraction layer for the Perfect Server-Side Swift Framework",
+      "description": "An API Client based on a network abstraction layer for the Perfect Server-Side Framework.",
       "homepage": "https://github.com/SvenTiigi/PerfectAPIClient"
     }, {
       "title": "MultiPeer",
       "category": "network",
-      "description": "A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices",
+      "description": "A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.",
       "homepage": "https://github.com/dingwilson/MultiPeer"
     }, {
       "title": "PMHTTP",
@@ -2440,7 +2440,7 @@
     }, {
       "title": "Kakapo",
       "category": "mock",
-      "description": "Dynamically Mock server behaviors and responses. ",
+      "description": "Dynamically Mock server behaviors and responses.",
       "homepage": "https://github.com/devlucky/Kakapo"
     }, {
       "title": "DVR",
@@ -2973,7 +2973,7 @@
     }, {
       "title": "RxValidator",
       "category": "validation",
-      "description": "Simple, Extensible, Flexible Validation Checker",
+      "description": "Simple, Extensible, Flexible Validation Checker.",
       "homepage": "https://github.com/vbmania/RxValidator"
     }, {
       "title": "SwiftValidator",
@@ -3013,7 +3013,7 @@
     }, {
       "title": "DTPagerController",
       "category": "tab",
-      "description": "Container view controller to display a set of ViewControllers in a horizontal scroll view",
+      "description": "Container view controller to display a set of ViewControllers in a horizontal scroll view.",
       "homepage": "https://github.com/tungvoduc/DTPagerController"
     }, {
       "title": "TagCellLayout",
@@ -3263,7 +3263,7 @@
     }, {
       "title": "PagingKit",
       "category": "menu",
-      "description": "PagingKit provides customizable menu UI",
+      "description": "PagingKit provides customizable menu UI.",
       "homepage": "https://github.com/kazuhiro4949/PagingKit"
     }, {
       "title": "Parchment",
@@ -3394,7 +3394,7 @@
     }, {
       "title": "ExpandableCell",
       "category": "uitableview",
-      "description": "Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate",
+      "description": "Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.",
       "homepage": "https://github.com/younatics/ExpandableCell"
     }, {
       "title": "AlexaSkillsKit",
@@ -3838,7 +3838,7 @@
     }, {
       "title": "CardParts",
       "category": "cards",
-      "description": "A reactive, card-based UI framework built on UIKit for iOS developers",
+      "description": "A reactive, card-based UI framework built on UIKit for iOS developers.",
       "homepage": "https://github.com/intuit/CardParts"
     }, {
       "title": "CSVParser",
@@ -3903,7 +3903,7 @@
     {
       "title": "SwifterSwift",
       "category": "utility",
-      "description": "A handy collection of more than 500 native Swift extensions to boost your productivity. ",
+      "description": "A handy collection of more than 500 native Swift extensions to boost your productivity.",
       "homepage": "https://github.com/SwifterSwift/SwifterSwift",
       "tags": ["extensions", "ios"]
     },
@@ -4247,7 +4247,7 @@
     }, {
       "title": "ImageViewer",
       "category": "images",
-      "description": "An image viewer à la Twitter",
+      "description": "An image viewer à la Twitter.",
       "homepage": "https://github.com/Krisiacik/ImageViewer"
     }, {
       "title": "VGPlayer",
@@ -4619,7 +4619,7 @@
     }, {
 	    "title": "ARVoxelKit",
 	    "category": "augmented-reality",
-	    "description": "Voxel graphic framework using ARKit",
+	    "description": "Voxel graphic framework using ARKit.",
 	    "homepage": "https://github.com/VoxxxelAR/ARVoxelKit",
 	    "tags": ["AR", "augmented", "reality", "voxel"]
     }, {
@@ -4754,7 +4754,7 @@
     }, {
 		  "title": "Kinieta",
 		  "category": "animation",
-		  "description": "An simple Animation Engine for iOS with an Intuitive API and Readable Code",
+		  "description": "An simple Animation Engine for iOS with an Intuitive API and Readable Code.",
 		  "homepage": "https://github.com/mmick66/kinieta",
 		  "tags": ["animation", "engine", "motion", "bezier"]
     }, {
@@ -4771,7 +4771,7 @@
     }, {
 	    "title": "ARVideoKit",
 	    "category": "augmented-reality",
-	    "description": "Capture & record ARKit videos, photos, Live Photos, and GIFs",
+	    "description": "Capture & record ARKit videos, photos, Live Photos, and GIFs.",
 	    "homepage": "https://github.com/AFathi/ARVideoKit",
 	    "tags": ["AR", "augmented", "reality", "video"]
     }, {
@@ -4842,7 +4842,7 @@
     }, {
       "title": "swift-tips",
       "category": "third-party-guides",
-      "description": "A series of useful tips by Vincent Pradeilles",
+      "description": "A series of useful tips by Vincent Pradeilles.",
       "homepage": "https://github.com/vincent-pradeilles/swift-tips"
     }, {
       "title": "Localize",
@@ -4896,7 +4896,7 @@
     }, {
       "title": "Poly",
       "category": "augmented-reality",
-      "description": "Unofficial Google Poly SDK – explore the world of 3D",
+      "description": "Unofficial Google Poly SDK – explore the world of 3D.",
       "homepage": "https://github.com/piemonte/Poly"
     }, {
       "title": "TheAnimation",
@@ -4937,7 +4937,7 @@
     }, {
       "title": "Vaccine",
       "category": "utility",
-      "description": "Make your apps immune to recompile-decease",
+      "description": "Make your apps immune to recompile-decease.",
       "homepage": "https://github.com/zenangst/Vaccine"
     }, {
       "title": "Differific",
@@ -4985,7 +4985,7 @@
     }, {
       "title": "UserDefaultsStore",
       "category": "key-value-store",
-      "description": "Why not use UserDefaults to store Codable objects 😉",
+      "description": "Why not use UserDefaults to store Codable objects 😉.",
       "homepage": "https://github.com/omaralbeik/UserDefaultsStore"
     }, {
       "title": "Crossroad",
@@ -5017,7 +5017,7 @@
     }, {
       "title": "Awesome iOS Interview",
       "category": "other-awesome-lists",
-      "description": "List of the questions that helps you to prepare for the interview",
+      "description": "List of the questions that helps you to prepare for the interview.",
       "homepage": "https://github.com/dashvlas/awesome-ios-interview",
       "tags": ["interview", "ios-developer", "question list"]
     }, {

@@ -899,6 +899,12 @@
       "description": "A Lightweight Dependency Injection Framework by Square.",
       "homepage": "https://github.com/square/Cleanse"
     }, {
+      "title": "Deli",
+      "category": "dependency-injection",
+      "description": "Deli is an easy-to-use Dependency Injection(DI).",
+      "homepage": "https://github.com/kawoou/Deli",
+      "tags": ["swift", "ios", "di"]
+    }, {
       "title": "Dip",
       "category": "dependency-injection",
       "description": "A simple Dependency Injection Container.",

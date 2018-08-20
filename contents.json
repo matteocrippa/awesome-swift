@@ -5092,7 +5092,7 @@
       "title": "Xcode Template Manager",
       "category": "command-line",
       "description": "Swift command line tool that helps your manage your Xcode project templates.",
-      "homepage": "https://github.com/Camji55/xtm", 
+      "homepage": "https://github.com/Camji55/xtm"
     }
   ]
 }

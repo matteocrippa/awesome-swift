@@ -5088,6 +5088,11 @@
       "category": "uitableview",
       "description": "Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.",
       "homepage": "https://github.com/tsucres/SwiftyComments"
+    }, {
+      "title": "Xcode Template Manager",
+      "category": "command-line",
+      "description": "Swift command line tool that helps your manage your Xcode project templates.",
+      "homepage": "https://github.com/Camji55/xtm", 
     }
   ]
 }

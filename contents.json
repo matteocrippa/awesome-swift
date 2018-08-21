@@ -1726,6 +1726,11 @@
       "description": "High performance and delightful way to play with APNG format in iOS.",
       "homepage": "https://github.com/onevcat/APNGKit"
     }, {
+      "title": "ATGMediaBrowser",
+      "category": "images",
+      "description": "Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.",
+      "homepage": "https://github.com/altayer-digital/ATGMediaBrowser"
+    }, {
       "title": "FacebookImagePicker",
       "category": "images",
       "description": "Facebook album photo picker.",

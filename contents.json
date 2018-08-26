@@ -2323,7 +2323,15 @@
       "description": "Server-side Swift. The Perfect library, application server, connectors and example apps.",
       "homepage": "https://github.com/PerfectlySoft/Perfect",
       "tags": ["linux"]
-    }, {
+    },
+    { 
+      "title": "SwiftEngine",
+      "category": "webserver",
+      "description": "Apple Swift based HTTP server. The answer for a Swift based, turn key, crash resilient, high scale, and production grade web server.",
+      "homepage": "https://github.com/swiftengine/SwiftEngine",
+      "tags": ["linux"]
+    },
+    {
       "title": "swifter",
       "category": "webserver",
       "description": "Http server with routing handler.",

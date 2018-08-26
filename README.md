@@ -962,6 +962,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Lightning](https://github.com/skylab-inc/Lightning) :penguin: - Multiplatform Single-threaded Non-blocking Web and Networking Framework.
 * [Noze.io](https://github.com/NozeIO/Noze.io) :penguin: - Evented I/O streams like Node.js.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) :penguin: - Server-side Swift. The Perfect library, application server, connectors and example apps.
+* [SwiftEngine](https://github.com/swiftengine/SwiftEngine) :penguin: - Apple Swift based HTTP server. The answer for a Swift based, turn key, crash resilient, high scale, and production grade web server.
 * [swifter](https://github.com/httpswift/swifter) :penguin: - Http server with routing handler.
 * [Vapor](https://github.com/vapor/vapor) :penguin: - Elegant web framework that works on iOS, OS X, and Ubuntu.
 * [Zewo](https://github.com/Zewo/Zewo) :penguin: - Server-Side Swift.

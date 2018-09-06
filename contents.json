@@ -5093,6 +5093,11 @@
       "category": "uitableview",
       "description": "Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.",
       "homepage": "https://github.com/tsucres/SwiftyComments"
+    }, {
+      "title": "ESTabBarController",
+      "category": "tab",
+      "description": "ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!",
+      "homepage": "https://github.com/eggswift/ESTabBarController"
     }
   ]
 }

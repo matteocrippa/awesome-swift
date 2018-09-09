@@ -5093,6 +5093,11 @@
       "category": "uitableview",
       "description": "Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.",
       "homepage": "https://github.com/tsucres/SwiftyComments"
+    }, {
+      "title": "ESTabBarController",
+      "category": "tab",
+      "description": "A highly customizable TabBarController component, which is inherited from UITabBarController.",
+      "homepage": "https://github.com/eggswift/ESTabBarController"
     }
   ]
 }

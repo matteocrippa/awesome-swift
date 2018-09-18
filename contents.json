@@ -728,12 +728,12 @@
     }, {
       "title": "Tuist",
       "category": "tuist",
-      "description": "An open source command line tool written in Swift to create, maintain and interact with your Xcode projects at scale.",
+      "description": "An open source command line tool to create, maintain and interact with your Xcode projects at scale.",
       "homepage": "https://github.com/tuist/tuist"
     }, {
       "title": "xcodeproj",
       "category": "misc",
-      "description": "A Swift library to read, update and write Xcode projects and workspaces.",
+      "description": "A library to read, update and write Xcode projects and workspaces.",
       "homepage": "https://github.com/tuist/xcodeproj"
     }, {
       "title": "Capable",

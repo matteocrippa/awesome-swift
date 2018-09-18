@@ -726,6 +726,16 @@
       "description": "Easily generate cross platform framework projects from the command line.",
       "homepage": "https://github.com/JohnSundell/SwiftPlate"
     }, {
+      "title": "Tuist",
+      "category": "misc",
+      "description": "An open source command line tool to create, maintain and interact with your Xcode projects at scale.",
+      "homepage": "https://github.com/tuist/tuist"
+    }, {
+      "title": "xcodeproj",
+      "category": "misc",
+      "description": "A library to read, update and write Xcode projects and workspaces.",
+      "homepage": "https://github.com/tuist/xcodeproj"
+    }, {
       "title": "Capable",
       "category": "accessibility",
       "description": "Track accessibility features to improve your app for people with certain disabilities.",

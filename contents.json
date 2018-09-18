@@ -727,7 +727,7 @@
       "homepage": "https://github.com/JohnSundell/SwiftPlate"
     }, {
       "title": "Tuist",
-      "category": "tuist",
+      "category": "misc",
       "description": "An open source command line tool to create, maintain and interact with your Xcode projects at scale.",
       "homepage": "https://github.com/tuist/tuist"
     }, {

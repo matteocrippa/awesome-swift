@@ -955,6 +955,11 @@
       "description": "Simple way to authenticate Instagram accounts.",
       "homepage": "https://github.com/AnderGoig/InstagramLogin"
     }, {
+      "title": "Pure",
+      "category": "dependency-injection",
+      "description": "Pure DI in Swift",
+      "homepage": "https://github.com/devxoul/Pure"
+    }, {
       "title": "Swinject",
       "category": "dependency-injection",
       "description": "A dependency injection framework.",

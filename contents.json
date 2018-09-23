@@ -5113,6 +5113,12 @@
       "category": "tab",
       "description": "A highly customizable TabBarController component, which is inherited from UITabBarController.",
       "homepage": "https://github.com/eggswift/ESTabBarController"
+    }, {
+      "title": "FlexiblePageControl",
+      "category": "pagination",
+      "description": "A flexible UIPageControl like Instagram.",
+      "homepage": "https://github.com/shima11/FlexiblePageControl",
+      "tags": ["iOS", "swift", "pagination", "animation", "pagecontrol", "UIPageControl", "instagram"]
     }
   ]
 }

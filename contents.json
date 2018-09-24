@@ -975,6 +975,12 @@
       "description": "A declarative, easy-to-use and safe Dependency Injection framework.",
       "homepage": "https://github.com/scribd/Weaver"
     }, {
+      "title": "DITranquillity",
+      "category": "dependency-injection",
+      "description": "Dependency injection framework with tranquility.",
+      "homepage": "https://github.com/ivlevAstef/DITranquillity/",
+      "tags": ["Swift", "DI", "IoC"]
+    }, {
       "title": "BlueCap",
       "category": "bluetooth",
       "description": "Wrapper around CoreBluetooth and much more.",

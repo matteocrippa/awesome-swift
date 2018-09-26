@@ -726,6 +726,16 @@
       "description": "Easily generate cross platform framework projects from the command line.",
       "homepage": "https://github.com/JohnSundell/SwiftPlate"
     }, {
+      "title": "Tuist",
+      "category": "misc",
+      "description": "An open source command line tool to create, maintain and interact with your Xcode projects at scale.",
+      "homepage": "https://github.com/tuist/tuist"
+    }, {
+      "title": "xcodeproj",
+      "category": "misc",
+      "description": "A library to read, update and write Xcode projects and workspaces.",
+      "homepage": "https://github.com/tuist/xcodeproj"
+    }, {
       "title": "Capable",
       "category": "accessibility",
       "description": "Track accessibility features to improve your app for people with certain disabilities.",
@@ -945,6 +955,11 @@
       "description": "Simple way to authenticate Instagram accounts.",
       "homepage": "https://github.com/AnderGoig/InstagramLogin"
     }, {
+      "title": "Pure",
+      "category": "dependency-injection",
+      "description": "Pure DI in Swift",
+      "homepage": "https://github.com/devxoul/Pure"
+    }, {
       "title": "Swinject",
       "category": "dependency-injection",
       "description": "A dependency injection framework.",
@@ -959,6 +974,12 @@
       "category": "dependency-injection",
       "description": "A declarative, easy-to-use and safe Dependency Injection framework.",
       "homepage": "https://github.com/scribd/Weaver"
+    }, {
+      "title": "DITranquillity",
+      "category": "dependency-injection",
+      "description": "Dependency injection framework with tranquility.",
+      "homepage": "https://github.com/ivlevAstef/DITranquillity/",
+      "tags": ["Swift", "DI", "IoC"]
     }, {
       "title": "BlueCap",
       "category": "bluetooth",
@@ -4279,7 +4300,7 @@
       "title": "PryntTrimmerView",
       "category": "video",
       "description": "Trim and crop videos.",
-      "homepage": "https://github.com/prynt/PryntTrimmerView"
+      "homepage": "https://github.com/HHK1/PryntTrimmerView"
     }, {
       "title": "GridView",
       "category": "uitableview",
@@ -4981,7 +5002,7 @@
       "title": "AnimatedMaskLabel",
       "category": "label",
       "description": "A nice gradient animated label that make easy to add a shimmering effect to any view.",
-      "homepage": "https://github.com/imjog/AnimatedMaskLabel"
+      "homepage": "https://github.com/jogendra/AnimatedMaskLabel"
     }, {
       "title": "Telegrammer",
       "category": "bots",
@@ -4992,7 +5013,7 @@
       "title": "example-ios-apps",
       "category": "other-awesome-lists",
       "description": "An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.",
-      "homepage": "https://github.com/imjog/example-ios-apps"
+      "homepage": "https://github.com/jogendra/example-ios-apps"
     }, {
       "title": "UserDefaultsStore",
       "category": "key-value-store",
@@ -5096,8 +5117,19 @@
     }, {
       "title": "ESTabBarController",
       "category": "tab",
-      "description": "ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!",
+      "description": "A highly customizable TabBarController component, which is inherited from UITabBarController.",
       "homepage": "https://github.com/eggswift/ESTabBarController"
+    }, {
+      "title": "FlexiblePageControl",
+      "category": "pagination",
+      "description": "A flexible UIPageControl like Instagram.",
+      "homepage": "https://github.com/shima11/FlexiblePageControl",
+      "tags": ["iOS", "swift", "pagination", "animation", "pagecontrol", "UIPageControl", "instagram"]
+    }, {
+      "title": "InputBarAccessoryView",
+      "category": "chat",
+      "description": "A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.",
+      "homepage": "https://github.com/nathantannar4/InputBarAccessoryView"
     }
   ]
 }

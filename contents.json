@@ -5125,6 +5125,11 @@
       "description": "A flexible UIPageControl like Instagram.",
       "homepage": "https://github.com/shima11/FlexiblePageControl",
       "tags": ["iOS", "swift", "pagination", "animation", "pagecontrol", "UIPageControl", "instagram"]
+    }, {
+      "title": "InputBarAccessoryView",
+      "category": "chat",
+      "description": "A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.",
+      "homepage": "https://github.com/nathantannar4/InputBarAccessoryView"
     }
   ]
 }

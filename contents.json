@@ -5135,6 +5135,11 @@
       "category": "alert",
       "description": "Actionsheet with navigation features such as the Flipboard App.",
       "homepage": "https://github.com/ParkGwangBeom/Sheet"
+    }, {
+      "title": "voice-overlay-ios",
+      "category": "audio",
+      "description": "An overlay that gets your user’s voice permission and input as text in a customizable UI.",
+      "homepage": "https://github.com/algolia/voice-overlay-ios"
     }
   ]
 }

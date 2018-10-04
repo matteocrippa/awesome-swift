@@ -2532,6 +2532,11 @@
       "description": "A matcher framework.",
       "homepage": "https://github.com/Quick/Nimble"
     }, {
+      "title": "Sizes",
+      "category": "testing",
+      "description": "Test your app on different device and font sizes",
+      "homepage": "https://github.com/marcosgriselli/Sizes"
+    }, {
       "title": "AttributedTextView",
       "category": "text",
       "description": "Easiest way to create an attributed UITextView with support for multiple links, hashtags and mentions.",

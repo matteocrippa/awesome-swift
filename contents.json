@@ -5145,6 +5145,11 @@
       "category": "audio",
       "description": "An overlay that gets your user’s voice permission and input as text in a customizable UI.",
       "homepage": "https://github.com/algolia/voice-overlay-ios"
+    }, {
+      "title": "LightRoute",
+      "category": "app-routing",
+      "description": "Routing between VIPER modules.",
+      "homepage": "https://github.com/SpectralDragon/LightRoute"
     }
   ]
 }

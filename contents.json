@@ -5148,7 +5148,7 @@
     }, {
       "title": "LightRoute",
       "category": "app-routing",
-      "description": "LightRoute is easy transition for your app.",
+      "description": "Routing between VIPER modules.",
       "homepage": "https://github.com/SpectralDragon/LightRoute"
     }
   ]

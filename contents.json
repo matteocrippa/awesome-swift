@@ -3434,6 +3434,11 @@
       "description": "Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.",
       "homepage": "https://github.com/younatics/ExpandableCell"
     }, {
+       "title": "ZISetting",
+       "category": "uitableview",
+       "description": "Simple Setting UI based on UIKit TableView",
+       "homepage": "https://github.com/fauzisho/ZISetting"
+    },{
       "title": "AlexaSkillsKit",
       "category": "utility",
       "description": "Develop custom Alexa Skills.",

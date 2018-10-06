@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 883 | October 04, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 884 | October 06, 2018
 
 ### Contents
 
@@ -827,6 +827,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Cartography](https://github.com/robb/Cartography) - Declarative auto layout lib for your project.
 * [Cassowary](https://github.com/tribalworldwidelondon/CassowarySwift) - A linear constraint solving library using the same algorithm as AutoLayout.
 * [Cupcake](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
+* [DeviceLayout](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
 * [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - Auto Layout made easy.
 * [KVConstraintKit](https://github.com/keshavvishwkarma/KVConstraintKit) - An Impressive Autolayout DSL for iOS, tvOS & OSX.
 * [MisterFusion](https://github.com/marty-suzuki/MisterFusion) - DSL for AutoLayout, supports Size Class.

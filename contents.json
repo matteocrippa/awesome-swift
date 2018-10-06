@@ -1938,6 +1938,11 @@
       "description": "Declarative auto layout lib for your project.",
       "homepage": "https://github.com/robb/Cartography"
     }, {
+      "title": "DeviceLayout",
+      "category": "auto-layout",
+      "description": "AutoLayout can be set differently for each device.",
+      "homepage": "https://github.com/cruisediary/DeviceLayout"
+    }, {
       "title": "EasyPeasy",
       "category": "auto-layout",
       "description": "Auto Layout made easy.",

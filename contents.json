@@ -5155,6 +5155,11 @@
       "category": "app-routing",
       "description": "Routing between VIPER modules.",
       "homepage": "https://github.com/SpectralDragon/LightRoute"
+    }, {
+      "title": "Viperit",
+      "category": "patterns",
+      "description": "Viper Framework for iOS.",
+      "homepage": "https://github.com/ferranabello/Viperit"
     }
   ]
 }

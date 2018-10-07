@@ -2898,6 +2898,11 @@
       "description": "Express your creativity with Material, an animation and graphics framework for Google's Material Design and Apple's Flat UI.",
       "homepage": "https://github.com/CosmicMind/Material"
     }, {
+      "title": "Material Components for iOS",
+      "category": "ui",
+      "description": "Modular and customizable Material Design UI components for iOS",
+      "homepage": "https://github.com/material-components/material-components-ios"
+    }, {
       "title": "MaterialKit",
       "category": "ui",
       "description": "Material design components.",

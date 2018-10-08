@@ -1046,6 +1046,11 @@
       "description": "Flat UI color palette.",
       "homepage": "https://github.com/brynbellomy/FlatUIColors"
     }, {
+      "title": "Gradients",
+      "category": "colors",
+      "description": "A curated collection of splendid 180+ gradients.",
+      "homepage": "https://github.com/cruisediary/Gradients"
+    }, {
       "title": "HexColor",
       "category": "colors",
       "description": "Define UIColors as Hex integers.",

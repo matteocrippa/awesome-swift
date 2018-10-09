@@ -1757,6 +1757,11 @@
       "description": "Facebook album photo picker.",
       "homepage": "https://github.com/floriangbh/FacebookImagePicker"
     }, {
+        "title": "FMPhotoPicker",
+        "category": "images",
+        "description": "A modern, simple and zero-dependency photo picker with an elegant and customizable image editor",
+        "homepage": "https://github.com/tribalmedia/FMPhotoPicker"
+    }, {
       "title": "gifu",
       "category": "images",
       "description": "Highly performant animated GIF support for iOS.",

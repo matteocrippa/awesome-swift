@@ -5160,6 +5160,11 @@
       "category": "utility",
       "description": "An easy-to-use API for Objective-C runtime functions.",
       "homepage": "https://github.com/sushinoya/Lumos"
+    }, {
+      "title": "Panels",
+      "category": "menu",
+      "description": "Panels is a framework to easily add sliding panels to your application.",
+      "homepage": "https://github.com/antoniocasero/Panels"
     }
   ]
 }

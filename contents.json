@@ -2435,6 +2435,11 @@
       "description": "Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.",
       "homepage": "https://github.com/cossacklabs/themis"
     }, {
+      "title": "JOSESwift",
+      "category": "cryptography",
+      "description": "A framework for the JOSE standards JWS, JWE, and JWK.",
+      "homepage": "https://github.com/airsidemobile/JOSESwift"
+    }, {
       "title": "keychain-swift",
       "category": "keychain",
       "description": "Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.",

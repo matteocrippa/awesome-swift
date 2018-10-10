@@ -5180,6 +5180,11 @@
       "category": "menu",
       "description": "Panels is a framework to easily add sliding panels to your application.",
       "homepage": "https://github.com/antoniocasero/Panels"
+    }, {
+      "title": "AppIconGen",
+      "category": "images",
+      "description": "Unify management of application icons.",
+      "homepage": "https://github.com/noppefoxwolf/AppIconGen"
     }
   ]
 }

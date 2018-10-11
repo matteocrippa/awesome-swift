@@ -5186,5 +5186,11 @@
       "description": "Panels is a framework to easily add sliding panels to your application.",
       "homepage": "https://github.com/antoniocasero/Panels"
     }
+    , {
+      "title": "CleanArchitectureRxSwift",
+      "category": "patterns",
+      "description": "Example of Clean Architecture of iOS app using RxSwift.",
+      "homepage": "https://github.com/sergdort/CleanArchitectureRxSwift"
+    }
   ]
 }

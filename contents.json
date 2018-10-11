@@ -5156,5 +5156,11 @@
       "description": "Routing between VIPER modules.",
       "homepage": "https://github.com/SpectralDragon/LightRoute"
     }
+    , {
+      "title": "CleanArchitectureRxSwift",
+      "category": "patterns",
+      "description": "Example of Clean Architecture of iOS app using RxSwift.",
+      "homepage": "https://github.com/sergdort/CleanArchitectureRxSwift"
+    }
   ]
 }

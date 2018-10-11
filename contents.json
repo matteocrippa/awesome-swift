@@ -5171,6 +5171,11 @@
       "description": "Routing between VIPER modules.",
       "homepage": "https://github.com/SpectralDragon/LightRoute"
     }, {
+      "title": "Viperit",
+      "category": "patterns",
+      "description": "Viper Framework for iOS.",
+      "homepage": "https://github.com/ferranabello/Viperit"
+    }, {
       "title": "Lumos",
       "category": "utility",
       "description": "An easy-to-use API for Objective-C runtime functions.",

@@ -1046,6 +1046,11 @@
       "description": "Flat UI color palette.",
       "homepage": "https://github.com/brynbellomy/FlatUIColors"
     }, {
+      "title": "Gradients",
+      "category": "colors",
+      "description": "A curated collection of splendid 180+ gradients.",
+      "homepage": "https://github.com/cruisediary/Gradients"
+    }, {
       "title": "HexColor",
       "category": "colors",
       "description": "Define UIColors as Hex integers.",
@@ -1757,6 +1762,11 @@
       "description": "Facebook album photo picker.",
       "homepage": "https://github.com/floriangbh/FacebookImagePicker"
     }, {
+        "title": "FMPhotoPicker",
+        "category": "images",
+        "description": "A modern, simple and zero-dependency photo picker with an elegant and customizable image editor",
+        "homepage": "https://github.com/tribalmedia/FMPhotoPicker"
+    }, {
       "title": "gifu",
       "category": "images",
       "description": "Highly performant animated GIF support for iOS.",
@@ -2429,6 +2439,11 @@
       "category": "cryptography",
       "description": "Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.",
       "homepage": "https://github.com/cossacklabs/themis"
+    }, {
+      "title": "JOSESwift",
+      "category": "cryptography",
+      "description": "A framework for the JOSE standards JWS, JWE, and JWK.",
+      "homepage": "https://github.com/airsidemobile/JOSESwift"
     }, {
       "title": "keychain-swift",
       "category": "keychain",
@@ -5160,6 +5175,16 @@
       "category": "patterns",
       "description": "Viper Framework for iOS.",
       "homepage": "https://github.com/ferranabello/Viperit"
+    }, {
+      "title": "Lumos",
+      "category": "utility",
+      "description": "An easy-to-use API for Objective-C runtime functions.",
+      "homepage": "https://github.com/sushinoya/Lumos"
+    }, {
+      "title": "Panels",
+      "category": "menu",
+      "description": "Panels is a framework to easily add sliding panels to your application.",
+      "homepage": "https://github.com/antoniocasero/Panels"
     }
   ]
 }

@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 884 | October 06, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 889 | October 09, 2018
 
 ### Contents
 
@@ -408,6 +408,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Colorify](https://github.com/czater/Colorify) - Colorify - simple, yet powerful color library.
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - An extension to manipulate colors easily.
 * [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) - Flat UI color palette.
+* [Gradients](https://github.com/cruisediary/Gradients) - A curated collection of splendid 180+ gradients.
 * [HexColor](https://github.com/artman/HexColor) - Define UIColors as Hex integers.
 * [Hue](https://github.com/hyperoslo/Hue) - Hue is the all-in-one coloring utility that you'll ever need.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.
@@ -759,6 +760,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [DTPhotoViewerController](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
 * [FacebookImagePicker](https://github.com/floriangbh/FacebookImagePicker) - Facebook album photo picker.
 * [FlexibleImage](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
+* [FMPhotoPicker](https://github.com/tribalmedia/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor
 * [gifu](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
 * [GPUImage 2](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
 * [GPUImage 3](https://github.com/BradLarson/GPUImage3) - GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
@@ -1017,6 +1019,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) :penguin: - Crypto related functions and helpers.
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library.
+* [JOSESwift](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
 * [RNCryptor](https://github.com/RNCryptor/RNCryptor) - CCCryptor (Apple's AES encryption) wrappers for iOS and Mac.
 * [SCrypto](https://github.com/sgl0v/scrypto) - Elegant Swift interface to access the CommonCrypto routines.
 * [Siphash](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
@@ -1320,6 +1323,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Pagemenu](https://github.com/PageMenu/PageMenu) - Pagination enabled view controller.
 * [PagingKit](https://github.com/kazuhiro4949/PagingKit) - PagingKit provides customizable menu UI.
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu.
+* [Panels](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
 * [Parchment](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu, built on UICollectionView.
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - 😎 A cool and customizable popup style action sheet for iOS.
 * [SideMenu](https://github.com/jonkykong/SideMenu) - Simple side menu control for iOS inspired by Facebook. Right and Left sides. No coding required.
@@ -1480,6 +1484,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Focus](https://github.com/typelift/Focus) - Optics library (includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
 * [Highlighter](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
 * [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Surface retain cycle / memory issues right as you develop your application.
+* [Lumos](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.
 * [ObjectiveKit](https://github.com/marmelroy/ObjectiveKit) - API for Objective C runtime functions.
 * [OpenSourceController](https://github.com/floriangbh/OpenSourceController) - The simplest way to display the librarie's licences used in your application.
 * [Popsicle](https://github.com/DavdRoman/Popsicle) - Delightful, extensible value interpolation framework.

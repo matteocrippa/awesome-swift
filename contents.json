@@ -4798,11 +4798,6 @@
       "description": "An animated gradient loading bar.",
       "homepage": "https://github.com/fxm90/GradientLoadingBar"
     }, {
-      "title": "GradientProgressBar",
-      "category": "ui",
-      "description": "A customizable gradient progress bar (UIProgressView).",
-      "homepage": "https://github.com/fxm90/GradientProgressBar"
-    }, {
       "title": "Thingy",
       "category": "device",
       "description": "A modern device detection and querying library.",

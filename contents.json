@@ -5202,6 +5202,11 @@
       "category": "authentication",
       "description": "Simple view controller to log in and retrieve an access token from LinkedIn.",
       "homepage": "https://github.com/serhii-londar/LinkedInSignIn"
+    }, {
+      "title": "HaishinKit",
+      "category": "streaming",
+      "description": "Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.",
+      "homepage": "https://github.com/shogo4405/HaishinKit.swift"
     }
   ]
 }

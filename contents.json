@@ -5186,6 +5186,11 @@
       "category": "patterns",
       "description": "Example of Clean Architecture of iOS app using RxSwift.",
       "homepage": "https://github.com/sergdort/CleanArchitectureRxSwift"
+    }, {
+      "title": "LinkedInSignIn",
+      "category": "authentication",
+      "description": "Simple view controller to log in and retrieve an access token from LinkedIn.",
+      "homepage": "https://github.com/serhii-londar/LinkedInSignIn"
     }
   ]
 }

@@ -5180,6 +5180,11 @@
       "category": "menu",
       "description": "Panels is a framework to easily add sliding panels to your application.",
       "homepage": "https://github.com/antoniocasero/Panels"
+    }, {
+      "title": "Kitsunebi",
+      "category": "video",
+      "description": "Overlay alpha channel video animation player view using OpenGLES.",
+      "homepage": "https://github.com/noppefoxwolf/Kitsunebi"
     }
     , {
       "title": "CleanArchitectureRxSwift",

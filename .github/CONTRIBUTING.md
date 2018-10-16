@@ -9,13 +9,15 @@ The README is generated from **contents.json**, please update the JSON file inst
 
 To be added to the list, software should meet the following criteria:
 
-- Actively maintained
-- Performs a useful function
-- Used by the community
-- Well documented
-- Work with the latest SDK
-- Have at least 15 stars on (GitHub project)
-- Support `Swift 4`
+- ✅ Actively maintained
+- ✅ Performs a useful function
+- ✅ Used by the community
+- ✅ Well documented
+- ✅ Work with the latest SDK
+- ✅ Have at least 15 🌟 stars on (GitHub project)
+- ✅ Support at least `Swift 4` or above
+- ✅ It is released under one of those license: Apache License 2.0, BSD 3, BSD 2, GPL, LGPL, MIT
+
 
 If an item on the list no longer meets the above criteria, open an issue to have it be removed.
 

@@ -5215,7 +5215,7 @@
     }, {
       "title": "Defaults",
       "category": "key-value-store",
-      "description": "Swifty and modern UserDefaults with support for Codable and key observation",
+      "description": "Strongly-typed UserDefaults with support for Codable and key observation.",
       "homepage": "https://github.com/sindresorhus/Defaults"
     }
   ]

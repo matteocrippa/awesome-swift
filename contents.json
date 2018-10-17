@@ -5212,6 +5212,11 @@
       "category": "streaming",
       "description": "Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.",
       "homepage": "https://github.com/shogo4405/HaishinKit.swift"
+    }, {
+      "title": "Defaults",
+      "category": "key-value-store",
+      "description": "Strongly-typed UserDefaults with support for Codable and key observation.",
+      "homepage": "https://github.com/sindresorhus/Defaults"
     }
   ]
 }

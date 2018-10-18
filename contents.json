@@ -5217,6 +5217,11 @@
       "category": "key-value-store",
       "description": "Strongly-typed UserDefaults with support for Codable and key observation.",
       "homepage": "https://github.com/sindresorhus/Defaults"
+    }, {
+      "title": "Preferences",
+      "category": "ui",
+      "description": "Add a preferences window to your macOS app in minutes.",
+      "homepage": "https://github.com/sindresorhus/Preferences"
     }
   ]
 }

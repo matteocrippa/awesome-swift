@@ -2913,6 +2913,11 @@
       "description": "Express your creativity with Material, an animation and graphics framework for Google's Material Design and Apple's Flat UI.",
       "homepage": "https://github.com/CosmicMind/Material"
     }, {
+      "title": "Material Components for iOS",
+      "category": "ui",
+      "description": "Modular and customizable Material Design UI components for iOS",
+      "homepage": "https://github.com/material-components/material-components-ios"
+    }, {
       "title": "MaterialKit",
       "category": "ui",
       "description": "Material design components.",
@@ -5207,6 +5212,16 @@
       "category": "patterns",
       "description": "Reactant is a reactive architecture for iOS.",
       "homepage": "https://github.com/Brightify/Reactant"
+    }, {
+      "title": "HaishinKit",
+      "category": "streaming",
+      "description": "Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.",
+      "homepage": "https://github.com/shogo4405/HaishinKit.swift"
+    }, {
+      "title": "Defaults",
+      "category": "key-value-store",
+      "description": "Strongly-typed UserDefaults with support for Codable and key observation.",
+      "homepage": "https://github.com/sindresorhus/Defaults"
     }
   ]
 }

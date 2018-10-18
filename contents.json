@@ -2531,6 +2531,12 @@
       "homepage": "https://github.com/Quick/Quick",
       "tags": ["linux"]
     }, {
+      "title": "SnapshotTest",
+      "category": "testing",
+      "description": "Snapshot testing tool for iOS and tvOS.",
+      "homepage": "https://github.com/parski/SnapshotTest",
+      "tags": ["iOS", "tvOS"]
+    }, {
       "title": "Spectre",
       "category": "testing",
       "description": "BDD Framework.",

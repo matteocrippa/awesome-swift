@@ -5217,6 +5217,11 @@
       "category": "testing",
       "description": "The XCTest Project, A Swift core library for providing unit test support.",
       "homepage": "https://github.com/apple/swift-corelibs-xctest"
+    }, {
+      "title": "Defaults",
+      "category": "key-value-store",
+      "description": "Strongly-typed UserDefaults with support for Codable and key observation.",
+      "homepage": "https://github.com/sindresorhus/Defaults"
     }
   ]
 }

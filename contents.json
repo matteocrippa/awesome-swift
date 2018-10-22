@@ -5228,6 +5228,11 @@
       "category": "ui",
       "description": "Add a preferences window to your macOS app in minutes.",
       "homepage": "https://github.com/sindresorhus/Preferences"
+    }, {
+      "title": "LaunchAtLogin",
+      "category": "system",
+      "description": "Easily add 'Launch at Login' functionality to your sandboxed macOS app.",
+      "homepage": "https://github.com/sindresorhus/LaunchAtLogin"
     }
   ]
 }

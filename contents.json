@@ -5219,6 +5219,11 @@
       "description": "Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.",
       "homepage": "https://github.com/shogo4405/HaishinKit.swift"
     }, {
+      "title": "XCTest",
+      "category": "testing",
+      "description": "The XCTest Project, A Swift core library for providing unit test support.",
+      "homepage": "https://github.com/apple/swift-corelibs-xctest"
+    }, {
       "title": "Defaults",
       "category": "key-value-store",
       "description": "Strongly-typed UserDefaults with support for Codable and key observation.",

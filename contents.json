@@ -1346,7 +1346,7 @@
       "title": "ObjectMapper",
       "category": "json",
       "description": "JSON object mapper.",
-      "homepage": "https://github.com/Hearst-DD/ObjectMapper"
+      "homepage": "https://github.com/tristanhimmelman/ObjectMapper"
     }, {
       "title": "SwiftyJSON",
       "category": "json",

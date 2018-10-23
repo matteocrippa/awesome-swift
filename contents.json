@@ -5238,6 +5238,11 @@
       "category": "system",
       "description": "Easily add 'Launch at Login' functionality to your sandboxed macOS app.",
       "homepage": "https://github.com/sindresorhus/LaunchAtLogin"
+    }, {
+      "title": "OnboardKit",
+      "category": "walkthrough",
+      "description": "Customisable user onboarding for your iOS app.",
+      "homepage": "https://github.com/NikolaKirev/OnboardKit"
     }
   ]
 }

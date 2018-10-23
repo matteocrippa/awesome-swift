@@ -5239,6 +5239,11 @@
       "description": "Easily add 'Launch at Login' functionality to your sandboxed macOS app.",
       "homepage": "https://github.com/sindresorhus/LaunchAtLogin"
     }, {
+      "title": "DockProgress",
+      "category": "ui",
+      "description": "Show progress in your macOS app's Dock icon.",
+      "homepage": "https://github.com/sindresorhus/DockProgress"
+    }, {
       "title": "OnboardKit",
       "category": "walkthrough",
       "description": "Customisable user onboarding for your iOS app.",

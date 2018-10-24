@@ -5258,6 +5258,12 @@
       "category": "ui",
       "description": "Circular progress indicator for your macOS app.",
       "homepage": "https://github.com/sindresorhus/CircularProgress"
+    }, {
+      "title": "PersistenceKit",
+      "category": "multi-database",
+      "description": "Store and retrieve Codable objects to various persistence layers, in a couple lines of code!",
+      "homepage": "https://github.com/Teknasyon-Teknoloji/PersistenceKit",
+      "tags": ["swift", "filemanager", "userdefaults", "keychain", "ios", "macos", "tvos", "watchos"]
     }
   ]
 }

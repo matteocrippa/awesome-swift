@@ -5253,6 +5253,11 @@
       "category": "walkthrough",
       "description": "Customisable user onboarding for your iOS app.",
       "homepage": "https://github.com/NikolaKirev/OnboardKit"
+    }, {
+      "title": "GraphLayout",
+      "category": "layout",
+      "description": "Graph visualization (powered by graphviz).",
+      "homepage": "https://github.com/bakhtiyork/GraphLayout"
     }
   ]
 }

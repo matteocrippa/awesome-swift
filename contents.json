@@ -5264,6 +5264,12 @@
       "description": "Store and retrieve Codable objects to various persistence layers, in a couple lines of code!",
       "homepage": "https://github.com/Teknasyon-Teknoloji/PersistenceKit",
       "tags": ["swift", "filemanager", "userdefaults", "keychain", "ios", "macos", "tvos", "watchos"]
+    }, {
+      "title": "Rough",
+      "category": "images",
+      "description": "Rough lets you draw in a sketchy, hand-drawn-like, style.",
+      "homepage": "https://github.com/bakhtiyork/Rough",
+      "tags": ["swift", "sketchy", "hand-drawn"]
     }
   ]
 }

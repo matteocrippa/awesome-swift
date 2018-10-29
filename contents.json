@@ -767,6 +767,11 @@
       "description": "A powerful animation framework for iOS, tvOS, and OS X.",
       "homepage": "https://github.com/timdonnelly/Advance"
     }, {
+      "title": "Comets",
+      "category": "animation",
+      "description": "Comets: Animating Particles in Swift.",
+      "homepage": "https://github.com/cruisediary/Comets"
+    }, {
       "title": "DKChainableAnimationKit",
       "category": "animation",
       "description": "Easy to read and write chainable animations.",

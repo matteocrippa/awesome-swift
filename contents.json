@@ -2159,6 +2159,11 @@
       "description": "Robust networking for web APIs.",
       "homepage": "https://github.com/mindbody/Conduit"
     }, {
+      "title": "CodyFire",
+      "category": "network",
+      "description": "Powerful Codable API requests builder and manager for iOS. Based on Alamofire.",
+      "homepage": "https://github.com/MihaelIsaev/CodyFire"
+    }, {
       "title": "Heimdallr.swift",
       "category": "network",
       "description": "Easy to use OAuth 2 library for iOS.",

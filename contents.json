@@ -5280,6 +5280,6 @@
       "category": "images",
       "description": "An image editor and engine using CoreImage.",
       "homepage": "https://github.com/muukii/Pixel"
-    },
+    }
   ]
 }

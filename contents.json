@@ -5275,6 +5275,11 @@
       "description": "Rough lets you draw in a sketchy, hand-drawn-like, style.",
       "homepage": "https://github.com/bakhtiyork/Rough",
       "tags": ["swift", "sketchy", "hand-drawn"]
+    }, {
+      "title": "Pixel",
+      "category": "images",
+      "description": "An image editor and engine using CoreImage.",
+      "homepage": "https://github.com/muukii/Pixel"
     }
   ]
 }

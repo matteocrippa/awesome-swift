@@ -5285,6 +5285,11 @@
       "category": "images",
       "description": "An image editor and engine using CoreImage.",
       "homepage": "https://github.com/muukii/Pixel"
+    },  {
+      "title": "UICollectionViewSplitLayout",
+      "category": "uicollectionview",
+      "description": "UICollectionViewSplitLayout makes collection view more responsive.",
+      "homepage": "https://github.com/yahoojapan/UICollectionViewSplitLayout"
     }
   ]
 }

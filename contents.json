@@ -3800,7 +3800,7 @@
       "title": "Facebook",
       "category": "SDK",
       "description": "Official Facebook SDK.",
-      "homepage": "https://github.com/facebook/facebook-sdk-swift"
+      "homepage": "https://github.com/facebook/facebook-swift-sdk"
     }, {
       "title": "Translucid",
       "category": "label",

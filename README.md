@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 907 | October 29, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 910 | November 05, 2018
 
 ### Contents
 
@@ -786,6 +786,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Moa](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
 * [Nuke](https://github.com/kean/Nuke) - Advanced framework for loading, caching, processing, displaying and preheating images.
 * [PassportScanner](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
+* [Pixel](https://github.com/muukii/Pixel) - An image editor and engine using CoreImage.
 * [Rough](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
 * [Sharaku](https://github.com/makomori/Sharaku) - Image filtering UI library like Instagram.
 * [Snowflake](https://github.com/onmyway133/Snowflake) - Work with SVG.
@@ -915,6 +916,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Alamofire](https://github.com/Alamofire/Alamofire) :penguin: - Elegant networking.
 * [APIKit](https://github.com/ishkawa/APIKit) - Library for building type-safe web API client.
 * [Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS (Bonjour, Zeroconf).
+* [CodyFire](https://github.com/MihaelIsaev/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
 * [Conduit](https://github.com/mindbody/Conduit) - Robust networking for web APIs.
 * [Dots](https://github.com/iAmrSalman/Dots) - Lightweight Concurrent Networking Framework.
 * [Dratini](https://github.com/kevin0571/Dratini) - A neat network layer.
@@ -1445,6 +1447,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SimpleSource](https://github.com/Squarespace/simple-source ) - Easy and type-safe iOS table and collection views.
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - Fully customizable spreadsheet CollectionViewLayout.
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
+* [UICollectionViewSplitLayout](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 * [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - Lightweight animation flowlayout for UICollectionView completely written in Swift.
 
 #### UITableView

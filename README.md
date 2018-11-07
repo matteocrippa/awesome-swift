@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 911 | November 05, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 911 | November 07, 2018
 
 ### Contents
 
@@ -193,7 +193,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 ## Boilerplates
 
-* [iOS project template](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
 * [Swift 3 VIPER Module Template](https://github.com/Juanpe/Swift-VIPER-Module) - Xcode template for VIPER Architecture.
 * [Swift Module Template](https://github.com/fulldecent/swift4-module-template) - An opinionated starting point for awesome, reusable modules.
 
@@ -738,7 +737,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 *Barcode, QR-code, other code readers* [back to top](#readme) 
 
 * [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner view controller.
-* [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate quick response code.
+* [EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate quick response code.
 * [QRCodeReader.swift](https://github.com/yannickl/QRCodeReader.swift) - Simple QRCode reader.
 
 #### Haptic Feedback
@@ -1267,6 +1266,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 #### Button
 [back to top](#readme) 
 
+* [AHDownloadButton](https://github.com/amerhukic/AHDownloadButton) - Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button.
 * [ExpandableButton](https://github.com/DimaMishchenko/ExpandableButton) - Customizable and easy to use expandable button.
 * [Floaty](https://github.com/kciter/Floaty) - Floating Action Button for iOS.

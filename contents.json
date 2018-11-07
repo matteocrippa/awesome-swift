@@ -4174,7 +4174,7 @@
       "title": "EFQRCode",
       "category": "barcode",
       "description": "A better way to operate quick response code.",
-      "homepage": "https://github.com/EyreFree/EFQRCode",
+      "homepage": "https://github.com/EFPrefix/EFQRCode",
       "tags": ["swift", "qrcode", "barcode", "generator", "recognizer"]
     }, {
       "title": "LoginKit",

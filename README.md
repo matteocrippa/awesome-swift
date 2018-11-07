@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 911 | November 07, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 912 | November 07, 2018
 
 ### Contents
 
@@ -1330,6 +1330,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 [back to top](#readme) 
 
 * [AKSwiftSlideMenu](https://github.com/ashishkakkad8/AKSwiftSlideMenu) - Slide Menu (Drawer).
+* [CircleMenu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant UI menu with a circular layout and material design animations.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - Sliding side menu.
 * [FanMenu](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
 * [FlowingMenu](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.

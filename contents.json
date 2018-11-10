@@ -5300,6 +5300,11 @@
       "category": "walkthrough",
       "description": "PaperOnboarding is a material design UI slider.",
       "homepage": "https://github.com/Ramotion/paper-onboarding"
+    }, {
+      "title": "CircleMenu",
+      "category": "menu",
+      "description": "CircleMenu is a simple, elegant UI menu with a circular layout and material design animations.",
+      "homepage": "https://github.com/Ramotion/circle-menu"
     }
   ]
 }

@@ -5296,6 +5296,11 @@
       "description": "Customizable download button with progress and transition animations. It is based on Apple's App Store download button.",
       "homepage": "https://github.com/amerhukic/AHDownloadButton"
     }, {
+      "title": "PaperOnboarding",
+      "category": "walkthrough",
+      "description": "PaperOnboarding is a material design UI slider.",
+      "homepage": "https://github.com/Ramotion/paper-onboarding"
+    }, {
       "title": "CircleMenu",
       "category": "menu",
       "description": "CircleMenu is a simple, elegant UI menu with a circular layout and material design animations.",

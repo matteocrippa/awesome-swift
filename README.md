@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 913 | November 10, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 913 | November 12, 2018
 
 ### Contents
 
@@ -1234,7 +1234,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy UIAlertController.
 * [GSMessage](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
 * [Hokusai](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet.
-* [Jelly](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
 * [Kamagari](https://github.com/tasanobu/Kamagari) - Simple UIAlertController builder class.
 * [KRAlertController](https://github.com/krimpedance/KRAlertController) - A beautiful alert controller for your iOS.
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS.
@@ -1366,7 +1365,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [Caishen](https://github.com/prolificinteractive/Caishen) - A Payment Card UI & Validator for iOS.
 * [iCard](https://github.com/eliakorkmaz/iCard) - Bank Card Generator using SnapKit DSL.
-* [MFCard](https://github.com/MobileFirstInc/MFCard) - Easily integrate Credit Card payments in iOS App.
+* [MFCard](https://github.com/RC7770/MFCard) - Easily integrate Credit Card payments in iOS App.
 
 #### Permissions
 [back to top](#readme) 
@@ -1425,6 +1424,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Cards XI](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views.
 * [EasyTransitions](https://github.com/marcosgriselli/EasyTransitions) - A simple way to create custom interactive UIViewController transitions.
 * [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS.
+* [Jelly](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition) - Custom interactive transition like Apple Music iOS App.
 * [PinterestSwift](https://github.com/demonnico/PinterestSwift) - Pinterest style transition.
 * [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.

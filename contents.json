@@ -3129,6 +3129,11 @@
       "description": "UITextField-Navigation adds next, previous and done buttons to the keyboard for your UITextFields. Highly customizable.",
       "homepage": "https://github.com/T-Pham/UITextField-Navigation"
     }, {
+      "title": "ALRT",
+      "category": "alert",
+      "description": "An easier constructor for UIAlertController. Present an alert from anywhere.",
+      "homepage": "https://github.com/mshrwtnb/alrt"
+    }, {
       "title": "Alertift",
       "category": "alert",
       "description": "Modern, easy UIAlertController wrapper.",

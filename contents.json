@@ -3165,7 +3165,7 @@
       "homepage": "https://github.com/ytakzk/Hokusai"
     }, {
       "title": "Jelly",
-      "category": "alert",
+      "category": "transition",
       "description": "Jelly provides custom view controller transitions with just a few lines of code.",
       "homepage": "https://github.com/SebastianBoldt/Jelly"
     }, {

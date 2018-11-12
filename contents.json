@@ -5315,6 +5315,11 @@
       "category": "api",
       "description": "Implementation of Github REST API v3",
       "homepage": "https://github.com/serhii-londar/GithubAPI"
+    }, {
+      "title": "Gliding Collection",
+      "category": "uicollectionview",
+      "description": "Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Controller.",
+      "homepage": "https://github.com/Ramotion/gliding-collection"
     }
   ]
 }

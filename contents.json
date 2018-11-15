@@ -2293,9 +2293,13 @@
     }, {
       "title": "BlueSocket",
       "category": "socket",
-      "description": "IBM's low level socket framework.",
-      "homepage": "https://github.com/IBM-Swift/BlueSocket",
-      "tags": ["linux"]
+      "description": "IBM's cross platform low level socket framework.",
+      "homepage": "https://github.com/IBM-Swift/BlueSocket"
+    }, {
+      "title": "BlueSSLService",
+      "category": "socket",
+      "description": "SSL/TLS add-in for IBM's low level socket framework.",
+      "homepage": "https://github.com/IBM-Swift/BlueSSLService"
     }, {
       "title": "Socket.IO",
       "category": "socket",
@@ -2414,6 +2418,16 @@
       "description": "A linter tool for Interface Builder.",
       "homepage": "https://github.com/IBDecodable/IBLinter"
     }, {
+      "title": "BlueCryptor",
+      "category": "cryptography",
+      "description": "IBM's Cross Platform Crypto library.",
+      "homepage": "https://github.com/IBM-Swift/BlueCryptor"
+    }, {
+      "title": "BlueRSA",
+      "category": "cryptography",
+      "description": "IBM's Cross Platform RSA Crypto library.",
+      "homepage": "https://github.com/IBM-Swift/BlueRSA"
+    }, {
       "title": "CryptoSwift",
       "category": "cryptography",
       "description": "Crypto related functions and helpers.",
@@ -2484,6 +2498,11 @@
       "category": "sensors",
       "description": "iOS device sensors wrapper.",
       "homepage": "https://github.com/MHaroonBaig/MotionKit"
+    }, {
+      "title": "BlueSignals",
+      "category": "system",
+      "description": "IBM's Cross Platform OS signal handling library.",
+      "homepage": "https://github.com/IBM-Swift/BlueSignals"
     }, {
       "title": "SMCKit",
       "category": "system",

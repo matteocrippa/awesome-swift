@@ -3430,6 +3430,11 @@
       "description": "Elegant transition library for iOS.",
       "homepage": "https://github.com/HeroTransitions/Hero"
     }, {
+      "title": "ImageTransition",
+      "category": "transition",
+      "description": "ImageTransition is a library for smooth animation of images during transitions.",
+      "homepage": "https://github.com/shtnkgm/ImageTransition"
+    }, {
       "title": "DTTableViewManager",
       "category": "uitableview",
       "description": "Protocol-oriented UITableView management, powered by generics and associated types.",

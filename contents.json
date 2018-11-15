@@ -5344,6 +5344,12 @@
       "category": "uicollectionview",
       "description": "Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Controller.",
       "homepage": "https://github.com/Ramotion/gliding-collection"
-    }
+    },
+    {
+       "title": "WeakableSelf",
+       "category": "utility",
+       "description": "A micro-framework to encapsulate [weak self] and guard statements within closures.",
+       "homepage": "https://github.com/vincent-pradeilles/weakable-self"
+     }
   ]
 }

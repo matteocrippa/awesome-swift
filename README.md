@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 917 | November 15, 2018
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 921 | November 15, 2018
 
 ### Contents
 
@@ -964,7 +964,8 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 #### Socket
 [back to top](#readme) 
 
-* [BlueSocket](https://github.com/IBM-Swift/BlueSocket) :penguin: - IBM's low level socket framework.
+* [BlueSocket](https://github.com/IBM-Swift/BlueSocket) - IBM's cross platform low level socket framework.
+* [BlueSSLService](https://github.com/IBM-Swift/BlueSSLService) - SSL/TLS add-in for IBM's low level socket framework.
 * [DNWebSocket](https://github.com/GlebRadchenko/DNWebSocket) - Object-Oriented, Autobahn tested WebSocket Library (RFC 6455) for Swift-compatible Platforms.
 * [RxWebSocket](https://github.com/fjcaetano/RxWebSocket) - Reactive WebSockets.
 * [Socket.IO](https://github.com/socketio/socket.io-client-swift) :penguin: - Socket.IO client for iOS/OS X.
@@ -1029,6 +1030,8 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 #### Cryptography
 *Deal with cryptography method easily* [back to top](#readme) 
 
+* [BlueCryptor](https://github.com/IBM-Swift/BlueCryptor) - IBM's Cross Platform Crypto library.
+* [BlueRSA](https://github.com/IBM-Swift/BlueRSA) - IBM's Cross Platform RSA Crypto library.
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) :penguin: - Crypto related functions and helpers.
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library.
 * [JOSESwift](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK.
@@ -1064,6 +1067,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 ### System
 [back to top](#readme) 
 
+* [BlueSignals](https://github.com/IBM-Swift/BlueSignals) - IBM's Cross Platform OS signal handling library.
 * [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
 * [SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library.
 * [SystemKit](https://github.com/beltex/SystemKit/) - OS X system library.

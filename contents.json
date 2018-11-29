@@ -586,6 +586,14 @@
     "parent": "game-engine"
   }],
   "projects": [{
+	  
+      "title": "ModelAssistant",
+      "category": "multi-database",
+      "description": "Elegant library to manage the interactions between view and model",
+      "homepage": "https://github.com/ssamadgh/ModelAssistant",
+      "tags": ["swift", "uitableview", "uicollectionview", "ios"]
+
+  }, {
 		"title": "Cards XI",
 		"category": "transition",
 		"description": "Awesome iOS 11 AppStore's Card Views.",

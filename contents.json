@@ -5363,7 +5363,7 @@
        "title": "RequestPermission",
        "category": "permissions",
        "description": "Simple permission request with beautiful UI.",
-       "homepage": "https://github.com/IvanVorobei/RequestPermission"
+       "homepage": "https://github.com/IvanVorobei/SPPermission"
      }
   ]
 }

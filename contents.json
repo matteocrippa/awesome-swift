@@ -5348,9 +5348,9 @@
       "description": "CircleMenu is a simple, elegant UI menu with a circular layout and material design animations.",
       "homepage": "https://github.com/Ramotion/circle-menu"
     }, {
-      "title": "GithubAPI",
+      "title": "GitHubAPI",
       "category": "api",
-      "description": "Implementation of Github REST API v3",
+      "description": "Implementation of GitHub REST API v3",
       "homepage": "https://github.com/serhii-londar/GithubAPI"
     }, {
       "title": "Gliding Collection",

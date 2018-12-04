@@ -5369,6 +5369,12 @@
        "category": "permissions",
        "description": "Simple permission request with beautiful UI.",
        "homepage": "https://github.com/IvanVorobei/SPPermission"
+     },
+     {
+       "title": "Page-Control",
+       "category": "pagination",
+       "description": "💥 Beautiful, animated and highly customizable UIPageControl alternative.",
+       "homepage": "https://github.com/vovaseuruk/page-control"
      }
   ]
 }

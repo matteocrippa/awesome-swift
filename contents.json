@@ -5371,7 +5371,7 @@
        "homepage": "https://github.com/IvanVorobei/SPPermission"
      },
      {
-         "title": "Google"
+         "title": "Google",
          "category": "style-guides",
          "description": "This style guide is based on Apple’s excellent Swift standard library style and also incorporates feedback from usage across multiple Swift projects within Google.",
          "homepage": "https://google.github.io/swift/"

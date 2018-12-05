@@ -5371,6 +5371,12 @@
        "homepage": "https://github.com/IvanVorobei/SPPermission"
      },
      {
+       "title": "Google",
+       "category": "style-guides",
+       "description": "This style guide is based on Apple’s excellent Swift standard library style and also incorporates feedback from usage across multiple Swift projects within Google.",
+       "homepage": "https://google.github.io/swift/"
+     },
+     {
        "title": "Page-Control",
        "category": "pagination",
        "description": "💥 Beautiful, animated and highly customizable UIPageControl alternative.",

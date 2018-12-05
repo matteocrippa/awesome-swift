@@ -5375,6 +5375,21 @@
          "category": "style-guides",
          "description": "This style guide is based on Apple’s excellent Swift standard library style and also incorporates feedback from usage across multiple Swift projects within Google.",
          "homepage": "https://google.github.io/swift/"
-     }
+     },
+     {
+      "title": "WeAre",
+      "category": "Augmented Reality",
+      "description": "photo album of AR",
+      "source": "https://github.com/SherlockQi/HeavenMemoirs",
+      "homepage": "https://github.com/SherlockQi",
+      "itunes": "https://itunes.apple.com/app/id1234567890",		
+      "stars": 427,     
+      "tags": [
+        "swift",
+        "arkit"
+       ],
+      "date_added": "Dec 5 2018",
+      "suggested_by": "@github_heikki"
+      }
   ]
 }

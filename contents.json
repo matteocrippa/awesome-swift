@@ -652,7 +652,7 @@
       "title": "SwiftGuide CN",
       "category": "third-party-guides",
       "description": "A Chinese written guide.",
-      "homepage": "https://github.com/ipader/SwiftGuide"
+      "homepage": "https://github.com/ipader/awesome-swift"
     }, {
      "title": "Ray Wenderlich Tutorials, Videos, Podcasts and books",
      "category": "third-party-guides",
@@ -4630,7 +4630,7 @@
       "title": "SectionScrubber",
       "category": "uitableview",
       "description": "A component to quickly scroll between collection view sections.",
-      "homepage": "https://github.com/bakkenbaeck/SectionScrubber"
+      "homepage": "https://github.com/3lvis/SectionScrubber"
     }, {
       "title": "Closures",
       "category": "utility",
@@ -4731,7 +4731,7 @@
       "title": "Viewer",
       "category": "images",
       "description": "Image viewer (or Lightbox) with support for local and remote videos and images.",
-      "homepage": "https://github.com/bakkenbaeck/Viewer"
+      "homepage": "https://github.com/3lvis/Viewer"
     }, {
       "title": "VueFlux",
       "category": "events",
@@ -4743,11 +4743,11 @@
       "description": "Publish and discover services using mDNS (Bonjour, Zeroconf).",
       "homepage": "https://github.com/AlTavares/Ciao"
     }, {
-	    "title": "ARVoxelKit",
-	    "category": "augmented-reality",
-	    "description": "Voxel graphic framework using ARKit.",
-	    "homepage": "https://github.com/VoxxxelAR/ARVoxelKit",
-	    "tags": ["AR", "augmented", "reality", "voxel"]
+      "title": "ARVoxelKit",
+      "category": "augmented-reality",
+      "description": "Voxel graphic framework using ARKit.",
+      "homepage": "https://github.com/VoxxxelAR/ARVoxelKit",
+      "tags": ["AR", "augmented", "reality", "voxel"]
     }, {
       "title": "Chronology",
       "category": "date",
@@ -5030,11 +5030,11 @@
       "description": "Poi makes you use card UI like tinder UI .You can use it like tableview method.",
       "homepage": "https://github.com/HideakiTouhara/Poi"
     }, {
-	    "title": "DNWebSocket",
-	    "category": "socket",
-	    "description": "Object-Oriented, Autobahn tested WebSocket Library (RFC 6455) for Swift-compatible Platforms.",
-	    "homepage": "https://github.com/GlebRadchenko/DNWebSocket",
-	    "tags": ["websocket", "socket", "io", "network", "networking"]
+      "title": "DNWebSocket",
+      "category": "socket",
+      "description": "Object-Oriented, Autobahn tested WebSocket Library (RFC 6455) for Swift-compatible Platforms.",
+      "homepage": "https://github.com/GlebRadchenko/DNWebSocket",
+      "tags": ["websocket", "socket", "io", "network", "networking"]
     }, {
       "title": "ClassicKit",
       "category": "ui",

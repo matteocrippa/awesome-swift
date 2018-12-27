@@ -5388,6 +5388,11 @@
        "description": "Elegantly, Apply style to UIKit using Method Chain.",
        "homepage": "https://github.com/shindyu/ApplyStyleKit",
        "tags": ["swift", "methodchain", "design", "ios"]
+     }, {
+       "title": "Model2App",
+       "category": "misc",
+       "description": "Turn your Swift data model into a working CRUD app.",
+       "homepage": "https://github.com/Q-Mobile/Model2App"
      }
   ]
 }

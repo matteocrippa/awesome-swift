@@ -5393,6 +5393,11 @@
        "category": "misc",
        "description": "Turn your Swift data model into a working CRUD app.",
        "homepage": "https://github.com/Q-Mobile/Model2App"
-     }
+     }, {
+      "title": "HidesNavigationBarWhenPushed",
+      "category": "ui",
+      "description": "A library, which adds the ability to hide navigation bar when view controller is pushed via hidesNavigationBarWhenPushed flag.",
+      "homepage": "https://github.com/gontovnik/HidesNavigationBarWhenPushed"
+    }
   ]
 }

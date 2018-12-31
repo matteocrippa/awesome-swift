@@ -5358,41 +5358,46 @@
       "description": "Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Controller.",
       "homepage": "https://github.com/Ramotion/gliding-collection"
     }, {
-       "title": "WeakableSelf",
-       "category": "utility",
-       "description": "A micro-framework to encapsulate [weak self] and guard statements within closures.",
-       "homepage": "https://github.com/vincent-pradeilles/weakable-self"
+      "title": "WeakableSelf",
+      "category": "utility",
+      "description": "A micro-framework to encapsulate [weak self] and guard statements within closures.",
+      "homepage": "https://github.com/vincent-pradeilles/weakable-self"
      }, {
-       "title": "RequestPermission",
-       "category": "permissions",
-       "description": "Simple permission request with beautiful UI.",
-       "homepage": "https://github.com/IvanVorobei/SPPermission"
+      "title": "RequestPermission",
+      "category": "permissions",
+      "description": "Simple permission request with beautiful UI.",
+      "homepage": "https://github.com/IvanVorobei/SPPermission"
      }, {
-         "title": "Google",
-         "category": "style-guides",
-         "description": "This style guide is based on Apple’s excellent Swift standard library style and also incorporates feedback from usage across multiple Swift projects within Google.",
-         "homepage": "https://google.github.io/swift/"
+      "title": "Google",
+      "category": "style-guides",
+      "description": "This style guide is based on Apple’s excellent Swift standard library style and also incorporates feedback from usage across multiple Swift projects within Google.",
+      "homepage": "https://google.github.io/swift/"
      }, {
-       	"title": "paper-switch",
-	"category": "switch",
-	"description": "RAMPaperSwitch is a Swift material design UI module which paints over the parent view when the switch is turned on.",
-	"homepage": "https://github.com/Ramotion/paper-switch"
+      "title": "paper-switch",
+      "category": "switch",
+      "description": "RAMPaperSwitch is a Swift material design UI module which paints over the parent view when the switch is turned on.",
+      "homepage": "https://github.com/Ramotion/paper-switch"
      }, {
-        "title": "OverlayContainer",
-        "category": "ui",
-        "description": "OverlayContainer makes it easier to develop overlay based interfaces, such as the one presented in the Apple Maps or Stocks apps.",
-        "homepage": "https://github.com/applidium/ADOverlayContainer"
+      "title": "OverlayContainer",
+      "category": "ui",
+      "description": "OverlayContainer makes it easier to develop overlay based interfaces, such as the one presented in the Apple Maps or Stocks apps.",
+      "homepage": "https://github.com/applidium/ADOverlayContainer"
      }, {
-       "title": "ApplyStyleKit",
-       "category": "utility",
-       "description": "Elegantly, Apply style to UIKit using Method Chain.",
-       "homepage": "https://github.com/shindyu/ApplyStyleKit",
-       "tags": ["swift", "methodchain", "design", "ios"]
+      "title": "ApplyStyleKit",
+      "category": "utility",
+      "description": "Elegantly, Apply style to UIKit using Method Chain.",
+      "homepage": "https://github.com/shindyu/ApplyStyleKit",
+      "tags": ["swift", "methodchain", "design", "ios"]
      }, {
-       "title": "Model2App",
-       "category": "misc",
-       "description": "Turn your Swift data model into a working CRUD app.",
-       "homepage": "https://github.com/Q-Mobile/Model2App"
+      "title": "Model2App",
+      "category": "misc",
+      "description": "Turn your Swift data model into a working CRUD app.",
+      "homepage": "https://github.com/Q-Mobile/Model2App"
+     }, {
+      "title": "SwiftFFmpeg",
+      "category": "video",
+      "description": "A Swift wrapper for the FFmpeg C API.",
+      "homepage": "https://github.com/sunlubo/SwiftFFmpeg"
      }, {
       "title": "HidesNavigationBarWhenPushed",
       "category": "ui",

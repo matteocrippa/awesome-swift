@@ -4728,6 +4728,11 @@
       "description": "An iOS picker view to serve all your 'picking' needs.",
       "homepage": "https://github.com/blueapron/Mandoline"
     }, {
+      "title": "YMTreeMap",
+      "category": "ui",
+      "description": "Treemap / Heatmap layout engine, based on Squarified",
+      "homepage": "https://github.com/yahoo/YMTreeMap"
+    }, {
       "title": "Viewer",
       "category": "images",
       "description": "Image viewer (or Lightbox) with support for local and remote videos and images.",

@@ -1421,6 +1421,11 @@
       "description": "Modern interface to UserDefaults + Codable support.",
       "homepage": "https://github.com/Nirma/Default"
     }, {
+      "title": "YMCache",
+      "category": "key-value-store",
+      "description": "Simple blazing fast key-value store, designed to power realtime market feed for Yahoo Finance app.",
+      "homepage": "https://github.com/yahoo/YMCache"
+    }, {
       "title": "MongoKitten",
       "category": "mongodb",
       "description": "MongoDB Connector.",

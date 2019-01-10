@@ -5403,6 +5403,11 @@
       "category": "ui",
       "description": "A library, which adds the ability to hide navigation bar when view controller is pushed via hidesNavigationBarWhenPushed flag.",
       "homepage": "https://github.com/gontovnik/HidesNavigationBarWhenPushed"
+    }, {
+      "title": "ZamzamKit",
+      "category": "utility",
+      "description": "A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.",
+      "homepage": "https://github.com/ZamzamInc/ZamzamKit"
     }
   ]
 }

@@ -5403,6 +5403,12 @@
       "category": "ui",
       "description": "A library, which adds the ability to hide navigation bar when view controller is pushed via hidesNavigationBarWhenPushed flag.",
       "homepage": "https://github.com/gontovnik/HidesNavigationBarWhenPushed"
+     }, {
+      "title": "Soundable",
+      "category": "audio",
+      "description": "Soundable allows you to play sounds, single and in sequence, in a very easy way.",
+      "homepage": "https://github.com/ThXou/Soundable",
+      "tags": ["avfoundation", "sound", "audio", "avaudioplayer", "avqueueplayer", "avaudiosession", "ios", "swift"]
     }, {
       "title": "ZamzamKit",
       "category": "utility",

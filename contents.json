@@ -5405,10 +5405,10 @@
       "homepage": "https://github.com/gontovnik/HidesNavigationBarWhenPushed"
      }, {
       "title": "Soundable",
-	    "category": "audio",
-	    "description": "Soundable allows you to play sounds, single and in sequence, in a very easy way.",
-	    "homepage": "https://github.com/ThXou/Soundable",
-	    "tags": ["avfoundation", "sound", "audio", "avaudioplayer", "avqueueplayer", "avaudiosession", "ios", "swift"]
+      "category": "audio",
+      "description": "Soundable allows you to play sounds, single and in sequence, in a very easy way.",
+      "homepage": "https://github.com/ThXou/Soundable",
+      "tags": ["avfoundation", "sound", "audio", "avaudioplayer", "avqueueplayer", "avaudiosession", "ios", "swift"]
     }, {
       "title": "ZamzamKit",
       "category": "utility",

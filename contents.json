@@ -777,7 +777,7 @@
     }, {
       "title": "Comets",
       "category": "animation",
-      "description": "Comets: Animating Particles in Swift.",
+      "description": "Animating Particles.",
       "homepage": "https://github.com/cruisediary/Comets"
     }, {
       "title": "DKChainableAnimationKit",
@@ -970,7 +970,7 @@
     }, {
       "title": "Pure",
       "category": "dependency-injection",
-      "description": "Pure DI in Swift",
+      "description": "A way to do a dependency injection without a DI container.",
       "homepage": "https://github.com/devxoul/Pure"
     }, {
       "title": "Swinject",
@@ -1081,7 +1081,7 @@
     }, {
       "title": "SwiftGen-Colors",
       "category": "colors",
-      "description": "A tool to auto-generate Swift `enums` for your `UIColor` constants.",
+      "description": "A tool to auto-generate `enums` for your `UIColor` constants.",
       "homepage": "https://github.com/SwiftGen/SwiftGen#uicolor"
     }, {
       "title": "SwiftHEXColors",
@@ -1323,7 +1323,7 @@
     }, {
       "title": "HandyJSON",
       "category": "json",
-      "description": "A handy Swift JSON-object serialization/deserialization library.",
+      "description": "A handy JSON-object serialization/deserialization library.",
       "homepage": "https://github.com/alibaba/handyjson"
     }, {
       "title": "Himotoki",
@@ -1378,7 +1378,7 @@
     }, {
       "title": "PMJSON",
       "category": "json",
-      "description": "Pure Swift JSON encoding/decoding library.",
+      "description": "JSON encoding/decoding library.",
       "homepage": "https://github.com/postmates/PMJSON"
     }, {
       "title": "YamlSwift",
@@ -1601,7 +1601,7 @@
     }, {
       "title": "Tomorrowland",
       "category": "events",
-      "description": "Lightweight Promises for Swift & Obj-C.",
+      "description": "Lightweight Promises.",
       "homepage": "https://github.com/kballard/Tomorrowland"
     }, {
       "title": "Notificationz",
@@ -1626,7 +1626,7 @@
     }, {
       "title": "RxSwift",
       "category": "events",
-      "description": "Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.",
+      "description": "Microsoft Reactive Extensions (Rx).",
       "homepage": "https://github.com/ReactiveX/RxSwift"
     }, {
       "title": "Signals",
@@ -1666,7 +1666,7 @@
     }, {
       "title": "PMKVObserver",
       "category": "events",
-      "description": "Modern thread-safe and type-safe key-value observing for Swift and Objective-C.",
+      "description": "Modern thread-safe and type-safe key-value observing.",
       "homepage": "https://github.com/postmates/PMKVObserver/"
     },{
       "title": "TopicEventBus",
@@ -1787,12 +1787,12 @@
     }, {
       "title": "GPUImage 2",
       "category": "images",
-      "description": "GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.",
+      "description": "GPUImage 2 is a BSD-licensed framework for GPU-accelerated video and image processing.",
       "homepage": "https://github.com/BradLarson/GPUImage2"
     }, {
       "title": "GPUImage 3",
       "category": "images",
-      "description": "GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.",
+      "description": "GPUImage 3 is a BSD-licensed framework for GPU-accelerated video and image processing using Metal.",
       "homepage": "https://github.com/BradLarson/GPUImage3"
     }, {
       "title": "HanekeSwift",
@@ -1948,7 +1948,7 @@
     }, {
       "title": "PinLayout",
       "category": "layout",
-      "description": "Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS]",
+      "description": "Fast Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS]",
       "homepage": "https://github.com/layoutBox/PinLayout"
     }, {
       "title": "Stevia",
@@ -2266,7 +2266,7 @@
     }, {
       "title": "PMHTTP",
       "category": "network",
-      "description": "Swift/Obj-C HTTP framework with a focus on REST and JSON.",
+      "description": "HTTP framework with a focus on REST and JSON.",
       "homepage": "https://github.com/postmates/PMHTTP"
     }, {
       "title": "Fuzi",
@@ -2449,7 +2449,7 @@
     }, {
       "title": "SCrypto",
       "category": "cryptography",
-      "description": "Elegant Swift interface to access the CommonCrypto routines.",
+      "description": "Elegant interface to access the CommonCrypto routines.",
       "homepage": "https://github.com/sgl0v/scrypto"
     }, {
       "title": "Siphash",
@@ -2747,7 +2747,7 @@
     }, {
       "title": "Animated Tab Bar",
       "category": "tab",
-      "description": "RAMAnimatedTabBarController is a Swift module for adding animation to tab bar items.",
+      "description": "RAMAnimatedTabBarController is a module for adding animation to tab bar items.",
       "homepage": "https://github.com/Ramotion/animated-tab-bar"
     }, {
       "title": "BreakOutToRefresh",
@@ -4023,7 +4023,7 @@
     {
       "title": "SwifterSwift",
       "category": "utility",
-      "description": "A handy collection of more than 500 native Swift extensions to boost your productivity.",
+      "description": "A handy collection of more than 500 native extensions to boost your productivity.",
       "homepage": "https://github.com/SwifterSwift/SwifterSwift",
       "tags": ["extensions", "ios"]
     },
@@ -4578,7 +4578,7 @@
     }, {
       "title": "VegaScroll",
       "category": "uicollectionview",
-      "description": "Lightweight animation flowlayout for UICollectionView completely written in Swift.",
+      "description": "Lightweight animation flowlayout for UICollectionView.",
       "homepage": "https://github.com/AppliKeySolutions/VegaScroll"
     }, {
       "title": "MediaBrowser",
@@ -4683,7 +4683,7 @@
     }, {
       "title": "TSAO",
       "category": "utility",
-      "description": "Type-Safe Associated Objects in Swift.",
+      "description": "Type-Safe Associated Objects.",
       "homepage": "https://github.com/kballard/swift-tsao"
     }, {
       "title": "AXPhotoViewer",
@@ -4696,17 +4696,17 @@
       "description": "An elegant way to show users that something is happening and also prepare them to which contents he is waiting.",
       "homepage": "https://github.com/Juanpe/SkeletonView"
     }, {
-  		"title": "RxWebSocket",
-  		"category": "socket",
-  		"description": "Reactive WebSockets.",
-  		"homepage": "https://github.com/fjcaetano/RxWebSocket",
-  		"tags": ["reactive", "rxswift"]
+      "title": "RxWebSocket",
+      "category": "socket",
+      "description": "Reactive WebSockets.",
+      "homepage": "https://github.com/fjcaetano/RxWebSocket",
+      "tags": ["reactive", "rxswift"]
     }, {
-  		"title": "ReCaptcha",
-  		"category": "authentication",
-  		"description": "[In]visible ReCaptcha for iOS.",
-  		"homepage": "https://github.com/fjcaetano/ReCaptcha",
-  		"tags": ["google", "reactive", "rxswift", "webview"]
+      "title": "ReCaptcha",
+      "category": "authentication",
+      "description": "[In]visible ReCaptcha for iOS.",
+      "homepage": "https://github.com/fjcaetano/ReCaptcha",
+      "tags": ["google", "reactive", "rxswift", "webview"]
     }, {
       "title": "FlowingMenu",
       "category": "menu",
@@ -5032,7 +5032,7 @@
     }, {
       "title": "DNWebSocket",
       "category": "socket",
-      "description": "Object-Oriented, Autobahn tested WebSocket Library (RFC 6455) for Swift-compatible Platforms.",
+      "description": "Object-Oriented, Autobahn tested WebSocket Library (RFC 6455).",
       "homepage": "https://github.com/GlebRadchenko/DNWebSocket",
       "tags": ["websocket", "socket", "io", "network", "networking"]
     }, {
@@ -5144,7 +5144,7 @@
     }, {
       "title": "FluentQuery",
       "category": "utility",
-      "description": "Powerful and easy to use Swift Query Builder.",
+      "description": "Powerful and easy to use Query Builder.",
       "homepage": "https://github.com/MihaelIsaev/FluentQuery",
       "tags": ["linux"]
     }, {
@@ -5185,7 +5185,7 @@
     }, {
       "title": "DifferenceKit",
       "category": "utility",
-      "description": "💻 A fast and flexible O(n) difference algorithm framework for Swift collection.",
+      "description": "💻 A fast and flexible O(n) difference algorithm framework.",
       "homepage": "https://github.com/ra1028/DifferenceKit"
     }, {
       "title": "Disk",
@@ -5375,7 +5375,7 @@
      }, {
       "title": "paper-switch",
       "category": "switch",
-      "description": "RAMPaperSwitch is a Swift material design UI module which paints over the parent view when the switch is turned on.",
+      "description": "RAMPaperSwitch is a material design UI module which paints over the parent view when the switch is turned on.",
       "homepage": "https://github.com/Ramotion/paper-switch"
      }, {
       "title": "OverlayContainer",
@@ -5391,12 +5391,12 @@
      }, {
       "title": "Model2App",
       "category": "misc",
-      "description": "Turn your Swift data model into a working CRUD app.",
+      "description": "Turn your data model into a working CRUD app.",
       "homepage": "https://github.com/Q-Mobile/Model2App"
      }, {
       "title": "SwiftFFmpeg",
       "category": "video",
-      "description": "A Swift wrapper for the FFmpeg C API.",
+      "description": "A wrapper for the FFmpeg C API.",
       "homepage": "https://github.com/sunlubo/SwiftFFmpeg"
      }, {
       "title": "HidesNavigationBarWhenPushed",

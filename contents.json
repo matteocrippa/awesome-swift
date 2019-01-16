@@ -5414,6 +5414,11 @@
       "category": "utility",
       "description": "A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.",
       "homepage": "https://github.com/ZamzamInc/ZamzamKit"
+    }, {
+      "title": "CarLensCollectionViewLayout",
+      "category": "uicollectionview",
+      "description": "An easy-to-use Collection View Layout for card-like animation.",
+      "homepage": "https://github.com/netguru/CarLensCollectionViewLayout"
     }
   ]
 }

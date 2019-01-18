@@ -1072,7 +1072,7 @@
       "title": "Hue",
       "category": "colors",
       "description": "Hue is the all-in-one coloring utility that you'll ever need.",
-      "homepage": "https://github.com/hyperoslo/Hue"
+      "homepage": "https://github.com/zenangst/Hue"
     }, {
       "title": "PrettyColors",
       "category": "colors",
@@ -3400,7 +3400,7 @@
       "title": "MFCard",
       "category": "payment",
       "description": "Easily integrate Credit Card payments in iOS App.",
-      "homepage": "https://github.com/RC7770/MFCard"
+      "homepage": "https://github.com/MobileFirstInc/MFCard"
     }, {
       "title": "Permission",
       "category": "permissions",

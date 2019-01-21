@@ -1602,7 +1602,7 @@
       "title": "Tomorrowland",
       "category": "events",
       "description": "Lightweight Promises.",
-      "homepage": "https://github.com/kballard/Tomorrowland"
+      "homepage": "https://github.com/lilyball/Tomorrowland"
     }, {
       "title": "Notificationz",
       "category": "events",
@@ -2253,11 +2253,6 @@
       "category": "network",
       "description": "Lightweight network abstraction layer, written on top of Alamofire.",
       "homepage": "https://github.com/MLSDev/TRON"
-    }, {
-      "title": "PerfectAPIClient",
-      "category": "network",
-      "description": "An API Client based on a network abstraction layer for the Perfect Server-Side Framework.",
-      "homepage": "https://github.com/SvenTiigi/PerfectAPIClient"
     }, {
       "title": "MultiPeer",
       "category": "network",
@@ -4684,7 +4679,7 @@
       "title": "TSAO",
       "category": "utility",
       "description": "Type-Safe Associated Objects.",
-      "homepage": "https://github.com/kballard/swift-tsao"
+      "homepage": "https://github.com/lilyball/swift-tsao"
     }, {
       "title": "AXPhotoViewer",
       "category": "images",

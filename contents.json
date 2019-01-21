@@ -5328,6 +5328,11 @@
       "homepage": "https://github.com/bakhtiyork/Rough",
       "tags": ["swift", "sketchy", "hand-drawn"]
     }, {
+      "title": "iOS project template",
+      "category": "boilerplates",
+      "description": "iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.",
+      "homepage": "https://github.com/messeb/ios-project-template"
+    }, {
       "title": "Pixel",
       "category": "images",
       "description": "An image editor and engine using CoreImage.",

@@ -5427,7 +5427,7 @@
     }, {
       "title": "DGElasticPullToRefresh",
       "category": "uitableview",
-      "description": "Elastic pull to refresh for iOS.",
+      "description": "Elastic pull to refresh.",
       "homepage": "https://github.com/gontovnik/DGElasticPullToRefresh"
     }
   ]

@@ -5424,6 +5424,11 @@
       "category": "uicollectionview",
       "description": "An easy-to-use Collection View Layout for card-like animation.",
       "homepage": "https://github.com/netguru/CarLensCollectionViewLayout"
+    }, {
+      "title": "DGElasticPullToRefresh",
+      "category": "uitableview",
+      "description": "Elastic pull to refresh.",
+      "homepage": "https://github.com/gontovnik/DGElasticPullToRefresh"
     }
   ]
 }

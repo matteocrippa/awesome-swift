@@ -5429,6 +5429,11 @@
       "category": "uitableview",
       "description": "Elastic pull to refresh.",
       "homepage": "https://github.com/gontovnik/DGElasticPullToRefresh"
+    }, {
+      "title": "SPPermission",
+      "category": "permissions",
+      "description": "Simple request permission with native UI and interactive animation.",
+      "homepage": "https://github.com/IvanVorobei/SPPermission"
     }
   ]
 }

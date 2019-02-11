@@ -5429,6 +5429,11 @@
       "category": "uitableview",
       "description": "Elastic pull to refresh.",
       "homepage": "https://github.com/gontovnik/DGElasticPullToRefresh"
+    }, {
+      "title": "CoreXLSX",
+      "category": "other-data",
+      "description": "Excel spreadsheet (XLSX) format support.",
+      "homepage": "https://github.com/MaxDesiatov/CoreXLSX"
     }
   ]
 }

@@ -3465,7 +3465,7 @@
       "title": "DTTableViewManager",
       "category": "uitableview",
       "description": "Protocol-oriented UITableView management, powered by generics and associated types.",
-      "homepage": "https://github.com/DenHeadless/DTTableViewManager"
+      "homepage": "https://github.com/DenTelezhkin/DTTableViewManager"
     }, {
       "title": "folding-cell",
       "category": "uitableview",

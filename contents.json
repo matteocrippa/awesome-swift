@@ -1813,7 +1813,7 @@
       "title": "JLStickerTextView",
       "category": "images",
       "description": "A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.",
-      "homepage": "https://github.com/luiyezheng/JLStickerTextView"
+      "homepage": "https://github.com/Textcat/JLStickerTextView"
     }, {
       "title": "Kingfisher",
       "category": "images",

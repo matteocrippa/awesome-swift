@@ -1029,6 +1029,11 @@
       "description": "Rad Media Capture.",
       "homepage": "https://github.com/NextLevel/NextLevel"
     }, {
+      "title": "CameraKit-iOS",
+      "category": "camera",
+      "description": "Massively increase camera performance and ease of use in your next project.",
+      "homepage": "https://github.com/CameraKit/camerakit-ios"
+    }, {
       "title": "BarcodeScanner",
       "category": "barcode",
       "description": "A simple and beautiful barcode scanner view controller.",

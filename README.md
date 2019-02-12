@@ -1388,7 +1388,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [AREK](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
 * [Permission](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - A Periscope-inspired way to ask for iOS permissions.
-* [RequestPermission](https://github.com/IvanVorobei/SPPermission) - Simple permission request with beautiful UI.
+* [SPPermission](https://github.com/IvanVorobei/SPPermission) - Simple request permission with native UI and interactive animation.
 
 #### StackView
 [back to top](#readme) 

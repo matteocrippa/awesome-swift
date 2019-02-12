@@ -5368,9 +5368,9 @@
       "description": "A micro-framework to encapsulate [weak self] and guard statements within closures.",
       "homepage": "https://github.com/vincent-pradeilles/weakable-self"
      }, {
-      "title": "RequestPermission",
+      "title": "SPPermission",
       "category": "permissions",
-      "description": "Simple permission request with beautiful UI.",
+      "description": "Simple request permission with native UI and interactive animation.",
       "homepage": "https://github.com/IvanVorobei/SPPermission"
      }, {
       "title": "Google",

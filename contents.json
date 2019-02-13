@@ -5437,7 +5437,7 @@
     }, {
       "title": "XMLCoder",
       "category": "xml",
-      "description": "XMLEncoder & XMLDecoder based on Codable protocols from the Swift standard library",
+      "description": "XMLEncoder & XMLDecoder based on Codable protocols from the standard library",
       "homepage": "https://github.com/MaxDesiatov/XMLCoder"
     }
   ]

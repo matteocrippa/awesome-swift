@@ -5434,6 +5434,11 @@
       "category": "other-data",
       "description": "Excel spreadsheet (XLSX) format support.",
       "homepage": "https://github.com/MaxDesiatov/CoreXLSX"
+    }, {
+      "title": "XMLCoder",
+      "category": "xml",
+      "description": "XMLEncoder & XMLDecoder based on Codable protocols from the Swift standard library",
+      "homepage": "https://github.com/MaxDesiatov/XMLCoder"
     }
   ]
 }

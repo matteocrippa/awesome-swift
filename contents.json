@@ -1029,6 +1029,11 @@
       "description": "Rad Media Capture.",
       "homepage": "https://github.com/NextLevel/NextLevel"
     }, {
+      "title": "CameraKit-iOS",
+      "category": "camera",
+      "description": "Massively increase camera performance and ease of use in your next project.",
+      "homepage": "https://github.com/CameraKit/camerakit-ios"
+    }, {
       "title": "BarcodeScanner",
       "category": "barcode",
       "description": "A simple and beautiful barcode scanner view controller.",
@@ -5434,6 +5439,11 @@
       "category": "other-data",
       "description": "Excel spreadsheet (XLSX) format support.",
       "homepage": "https://github.com/MaxDesiatov/CoreXLSX"
+    }, {
+      "title": "XMLCoder",
+      "category": "xml",
+      "description": "XMLEncoder & XMLDecoder based on Codable protocols from the standard library",
+      "homepage": "https://github.com/MaxDesiatov/XMLCoder"
     }, {
       "title": "Carbon",
       "category": "utility",

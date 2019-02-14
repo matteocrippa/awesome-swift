@@ -5444,6 +5444,11 @@
       "category": "xml",
       "description": "XMLEncoder & XMLDecoder based on Codable protocols from the standard library",
       "homepage": "https://github.com/MaxDesiatov/XMLCoder"
+    }, {
+      "title": "Swiftbot",
+      "category": "utility",
+      "description": "run swift code on slack.",
+      "homepage": "https://github.com/noppefoxwolf/Swiftbot"
     }
   ]
 }

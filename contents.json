@@ -963,6 +963,11 @@
       "description": "Instagram API wrapper.",
       "homepage": "https://github.com/AnderGoig/SwiftInstagram"
     }, {
+      "title": "SwiftyInsta",
+      "category": "api",
+      "description": "Private and Tokenless Instagram RESTful API.",
+      "homepage": "https://github.com/TheM4hd1/SwiftyInsta"
+    }, {
       "title": "InstagramLogin",
       "category": "authentication",
       "description": "Simple way to authenticate Instagram accounts.",

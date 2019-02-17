@@ -5445,6 +5445,11 @@
       "description": "XMLEncoder & XMLDecoder based on Codable protocols from the standard library",
       "homepage": "https://github.com/MaxDesiatov/XMLCoder"
     }, {
+      "title": "EZLayout",
+      "category": "auto-layout",
+      "description": "An easier and faster way to code Autolayout.",
+      "homepage": "https://github.com/alexliubj/EZAnchor"
+    }, {
       "title": "Swiftbot",
       "category": "utility",
       "description": "run swift code on slack.",

@@ -5447,8 +5447,13 @@
     }, {
       "title": "EZLayout",
       "category": "auto-layout",
-      "description": "An easier and faster way to code Autolayout",
+      "description": "An easier and faster way to code Autolayout.",
       "homepage": "https://github.com/alexliubj/EZAnchor"
+    }, {
+      "title": "Swiftbot",
+      "category": "utility",
+      "description": "run swift code on slack.",
+      "homepage": "https://github.com/noppefoxwolf/Swiftbot"
     }
   ]
 }

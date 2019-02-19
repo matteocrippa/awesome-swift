@@ -963,6 +963,11 @@
       "description": "Instagram API wrapper.",
       "homepage": "https://github.com/AnderGoig/SwiftInstagram"
     }, {
+      "title": "SwiftyInsta",
+      "category": "api",
+      "description": "Private and Tokenless Instagram RESTful API.",
+      "homepage": "https://github.com/TheM4hd1/SwiftyInsta"
+    }, {
       "title": "InstagramLogin",
       "category": "authentication",
       "description": "Simple way to authenticate Instagram accounts.",
@@ -5446,9 +5451,19 @@
       "homepage": "https://github.com/MaxDesiatov/XMLCoder"
     }, {
       "title": "Carbon",
-      "category": "utility",
+      "category": "form",
       "description": "🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.",
       "homepage": "https://github.com/ra1028/Carbon"
+    },
+      "title": "EZLayout",
+      "category": "auto-layout",
+      "description": "An easier and faster way to code Autolayout.",
+      "homepage": "https://github.com/alexliubj/EZAnchor"
+    }, {
+      "title": "Swiftbot",
+      "category": "utility",
+      "description": "run swift code on slack.",
+      "homepage": "https://github.com/noppefoxwolf/Swiftbot"
     }
   ]
 }

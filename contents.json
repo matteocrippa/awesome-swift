@@ -5464,6 +5464,11 @@
       "category": "utility",
       "description": "run swift code on slack.",
       "homepage": "https://github.com/noppefoxwolf/Swiftbot"
+    }, {
+      "title": "VKPinCodeView",
+      "category": "textfield",
+      "description": "Simple and elegant UI component for input PIN",
+      "homepage": "https://github.com/Sunspension/VKPinCodeView"
     }
   ]
 }

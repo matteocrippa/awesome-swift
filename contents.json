@@ -5470,6 +5470,11 @@
       "description": "run swift code on slack.",
       "homepage": "https://github.com/noppefoxwolf/Swiftbot"
     }, {
+      "title": "Real-time Chat with Firebase",
+      "category": "chat",
+      "description": "Functional real-time chat app with Firebase Firestore using MessageKit.",
+      "homepage": "https://github.com/instamobile/messenger-iOS-chat-swift-firestore"
+    }, {
       "title": "CollapsibleTableSectionViewController",
       "category": "uitableview",
       "description": "A library to support collapsible sections in a table view.",

@@ -4872,6 +4872,11 @@
       "description": "Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.",
       "homepage": "https://github.com/AfrozZaheer/AZCollectionViewController"
     }, {
+      "title": "GradientProgressBar",
+      "category": "ui",
+      "description": "An animated gradient progress bar.",
+      "homepage": "https://github.com/fxm90/GradientProgressBar"
+    }, {
       "title": "GradientLoadingBar",
       "category": "hud",
       "description": "An animated gradient loading bar.",
@@ -5469,6 +5474,11 @@
       "category": "chat",
       "description": "Functional real-time chat app with Firebase Firestore using MessageKit.",
       "homepage": "https://github.com/instamobile/messenger-iOS-chat-swift-firestore"
+    }, {
+      "title": "CollapsibleTableSectionViewController",
+      "category": "uitableview",
+      "description": "A library to support collapsible sections in a table view.",
+      "homepage": "https://github.com/jeantimex/CollapsibleTableSectionViewController"
     }
   ]
 }

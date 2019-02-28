@@ -5481,7 +5481,7 @@
       "homepage": "https://github.com/jeantimex/CollapsibleTableSectionViewController"
     }, {
       "title": "Loaf",
-      "category": "ui",
+      "category": "alert",
       "description": "A simple framework for easy iOS Toasts.",
       "homepage": "https://github.com/schmidyy/Loaf",
       "tags": ["toast", "alert"]

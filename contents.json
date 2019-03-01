@@ -5487,10 +5487,10 @@
       "tags": ["toast", "alert"]
     }, {
       "title": "CircleBar",
-      "category": "menu",
+      "category": "tab",
       "description": "A fun, easy-to-use tab bar navigation controller for iOS.",
       "homepage": "https://github.com/softhausHQ/CircleBar",
-      "tags": ["menu", "navigation"]
+      "tags": ["tab", "navigation"]
     }
   ]
 }

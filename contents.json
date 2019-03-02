@@ -2182,6 +2182,13 @@
       "description": "Powerful Codable API requests builder and manager for iOS. Based on Alamofire.",
       "homepage": "https://github.com/MihaelIsaev/CodyFire"
     }, {
+      "title": "Connectivity",
+      "category": "network",
+      "description": "🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.",
+      "homepage": "https://github.com/rwbutler/Connectivity",
+      "tags": ["swift", "connectivity", "reachability", "networking", "network", "connection"],
+      "swift": 4.2
+    }, {
       "title": "Heimdallr.swift",
       "category": "network",
       "description": "Easy to use OAuth 2 library for iOS.",

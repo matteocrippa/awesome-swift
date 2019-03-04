@@ -367,6 +367,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Capture & record ARKit videos, photos, Live Photos, and GIFs.
 * [ARVoxelKit](https://github.com/VoxxxelAR/ARVoxelKit) - Voxel graphic framework using ARKit.
 * [Poly](https://github.com/piemonte/Poly) - Unofficial Google Poly SDK – explore the world of 3D.
+* [WeAre](https://github.com/SherlockQi/HeavenMemoirs) - A photo album of AR.
 
 ### Authentication
 *Easy way to manage auth in your apps.* [back to top](#readme) 

@@ -5498,6 +5498,12 @@
       "description": "A fun, easy-to-use tab bar navigation controller for iOS.",
       "homepage": "https://github.com/softhausHQ/CircleBar",
       "tags": ["tab", "navigation"]
+    }, {
+      "title": "MemoryCache",
+      "category": "cache",
+      "description": "Type-safe memory cache.",
+      "homepage": "https://github.com/yysskk/MemoryCache",
+      "tags": ["cache", "utility"]
     }
   ]
 }

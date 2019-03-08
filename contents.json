@@ -2026,6 +2026,11 @@
       "description": "Easy interactive interruptible custom ViewController transitions.",
       "homepage": "https://github.com/Touchwonders/Transition"
     }, {
+      "title": "WKPullToDismiss",
+      "category": "transition",
+      "description": "Simple pull to dismiss interactive transition with (scroll-)views in just one line.",
+      "homepage": "https://github.com/stuffrabbit/WKPullToDismiss"
+    }, {
       "title": "BartyCrouch",
       "category": "localization",
       "description": "Incrementally update/translate your Strings files from Code and Storyboards/XIBs.",

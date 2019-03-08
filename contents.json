@@ -2958,6 +2958,11 @@
       "description": "Graceful morphing effects for UILabel.",
       "homepage": "https://github.com/lexrus/LTMorphingLabel"
     }, {
+      "title": "Doric Design System Foundation",
+      "category": "ui",
+      "description": "Protocol oriented, type safe, scalable design system foundation framework for iOS.",
+      "homepage": "https://github.com/jayeshk/Doric"
+    }, {
       "title": "MantleModal",
       "category": "ui",
       "description": "A simple modal resource that uses a UIScrollView to allow the user to close the modal by dragging it down.",

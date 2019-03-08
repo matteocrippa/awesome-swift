@@ -5504,6 +5504,12 @@
       "description": "Type-safe memory cache.",
       "homepage": "https://github.com/yysskk/MemoryCache",
       "tags": ["cache", "utility"]
+    }, {
+      "title": "Sejima",
+      "category": "UI",
+      "description": "Collection of User Interface components.",
+      "homepage": "https://github.com/MoveUpwards/Sejima",
+      "tags": ["UI", "components"]
     }
   ]
 }

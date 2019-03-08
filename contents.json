@@ -4639,6 +4639,11 @@
       "description": "An Xcode playground showcasing the new features in Swift 4.0.",
       "homepage": "https://github.com/ole/whats-new-in-swift-4"
     }, {
+      "title": "Conferences.digital",
+      "category": "third-party-guides",
+      "description": "Watch conference videos in a native macOS app.",
+      "homepage": "https://github.com/zagahr/Conferences.digital"
+    }, {
       "title": "Cachyr",
       "category": "cache",
       "description": "A small key-value data cache for iOS, macOS and tvOS.",

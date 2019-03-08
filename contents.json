@@ -5514,6 +5514,12 @@
       "description": "Type-safe memory cache.",
       "homepage": "https://github.com/yysskk/MemoryCache",
       "tags": ["cache", "utility"]
+    }, {
+      "title": "BedgeNotificHub",
+      "category": "ui",
+      "description": "Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.",
+      "homepage": "https://github.com/jogendra/BedgeNotificHub",
+      "tags": ["animation", "badge"]
     }
   ]
 }

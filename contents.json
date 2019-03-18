@@ -5523,7 +5523,7 @@
     }, {
       "title": "Tokamak",
       "category": "events",
-      "description": "React-like framework with a declarative, testable and scalable API for building native UI components with easy to use one-way data binding",
+      "description": "React-like framework with a declarative API for building native UI components with easy to use one-way data binding",
       "homepage": "https://github.com/MaxDesiatov/Tokamak",
       "tags": ["react", "redux"]
     }

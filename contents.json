@@ -5520,6 +5520,12 @@
       "description": "Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.",
       "homepage": "https://github.com/jogendra/BedgeNotificHub",
       "tags": ["animation", "badge"]
+    }, {
+      "title": "Tokamak",
+      "category": "events",
+      "description": "React-like framework with a declarative, testable and scalable API for building native UI components with easy to use one-way data binding",
+      "homepage": "https://github.com/MaxDesiatov/Tokamak",
+      "tags": ["react", "redux"]
     }
   ]
 }

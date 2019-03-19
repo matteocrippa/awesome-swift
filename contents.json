@@ -5520,6 +5520,11 @@
       "description": "Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.",
       "homepage": "https://github.com/jogendra/BedgeNotificHub",
       "tags": ["animation", "badge"]
+    }, {
+      "title": "RealmWrapper",
+      "category": "realm",
+      "description": "Safe and easy wrappers for RealmSwift.",
+      "homepage": "https://github.com/k-lpmg/RealmWrapper"
     }
   ]
 }

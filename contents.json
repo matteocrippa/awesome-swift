@@ -5525,6 +5525,12 @@
       "category": "realm",
       "description": "Safe and easy wrappers for RealmSwift.",
       "homepage": "https://github.com/k-lpmg/RealmWrapper"
+    }, {
+      "title": "Tokamak",
+      "category": "events",
+      "description": "React-like declarative API for building native UI components with easy to use one-way data binding.",
+      "homepage": "https://github.com/MaxDesiatov/Tokamak",
+      "tags": ["react", "redux"]
     }
   ]
 }

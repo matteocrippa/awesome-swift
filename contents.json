@@ -5531,6 +5531,12 @@
       "description": "React-like declarative API for building native UI components with easy to use one-way data binding.",
       "homepage": "https://github.com/MaxDesiatov/Tokamak",
       "tags": ["react", "redux"]
+    }, {
+      "title": "WeAre",
+      "category": "Augmented Reality",
+      "description": "AR photo album. ",
+      "homepage": "https://github.com/SherlockQi/HeavenMemoirs",
+      "tags": ["arkit", "open source"]
     }
   ]
 }

@@ -963,6 +963,11 @@
       "description": "Instagram API wrapper.",
       "homepage": "https://github.com/AnderGoig/SwiftInstagram"
     }, {
+      "title": "SwiftyInsta",
+      "category": "api",
+      "description": "Private and Tokenless Instagram RESTful API.",
+      "homepage": "https://github.com/TheM4hd1/SwiftyInsta"
+    }, {
       "title": "InstagramLogin",
       "category": "authentication",
       "description": "Simple way to authenticate Instagram accounts.",
@@ -1029,6 +1034,11 @@
       "description": "Rad Media Capture.",
       "homepage": "https://github.com/NextLevel/NextLevel"
     }, {
+      "title": "CameraKit-iOS",
+      "category": "camera",
+      "description": "Massively increase camera performance and ease of use in your next project.",
+      "homepage": "https://github.com/CameraKit/camerakit-ios"
+    }, {
       "title": "BarcodeScanner",
       "category": "barcode",
       "description": "A simple and beautiful barcode scanner view controller.",
@@ -1062,7 +1072,7 @@
       "title": "Gradients",
       "category": "colors",
       "description": "A curated collection of splendid 180+ gradients.",
-      "homepage": "https://github.com/cruisediary/Gradients"
+      "homepage": "https://github.com/Gradients/Gradients"
     }, {
       "title": "HexColor",
       "category": "colors",
@@ -1813,7 +1823,7 @@
       "title": "JLStickerTextView",
       "category": "images",
       "description": "A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.",
-      "homepage": "https://github.com/luiyezheng/JLStickerTextView"
+      "homepage": "https://github.com/Textcat/JLStickerTextView"
     }, {
       "title": "Kingfisher",
       "category": "images",
@@ -2171,6 +2181,13 @@
       "category": "network",
       "description": "Powerful Codable API requests builder and manager for iOS. Based on Alamofire.",
       "homepage": "https://github.com/MihaelIsaev/CodyFire"
+    }, {
+      "title": "Connectivity",
+      "category": "network",
+      "description": "🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.",
+      "homepage": "https://github.com/rwbutler/Connectivity",
+      "tags": ["swift", "connectivity", "reachability", "networking", "network", "connection"],
+      "swift": 4.2
     }, {
       "title": "Heimdallr.swift",
       "category": "network",
@@ -2941,6 +2958,11 @@
       "description": "Graceful morphing effects for UILabel.",
       "homepage": "https://github.com/lexrus/LTMorphingLabel"
     }, {
+      "title": "Doric Design System Foundation",
+      "category": "ui",
+      "description": "Protocol oriented, type safe, scalable design system foundation framework for iOS.",
+      "homepage": "https://github.com/jayeshk/Doric"
+    }, {
       "title": "MantleModal",
       "category": "ui",
       "description": "A simple modal resource that uses a UIScrollView to allow the user to close the modal by dragging it down.",
@@ -3465,7 +3487,7 @@
       "title": "DTTableViewManager",
       "category": "uitableview",
       "description": "Protocol-oriented UITableView management, powered by generics and associated types.",
-      "homepage": "https://github.com/DenHeadless/DTTableViewManager"
+      "homepage": "https://github.com/DenTelezhkin/DTTableViewManager"
     }, {
       "title": "folding-cell",
       "category": "uitableview",
@@ -4617,6 +4639,11 @@
       "description": "An Xcode playground showcasing the new features in Swift 4.0.",
       "homepage": "https://github.com/ole/whats-new-in-swift-4"
     }, {
+      "title": "Conferences.digital",
+      "category": "third-party-guides",
+      "description": "Watch conference videos in a native macOS app.",
+      "homepage": "https://github.com/zagahr/Conferences.digital"
+    }, {
       "title": "Cachyr",
       "category": "cache",
       "description": "A small key-value data cache for iOS, macOS and tvOS.",
@@ -4861,6 +4888,11 @@
       "category": "uicollectionview",
       "description": "Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.",
       "homepage": "https://github.com/AfrozZaheer/AZCollectionViewController"
+    }, {
+      "title": "GradientProgressBar",
+      "category": "ui",
+      "description": "An animated gradient progress bar.",
+      "homepage": "https://github.com/fxm90/GradientProgressBar"
     }, {
       "title": "GradientLoadingBar",
       "category": "hud",
@@ -5368,9 +5400,9 @@
       "description": "A micro-framework to encapsulate [weak self] and guard statements within closures.",
       "homepage": "https://github.com/vincent-pradeilles/weakable-self"
      }, {
-      "title": "RequestPermission",
+      "title": "SPPermission",
       "category": "permissions",
-      "description": "Simple permission request with beautiful UI.",
+      "description": "Simple request permission with native UI and interactive animation.",
       "homepage": "https://github.com/IvanVorobei/SPPermission"
      }, {
       "title": "Google",
@@ -5430,10 +5462,80 @@
       "description": "Elastic pull to refresh.",
       "homepage": "https://github.com/gontovnik/DGElasticPullToRefresh"
     }, {
-      "title": "SPPermission",
-      "category": "permissions",
-      "description": "Simple request permission with native UI and interactive animation.",
-      "homepage": "https://github.com/IvanVorobei/SPPermission"
+      "title": "CoreXLSX",
+      "category": "other-data",
+      "description": "Excel spreadsheet (XLSX) format support.",
+      "homepage": "https://github.com/MaxDesiatov/CoreXLSX"
+    }, {
+      "title": "XMLCoder",
+      "category": "xml",
+      "description": "XMLEncoder & XMLDecoder based on Codable protocols from the standard library",
+      "homepage": "https://github.com/MaxDesiatov/XMLCoder"
+    }, {
+      "title": "Carbon",
+      "category": "form",
+      "description": "🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.",
+      "homepage": "https://github.com/ra1028/Carbon"
+    }, {
+      "title": "EZLayout",
+      "category": "auto-layout",
+      "description": "An easier and faster way to code Autolayout.",
+      "homepage": "https://github.com/alexliubj/EZAnchor"
+    }, {
+      "title": "Swiftbot",
+      "category": "utility",
+      "description": "run swift code on slack.",
+      "homepage": "https://github.com/noppefoxwolf/Swiftbot"
+    }, {
+      "title": "Real-time Chat with Firebase",
+      "category": "chat",
+      "description": "Functional real-time chat app with Firebase Firestore using MessageKit.",
+      "homepage": "https://github.com/instamobile/messenger-iOS-chat-swift-firestore"
+    }, {
+      "title": "CollapsibleTableSectionViewController",
+      "category": "uitableview",
+      "description": "A library to support collapsible sections in a table view.",
+      "homepage": "https://github.com/jeantimex/CollapsibleTableSectionViewController"
+    }, {
+      "title": "Loaf",
+      "category": "alert",
+      "description": "A simple framework for easy iOS Toasts.",
+      "homepage": "https://github.com/schmidyy/Loaf",
+      "tags": ["toast", "alert"]
+    }, {
+      "title": "CircleBar",
+      "category": "tab",
+      "description": "A fun, easy-to-use tab bar navigation controller for iOS.",
+      "homepage": "https://github.com/softhausHQ/CircleBar",
+      "tags": ["tab", "navigation"]
+    }, {
+      "title": "MemoryCache",
+      "category": "cache",
+      "description": "Type-safe memory cache.",
+      "homepage": "https://github.com/yysskk/MemoryCache",
+      "tags": ["cache", "utility"]
+    }, {
+      "title": "BedgeNotificHub",
+      "category": "ui",
+      "description": "Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.",
+      "homepage": "https://github.com/jogendra/BedgeNotificHub",
+      "tags": ["animation", "badge"]
+    }, {
+      "title": "RealmWrapper",
+      "category": "realm",
+      "description": "Safe and easy wrappers for RealmSwift.",
+      "homepage": "https://github.com/k-lpmg/RealmWrapper"
+    }, {
+      "title": "Tokamak",
+      "category": "events",
+      "description": "React-like declarative API for building native UI components with easy to use one-way data binding.",
+      "homepage": "https://github.com/MaxDesiatov/Tokamak",
+      "tags": ["react", "redux"]
+    }, {
+      "title": "VEditorKit",
+      "category": "text",
+      "description": "Lightweight and Powerful Editor Kit.",
+      "homepage": "https://github.com/GeekTree0101/VEditorKit"
     }
   ]
 }

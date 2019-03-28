@@ -5531,6 +5531,11 @@
       "description": "React-like declarative API for building native UI components with easy to use one-way data binding.",
       "homepage": "https://github.com/MaxDesiatov/Tokamak",
       "tags": ["react", "redux"]
+    }, {
+      "title": "VEditorKit",
+      "category": "text",
+      "description": "Lightweight and Powerful Editor Kit.",
+      "homepage": "https://github.com/GeekTree0101/VEditorKit"
     }
   ]
 }

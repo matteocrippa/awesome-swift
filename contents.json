@@ -659,11 +659,6 @@
      "description": "High quality programming tutorials.",
      "homepage": "https://www.raywenderlich.com"
    }, {
-      "title": "WeeklyCocoa.News",
-      "category": "newsletter",
-      "description": "Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.",
-      "homepage": "https://weeklycocoa.news"
-    }, {
       "title": "Raywenderlich",
       "category": "style-guides",
       "description": "Raywenderlich guide, a must read.",

@@ -5531,6 +5531,11 @@
       "category": "text",
       "description": "Lightweight and Powerful Editor Kit.",
       "homepage": "https://github.com/GeekTree0101/VEditorKit"
+    }, {
+      "title": "Nantes",
+      "category": "label",
+      "description": "TTTAttributedLabel replacement.",
+      "homepage": "https://github.com/instacart/Nantes"
     }
   ]
 }

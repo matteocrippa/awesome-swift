@@ -5536,6 +5536,12 @@
       "category": "label",
       "description": "TTTAttributedLabel replacement.",
       "homepage": "https://github.com/instacart/Nantes"
+    }, {
+      "title": "JXSegmentedView",
+      "category": "pagination",
+      "description": "A powerful and easy to use segmented view (segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview).",
+      "homepage": "https://github.com/pujiaxin33/JXSegmentedView",
+      "tags": ["iOS", "swift", "pagination", "animation", "pagecontrol", "UIPageControl"]
     }
   ]
 }

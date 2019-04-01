@@ -659,11 +659,6 @@
      "description": "High quality programming tutorials.",
      "homepage": "https://www.raywenderlich.com"
    }, {
-      "title": "WeeklyCocoa.News",
-      "category": "newsletter",
-      "description": "Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.",
-      "homepage": "https://weeklycocoa.news"
-    }, {
       "title": "Raywenderlich",
       "category": "style-guides",
       "description": "Raywenderlich guide, a must read.",
@@ -2620,7 +2615,7 @@
       "title": "BonMot",
       "category": "text",
       "description": "Beautiful, easy attributed strings for iOS.",
-      "homepage": "https://github.com/Raizlabs/BonMot"
+      "homepage": "https://github.com/Rightpoint/BonMot"
     }, {
       "title": "edhita",
       "category": "text",
@@ -3091,7 +3086,7 @@
       "title": "SwiftTheme",
       "category": "styling",
       "description": "Powerful theme/skin manager for iOS 8+.",
-      "homepage": "https://github.com/jiecao-fm/SwiftTheme"
+      "homepage": "https://github.com/wxxsw/SwiftTheme"
     }, {
       "title": "DropDown",
       "category": "ui",
@@ -3956,7 +3951,7 @@
       "title": "DeviceKit",
       "category": "device",
       "description": "DeviceKit is a value-type replacement of UIDevice.",
-      "homepage": "https://github.com/dennisweissmann/DeviceKit"
+      "homepage": "https://github.com/devicekit/DeviceKit"
     }, {
       "title": "Koyomi",
       "category": "calendar",

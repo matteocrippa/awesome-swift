@@ -5536,6 +5536,12 @@
       "category": "label",
       "description": "TTTAttributedLabel replacement.",
       "homepage": "https://github.com/instacart/Nantes"
+    }, {
+      "title": "Pinwheel",
+      "category": "ui",
+      "description": "Alternative to the default UIActivityIndicatorView using the MacOS pinwheel spinner",
+      "homepage": "https://github.com/Astranno/Pinwheel",
+      "tags": ["animation", "activity", "indicator"]
     }
   ]
 }

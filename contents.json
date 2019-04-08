@@ -5536,6 +5536,11 @@
       "category": "label",
       "description": "TTTAttributedLabel replacement.",
       "homepage": "https://github.com/instacart/Nantes"
+    }, {
+      "title": "SecureDefaults",
+      "category": "key-value-store",
+      "description": "A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.",
+      "homepage": "https://github.com/vpeschenkov/SecureDefaults"
     }
   ]
 }

@@ -5546,6 +5546,11 @@
       "category": "utility",
       "description": "Extensions giving Codable API type inference super powers.",
       "homepage": "https://github.com/JohnSundell/Codextended"
+    }, {
+      "title": "AwaitToast",
+      "category": "alert",
+      "description": "🍞 Basic toast as well as async waiting toast. Inspired by facebook posting toast.",
+      "homepage": "https://github.com/k-lpmg/AwaitToast"
     }
   ]
 }

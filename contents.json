@@ -5544,7 +5544,7 @@
     }, {
       "title": "Codextended",
       "category": "utility",
-      "description": "xtensions giving Swift's Codable API type inference super powers.",
+      "description": "Extensions giving Codable API type inference super powers.",
       "homepage": "https://github.com/JohnSundell/Codextended"
     }
   ]

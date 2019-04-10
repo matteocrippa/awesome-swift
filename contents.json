@@ -5541,6 +5541,11 @@
       "category": "key-value-store",
       "description": "A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.",
       "homepage": "https://github.com/vpeschenkov/SecureDefaults"
+    }, {
+      "title": "Codextended",
+      "category": "utility",
+      "description": "Extensions giving Codable API type inference super powers.",
+      "homepage": "https://github.com/JohnSundell/Codextended"
     }
   ]
 }

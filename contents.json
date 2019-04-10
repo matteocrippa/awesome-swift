@@ -694,6 +694,11 @@
       "description": "A curated list of awesome applications, softwares, tools and shiny things for macOS.",
       "homepage": "https://github.com/iCHAIT/awesome-macOS"
     }, {
+      "title": "Accio",
+      "category": "dependency-managers",
+      "description": "A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.",
+      "homepage": "https://github.com/JamitLabs/Accio"
+    }, {
       "title": "Carthage",
       "category": "dependency-managers",
       "description": "A new dependency manager.",

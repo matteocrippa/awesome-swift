@@ -5556,6 +5556,12 @@
       "category": "alert",
       "description": "🍞 Basic toast as well as async waiting toast. Inspired by facebook posting toast.",
       "homepage": "https://github.com/k-lpmg/AwaitToast"
+    }, {
+      "title": "Sejima",
+      "category": "UI",
+      "description": "Collection of User Interface components.",
+      "homepage": "https://github.com/MoveUpwards/Sejima",
+      "tags": ["UI", "components"]
     }
   ]
 }

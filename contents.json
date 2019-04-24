@@ -694,6 +694,11 @@
       "description": "A curated list of awesome applications, softwares, tools and shiny things for macOS.",
       "homepage": "https://github.com/iCHAIT/awesome-macOS"
     }, {
+      "title": "Accio",
+      "category": "dependency-managers",
+      "description": "A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.",
+      "homepage": "https://github.com/JamitLabs/Accio"
+    }, {
       "title": "Carthage",
       "category": "dependency-managers",
       "description": "A new dependency manager.",
@@ -3925,7 +3930,7 @@
       "title": "Swift Module Template",
       "category": "boilerplates",
       "description": "An opinionated starting point for awesome, reusable modules.",
-      "homepage": "https://github.com/fulldecent/swift4-module-template"
+      "homepage": "https://github.com/fulldecent/swift5-module-template"
     }, {
       "title": "Toybox",
       "category": "misc",
@@ -5537,11 +5542,31 @@
       "description": "TTTAttributedLabel replacement.",
       "homepage": "https://github.com/instacart/Nantes"
     }, {
-      "title": "JXSegmentedView",
-      "category": "pagination",
-      "description": "A powerful and easy to use segmented view (segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview).",
-      "homepage": "https://github.com/pujiaxin33/JXSegmentedView",
-      "tags": ["iOS", "swift", "pagination", "animation", "pagecontrol", "UIPageControl"]
+      "title": "SecureDefaults",
+      "category": "key-value-store",
+      "description": "A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.",
+      "homepage": "https://github.com/vpeschenkov/SecureDefaults"
+    }, {
+      "title": "Codextended",
+      "category": "utility",
+      "description": "Extensions giving Codable API type inference super powers.",
+      "homepage": "https://github.com/JohnSundell/Codextended"
+    }, {
+      "title": "AwaitToast",
+      "category": "alert",
+      "description": "🍞 Basic toast as well as async waiting toast. Inspired by facebook posting toast.",
+      "homepage": "https://github.com/k-lpmg/AwaitToast"
+    }, {
+      "title": "Sejima",
+      "category": "UI",
+      "description": "Collection of User Interface components.",
+      "homepage": "https://github.com/MoveUpwards/Sejima",
+      "tags": ["UI", "components"]
+    }, {
+        "title": "WLEmptyState",
+        "category": "uitableview",
+        "description": "A component that lets you customize the view when the dataset of UITableView is empty.",
+        "homepage": "https://github.com/wizeline/WLEmptyState"
     }
   ]
 }

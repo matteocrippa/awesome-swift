@@ -5567,6 +5567,12 @@
         "category": "uitableview",
         "description": "A component that lets you customize the view when the dataset of UITableView is empty.",
         "homepage": "https://github.com/wizeline/WLEmptyState"
+    }, {
+      "title": "lottie-ios",
+      "category": "animation",
+      "description": "An iOS library to natively render After Effects vector animations.",
+      "homepage": "https://github.com/airbnb/lottie-ios",
+      "tags": ["swift", "animation"]
     }
   ]
 }

@@ -2502,7 +2502,7 @@
       "title": "Latch",
       "category": "keychain",
       "description": "A simple Keychain Wrapper for iOS.",
-      "homepage": "https://github.com/DanToml/Latch"
+      "homepage": "https://github.com/endocrimes/Latch"
     }, {
       "title": "Locksmith",
       "category": "keychain",
@@ -4137,7 +4137,7 @@
       "title": "Telegram Bot SDK",
       "category": "bots",
       "description": "Unofficial SDK.",
-      "homepage": "https://github.com/zmeyc/telegram-bot-swift",
+      "homepage": "https://github.com/rapierorg/telegram-bot-swift",
       "tags": ["linux", "iOS", "swift", "bot", "telegram"]
 
     }, {
@@ -5200,7 +5200,7 @@
       "title": "Schedule",
       "category": "thread",
       "description": "A missing lightweight task scheduler with an incredibly human-friendly syntax.",
-      "homepage": "https://github.com/jianstm/Schedule",
+      "homepage": "https://github.com/luoxiu/Schedule",
       "tags": ["timer", "gcd", "ios", "macos", "watchos", "tvos", "linux"]
     }, {
       "title": "ExpandableButton",

@@ -744,6 +744,12 @@
       "description": "A library to read, update and write Xcode projects and workspaces.",
       "homepage": "https://github.com/tuist/xcodeproj"
     }, {
+      "title": "SwiftKit",
+      "category": "misc",
+      "description": "Start your next Open-Source Swift Framework 📦.",
+      "homepage": "https://github.com/SvenTiigi/SwiftKit",
+      "tags": ["cli", "swift", "generate", "framework", "xcode", "script", "brew"]
+    }, {
       "title": "Capable",
       "category": "accessibility",
       "description": "Track accessibility features to improve your app for people with certain disabilities.",

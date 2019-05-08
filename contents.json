@@ -2173,6 +2173,12 @@
       "homepage": "https://github.com/Alamofire/Alamofire",
       "tags": ["linux"]
     }, {
+      "title": "ReactiveAPI",
+      "category": "network",
+      "description": "Write clean, concise and declarative network code relying on URLSession, with the power of RxSwift. Inspired by Retrofit.",
+      "homepage": "https://github.com/sky-uk/ReactiveAPI",
+      "tags": ["swift", "declarative", "rx", "reactive", "urlsession"]
+    }, {
       "title": "APIKit",
       "category": "network",
       "description": "Library for building type-safe web API client.",

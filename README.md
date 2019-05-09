@@ -215,6 +215,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [swift-vim](https://github.com/keith/swift.vim) - Vim runtime files.
 * [vim-polyglot](https://github.com/sheerun/vim-polyglot) - Language pack for vim that includes vim-swift.
+* [swift-apple](https://github.com/jph00/swift-apple) - Copy of Apple's Swift plugin with added features.
 
 ## Benchmark
 

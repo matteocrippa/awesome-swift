@@ -3174,6 +3174,11 @@
       "description": "Easy way to make elements in your iOS app twinkle.",
       "homepage": "https://github.com/piemonte/Twinkle"
     }, {
+      "title": "Burst",
+      "category": "ui",
+      "description": "Add a burst effect to elements in your iOS app.",
+      "homepage": "https://github.com/piemonte/Burst"
+    }, {
       "title": "URLEmbeddedView",
       "category": "ui",
       "description": "Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.",

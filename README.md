@@ -107,6 +107,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
   - [Optimization](#optimization)
   - [PDF](#pdf)
   - [Quality](#quality)
+  - [Robotics](#robotics)
   - [Scripting](#scripting)
   - [SDK](#sdk)
   - [Security](#security)
@@ -1030,6 +1031,11 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce coding conventions.
 * [Swimat](https://github.com/Jintin/Swimat) - Xcode plugin to format code.
 * [Tailor](https://github.com/sleekbyte/tailor) :penguin: - Cross-platform static analyzer that helps you to write cleaner code and avoid bugs.
+
+### Robotics
+[back to top](#readme) 
+
+* [RosSwift](https://github.com/tgu/RosSwift) - ROS Robotic Operating System - Swift implementation of core client libraries. 
 
 ### Scripting
 [back to top](#readme) 

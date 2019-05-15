@@ -4653,7 +4653,7 @@
       "title": "Cachyr",
       "category": "cache",
       "description": "A small key-value data cache for iOS, macOS and tvOS.",
-      "homepage": "https://github.com/YR/Cachyr"
+      "homepage": "https://github.com/nrkno/yr-cachyr"
     }, {
       "title": "SectionScrubber",
       "category": "uitableview",

@@ -5580,10 +5580,10 @@
       "homepage": "https://github.com/airbnb/lottie-ios",
       "tags": ["swift", "animation"]
     }, {
-      "title": "AWStepBar",
-      "category": "ui",
-      "description": "AWStepBar is a UI Component that allows you to integrate a step progress UI within your app.",
-      "homepage": "https://github.com/Aymenworks/AWStepBar"
-    },
+      "title": "AWLoader",
+      "category": "hud",
+      "description": "AWLoader is a UI Component that allows you to integrate loader that fits your needs within your app.",
+      "homepage": "https://github.com/Aymenworks/AWLoader"
+    }
   ]
 }

@@ -5580,10 +5580,10 @@
       "homepage": "https://github.com/airbnb/lottie-ios",
       "tags": ["swift", "animation"]
     }, {
-      "title": "AWStepBar",
+      "title": "ASPinCodeField",
       "category": "ui",
-      "description": "AWStepBar is a UI Component that allows you to integrate a step progress UI within your app.",
-      "homepage": "https://github.com/Aymenworks/AWStepBar"
+      "description": "An UI Component that allows you to integrate a pin / digit code UI within your app.",
+      "homepage": "https://github.com/Aymenworks/ASPinCodeField"
     },
   ]
 }

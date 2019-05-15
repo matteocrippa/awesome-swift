@@ -5579,6 +5579,11 @@
       "description": "An iOS library to natively render After Effects vector animations.",
       "homepage": "https://github.com/airbnb/lottie-ios",
       "tags": ["swift", "animation"]
-    }
+    }, {
+      "title": "AWStepBar",
+      "category": "ui",
+      "description": "AWStepBar is a UI Component that allows you to integrate a step progress UI within your app.",
+      "homepage": "https://github.com/Aymenworks/AWStepBar"
+    },
   ]
 }

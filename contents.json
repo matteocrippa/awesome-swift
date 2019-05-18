@@ -5579,6 +5579,12 @@
       "description": "An iOS library to natively render After Effects vector animations.",
       "homepage": "https://github.com/airbnb/lottie-ios",
       "tags": ["swift", "animation"]
+    }, {
+      "title": "LightweightObservable",
+      "category": "events",
+      "description": "A lightweight implementation of an observable sequence that you can subscribe to.",
+      "homepage": "https://github.com/fxm90/LightweightObservable",
+      "tags": ["swift", "observable", "observer", "reactive"]
     }
   ]
 }

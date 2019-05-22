@@ -5579,6 +5579,11 @@
       "description": "An iOS library to natively render After Effects vector animations.",
       "homepage": "https://github.com/airbnb/lottie-ios",
       "tags": ["swift", "animation"]
+    }, {
+      "title": "ATGValidator",
+      "category": "validation",
+      "description": "Rule based validation framework with form and card validation support for iOS.",
+      "homepage": "https://github.com/altayer-digital/ATGValidator"
     }
   ]
 }

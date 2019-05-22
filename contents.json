@@ -5580,6 +5580,12 @@
       "homepage": "https://github.com/airbnb/lottie-ios",
       "tags": ["swift", "animation"]
     }, {
+      "title": "glide engine",
+      "category": "game-engine",
+      "description": "SpriteKit and GameplayKit based engine for making 2d games, with practical examples and tutorials.",
+      "homepage": "https://github.com/cocoatoucher/Glide",
+      "tags": ["platformer", "side", "scroller", "tilemap", "tiles", "spritekit"]
+    }, {
       "title": "ATGValidator",
       "category": "validation",
       "description": "Rule based validation framework with form and card validation support for iOS.",

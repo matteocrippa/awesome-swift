@@ -205,6 +205,10 @@
     "id": "realm",
     "parent": "data-management"
   }, {
+    "title": "Firebase",
+    "id": "firebase",
+    "parent": "data-management"
+  },{
     "title": "Files",
     "id": "files",
     "parent": "libs"
@@ -1264,6 +1268,11 @@
       "description": "A concise Mantle-like way of working with Realm and JSON.",
       "homepage": "https://github.com/matthewcheok/Realm-JSON"
     }, {
+      "title": "Ballcap",
+      "category": "firebase",
+      "description": "Ballcap is a database schema design framework for Cloud Firestore.",
+      "homepage": "https://github.com/1amageek/Ballcap-iOS"
+    },{
       "title": "KZFileWatchers",
       "category": "files",
       "description": "A micro-framework for observing file changes, both local and remote.",

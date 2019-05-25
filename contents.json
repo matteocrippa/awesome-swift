@@ -867,6 +867,11 @@
       "description": "Better Easing for SpriteKit.",
       "homepage": "https://github.com/craiggrummitt/SpriteKitEasingSwift"
     }, {
+      "title": "Elephant",
+      "category": "animation",
+      "description": "Elegant SVG animation kit for iOS",
+      "homepage": "https://github.com/kzumu/Elephant"
+    }, {
       "title": "Appz",
       "category": "app-routing",
       "description": "Launch external apps and deeplink with ease.",

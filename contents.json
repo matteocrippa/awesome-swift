@@ -3599,11 +3599,6 @@
       "description": "A simple but flexible cache.",
       "homepage": "https://github.com/spring-media/Carlos"
     }, {
-      "title": "Compass",
-      "category": "app-routing",
-      "description": "Compass helps you setup a central navigation system for your application.",
-      "homepage": "https://github.com/hyperoslo/Compass"
-    }, {
       "title": "RxFlow",
       "category": "app-routing",
       "description": "RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.",

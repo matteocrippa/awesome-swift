@@ -1064,6 +1064,11 @@
       "description": "Simple QRCode reader.",
       "homepage": "https://github.com/yannickl/QRCodeReader.swift"
     }, {
+      "title": "EAN13BarcodeGenerator",
+      "category": "barcode",
+      "description": "Simple and performance solution to generate EAN13 barcode for iOS applications",
+      "homepage": "https://github.com/astrokin/EAN13BarcodeGenerator"
+    }, {
       "title": "Chatto",
       "category": "chat",
       "description": "A lightweight framework to build chat applications.",

@@ -205,6 +205,10 @@
     "id": "realm",
     "parent": "data-management"
   }, {
+    "title": "Firebase",
+    "id": "firebase",
+    "parent": "data-management"
+  },{
     "title": "Files",
     "id": "files",
     "parent": "libs"
@@ -602,7 +606,7 @@
       "title": "Apple eBook",
       "category": "official-guides",
       "description": "Official Apple eBook for Swift beginners.",
-      "homepage": "https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11"
+      "homepage": "https://books.apple.com/us/book/swift-programming-language/id881256329"
     }, {
       "title": "API Design Guidelines",
       "category": "official-guides",
@@ -862,6 +866,11 @@
       "category": "animation",
       "description": "Better Easing for SpriteKit.",
       "homepage": "https://github.com/craiggrummitt/SpriteKitEasingSwift"
+    }, {
+      "title": "Elephant",
+      "category": "animation",
+      "description": "Elegant SVG animation kit for iOS",
+      "homepage": "https://github.com/kzumu/Elephant"
     }, {
       "title": "Appz",
       "category": "app-routing",
@@ -1264,6 +1273,11 @@
       "description": "A concise Mantle-like way of working with Realm and JSON.",
       "homepage": "https://github.com/matthewcheok/Realm-JSON"
     }, {
+      "title": "Ballcap",
+      "category": "firebase",
+      "description": "Ballcap is a database schema design framework for Cloud Firestore.",
+      "homepage": "https://github.com/1amageek/Ballcap-iOS"
+    },{
       "title": "KZFileWatchers",
       "category": "files",
       "description": "A micro-framework for observing file changes, both local and remote.",
@@ -3585,11 +3599,6 @@
       "description": "A simple but flexible cache.",
       "homepage": "https://github.com/spring-media/Carlos"
     }, {
-      "title": "Compass",
-      "category": "app-routing",
-      "description": "Compass helps you setup a central navigation system for your application.",
-      "homepage": "https://github.com/hyperoslo/Compass"
-    }, {
       "title": "RxFlow",
       "category": "app-routing",
       "description": "RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.",
@@ -5129,7 +5138,7 @@
       "title": "AnimatedMaskLabel",
       "category": "label",
       "description": "A nice gradient animated label that make easy to add a shimmering effect to any view.",
-      "homepage": "https://github.com/jogendra/AnimatedMaskLabel"
+      "homepage": "https://github.com/jogendra/LoadingShimmer"
     }, {
       "title": "Telegrammer",
       "category": "bots",
@@ -5579,6 +5588,17 @@
       "description": "An iOS library to natively render After Effects vector animations.",
       "homepage": "https://github.com/airbnb/lottie-ios",
       "tags": ["swift", "animation"]
+    }, {
+      "title": "glide engine",
+      "category": "game-engine",
+      "description": "SpriteKit and GameplayKit based engine for making 2d games, with practical examples and tutorials.",
+      "homepage": "https://github.com/cocoatoucher/Glide",
+      "tags": ["platformer", "side", "scroller", "tilemap", "tiles", "spritekit"]
+    }, {
+      "title": "ATGValidator",
+      "category": "validation",
+      "description": "Rule based validation framework with form and card validation support for iOS.",
+      "homepage": "https://github.com/altayer-digital/ATGValidator"
     }
   ]
 }

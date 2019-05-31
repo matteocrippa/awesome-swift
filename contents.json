@@ -5135,9 +5135,9 @@
       "description": "A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.",
       "homepage": "https://github.com/JoniVR/VerticalCardSwiper"
     }, {
-      "title": "AnimatedMaskLabel",
-      "category": "label",
-      "description": "A nice gradient animated label that make easy to add a shimmering effect to any view.",
+      "title": "LoadingShimmer",
+      "category": "ui",
+      "description": "An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.",
       "homepage": "https://github.com/jogendra/LoadingShimmer"
     }, {
       "title": "Telegrammer",

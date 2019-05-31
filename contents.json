@@ -5530,10 +5530,10 @@
       "homepage": "https://github.com/yysskk/MemoryCache",
       "tags": ["cache", "utility"]
     }, {
-      "title": "BedgeNotificHub",
+      "title": "BadgeHub",
       "category": "ui",
       "description": "Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.",
-      "homepage": "https://github.com/jogendra/BedgeNotificHub",
+      "homepage": "https://github.com/jogendra/BadgeHub",
       "tags": ["animation", "badge"]
     }, {
       "title": "RealmWrapper",

@@ -5599,6 +5599,12 @@
       "category": "validation",
       "description": "Rule based validation framework with form and card validation support for iOS.",
       "homepage": "https://github.com/altayer-digital/ATGValidator"
+    }, {
+      "title": "SPStorkController",
+      "category": "transition",
+      "description": "Now playing controller from Apple Music. Customisable height.",
+      "homepage": "https://github.com/IvanVorobei/SPStorkController",
+      "tags": ["swift", "animation", "UI", "transition", "apple music"]
     }
   ]
 }

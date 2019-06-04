@@ -5617,6 +5617,12 @@
       "description": "Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.",
       "homepage": "https://github.com/arturdev/Unrealm",
       "tags": ["swift", "realm", "data-management", "struct"]
+    }, {
+      "title": "SPAlert",
+      "category": "alert",
+      "description": "Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.",
+      "homepage": "https://github.com/ivanvorobei/SPAlert",
+      "tags": ["swift", "UI"]
     }
   ]
 }

@@ -5623,6 +5623,12 @@
       "description": "Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.",
       "homepage": "https://github.com/ivanvorobei/SPAlert",
       "tags": ["swift", "UI"]
+    }, {
+      "title": "LightweightObservable",
+      "category": "events",
+      "description": "A lightweight implementation of an observable sequence that you can subscribe to.",
+      "homepage": "https://github.com/fxm90/LightweightObservable",
+      "tags": ["swift", "observable", "observer", "reactive"]
     }
   ]
 }

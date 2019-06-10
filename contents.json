@@ -5629,6 +5629,13 @@
       "description": "A lightweight implementation of an observable sequence that you can subscribe to.",
       "homepage": "https://github.com/fxm90/LightweightObservable",
       "tags": ["swift", "observable", "observer", "reactive"]
-    }
+    },
+    {
+       "title": "Locatable",
+       "category": "dependency-injection",
+       "description": "A micro-framework that leverages Property Wrappers to implement the Service Locator pattern",
+       "homepage": "https://github.com/vincent-pradeilles/locatable",
+       "tags": ["swift", "dependency", "property wrapper"]
+     }
   ]
 }

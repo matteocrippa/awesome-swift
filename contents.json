@@ -5629,6 +5629,12 @@
       "description": "A lightweight implementation of an observable sequence that you can subscribe to.",
       "homepage": "https://github.com/fxm90/LightweightObservable",
       "tags": ["swift", "observable", "observer", "reactive"]
+    }, {
+      "title": "SamuraiTransition",
+      "category": "transition",
+      "description": "Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.",
+      "homepage": "https://github.com/hachinobu/SamuraiTransition",
+      "tags": ["swift", "animation", "UI", "transition"]
     }
   ]
 }

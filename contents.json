@@ -5629,6 +5629,11 @@
       "description": "A lightweight implementation of an observable sequence that you can subscribe to.",
       "homepage": "https://github.com/fxm90/LightweightObservable",
       "tags": ["swift", "observable", "observer", "reactive"]
+    }, {
+        "title": "PanSlip",
+        "category": "transition",
+        "description": "Use PanGesture to dismiss view on UIViewController and UIView.",
+        "homepage": "https://github.com/k-lpmg/PanSlip"
     }
   ]
 }

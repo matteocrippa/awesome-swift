@@ -1207,12 +1207,6 @@
       "description": "simple and elegant way to handle Core Data.",
       "homepage": "https://github.com/JohnEstropia/CoreStore"
     }, {
-      "title": "Records",
-      "category": "core-data",
-      "description": "In just a few minutes, setup a fully functioning CoreData implementation that embraces the static, type-safe nature of Swift.",
-      "homepage": "https://github.com/rob-nash/Records"
-    },
-    {
       "title": "Graph",
       "category": "core-data",
       "description": "An elegant data-driven framework for Core Data.",
@@ -2324,7 +2318,7 @@
       "title": "CocoaMQTT",
       "category": "messaging-protocol",
       "description": "MQTT for iOS and OS X.",
-      "homepage": "https://github.com/emqtt/CocoaMQTT"
+      "homepage": "https://github.com/emqx/CocoaMQTT"
     }, {
       "title": "Perfect-Notifications",
       "category": "messaging-protocol",
@@ -5638,7 +5632,7 @@
     }, {
        "title": "Locatable",
        "category": "dependency-injection",
-       "description": "A micro-framework that leverages Property Wrappers to implement the Service Locator pattern",
+       "description": "A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.",
        "homepage": "https://github.com/vincent-pradeilles/locatable",
        "tags": ["swift", "dependency", "property wrapper"]
     }, {

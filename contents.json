@@ -5646,6 +5646,11 @@
         "category": "transition",
         "description": "Use PanGesture to dismiss view on UIViewController and UIView.",
         "homepage": "https://github.com/k-lpmg/PanSlip"
+    }, {
+        "title": "Tagging",
+        "category": "text",
+        "description": "A TextView that provides easy to use tagging feature for Mention or Hashtag.",
+        "homepage": "https://github.com/k-lpmg/Tagging"
     }
   ]
 }

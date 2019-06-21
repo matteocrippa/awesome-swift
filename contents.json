@@ -5630,6 +5630,12 @@
       "homepage": "https://github.com/fxm90/LightweightObservable",
       "tags": ["swift", "observable", "observer", "reactive"]
     }, {
+      "title": "SamuraiTransition",
+      "category": "transition",
+      "description": "Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.",
+      "homepage": "https://github.com/hachinobu/SamuraiTransition",
+      "tags": ["swift", "animation", "UI", "transition"]
+    }, {
        "title": "Locatable",
        "category": "dependency-injection",
        "description": "A micro-framework that leverages Property Wrappers to implement the Service Locator pattern",

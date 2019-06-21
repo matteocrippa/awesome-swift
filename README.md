@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 974 | June 17, 2019
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 976 | June 21, 2019
 
 ### Contents
 
@@ -478,7 +478,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 * [JustPersist](https://github.com/justeat/JustPersist) - Easiest and safest way to do persistence on iOS with Core Data support out of the box.
 * [QueryKit](https://github.com/QueryKit/QueryKit) - An easy way to play with Core Data filtering.
-* [Records](https://github.com/rob-nash/Records) - In just a few minutes, setup a fully functioning CoreData implementation that embraces the static, type-safe nature of Swift.
 * [Skopelos](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data.
 * [SugarRecord](https://github.com/modo-studio/SugarRecord) - Helps with Core Data and Realm.
 
@@ -625,6 +624,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Deli](https://github.com/kawoou/Deli) - Deli is an easy-to-use Dependency Injection(DI).
 * [Dip](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 * [DITranquillity](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
+* [Locatable](https://github.com/vincent-pradeilles/locatable) - A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.
 * [Pure](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
 * [Swinject](https://github.com/Swinject/Swinject) - A dependency injection framework.
 * [Typhoon](https://github.com/appsquickly/Typhoon) - Dependency injection toolkit.
@@ -985,7 +985,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 #### Messaging Protocol
 [back to top](#readme) 
 
-* [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X.
+* [CocoaMQTT](https://github.com/emqx/CocoaMQTT) - MQTT for iOS and OS X.
 * [Perfect-Notifications](https://github.com/PerfectlySoft/Perfect-Notifications) - iOS Notifications for Linux and OS X.
 
 #### Socket
@@ -1151,6 +1151,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SwiftVerbalExpressions](https://github.com/VerbalExpressions/SwiftVerbalExpressions) - VerbalExpressions porting.
 * [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - Extensions that make it a breeze to work with attributed strings.
 * [SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting.
+* [Tagging](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
 * [TextAttributes](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
 * [VEditorKit](https://github.com/GeekTree0101/VEditorKit) - Lightweight and Powerful Editor Kit.
 
@@ -1479,6 +1480,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [PanSlip](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView.
 * [PinterestSwift](https://github.com/demonnico/PinterestSwift) - Pinterest style transition.
 * [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
+* [SamuraiTransition](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.
 * [SPLarkController](https://github.com/IvanVorobei/SPLarkController) - Custom transition between two controller. Translate to top.
 * [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
 * [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) - Transition animation to crumble view-controller into tiny pieces.

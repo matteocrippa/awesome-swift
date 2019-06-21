@@ -5645,6 +5645,11 @@
         "category": "text",
         "description": "A TextView that provides easy to use tagging feature for Mention or Hashtag.",
         "homepage": "https://github.com/k-lpmg/Tagging"
+    }, {
+        "title": "MultiSlider",
+        "category": "ui",
+        "description": "UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.",
+        "homepage": "https://github.com/yonat/MultiSlider"
     }
   ]
 }

@@ -2211,7 +2211,7 @@
       "title": "Just",
       "category": "network",
       "description": "HTTP for Humans (a python-requests style HTTP library).",
-      "homepage": "https://github.com/JustHTTP/Just",
+      "homepage": "https://github.com/dduan/Just",
       "tags": ["linux"]
     }, {
       "title": "Malibu",

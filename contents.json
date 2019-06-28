@@ -4097,7 +4097,7 @@
     }, {
       "title": "ValidatedPropertyKit",
       "category": "validation",
-      "description": "Easily validate your Properties with Property Wrappers 👮",
+      "description": "Easily validate your Properties with Property Wrappers 👮.",
       "homepage": "https://github.com/SvenTiigi/ValidatedPropertyKit",
       "tags": ["ios", "macos", "tvos", "watchos", "swift", "propertywrapper"]
     }, {

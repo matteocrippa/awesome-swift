@@ -4095,6 +4095,11 @@
       "description": "Drop in user input validation for your iOS apps.",
       "homepage": "https://github.com/adamwaite/Validator"
     }, {
+      "title": "ValidatedPropertyKit",
+      "category": "validation",
+      "description": "Easily validate your Properties with Property Wrappers 👮",
+      "homepage": "https://github.com/SvenTiigi/ValidatedPropertyKit"
+    }, {
       "title": "Input Mask",
       "category": "validation",
       "description": "Pattern-based user input formatter, parser and validator for iOS.",

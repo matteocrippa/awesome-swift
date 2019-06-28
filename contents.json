@@ -5650,6 +5650,11 @@
         "category": "ui",
         "description": "UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.",
         "homepage": "https://github.com/yonat/MultiSlider"
+    }, {
+        "title": "RadioGroup",
+        "category": "button",
+        "description": "The missing iOS radio buttons group.",
+        "homepage": "https://github.com/yonat/RadioGroup"
     }
   ]
 }

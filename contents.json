@@ -5661,6 +5661,11 @@
         "category": "button",
         "description": "The missing iOS radio buttons group.",
         "homepage": "https://github.com/yonat/RadioGroup"
+    }, {
+        "title": "CameraBackground",
+        "category": "camera",
+        "description": "Show camera layer as a background to any UIView.",
+        "homepage": "https://github.com/yonat/CameraBackground"
     }
   ]
 }

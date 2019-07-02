@@ -743,6 +743,11 @@
       "description": "An open source command line tool to create, maintain and interact with your Xcode projects at scale.",
       "homepage": "https://github.com/tuist/tuist"
     }, {
+      "title": "xcbeautify",
+      "category": "misc",
+      "description": "Little beautifier tool for xcodebuild",
+      "homepage": "https://github.com/thii/xcbeautify"
+    }, {
       "title": "xcodeproj",
       "category": "misc",
       "description": "A library to read, update and write Xcode projects and workspaces.",
@@ -870,7 +875,7 @@
       "title": "Elephant",
       "category": "animation",
       "description": "Elegant SVG animation kit for iOS",
-      "homepage": "https://github.com/kzumu/Elephant"
+      "homepage": "https://github.com/s2mr/Elephant"
     }, {
       "title": "Appz",
       "category": "app-routing",

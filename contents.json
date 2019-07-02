@@ -5676,6 +5676,11 @@
         "category": "uicollectionview",
         "description": "UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app 'Select' mode.",
         "homepage": "https://github.com/yonat/CheckmarkCollectionViewCell"
+    }, {
+        "title": "BatteryView",
+        "category": "ui",
+        "description": "Simple battery shaped UIView",
+        "homepage": "https://github.com/yonat/BatteryView"
     }
   ]
 }

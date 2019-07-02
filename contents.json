@@ -5671,6 +5671,11 @@
         "category": "camera",
         "description": "Show camera layer as a background to any UIView.",
         "homepage": "https://github.com/yonat/CameraBackground"
+    }, {
+        "title": "CheckmarkCollectionViewCell",
+        "category": "uicollectionview",
+        "description": "UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app 'Select' mode.",
+        "homepage": "https://github.com/yonat/CheckmarkCollectionViewCell"
     }
   ]
 }

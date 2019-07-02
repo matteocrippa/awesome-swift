@@ -745,7 +745,7 @@
     }, {
       "title": "xcbeautify",
       "category": "misc",
-      "description": "Little beautifier tool for xcodebuild",
+      "description": "Little beautifier tool for xcodebuild.",
       "homepage": "https://github.com/thii/xcbeautify"
     }, {
       "title": "xcodeproj",
@@ -1138,6 +1138,12 @@
       "category": "command-line",
       "description": "Compose beautiful command line interfaces.",
       "homepage": "https://github.com/kylef/Commander",
+      "tags": ["linux"]
+    }, {
+      "title": "Guaka",
+      "category": "command-line",
+      "description": "The smart and beautiful (POSIX compliant) command line framework.",
+      "homepage": "https://github.com/nsomar/Guaka",
       "tags": ["linux"]
     }, {
       "title": "CommandLine",

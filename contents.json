@@ -218,6 +218,11 @@
     "parent": "data-management",
     "description": "Struggling using json data? Here are some interesting ways to handle it."
   }, {
+    "title": "TOML",
+    "id": "toml",
+    "parent": "data-management",
+    "description": "Tom's Obvious, Minimal Language."
+  }, {
     "title": "Key Value Store",
     "id": "key-value-store",
     "parent": "data-management"
@@ -5682,6 +5687,11 @@
         "category": "uicollectionview",
         "description": "UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app 'Select' mode.",
         "homepage": "https://github.com/yonat/CheckmarkCollectionViewCell"
+    }, {
+        "title": "TOMLDecoder",
+        "category": "toml",
+        "description": "Latest TOML standard, decoded.",
+        "homepage": "https://github.com/dduan/TOMLDecoder"
     }, {
         "title": "Pathos",
         "category": "files",

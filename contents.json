@@ -5682,6 +5682,12 @@
         "category": "uicollectionview",
         "description": "UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app 'Select' mode.",
         "homepage": "https://github.com/yonat/CheckmarkCollectionViewCell"
+    }, {
+        "title": "Pathos",
+        "category": "files",
+        "description": "Efficient Unix file management.",
+        "homepage": "https://github.com/dduan/Pathos",
+        "tags": ["linux"]
     }
   ]
 }

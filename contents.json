@@ -5692,6 +5692,12 @@
         "category": "toml",
         "description": "Latest TOML standard, decoded.",
         "homepage": "https://github.com/dduan/TOMLDecoder"
+    }, {
+        "title": "Pathos",
+        "category": "files",
+        "description": "Efficient Unix file management.",
+        "homepage": "https://github.com/dduan/Pathos",
+        "tags": ["linux"]
     }
   ]
 }

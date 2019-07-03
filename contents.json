@@ -5688,6 +5688,11 @@
         "description": "UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app 'Select' mode.",
         "homepage": "https://github.com/yonat/CheckmarkCollectionViewCell"
     }, {
+        "title": "DiffableDataSources",
+        "category": "uitableview",
+        "description": "💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.",
+        "homepage": "https://github.com/ra1028/DiffableDataSources"
+    }, {
         "title": "TOMLDecoder",
         "category": "toml",
         "description": "Latest TOML standard, decoded.",

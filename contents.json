@@ -218,6 +218,11 @@
     "parent": "data-management",
     "description": "Struggling using json data? Here are some interesting ways to handle it."
   }, {
+    "title": "TOML",
+    "id": "toml",
+    "parent": "data-management",
+    "description": "Tom's Obvious, Minimal Language."
+  }, {
     "title": "Key Value Store",
     "id": "key-value-store",
     "parent": "data-management"
@@ -745,7 +750,7 @@
     }, {
       "title": "xcbeautify",
       "category": "misc",
-      "description": "Little beautifier tool for xcodebuild",
+      "description": "Little beautifier tool for xcodebuild.",
       "homepage": "https://github.com/thii/xcbeautify"
     }, {
       "title": "xcodeproj",
@@ -1138,6 +1143,12 @@
       "category": "command-line",
       "description": "Compose beautiful command line interfaces.",
       "homepage": "https://github.com/kylef/Commander",
+      "tags": ["linux"]
+    }, {
+      "title": "Guaka",
+      "category": "command-line",
+      "description": "The smart and beautiful (POSIX compliant) command line framework.",
+      "homepage": "https://github.com/nsomar/Guaka",
       "tags": ["linux"]
     }, {
       "title": "CommandLine",
@@ -5681,6 +5692,17 @@
         "category": "ui",
         "description": "Simple battery shaped UIView",
         "homepage": "https://github.com/yonat/BatteryView"
+    }, {
+        "title": "TOMLDecoder",
+        "category": "toml",
+        "description": "Latest TOML standard, decoded.",
+        "homepage": "https://github.com/dduan/TOMLDecoder"
+    }, {
+        "title": "Pathos",
+        "category": "files",
+        "description": "Efficient Unix file management.",
+        "homepage": "https://github.com/dduan/Pathos",
+        "tags": ["linux"]
     }
   ]
 }

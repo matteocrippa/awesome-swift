@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 984 | July 03, 2019
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 985 | July 03, 2019
 
 ### Contents
 
@@ -62,6 +62,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
     - [Realm](#realm)
     - [SQL drivers](#sql-drivers)
     - [SQLite](#sqlite)
+    - [TOML](#toml)
     - [XML](#xml)
     - [YAML](#yaml)
     - [ZIP](#zip)
@@ -581,6 +582,11 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [GRDB.swift](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit.
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - Framework wrapping SQLite3. Small. Simple. Safe.
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - SQLite wrapper.
+
+#### TOML
+*Tom's Obvious, Minimal Language.* [back to top](#readme) 
+
+* [TOMLDecoder](https://github.com/dduan/TOMLDecoder) - Latest TOML standard, decoded.
 
 #### XML
 *If you prefer to manage XML data formatted entries, here are some helpful libs* [back to top](#readme) 

@@ -5693,6 +5693,11 @@
         "description": "Simple battery shaped UIView.",
         "homepage": "https://github.com/yonat/BatteryView"
     }, {
+        "title": "DiffableDataSources",
+        "category": "uitableview",
+        "description": "💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.",
+        "homepage": "https://github.com/ra1028/DiffableDataSources"
+    }, {
         "title": "TOMLDecoder",
         "category": "toml",
         "description": "Latest TOML standard, decoded.",

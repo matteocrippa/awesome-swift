@@ -5690,7 +5690,7 @@
     }, {
         "title": "BatteryView",
         "category": "ui",
-        "description": "Simple battery shaped UIView",
+        "description": "Simple battery shaped UIView.",
         "homepage": "https://github.com/yonat/BatteryView"
     }, {
         "title": "TOMLDecoder",

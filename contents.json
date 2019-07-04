@@ -5708,6 +5708,11 @@
         "description": "Efficient Unix file management.",
         "homepage": "https://github.com/dduan/Pathos",
         "tags": ["linux"]
+    }, {
+        "title": "SelectionList",
+        "category": "uitableview",
+        "description": "Simple single-selection or multiple-selection checklist, based on UITableView.",
+        "homepage": "https://github.com/yonat/SelectionList"
     }
   ]
 }

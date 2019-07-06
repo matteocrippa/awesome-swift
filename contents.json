@@ -5708,6 +5708,11 @@
         "description": "Efficient Unix file management.",
         "homepage": "https://github.com/dduan/Pathos",
         "tags": ["linux"]
+    }, {
+        "title": "Combinative",
+        "category": "events",
+        "description": "UI event handling using Apple's combine framework.",
+        "homepage": "https://github.com/noppefoxwolf/Combinative",
     }
   ]
 }

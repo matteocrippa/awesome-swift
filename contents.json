@@ -5708,6 +5708,12 @@
         "description": "Efficient Unix file management.",
         "homepage": "https://github.com/dduan/Pathos",
         "tags": ["linux"]
+    }, {
+	"title": "VKPinCodeView",
+        "category": "textfield",
+        "description": "Simple and elegant UI component for input PIN",
+        "homepage": "https://github.com/Sunspension/VKPinCodeView",
+	"tags": ["swift", "UI", "PIN"]
     }
   ]
 }

@@ -5713,6 +5713,11 @@
         "category": "events",
         "description": "UI event handling using Apple's combine framework.",
         "homepage": "https://github.com/noppefoxwolf/Combinative"
+    }, {
+        "title": "SelectionList",
+        "category": "uitableview",
+        "description": "Simple single-selection or multiple-selection checklist, based on UITableView.",
+        "homepage": "https://github.com/yonat/SelectionList"
     }
   ]
 }

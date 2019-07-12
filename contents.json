@@ -5724,6 +5724,11 @@
         "description": "Simple single-selection or multiple-selection checklist, based on UITableView.",
         "homepage": "https://github.com/yonat/SelectionList"
     }, {
+        "title": "ResizingTokenField",
+        "category": "ui",
+        "description": "A UICollectionView-based token field which provides intrinsic content height.",
+        "homepage": "https://github.com/tadejr/ResizingTokenField"
+    }, {
 	"title": "Bow",
 	"category": "utility",
 	"description": "Companion library for Typed Functional Programming.",

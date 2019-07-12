@@ -5713,6 +5713,16 @@
         "category": "text",
         "description": "Texstyle allows you to format attributed strings easily.",
         "homepage": "https://github.com/rosberry/texstyle"
+    }, {
+        "title": "Combinative",
+        "category": "events",
+        "description": "UI event handling using Apple's combine framework.",
+        "homepage": "https://github.com/noppefoxwolf/Combinative"
+    }, {
+        "title": "SelectionList",
+        "category": "uitableview",
+        "description": "Simple single-selection or multiple-selection checklist, based on UITableView.",
+        "homepage": "https://github.com/yonat/SelectionList"
     }
   ]
 }

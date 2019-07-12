@@ -5723,6 +5723,11 @@
         "category": "uitableview",
         "description": "Simple single-selection or multiple-selection checklist, based on UITableView.",
         "homepage": "https://github.com/yonat/SelectionList"
+    }, {
+	"title": "Bow",
+	"category": "utility",
+	"description": "Companion library for Typed Functional Programming.",
+	"homepage": "https://github.com/bow-swift/bow"
     }
   ]
 }

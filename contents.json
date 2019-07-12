@@ -5709,6 +5709,11 @@
         "homepage": "https://github.com/dduan/Pathos",
         "tags": ["linux"]
     }, {
+        "title": "Texstyle",
+        "category": "text",
+        "description": "Texstyle allows you to format attributed strings easily.",
+        "homepage": "https://github.com/rosberry/texstyle"
+    }, {
         "title": "Combinative",
         "category": "events",
         "description": "UI event handling using Apple's combine framework.",

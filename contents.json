@@ -5714,6 +5714,12 @@
         "homepage": "https://github.com/dduan/Pathos",
         "tags": ["linux"]
     }, {
+        "title": "VKPinCodeView",
+        "category": "textfield",
+        "description": "Simple and elegant UI component for input PIN.",
+        "homepage": "https://github.com/Sunspension/VKPinCodeView",
+	      "tags": ["swift", "UI", "PIN"]
+    }, {
         "title": "Texstyle",
         "category": "text",
         "description": "Texstyle allows you to format attributed strings easily.",
@@ -5734,10 +5740,10 @@
         "description": "A UICollectionView-based token field which provides intrinsic content height.",
         "homepage": "https://github.com/tadejr/ResizingTokenField"
     }, {
-	"title": "Bow",
-	"category": "utility",
-	"description": "Companion library for Typed Functional Programming.",
-	"homepage": "https://github.com/bow-swift/bow"
+        "title": "Bow",
+        "category": "utility",
+        "description": "Companion library for Typed Functional Programming.",
+        "homepage": "https://github.com/bow-swift/bow"
     }
   ]
 }

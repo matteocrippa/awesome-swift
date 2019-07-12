@@ -733,6 +733,11 @@
       "description": "A collection of test cases crashing the compiler.",
       "homepage": "https://github.com/practicalswift/swift-compiler-crashes"
     }, {
+      "title": "Swiftbrew",
+      "category": "misc",
+      "description": "Homebrew for Swift packages.",
+      "homepage": "https://github.com/swiftbrew/Swiftbrew"
+    }, {
       "title": "SwiftGen",
       "category": "misc",
       "description": "A suite of tools to auto-generate code for various assets of your project.",

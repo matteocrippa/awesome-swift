@@ -2917,11 +2917,6 @@
       "description": "A UITextField with bouncy placeholder.",
       "homepage": "https://github.com/hanton/HTYTextField"
     }, {
-      "title": "ImagePicker",
-      "category": "ui",
-      "description": "A nicely designed and super easy to use ImagePicker.",
-      "homepage": "https://github.com/hyperoslo/ImagePicker"
-    }, {
       "title": "PPAssetsActionController",
       "category": "ui",
       "description": "Highly customizable Action Sheet Controller with assets preview.",
@@ -3162,11 +3157,6 @@
       "category": "switch",
       "description": "A switch control with full Interface Builder support.",
       "homepage": "https://github.com/T-Pham/Switch"
-    }, {
-      "title": "SYBlinkAnimationKit",
-      "category": "ui",
-      "description": "A blink effect animation framework.",
-      "homepage": "https://github.com/shoheiyokoyama/SYBlinkAnimationKit"
     }, {
       "title": "TabPageViewController",
       "category": "tab",
@@ -4899,11 +4889,6 @@
       "category": "game-engine-2d",
       "description": "Blazing fasst 2D gaming engine.",
       "homepage": "https://github.com/JohnSundell/ImagineEngine"
-    }, {
-      "title": "PanelKit",
-      "category": "ui",
-      "description": "A UI framework that enables panels on iOS.",
-      "homepage": "https://github.com/louisdh/panelkit"
     }, {
       "title": "DeepDiff",
       "category": "utility",

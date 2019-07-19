@@ -673,6 +673,11 @@
       "description": "Raywenderlich guide, a must read.",
       "homepage": "https://github.com/raywenderlich/swift-style-guide"
     }, {
+       "title": "Airbnb",
+       "category": "style-guides",
+       "description": "Airbnb's Official Style Guide.",
+       "homepage": "https://github.com/airbnb/swift"
+    }, {
       "title": "LinkedIn",
       "category": "style-guides",
       "description": "LinkedIn's Official Style Guide.",

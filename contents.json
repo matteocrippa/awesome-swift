@@ -5734,6 +5734,11 @@
         "category": "utility",
         "description": "Companion library for Typed Functional Programming.",
         "homepage": "https://github.com/bow-swift/bow"
+    }, {
+        "title": "AutoMockable",
+        "category": "mock",
+        "description": "A framework that leverages the type system to let you easily create mocked instances of your data types.",
+        "homepage": "https://github.com/vincent-pradeilles/AutoMocker"
     }
   ]
 }

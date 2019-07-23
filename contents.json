@@ -3288,11 +3288,6 @@
       "description": "various popups and notifications.",
       "homepage": "https://github.com/peterprokop/SwiftOverlays"
     }, {
-      "title": "Whisper",
-      "category": "alert",
-      "description": "Messages and in-app notification made easy.",
-      "homepage": "https://github.com/hyperoslo/Whisper"
-    }, {
       "title": "XLActionController",
       "category": "alert",
       "description": "Fully customizable and extensible action sheet controller.",

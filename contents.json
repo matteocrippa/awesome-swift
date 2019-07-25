@@ -3978,11 +3978,6 @@
       "description": "DeviceKit is a value-type replacement of UIDevice.",
       "homepage": "https://github.com/devicekit/DeviceKit"
     }, {
-      "title": "Koyomi",
-      "category": "calendar",
-      "description": "Simple customizable calendar component.",
-      "homepage": "https://github.com/shoheiyokoyama/Koyomi"
-    }, {
       "title": "Workaholic",
       "category": "calendar",
       "description": "A GitHub-like work contribution timeline.",

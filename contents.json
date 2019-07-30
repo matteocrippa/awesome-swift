@@ -3444,11 +3444,6 @@
       "description": "A unified API to ask for permissions on iOS.",
       "homepage": "https://github.com/delba/Permission"
     }, {
-      "title": "PermissionScope",
-      "category": "permissions",
-      "description": "A Periscope-inspired way to ask for iOS permissions.",
-      "homepage": "https://github.com/nickoneill/PermissionScope"
-    }, {
       "title": "Swift-Prompts",
       "category": "alert",
       "description": "Design custom prompts with a great scope of options to choose from.",

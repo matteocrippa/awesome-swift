@@ -3378,11 +3378,6 @@
       "description": "Pagination enabled view controller.",
       "homepage": "https://github.com/PageMenu/PageMenu"
     }, {
-      "title": "PagingMenuController",
-      "category": "menu",
-      "description": "Paging view controller with customizable menu.",
-      "homepage": "https://github.com/kitasuke/PagingMenuController"
-    }, {
       "title": "MenuItemKit",
       "category": "menu",
       "description": "`UIMenuItem` with image and block (closure) support.",
@@ -3448,11 +3443,6 @@
       "category": "permissions",
       "description": "A unified API to ask for permissions on iOS.",
       "homepage": "https://github.com/delba/Permission"
-    }, {
-      "title": "PermissionScope",
-      "category": "permissions",
-      "description": "A Periscope-inspired way to ask for iOS permissions.",
-      "homepage": "https://github.com/nickoneill/PermissionScope"
     }, {
       "title": "Swift-Prompts",
       "category": "alert",
@@ -4530,11 +4520,6 @@
       "category": "layout",
       "description": "LayoutKit is a fast view layout library for iOS, macOS, and tvOS.",
       "homepage": "https://github.com/linkedin/LayoutKit"
-    }, {
-      "title": "RAReorderableLayout",
-      "category": "uicollectionview",
-      "description": "A UICollectionView layout which can move an item with drag and drop.",
-      "homepage": "https://github.com/ra1028/RAReorderableLayout"
     }, {
       "title": "TransitionButton",
       "category": "button",

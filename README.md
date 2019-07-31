@@ -416,6 +416,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 ### Chat
 *Libs to get access to build chat app* [back to top](#readme) 
 
+* [Stream Chat](https://getstream.io/tutorials/ios-chat/) - Build chat backed by Stream's enterprise grade chat platform and iOS Swift components. 
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications.
 * [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
 * [MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.

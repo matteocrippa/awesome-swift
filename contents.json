@@ -5719,6 +5719,11 @@
         "category": "mock",
         "description": "A framework that leverages the type system to let you easily create mocked instances of your data types.",
         "homepage": "https://github.com/vincent-pradeilles/AutoMocker"
+    }, {
+        "title": "Ribbon",
+        "category": "keyboard",
+        "description": "🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.",
+        "homepage": "https://github.com/chriszielinski/Ribbon"
     }
   ]
 }

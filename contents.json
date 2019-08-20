@@ -595,7 +595,6 @@
     "parent": "game-engine"
   }],
   "projects": [{
-	  
       "title": "ModelAssistant",
       "category": "multi-database",
       "description": "Elegant library to manage the interactions between view and model",
@@ -1172,6 +1171,12 @@
       "description": "A zero-dependency replacement for readline.",
       "homepage": "https://github.com/andybest/linenoise-swift",
       "tags": ["linux"]
+    }, {
+      "title": "nef",
+      "category": "command-line",
+      "description": "A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.",
+      "homepage": "https://github.com/bow-swift/nef",
+      "tags": ["macOS"]
     }, {
       "title": "SwiftCLI",
       "category": "command-line",

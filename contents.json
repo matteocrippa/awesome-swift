@@ -5724,6 +5724,11 @@
         "category": "keyboard",
         "description": "🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.",
         "homepage": "https://github.com/chriszielinski/Ribbon"
+    }, {
+        "title": "MultiSelectSegmentedControl",
+        "category": "ui",
+        "description": "UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.",
+        "homepage": "https://github.com/yonat/MultiSelectSegmentedControl"
     }
   ]
 }

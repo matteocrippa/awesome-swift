@@ -1408,7 +1408,7 @@
     }, {
       "title": "SwiftyJSONAccelerator",
       "category": "json",
-      "description": "OSX app to generate models for JSON.",
+      "description": "macOS app to generate Swift 5 models for JSON (with Codeable).",
       "homepage": "https://github.com/insanoid/SwiftyJSONAccelerator"
     }, {
       "title": "ObjectMapper",

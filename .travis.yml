@@ -12,12 +12,9 @@ jobs:
       script: 
         - awesome_bot contents.json -w AERecord,theswiftwebdeveloper,bluemix,swiftplayground,awesome-for-swift-cheatsheet
         - json validate --schema-file=.github/schema.json --document-file=contents.json
-    - stage: "Before Deploy"
+    - stage: "Deploy"
       script:
         - ruby .github/convert.rb
         - node .github/upgradeDb.js
-      if: branch = master AND type != pull_request
-    - stage: "Deploy"
-      script:
         - ./.github/deploy.sh
       if: branch = master AND type != pull_request

@@ -5560,7 +5560,7 @@
     }, {
       "title": "AwaitToast",
       "category": "alert",
-      "description": "🍞 Basic toast as well as async waiting toast. Inspired by facebook posting toast.",
+      "description": "🍞 An async waiting toast with basic toast. Inspired by facebook posting toast.",
       "homepage": "https://github.com/k-lpmg/AwaitToast"
     }, {
       "title": "Sejima",
@@ -5729,6 +5729,11 @@
         "category": "ui",
         "description": "UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.",
         "homepage": "https://github.com/yonat/MultiSelectSegmentedControl"
+    }, {
+        "title": "FlexibleHeader",
+        "category": "ui",
+        "description": "A container view that responds to scrolling of UIScrollView.",
+        "homepage": "https://github.com/k-lpmg/FlexibleHeader"
     }
   ]
 }

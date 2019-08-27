@@ -5560,7 +5560,7 @@
     }, {
       "title": "AwaitToast",
       "category": "alert",
-      "description": "🍞 Basic toast as well as async waiting toast. Inspired by facebook posting toast.",
+      "description": "🍞 An async waiting toast with basic toast. Inspired by facebook posting toast.",
       "homepage": "https://github.com/k-lpmg/AwaitToast"
     }, {
       "title": "Sejima",

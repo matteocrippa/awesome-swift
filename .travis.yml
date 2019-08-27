@@ -5,10 +5,15 @@ node_js: "0.10"
 before_script:
   - gem install awesome_bot
   - sudo pip install json-spec
-script:
-  - awesome_bot contents.json -w AERecord,theswiftwebdeveloper,bluemix,swiftplayground,awesome-for-swift-cheatsheet
-  - json validate --schema-file=.github/schema.json --document-file=contents.json
-  - node .github/upgradeDb.js
-after_success:
-  - ruby .github/convert.rb
-  - ./.github/deploy.sh
+jobs:
+  include:
+    - stage: "Test"
+      script: awesome_bot contents.json -w AERecord,theswiftwebdeveloper,bluemix,swiftplayground,awesome-for-swift-cheatsheet
+      script: json validate --schema-file=.github/schema.json --document-file=contents.json
+    - stage: "Before Deploy"
+      script: ruby .github/convert.rb
+      script: node .github/upgradeDb.js
+      if: branch = master
+    - stage: "Deploy"
+      script: ./.github/deploy.sh
+      if: branch = master

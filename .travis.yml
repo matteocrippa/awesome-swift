@@ -16,7 +16,7 @@ jobs:
       script:
         - ruby .github/convert.rb
         - node .github/upgradeDb.js
-      if: branch = master
+      if: branch = master OR branch = travis
     - stage: "Deploy"
       script:
         - ./.github/deploy.sh

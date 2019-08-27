@@ -5424,7 +5424,7 @@
       "title": "OverlayContainer",
       "category": "ui",
       "description": "OverlayContainer makes it easier to develop overlay based interfaces, such as the one presented in the Apple Maps or Stocks apps.",
-      "homepage": "https://github.com/applidium/ADOverlayContainer"
+      "homepage": "https://github.com/applidium/OverlayContainer"
      }, {
       "title": "ApplyStyleKit",
       "category": "utility",

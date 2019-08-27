@@ -5729,6 +5729,11 @@
         "category": "ui",
         "description": "UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.",
         "homepage": "https://github.com/yonat/MultiSelectSegmentedControl"
+    }, {
+        "title": "FlexibleHeader",
+        "category": "ui",
+        "description": "A container view that responds to scrolling of UIScrollView.",
+        "homepage": "https://github.com/k-lpmg/FlexibleHeader"
     }
   ]
 }

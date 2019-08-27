@@ -16,8 +16,8 @@ jobs:
       script:
         - ruby .github/convert.rb
         - node .github/upgradeDb.js
-      if: branch = master
+      if: branch = master AND type != pull_request
     - stage: "Deploy"
       script:
         - ./.github/deploy.sh
-      if: branch = master
+      if: branch = master AND type != pull_request

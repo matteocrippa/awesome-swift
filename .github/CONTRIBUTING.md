@@ -16,7 +16,7 @@ To be added to the list, software should meet the following criteria:
 - ✅ Work with the latest SDK
 - ✅ README is written in English
 - ✅ Have at least 15 🌟 stars on (GitHub project)
-- ✅ Support at least `Swift 4` or above
+- ✅ Support at least `Swift 5` or above
 - ✅ It is released under one of those license: `Apache License 2.0, BSD 3, BSD 2, GPL, LGPL, MIT`
 
 

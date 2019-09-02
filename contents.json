@@ -595,7 +595,6 @@
     "parent": "game-engine"
   }],
   "projects": [{
-	  
       "title": "ModelAssistant",
       "category": "multi-database",
       "description": "Elegant library to manage the interactions between view and model",
@@ -1173,6 +1172,12 @@
       "homepage": "https://github.com/andybest/linenoise-swift",
       "tags": ["linux"]
     }, {
+      "title": "nef",
+      "category": "command-line",
+      "description": "A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.",
+      "homepage": "https://github.com/bow-swift/nef",
+      "tags": ["macOS"]
+    }, {
       "title": "SwiftCLI",
       "category": "command-line",
       "description": "A powerful framework that can be used to develop a CLI.",
@@ -1403,7 +1408,7 @@
     }, {
       "title": "SwiftyJSONAccelerator",
       "category": "json",
-      "description": "OSX app to generate models for JSON.",
+      "description": "macOS app to generate Swift 5 models for JSON (with Codeable).",
       "homepage": "https://github.com/insanoid/SwiftyJSONAccelerator"
     }, {
       "title": "ObjectMapper",
@@ -5419,7 +5424,7 @@
       "title": "OverlayContainer",
       "category": "ui",
       "description": "OverlayContainer makes it easier to develop overlay based interfaces, such as the one presented in the Apple Maps or Stocks apps.",
-      "homepage": "https://github.com/applidium/ADOverlayContainer"
+      "homepage": "https://github.com/applidium/OverlayContainer"
      }, {
       "title": "ApplyStyleKit",
       "category": "utility",
@@ -5555,7 +5560,7 @@
     }, {
       "title": "AwaitToast",
       "category": "alert",
-      "description": "🍞 Basic toast as well as async waiting toast. Inspired by facebook posting toast.",
+      "description": "🍞 An async waiting toast with basic toast. Inspired by facebook posting toast.",
       "homepage": "https://github.com/k-lpmg/AwaitToast"
     }, {
       "title": "Sejima",
@@ -5719,6 +5724,21 @@
         "category": "ui",
         "description": "Animated Progress and Activity Indicators for iOS apps.",
         "homepage": "https://github.com/stoneburner/ShowSomeProgress"      
+    }, {
+        "title": "Ribbon",
+        "category": "keyboard",
+        "description": "🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.",
+        "homepage": "https://github.com/chriszielinski/Ribbon"
+    }, {
+        "title": "MultiSelectSegmentedControl",
+        "category": "ui",
+        "description": "UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.",
+        "homepage": "https://github.com/yonat/MultiSelectSegmentedControl"
+    }, {
+        "title": "FlexibleHeader",
+        "category": "ui",
+        "description": "A container view that responds to scrolling of UIScrollView.",
+        "homepage": "https://github.com/k-lpmg/FlexibleHeader"
     }
   ]
 }

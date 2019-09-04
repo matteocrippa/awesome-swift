@@ -5734,6 +5734,12 @@
         "category": "ui",
         "description": "A container view that responds to scrolling of UIScrollView.",
         "homepage": "https://github.com/k-lpmg/FlexibleHeader"
+    }, {
+      "title": "ReactiveAPI",
+      "category": "network",
+      "description": "Write clean, concise and declarative network code relying on URLSession, with the power of RxSwift. Inspired by Retrofit.",
+      "homepage": "https://github.com/sky-uk/ReactiveAPI",
+      "tags": ["swift", "declarative", "rx", "reactive", "urlsession"]
     }
   ]
 }

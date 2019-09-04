@@ -5720,6 +5720,11 @@
         "description": "A framework that leverages the type system to let you easily create mocked instances of your data types.",
         "homepage": "https://github.com/vincent-pradeilles/AutoMocker"
     }, {
+        "title": "ShowSomeProgress",
+        "category": "ui",
+        "description": "Animated Progress and Activity Indicators for iOS apps.",
+        "homepage": "https://github.com/stoneburner/ShowSomeProgress"      
+    }, {
         "title": "Ribbon",
         "category": "keyboard",
         "description": "🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.",

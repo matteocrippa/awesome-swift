@@ -1464,7 +1464,7 @@
       "title": "SwiftyUserDefaults",
       "category": "key-value-store",
       "description": "Cleaner, nicer syntax for NSUserDefaults.",
-      "homepage": "https://github.com/radex/SwiftyUserDefaults"
+      "homepage": "https://github.com/sunshinejr/SwiftyUserDefaults"
     }, {
       "title": "Zephyr",
       "category": "key-value-store",

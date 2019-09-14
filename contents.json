@@ -463,7 +463,8 @@
   }, {
     "title": "Phone Numbers",
     "id": "phone-numbers",
-    "parent": "Libs to manage phone numbers."
+    "parent": "validation"
+    "description": "Libs to manage phone numbers."
   }, {
     "title": "Thread",
     "id": "thread",

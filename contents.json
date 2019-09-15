@@ -463,7 +463,8 @@
   }, {
     "title": "Phone Numbers",
     "id": "phone-numbers",
-    "parent": "validation"
+    "parent": "validation",
+    "description": "Libs to manage phone numbers."
   }, {
     "title": "Thread",
     "id": "thread",
@@ -2749,6 +2750,11 @@
       "description": "Framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.",
       "homepage": "https://github.com/marmelroy/PhoneNumberKit"
     }, {
+      "title": "NKVPhonePicker",
+      "category": "phone-numbers",
+      "description": "An UITextField subclass to simplify country code's picking.",
+      "homepage": "https://github.com/NikKovIos/NKVPhonePicker"
+    }, {
       "title": "Async",
       "category": "thread",
       "description": "Syntactic sugar for Grand Central Dispatch.",
@@ -4111,6 +4117,11 @@
       "category": "images",
       "description": "Multi image downloader with priority.",
       "homepage": "https://github.com/jinSasaki/Vulcan"
+    }, {
+      "title": "YPImagePicker",
+      "category": "images",
+      "description": "Instagram-like image picker & filters for iOS.",
+      "homepage": "https://github.com/Yummypets/YPImagePicker"
     }, {
       "title": "Sharaku",
       "category": "images",

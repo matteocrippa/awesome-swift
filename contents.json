@@ -5759,7 +5759,7 @@
     }, {
       "title": "PolioPager",
       "category": "tab",
-      "description": "A flexible TabBarController with search tab like SNKRS. ",
+      "description": "A flexible TabBarController with search tab like SNKRS.",
       "homepage": "https://github.com/YuigaWada/PolioPager"
     }
   ]

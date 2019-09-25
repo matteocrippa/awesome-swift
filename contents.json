@@ -5756,6 +5756,11 @@
       "description": "Write clean, concise and declarative network code relying on URLSession, with the power of RxSwift. Inspired by Retrofit.",
       "homepage": "https://github.com/sky-uk/ReactiveAPI",
       "tags": ["swift", "declarative", "rx", "reactive", "urlsession"]
+    }, {
+      "title": "PolioPager",
+      "category": "tab",
+      "description": "A flexible TabBarController with search tab like SNKRS.",
+      "homepage": "https://github.com/YuigaWada/PolioPager"
     }
   ]
 }

@@ -5761,6 +5761,11 @@
       "category": "tab",
       "description": "A flexible TabBarController with search tab like SNKRS.",
       "homepage": "https://github.com/YuigaWada/PolioPager"
+    }, {
+      "title": "DuctTape",
+      "category": "utility",
+      "description": "📦 KeyPath dynamicMemberLookup based syntax sugar for Swift.",
+      "homepage": "https://github.com/marty-suzuki/DuctTape"
     }
   ]
 }

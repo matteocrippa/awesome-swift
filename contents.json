@@ -5769,7 +5769,7 @@
     }, {
       "title": "SwiftFormat",
       "category": "quality",
-      "description": "A code library and command-line formatting tool for reformatting Swift code",
+      "description": "A code library and command-line formatting tool for reformatting Swift code.",
       "homepage": "https://github.com/nicklockwood/SwiftFormat"
     }
   ]

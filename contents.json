@@ -5771,6 +5771,11 @@
       "category": "algorithm",
       "description": "Fast sorted collections for Swift using in-memory B-trees.",
       "homepage": "https://github.com/attaswift/BTree"
+    }, { 
+      "title": "SwiftFormat",
+      "category": "quality",
+      "description": "A code library and command-line formatting tool for reformatting Swift code.",
+      "homepage": "https://github.com/nicklockwood/SwiftFormat"
     }
   ]
 }

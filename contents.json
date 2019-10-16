@@ -5776,6 +5776,11 @@
       "category": "quality",
       "description": "A code library and command-line formatting tool for reformatting Swift code.",
       "homepage": "https://github.com/nicklockwood/SwiftFormat"
+    }, { 
+      "title": "SwiftShell",
+      "category": "command-line",
+      "description": "A library for creating command-line applications and running shell commands.",
+      "homepage": "https://github.com/kareman/SwiftShell"
     }
   ]
 }

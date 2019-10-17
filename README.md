@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1000 | October 14, 2019
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1001 | October 17, 2019
 
 ### Contents
 
@@ -451,6 +451,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Progress.swift](https://github.com/jkandzi/Progress.swift) :penguin: - Add beautiful progress bars to your command line.
 * [SwiftCLI](https://github.com/jakeheis/SwiftCLI) :penguin: - A powerful framework that can be used to develop a CLI.
 * [Swiftline](https://github.com/nsomar/Swiftline) - A set of tools to help you create command line applications.
+* [SwiftShell](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
 * [SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) :penguin: - A lightweight library to generate text tables.
 
 ### Concurrency

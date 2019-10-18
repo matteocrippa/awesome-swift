@@ -5781,6 +5781,11 @@
       "category": "command-line",
       "description": "A library for creating command-line applications and running shell commands.",
       "homepage": "https://github.com/kareman/SwiftShell"
+    }, { 
+      "title": "DIKit",
+      "category": "dependency-injection",
+      "description": "Dependency Injection Framework for Swift, inspired by KOIN.",
+      "homepage": "https://github.com/Liftric/DIKit"
     }
   ]
 }

@@ -5786,6 +5786,11 @@
       "category": "quality",
       "description": "A validation library which inspired by the clarity of Ruby On Rails Active Record validations.",
       "homepage": "https://github.com/andresinaka/SwiftCop"
+    }, {
+      "title": "DIKit",
+      "category": "dependency-injection",
+      "description": "Dependency Injection Framework for Swift, inspired by KOIN.",
+      "homepage": "https://github.com/Liftric/DIKit"
     }
   ]
 }

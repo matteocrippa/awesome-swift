@@ -2560,6 +2560,11 @@
       "description": "Simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.",
       "homepage": "https://github.com/jrendel/SwiftKeychainWrapper"
     }, {
+      "title": "SwiftyKeychainKit",
+      "category": "keychain",
+      "description": "Keychain wrapper with the benefits of static typing and convenient syntax, support for primitive types, Codable, NSCoding.",
+      "homepage": "https://github.com/andriyslyusar/SwiftyKeychainKit"
+    }, {
       "title": "MotionKit",
       "category": "sensors",
       "description": "iOS device sensors wrapper.",

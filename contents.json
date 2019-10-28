@@ -5791,6 +5791,11 @@
       "category": "dependency-injection",
       "description": "Dependency Injection Framework for Swift, inspired by KOIN.",
       "homepage": "https://github.com/Liftric/DIKit"
+    }, {
+      "title": "MockSwift",
+      "category": "mock",
+      "description": "Mock Framework that uses the power of property wrappers.",
+      "homepage": "https://github.com/leoture/MockSwift"
     }
   ]
 }

@@ -254,7 +254,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 ## Misc
 *Miscellaneous Swift related projects* 
 * [Beak](https://github.com/yonaskolb/Beak) - A command line interface for your Swift scripts.
-* [CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy (Swift 5.1)
 * [Model2App](https://github.com/Q-Mobile/Model2App) - Turn your data model into a working CRUD app.
 * [SwagGen](https://github.com/yonaskolb/SwagGen) :penguin: - A command line tool for generating a REST API from a Swagger spec based off Stencil templates.
 * [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the compiler.

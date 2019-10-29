@@ -4866,6 +4866,13 @@
       "description": "A command line interface for your Swift scripts.",
       "homepage": "https://github.com/yonaskolb/Beak"
     }, {
+      "title": "CodableWrappers",
+      "category": "misc",
+      "description": "A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.",
+      "homepage": "https://github.com/GottaGetSwifty/CodableWrappers",
+      "tags": ["swift", "codable", "property-wrappers"]
+    },
+    {
       "title": "Fluid Slider",
       "category": "ui",
       "description": "A slider widget with a popup bubble displaying the precise value selected.",

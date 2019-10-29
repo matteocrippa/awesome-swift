@@ -32,7 +32,7 @@ When adding new items, please adhere to the following guidelines:
 {
 		"title": "Commander",
 		"category": "command-line",
-		"description": "Compose beautiful command line interfaces in Swift.",
+		"description": "Compose beautiful command line interfaces.",
 		"homepage": "https://github.com/kylef/Commander",
 		"tags": ["linux"]
 }

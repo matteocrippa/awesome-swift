@@ -4868,7 +4868,7 @@
     }, {
       "title": "CodableWrappers",
       "category": "misc",
-      "description": "A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy.",
+      "description": "A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.",
       "homepage": "https://github.com/GottaGetSwifty/CodableWrappers",
       "tags": ["swift", "codable", "property-wrappers"]
     },

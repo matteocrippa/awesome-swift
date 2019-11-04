@@ -1635,6 +1635,11 @@
       "homepage": "https://github.com/uraimo/SwiftyGPIO",
       "tags": ["linux"]
     }, {
+      "title": "OpenCombine",
+      "category": "events",
+      "description": "Open source implementation of Apple's Combine framework for processing values over time.",
+      "homepage": "https://github.com/broadwaylamb/OpenCombine"
+    }, {
       "title": "Bond",
       "category": "events",
       "description": "Binding framework.",

@@ -1724,7 +1724,12 @@
       "category": "events",
       "description": "NoticeObserveKit is type-safe NotificationCenter wrapper that associates notice type with info type.",
       "homepage": "https://github.com/marty-suzuki/NoticeObserveKit"
-    }, {
+    },{
+      "title": "DiffValue",
+      "category": "events",
+      "description": "Diff Observation PropertyWrapper for Equatable types",
+      "homepage": "https://github.com/ZkHaider/DiffValue/"
+    },{
       "title": "PMKVObserver",
       "category": "events",
       "description": "Modern thread-safe and type-safe key-value observing.",

@@ -1728,7 +1728,8 @@
       "title": "DiffValue",
       "category": "events",
       "description": "Diff Observation PropertyWrapper for Equatable types",
-      "homepage": "https://github.com/ZkHaider/DiffValue/"
+      "homepage": "https://github.com/ZkHaider/DiffValue/",
+      "tags": ["swift", "mac", "ios", "tvos", "watchos", "diffing", "observable", "combine", "propertywrapper"]
     },{
       "title": "PMKVObserver",
       "category": "events",

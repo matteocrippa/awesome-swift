@@ -5814,6 +5814,18 @@
       "category": "mock",
       "description": "Mock Framework that uses the power of property wrappers.",
       "homepage": "https://github.com/leoture/MockSwift"
+    }, {
+      "title": "Translatio",
+      "category": "localization",
+      "description": "Super lightweight library that helps you to localize strings, even directly in storyboards.",
+      "homepage": "https://github.com/andrealufino/Translatio",
+      "tags": ["localization", "language", "translation"]
+    }, {
+      "title": "Deviice",
+      "category": "device",
+      "description": "Swift library to easily check the current device and some more info about it.",
+      "homepage": "https://github.com/andrealufino/Deviice",
+      "tags": ["device", "detection"]
     }
   ]
 }

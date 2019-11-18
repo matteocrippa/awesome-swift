@@ -5291,6 +5291,12 @@
       "description": "An overlay that gets your user’s voice permission and input as text in a customizable UI.",
       "homepage": "https://github.com/algolia/voice-overlay-ios"
     }, {
+	  "title": "ModernAVPlayer",
+	  "category": "audio",
+	  "description": "Persistence AVPlayer to resume playback after bad network connection even in background mode.",
+	  "homepage": "https://github.com/noreasonprojects/ModernAVPlayer",
+      "tags": ["swift", "reachability", "network", "avplayer", "player", "hls", "mp3", "wav", "aiff"]
+	}, {
       "title": "LightRoute",
       "category": "app-routing",
       "description": "Routing between VIPER modules.",

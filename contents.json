@@ -3885,7 +3885,7 @@
       "title": "Facebook",
       "category": "SDK",
       "description": "Official Facebook SDK.",
-      "homepage": "https://github.com/facebook/facebook-swift-sdk"
+      "homepage": "https://github.com/facebookarchive/facebook-swift-sdk"
     }, {
       "title": "Translucid",
       "category": "label",
@@ -5438,7 +5438,7 @@
       "title": "SPPermission",
       "category": "permissions",
       "description": "Simple request permission with native UI and interactive animation.",
-      "homepage": "https://github.com/IvanVorobei/SPPermission"
+      "homepage": "https://github.com/ivanvorobei/SPPermissions"
      }, {
       "title": "Google",
       "category": "style-guides",

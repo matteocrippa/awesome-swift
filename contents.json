@@ -1775,6 +1775,11 @@
       "description": "Library for Font Icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather.",
       "homepage": "https://github.com/ranesr/SwiftIcons"
     }, {
+      "title": "SYSymbol",
+      "category": "fonts",
+      "description": "All the SFSymbols at your fingertips.",
+      "homepage": "https://github.com/Nirma/SFSymbol"
+    }, {
       "title": "Sage",
       "category": "games",
       "description": "A cross-platform chess library.",
@@ -3885,7 +3890,7 @@
       "title": "Facebook",
       "category": "SDK",
       "description": "Official Facebook SDK.",
-      "homepage": "https://github.com/facebook/facebook-swift-sdk"
+      "homepage": "https://github.com/facebookarchive/facebook-swift-sdk"
     }, {
       "title": "Translucid",
       "category": "label",
@@ -5291,6 +5296,12 @@
       "description": "An overlay that gets your user’s voice permission and input as text in a customizable UI.",
       "homepage": "https://github.com/algolia/voice-overlay-ios"
     }, {
+	  "title": "ModernAVPlayer",
+	  "category": "audio",
+	  "description": "Persistence AVPlayer to resume playback after bad network connection even in background mode.",
+	  "homepage": "https://github.com/noreasonprojects/ModernAVPlayer",
+      "tags": ["swift", "reachability", "network", "avplayer", "player", "hls", "mp3", "wav", "aiff"]
+	}, {
       "title": "LightRoute",
       "category": "app-routing",
       "description": "Routing between VIPER modules.",
@@ -5432,7 +5443,7 @@
       "title": "SPPermission",
       "category": "permissions",
       "description": "Simple request permission with native UI and interactive animation.",
-      "homepage": "https://github.com/IvanVorobei/SPPermission"
+      "homepage": "https://github.com/ivanvorobei/SPPermissions"
      }, {
       "title": "Google",
       "category": "style-guides",
@@ -5814,6 +5825,18 @@
       "description": "An easy way to add mentions to uitextview like Facebook and Instagram.",
       "homepage": "https://github.com/omar14/OEMentions",
       "tags": ["Swift", "UITextView", "UITableView"]
+    }, {
+      "title": "Translatio",
+      "category": "localization",
+      "description": "Super lightweight library that helps you to localize strings, even directly in storyboards.",
+      "homepage": "https://github.com/andrealufino/Translatio",
+      "tags": ["localization", "language", "translation"]
+    }, {
+      "title": "Deviice",
+      "category": "device",
+      "description": "Swift library to easily check the current device and some more info about it.",
+      "homepage": "https://github.com/andrealufino/Deviice",
+      "tags": ["device", "detection"]
     }
   ]
 }

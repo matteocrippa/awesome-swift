@@ -5819,6 +5819,12 @@
       "category": "mock",
       "description": "Mock Framework that uses the power of property wrappers.",
       "homepage": "https://github.com/leoture/MockSwift"
+    },{
+      "title": "OEMentions",
+      "category": "text",
+      "description": "An easy way to add mentions to uitextview like Facebook and Instagram.",
+      "homepage": "https://github.com/omar14/OEMentions",
+      "tags": ["Swift", "UITextView", "UITableView"]
     }, {
       "title": "Translatio",
       "category": "localization",

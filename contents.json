@@ -4819,6 +4819,11 @@
       "homepage": "https://github.com/Decybel07/L10n-swift",
       "tags": ["l10n", "localization", "plurals", "iOS", "macOS", "tvOS", "watchOS"]
     }, {
+      "title": "MultiPickerView",
+      "category": "ui",
+      "description": "Multi selection picker and datepicker, easy to use.",
+      "homepage": "https://github.com/Brsoyan/Multiple-Selection-Picker"
+    }, {
       "title": "CountryPickerView",
       "category": "ui",
       "description": "A simple, customizable view for efficiently collecting country information in iOS apps.",

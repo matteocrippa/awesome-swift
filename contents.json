@@ -595,14 +595,19 @@
     "id": "game-engine-2d",
     "parent": "game-engine"
   }],
-  "projects": [{
+  "projects": [
+    {
+      "title": "SwiftAudioPlayer",
+		  "category": "audio",
+		  "description": "Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.",
+		  "homepage": "https://github.com/tanhakabir/SwiftAudioPlayer"
+    }, {
       "title": "ModelAssistant",
       "category": "multi-database",
       "description": "Elegant library to manage the interactions between view and model",
       "homepage": "https://github.com/ssamadgh/ModelAssistant",
       "tags": ["swift", "uitableview", "uicollectionview", "ios"]
-
-  }, {
+    }, {
 		"title": "Cards XI",
 		"category": "transition",
 		"description": "Awesome iOS 11 AppStore's Card Views.",

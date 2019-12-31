@@ -2838,6 +2838,11 @@
       "description": "A class to build custom walkthroughs for your iOS App.",
       "homepage": "https://github.com/ariok/BWWalkthrough"
     }, {
+      "title": "ConcentricOnboarding",
+      "category": "walkthrough",
+      "description": "SwiftUI library for a walkthrough or onboarding flow with tap actions.",
+      "homepage": "https://github.com/exyte/ConcentricOnboarding"
+    }, {
       "title": "Charts",
       "category": "chart",
       "description": "Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).",

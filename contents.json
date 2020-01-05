@@ -4232,6 +4232,12 @@
       "homepage": "https://github.com/ChiliLabs/CHIPageControl",
       "tags": ["iOS", "swift", "pagination", "animation", "pagecontrol", "UIPageControl"]
     }, {
+      "title": "AdvancedPageControl",
+      "category": "pagination",
+      "description": "A simple yet powerful page control indicator animations library for IOS.",
+      "homepage": "https://github.com/mohn93/AdvancedPageControl",
+      "tags": ["iOS", "swift", "pagination", "animation", "pagecontrol", "UIPageControl"]
+    }, {
       "title": "ReverseExtension",
       "category": "uitableview",
       "description": "UITableView extension that enables the insertion of cells the from bottom of a table view.",

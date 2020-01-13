@@ -3339,6 +3339,11 @@
       "description": "Floating Action Button for iOS.",
       "homepage": "https://github.com/kciter/Floaty"
     }, {
+      "title": "FloatingButton",
+      "category": "button",
+      "description": "Easily customizable floating button menu created with SwiftUI.",
+      "homepage": "https://github.com/exyte/FloatingButton"
+    }, {
       "title": "LTHRadioButton",
       "category": "button",
       "description": "A radio button with a pretty animation.",

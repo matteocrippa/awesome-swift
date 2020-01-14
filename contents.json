@@ -3262,7 +3262,7 @@
       "title": "CFNotify",
       "category": "alert",
       "description": "A customizable framework to create draggable alert views.",
-      "homepage": "https://github.com/hallelujahbaby/CFNotify"
+      "homepage": "https://github.com/JT501/CFNotify"
     }, {
       "title": "EZAlertController",
       "category": "alert",
@@ -3704,11 +3704,6 @@
       "category": "text",
       "description": "Great String Pluralize Extension.",
       "homepage": "https://github.com/joshualat/Pluralize.swift"
-    }, {
-      "title": "Popsicle",
-      "category": "utility",
-      "description": "Delightful, extensible value interpolation framework.",
-      "homepage": "https://github.com/DavdRoman/Popsicle"
     }, {
       "title": "protobuf-swift",
       "category": "utility",

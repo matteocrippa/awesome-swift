@@ -5842,6 +5842,12 @@
       "description": "Swift library to easily check the current device and some more info about it.",
       "homepage": "https://github.com/andrealufino/Deviice",
       "tags": ["device", "detection"]
+    }, {
+      "title": "SweetCurtain",
+      "category": "ui",
+      "description": "Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.",
+      "homepage": "https://github.com/multimediasuite/SweetCurtain",
+      "tags": ["swift", "pull-up", "curtain", "bottom-sheet", "sliding-menu"]
     }
   ]
 }

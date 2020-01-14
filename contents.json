@@ -3705,11 +3705,6 @@
       "description": "Great String Pluralize Extension.",
       "homepage": "https://github.com/joshualat/Pluralize.swift"
     }, {
-      "title": "Popsicle",
-      "category": "utility",
-      "description": "Delightful, extensible value interpolation framework.",
-      "homepage": "https://github.com/DavdRoman/Popsicle"
-    }, {
       "title": "protobuf-swift",
       "category": "utility",
       "description": "ProtocolBuffers.",

@@ -2838,6 +2838,11 @@
       "description": "A class to build custom walkthroughs for your iOS App.",
       "homepage": "https://github.com/ariok/BWWalkthrough"
     }, {
+      "title": "ConcentricOnboarding",
+      "category": "walkthrough",
+      "description": "SwiftUI library for a walkthrough or onboarding flow with tap actions.",
+      "homepage": "https://github.com/exyte/ConcentricOnboarding"
+    }, {
       "title": "Charts",
       "category": "chart",
       "description": "Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).",
@@ -3257,7 +3262,7 @@
       "title": "CFNotify",
       "category": "alert",
       "description": "A customizable framework to create draggable alert views.",
-      "homepage": "https://github.com/hallelujahbaby/CFNotify"
+      "homepage": "https://github.com/JT501/CFNotify"
     }, {
       "title": "EZAlertController",
       "category": "alert",
@@ -3338,6 +3343,11 @@
       "category": "button",
       "description": "Floating Action Button for iOS.",
       "homepage": "https://github.com/kciter/Floaty"
+    }, {
+      "title": "FloatingButton",
+      "category": "button",
+      "description": "Easily customizable floating button menu created with SwiftUI.",
+      "homepage": "https://github.com/exyte/FloatingButton"
     }, {
       "title": "LTHRadioButton",
       "category": "button",
@@ -3694,11 +3704,6 @@
       "category": "text",
       "description": "Great String Pluralize Extension.",
       "homepage": "https://github.com/joshualat/Pluralize.swift"
-    }, {
-      "title": "Popsicle",
-      "category": "utility",
-      "description": "Delightful, extensible value interpolation framework.",
-      "homepage": "https://github.com/DavdRoman/Popsicle"
     }, {
       "title": "protobuf-swift",
       "category": "utility",
@@ -5808,10 +5813,7 @@
   		"title": "TermiNetwork",
   		"category": "network",
   		"description": "A networking abstraction layer in Swift designed to work with Codables.",
-<<<<<<< HEAD
   		"homepage": "https://github.com/billp/TermiNetwork"
-=======
-  		"homepage": "https://github.com/billp/TermiNetwork",
     }, { 
       "title": "SwiftCop",
       "category": "quality",
@@ -5845,7 +5847,12 @@
       "description": "Swift library to easily check the current device and some more info about it.",
       "homepage": "https://github.com/andrealufino/Deviice",
       "tags": ["device", "detection"]
->>>>>>> 15bdd773e4dee04a511336b2f438c964a2906bda
+    }, {
+      "title": "SweetCurtain",
+      "category": "ui",
+      "description": "Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.",
+      "homepage": "https://github.com/multimediasuite/SweetCurtain",
+      "tags": ["swift", "pull-up", "curtain", "bottom-sheet", "sliding-menu"]
     }
   ]
 }

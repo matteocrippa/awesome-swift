@@ -595,14 +595,19 @@
     "id": "game-engine-2d",
     "parent": "game-engine"
   }],
-  "projects": [{
+  "projects": [
+    {
+      "title": "SwiftAudioPlayer",
+		  "category": "audio",
+		  "description": "Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.",
+		  "homepage": "https://github.com/tanhakabir/SwiftAudioPlayer"
+    }, {
       "title": "ModelAssistant",
       "category": "multi-database",
       "description": "Elegant library to manage the interactions between view and model",
       "homepage": "https://github.com/ssamadgh/ModelAssistant",
       "tags": ["swift", "uitableview", "uicollectionview", "ios"]
-
-  }, {
+    }, {
 		"title": "Cards XI",
 		"category": "transition",
 		"description": "Awesome iOS 11 AppStore's Card Views.",
@@ -1635,6 +1640,11 @@
       "homepage": "https://github.com/uraimo/SwiftyGPIO",
       "tags": ["linux"]
     }, {
+      "title": "OpenCombine",
+      "category": "events",
+      "description": "Open source implementation of Apple's Combine framework for processing values over time.",
+      "homepage": "https://github.com/broadwaylamb/OpenCombine"
+    }, {
       "title": "Bond",
       "category": "events",
       "description": "Binding framework.",
@@ -1769,6 +1779,11 @@
       "category": "fonts",
       "description": "Library for Font Icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather.",
       "homepage": "https://github.com/ranesr/SwiftIcons"
+    }, {
+      "title": "SYSymbol",
+      "category": "fonts",
+      "description": "All the SFSymbols at your fingertips.",
+      "homepage": "https://github.com/Nirma/SFSymbol"
     }, {
       "title": "Sage",
       "category": "games",
@@ -3880,7 +3895,7 @@
       "title": "Facebook",
       "category": "SDK",
       "description": "Official Facebook SDK.",
-      "homepage": "https://github.com/facebook/facebook-swift-sdk"
+      "homepage": "https://github.com/facebookarchive/facebook-swift-sdk"
     }, {
       "title": "Translucid",
       "category": "label",
@@ -4585,11 +4600,6 @@
       "description": "Manage the task execution in different threads through Kommands.",
       "homepage": "https://github.com/intelygenz/Kommander-iOS"
     }, {
-      "title": "Colorify",
-      "category": "colors",
-      "description": "Colorify - simple, yet powerful color library.",
-      "homepage": "https://github.com/czater/Colorify"
-    }, {
       "title": "HGPlaceholders",
       "category": "uitableview",
       "description": "Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.",
@@ -4866,6 +4876,13 @@
       "description": "A command line interface for your Swift scripts.",
       "homepage": "https://github.com/yonaskolb/Beak"
     }, {
+      "title": "CodableWrappers",
+      "category": "misc",
+      "description": "A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.",
+      "homepage": "https://github.com/GottaGetSwifty/CodableWrappers",
+      "tags": ["swift", "codable", "property-wrappers"]
+    },
+    {
       "title": "Fluid Slider",
       "category": "ui",
       "description": "A slider widget with a popup bubble displaying the precise value selected.",
@@ -5279,6 +5296,12 @@
       "description": "An overlay that gets your user’s voice permission and input as text in a customizable UI.",
       "homepage": "https://github.com/algolia/voice-overlay-ios"
     }, {
+	  "title": "ModernAVPlayer",
+	  "category": "audio",
+	  "description": "Persistence AVPlayer to resume playback after bad network connection even in background mode.",
+	  "homepage": "https://github.com/noreasonprojects/ModernAVPlayer",
+      "tags": ["swift", "reachability", "network", "avplayer", "player", "hls", "mp3", "wav", "aiff"]
+	}, {
       "title": "LightRoute",
       "category": "app-routing",
       "description": "Routing between VIPER modules.",
@@ -5420,7 +5443,7 @@
       "title": "SPPermission",
       "category": "permissions",
       "description": "Simple request permission with native UI and interactive animation.",
-      "homepage": "https://github.com/IvanVorobei/SPPermission"
+      "homepage": "https://github.com/ivanvorobei/SPPermissions"
      }, {
       "title": "Google",
       "category": "style-guides",
@@ -5785,7 +5808,44 @@
   		"title": "TermiNetwork",
   		"category": "network",
   		"description": "A networking abstraction layer in Swift designed to work with Codables.",
+<<<<<<< HEAD
   		"homepage": "https://github.com/billp/TermiNetwork"
+=======
+  		"homepage": "https://github.com/billp/TermiNetwork",
+    }, { 
+      "title": "SwiftCop",
+      "category": "quality",
+      "description": "A validation library which inspired by the clarity of Ruby On Rails Active Record validations.",
+      "homepage": "https://github.com/andresinaka/SwiftCop"
+    }, {
+      "title": "DIKit",
+      "category": "dependency-injection",
+      "description": "Dependency Injection Framework for Swift, inspired by KOIN.",
+      "homepage": "https://github.com/Liftric/DIKit"
+    }, {
+      "title": "MockSwift",
+      "category": "mock",
+      "description": "Mock Framework that uses the power of property wrappers.",
+      "homepage": "https://github.com/leoture/MockSwift"
+    },{
+      "title": "OEMentions",
+      "category": "text",
+      "description": "An easy way to add mentions to uitextview like Facebook and Instagram.",
+      "homepage": "https://github.com/omar14/OEMentions",
+      "tags": ["Swift", "UITextView", "UITableView"]
+    }, {
+      "title": "Translatio",
+      "category": "localization",
+      "description": "Super lightweight library that helps you to localize strings, even directly in storyboards.",
+      "homepage": "https://github.com/andrealufino/Translatio",
+      "tags": ["localization", "language", "translation"]
+    }, {
+      "title": "Deviice",
+      "category": "device",
+      "description": "Swift library to easily check the current device and some more info about it.",
+      "homepage": "https://github.com/andrealufino/Deviice",
+      "tags": ["device", "detection"]
+>>>>>>> 15bdd773e4dee04a511336b2f438c964a2906bda
     }
   ]
 }

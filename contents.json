@@ -5762,7 +5762,7 @@
         "title": "ShowSomeProgress",
         "category": "ui",
         "description": "Animated Progress and Activity Indicators for iOS apps.",
-        "homepage": "https://github.com/stoneburner/ShowSomeProgress"      
+        "homepage": "https://github.com/stoneburner/ShowSomeProgress"
     }, {
         "title": "Ribbon",
         "category": "keyboard",
@@ -5799,16 +5799,21 @@
       "category": "algorithm",
       "description": "Fast sorted collections for Swift using in-memory B-trees.",
       "homepage": "https://github.com/attaswift/BTree"
-    }, { 
+    }, {
       "title": "SwiftFormat",
       "category": "quality",
       "description": "A code library and command-line formatting tool for reformatting Swift code.",
       "homepage": "https://github.com/nicklockwood/SwiftFormat"
-    }, { 
+    }, {
       "title": "SwiftShell",
       "category": "command-line",
       "description": "A library for creating command-line applications and running shell commands.",
       "homepage": "https://github.com/kareman/SwiftShell"
+    }, {
+  		"title": "TermiNetwork",
+  		"category": "network",
+  		"description": "A networking abstraction layer in Swift designed to work with Codables.",
+  		"homepage": "https://github.com/billp/TermiNetwork"
     }, { 
       "title": "SwiftCop",
       "category": "quality",

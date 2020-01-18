@@ -5853,6 +5853,11 @@
       "description": "Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.",
       "homepage": "https://github.com/multimediasuite/SweetCurtain",
       "tags": ["swift", "pull-up", "curtain", "bottom-sheet", "sliding-menu"]
+    }, {
+      "title": "swift-mod",
+      "category": "quality",
+      "description": "A tool for Swift code modification intermediating between code generation and formatting.",
+      "homepage": "https://github.com/ra1028/swift-mod"
     }
   ]
 }

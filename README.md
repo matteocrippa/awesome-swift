@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1015 | January 18, 2020
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1016 | January 18, 2020
 
 ### Contents
 
@@ -603,6 +603,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SwiftyXML](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing.
 * [XMLCoder](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library
+* [XMLMapper](https://github.com/gcharita/XMLMapper) - A simple way to map XML to Objects.
 
 #### YAML
 [back to top](#readme) 

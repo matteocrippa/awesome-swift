@@ -5608,10 +5608,10 @@
       "homepage": "https://github.com/MoveUpwards/Sejima",
       "tags": ["UI", "components"]
     }, {
-        "title": "WLEmptyState",
-        "category": "uitableview",
-        "description": "A component that lets you customize the view when the dataset of UITableView is empty.",
-        "homepage": "https://github.com/wizeline/WLEmptyState"
+      "title": "WLEmptyState",
+      "category": "uitableview",
+      "description": "A component that lets you customize the view when the dataset of UITableView is empty.",
+      "homepage": "https://github.com/wizeline/WLEmptyState"
     }, {
       "title": "lottie-ios",
       "category": "animation",
@@ -5853,6 +5853,12 @@
       "description": "Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.",
       "homepage": "https://github.com/multimediasuite/SweetCurtain",
       "tags": ["swift", "pull-up", "curtain", "bottom-sheet", "sliding-menu"]
+    }, {
+      "title": "XMLMapper",
+      "category": "xml",
+      "description": "A simple way to map XML to Objects.",
+      "homepage": "https://github.com/gcharita/XMLMapper",
+      "tags": ["swift", "xml", "soap"]
     }, {
       "title": "swift-mod",
       "category": "quality",

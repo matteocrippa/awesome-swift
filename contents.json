@@ -5864,6 +5864,12 @@
       "category": "quality",
       "description": "A tool for Swift code modification intermediating between code generation and formatting.",
       "homepage": "https://github.com/ra1028/swift-mod"
+    }, {
+      "title": "SwiftCoroutine",
+      "category": "concurrency",
+      "description": "Coroutines for iOS and macOS.",
+      "homepage": "https://github.com/belozierov/SwiftCoroutine",
+      "tags": ["swift", "coroutine", "coroutines", "await", "async/await"]
     }
   ]
 }

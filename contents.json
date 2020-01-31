@@ -4887,6 +4887,12 @@
       "homepage": "https://github.com/GottaGetSwifty/CodableWrappers",
       "tags": ["swift", "codable", "property-wrappers"]
     },
+		{
+			"title": "DataFixture",
+			"category": "misc",
+			"description": "Creation of data model easily, with no headache.",
+			"homepage": "https://github.com/andreadelfante/DataFixture"
+		}, 
     {
       "title": "Fluid Slider",
       "category": "ui",

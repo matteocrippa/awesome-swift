@@ -5882,6 +5882,12 @@
       "description": "Coroutines for iOS and macOS.",
       "homepage": "https://github.com/belozierov/SwiftCoroutine",
       "tags": ["swift", "coroutine", "coroutines", "await", "async/await"]
+    }, {
+      "title": "CrowdinSDK",
+      "category": "localization",
+      "description": "Delivers all new translations from Crowdin project to the application immediately.",
+      "homepage": "https://github.com/crowdin/mobile-sdk-ios",
+      "tags": ["swift", "crowdin", "localization"]
     }
   ]
 }

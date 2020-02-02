@@ -3807,6 +3807,12 @@
       "description": "Functional data types and functions for any project.",
       "homepage": "https://github.com/typelift/Swiftx"
     }, {
+      "title": "Swifty360Player",
+      "category": "video",
+      "description": "iOS 360-degree video player streaming from an AVPlayer.",
+      "homepage": "https://github.com/abdullahselek/Swifty360Player",
+      "tags": ["iOS", "AVPlayer", "360 video player"]
+    }, {
       "title": "SwiftyUtils",
       "category": "utility",
       "description": "All the reusable code that we need in each project.",

@@ -4886,14 +4886,12 @@
       "description": "A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.",
       "homepage": "https://github.com/GottaGetSwifty/CodableWrappers",
       "tags": ["swift", "codable", "property-wrappers"]
-    },
-		{
-			"title": "DataFixture",
-			"category": "misc",
-			"description": "Creation of data model easily, with no headache.",
-			"homepage": "https://github.com/andreadelfante/DataFixture"
-		}, 
-    {
+    }, {
+      "title": "DataFixture",
+      "category": "misc",
+      "description": "Creation of data model easily, with no headache.",
+      "homepage": "https://github.com/andreadelfante/DataFixture"
+    }, {
       "title": "Fluid Slider",
       "category": "ui",
       "description": "A slider widget with a popup bubble displaying the precise value selected.",
@@ -4903,7 +4901,7 @@
       "category": "newsletter",
       "description": "A weekly curated newsletter containing for people interested in designing and developing their own iOS, watchOS and Apple TV apps.",
       "homepage": "https://andybargh.com/swiftdevelopments/"
-  	}, {
+    }, {
       "title": "SwiftTips",
       "category": "third-party-guides",
       "description": "A collection of useful tips by John Sundell.",

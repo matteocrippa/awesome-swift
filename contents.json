@@ -5822,10 +5822,10 @@
       "description": "A library for creating command-line applications and running shell commands.",
       "homepage": "https://github.com/kareman/SwiftShell"
     }, {
-  		"title": "TermiNetwork",
-  		"category": "network",
-  		"description": "A networking abstraction layer in Swift designed to work with Codables.",
-  		"homepage": "https://github.com/billp/TermiNetwork"
+      "title": "TermiNetwork",
+      "category": "network",
+      "description": "A networking abstraction layer in Swift designed to work with Codables.",
+      "homepage": "https://github.com/billp/TermiNetwork"
     }, { 
       "title": "SwiftCop",
       "category": "quality",

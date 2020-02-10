@@ -1063,6 +1063,11 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SimplePDF](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
 * [UXMPDFKit](https://github.com/uxmstudio/UXMPDFKit) - A PDF viewer and annotator that can be embedded in iOS applications.
 
+### Privacy Policy
+[back to top](#readme)
+
+* [PrivacyFlash Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app written in Swift from its code.
+
 ### Quality
 [back to top](#readme) 
 

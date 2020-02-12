@@ -5894,6 +5894,11 @@
       "description": "Delivers all new translations from Crowdin project to the application immediately.",
       "homepage": "https://github.com/crowdin/mobile-sdk-ios",
       "tags": ["swift", "crowdin", "localization"]
+    }, {
+      "title": "ExceptionCatcher",
+      "category": "utility",
+      "description": "Catch Objective-C exceptions.",
+      "homepage": "https://github.com/sindresorhus/ExceptionCatcher"
     }
   ]
 }

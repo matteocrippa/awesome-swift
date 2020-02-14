@@ -5895,6 +5895,12 @@
       "homepage": "https://github.com/crowdin/mobile-sdk-ios",
       "tags": ["swift", "crowdin", "localization"]
     }, {
+      "title": "Apphud",
+      "category": "app-store",
+      "description": "Lightweight library to easily handle auto-renewable subscriptions with no backend required.",
+      "homepage": "https://github.com/apphud/ApphudSDK",
+      "tags": ["swift", "StoreKit"]
+    }, {
       "title": "ExceptionCatcher",
       "category": "utility",
       "description": "Catch Objective-C exceptions.",

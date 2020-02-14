@@ -5900,6 +5900,11 @@
       "description": "Lightweight library to easily handle auto-renewable subscriptions with no backend required.",
       "homepage": "https://github.com/apphud/ApphudSDK",
       "tags": ["swift", "StoreKit"]
+    }, {
+      "title": "ExceptionCatcher",
+      "category": "utility",
+      "description": "Catch Objective-C exceptions.",
+      "homepage": "https://github.com/sindresorhus/ExceptionCatcher"
     }
   ]
 }

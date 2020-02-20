@@ -1849,7 +1849,7 @@
         "title": "FMPhotoPicker",
         "category": "images",
         "description": "A modern, simple and zero-dependency photo picker with an elegant and customizable image editor",
-        "homepage": "https://github.com/tribalmedia/FMPhotoPicker"
+        "homepage": "https://github.com/congnd/FMPhotoPicker"
     }, {
       "title": "gifu",
       "category": "images",
@@ -5903,7 +5903,7 @@
     }, {
       "title": "PrivacyFlash Pro",
       "category": "utility",
-      "description": "Generate a privacy policy for your Swift iOS app from its code",
+      "description": "Generate a privacy policy for your Swift iOS app from its code.",
       "homepage": "https://github.com/privacy-tech-lab/privacyflash-pro",
       "tags": ["swift", "iOS", "privacy policy", "privacy"]
     }

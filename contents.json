@@ -5900,6 +5900,12 @@
       "category": "utility",
       "description": "Catch Objective-C exceptions.",
       "homepage": "https://github.com/sindresorhus/ExceptionCatcher"
+    }, {
+      "title": "PrivacyFlash Pro",
+      "category": "utility",
+      "description": "Generate a privacy policy for your Swift iOS app from its code",
+      "homepage": "https://github.com/privacy-tech-lab/privacyflash-pro",
+      "tags": ["swift", "iOS", "privacy policy", "privacy"]
     }
   ]
 }

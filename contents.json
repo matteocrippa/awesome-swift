@@ -595,14 +595,19 @@
     "id": "game-engine-2d",
     "parent": "game-engine"
   }],
-  "projects": [{
+  "projects": [
+    {
+      "title": "SwiftAudioPlayer",
+		  "category": "audio",
+		  "description": "Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.",
+		  "homepage": "https://github.com/tanhakabir/SwiftAudioPlayer"
+    }, {
       "title": "ModelAssistant",
       "category": "multi-database",
       "description": "Elegant library to manage the interactions between view and model",
       "homepage": "https://github.com/ssamadgh/ModelAssistant",
       "tags": ["swift", "uitableview", "uicollectionview", "ios"]
-
-  }, {
+    }, {
 		"title": "Cards XI",
 		"category": "transition",
 		"description": "Awesome iOS 11 AppStore's Card Views.",
@@ -1844,7 +1849,7 @@
         "title": "FMPhotoPicker",
         "category": "images",
         "description": "A modern, simple and zero-dependency photo picker with an elegant and customizable image editor",
-        "homepage": "https://github.com/tribalmedia/FMPhotoPicker"
+        "homepage": "https://github.com/congnd/FMPhotoPicker"
     }, {
       "title": "gifu",
       "category": "images",
@@ -2833,6 +2838,11 @@
       "description": "A class to build custom walkthroughs for your iOS App.",
       "homepage": "https://github.com/ariok/BWWalkthrough"
     }, {
+      "title": "ConcentricOnboarding",
+      "category": "walkthrough",
+      "description": "SwiftUI library for a walkthrough or onboarding flow with tap actions.",
+      "homepage": "https://github.com/exyte/ConcentricOnboarding"
+    }, {
       "title": "Charts",
       "category": "chart",
       "description": "Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).",
@@ -3252,7 +3262,7 @@
       "title": "CFNotify",
       "category": "alert",
       "description": "A customizable framework to create draggable alert views.",
-      "homepage": "https://github.com/hallelujahbaby/CFNotify"
+      "homepage": "https://github.com/JT501/CFNotify"
     }, {
       "title": "EZAlertController",
       "category": "alert",
@@ -3333,6 +3343,11 @@
       "category": "button",
       "description": "Floating Action Button for iOS.",
       "homepage": "https://github.com/kciter/Floaty"
+    }, {
+      "title": "FloatingButton",
+      "category": "button",
+      "description": "Easily customizable floating button menu created with SwiftUI.",
+      "homepage": "https://github.com/exyte/FloatingButton"
     }, {
       "title": "LTHRadioButton",
       "category": "button",
@@ -3690,11 +3705,6 @@
       "description": "Great String Pluralize Extension.",
       "homepage": "https://github.com/joshualat/Pluralize.swift"
     }, {
-      "title": "Popsicle",
-      "category": "utility",
-      "description": "Delightful, extensible value interpolation framework.",
-      "homepage": "https://github.com/DavdRoman/Popsicle"
-    }, {
       "title": "protobuf-swift",
       "category": "utility",
       "description": "ProtocolBuffers.",
@@ -3796,6 +3806,12 @@
       "category": "utility",
       "description": "Functional data types and functions for any project.",
       "homepage": "https://github.com/typelift/Swiftx"
+    }, {
+      "title": "Swifty360Player",
+      "category": "video",
+      "description": "iOS 360-degree video player streaming from an AVPlayer.",
+      "homepage": "https://github.com/abdullahselek/Swifty360Player",
+      "tags": ["iOS", "AVPlayer", "360 video player"]
     }, {
       "title": "SwiftyUtils",
       "category": "utility",
@@ -4385,11 +4401,6 @@
       "description": "Curated newsletter.",
       "homepage": "https://www.natashatherobot.com"
     }, {
-      "title": "Indie iOS Focus Weekly",
-      "category": "newsletter",
-      "description": "Curated weekly iOS newsletter.",
-      "homepage": "https://indieiosfocus.com"
-    }, {
       "title": "Swift Weekly Brief",
       "category": "newsletter",
       "description": "A multi author curated newsletter.",
@@ -4408,7 +4419,7 @@
       "title": "Themes",
       "category": "styling",
       "description": "Theme management.",
-      "homepage": "https://github.com/onmyway133/Themes"
+      "homepage": "https://github.com/onmyway133/EasyTheme"
     }, {
       "title": "FanMenu",
       "category": "menu",
@@ -4594,11 +4605,6 @@
       "category": "concurrency",
       "description": "Manage the task execution in different threads through Kommands.",
       "homepage": "https://github.com/intelygenz/Kommander-iOS"
-    }, {
-      "title": "Colorify",
-      "category": "colors",
-      "description": "Colorify - simple, yet powerful color library.",
-      "homepage": "https://github.com/czater/Colorify"
     }, {
       "title": "HGPlaceholders",
       "category": "uitableview",
@@ -4917,6 +4923,12 @@
       "category": "alert",
       "description": "Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.",
       "homepage": "https://github.com/dillidon/alerts-and-pickers"
+    }, {
+      "title": "ASCollectionView",
+      "category": "uicollectionview",
+      "description": "Lightweight custom collection view inspired by Airbnb.",
+      "homepage": "https://github.com/abdullahselek/ASCollectionView",
+      "tags": ["ios", "customcollectionview", "custom ui"]
     }, {
       "title": "AZCollectionViewController",
       "category": "uicollectionview",
@@ -5603,10 +5615,10 @@
       "homepage": "https://github.com/MoveUpwards/Sejima",
       "tags": ["UI", "components"]
     }, {
-        "title": "WLEmptyState",
-        "category": "uitableview",
-        "description": "A component that lets you customize the view when the dataset of UITableView is empty.",
-        "homepage": "https://github.com/wizeline/WLEmptyState"
+      "title": "WLEmptyState",
+      "category": "uitableview",
+      "description": "A component that lets you customize the view when the dataset of UITableView is empty.",
+      "homepage": "https://github.com/wizeline/WLEmptyState"
     }, {
       "title": "lottie-ios",
       "category": "animation",
@@ -5757,7 +5769,7 @@
         "title": "ShowSomeProgress",
         "category": "ui",
         "description": "Animated Progress and Activity Indicators for iOS apps.",
-        "homepage": "https://github.com/stoneburner/ShowSomeProgress"      
+        "homepage": "https://github.com/stoneburner/ShowSomeProgress"
     }, {
         "title": "Ribbon",
         "category": "keyboard",
@@ -5794,16 +5806,21 @@
       "category": "algorithm",
       "description": "Fast sorted collections for Swift using in-memory B-trees.",
       "homepage": "https://github.com/attaswift/BTree"
-    }, { 
+    }, {
       "title": "SwiftFormat",
       "category": "quality",
       "description": "A code library and command-line formatting tool for reformatting Swift code.",
       "homepage": "https://github.com/nicklockwood/SwiftFormat"
-    }, { 
+    }, {
       "title": "SwiftShell",
       "category": "command-line",
       "description": "A library for creating command-line applications and running shell commands.",
       "homepage": "https://github.com/kareman/SwiftShell"
+    }, {
+  		"title": "TermiNetwork",
+  		"category": "network",
+  		"description": "A networking abstraction layer in Swift designed to work with Codables.",
+  		"homepage": "https://github.com/billp/TermiNetwork"
     }, { 
       "title": "SwiftCop",
       "category": "quality",
@@ -5837,13 +5854,66 @@
       "description": "Swift library to easily check the current device and some more info about it.",
       "homepage": "https://github.com/andrealufino/Deviice",
       "tags": ["device", "detection"]
+
     },
 	{
 	"title": "Azure Functions for Swift",
 	"category": "serverless",
 	"description": "Swift Worker for Azure Functions ",
 	"homepage": "https://github.com/SalehAlbuga/azure-functions-swift",
-	"tags": ["linux", "macOS", "serverless", "cloud", "azure"]	
-	}
+	"tags": ["linux", "macOS", "serverless", "cloud", "azure"]
+    }, {
+      "title": "SweetCurtain",
+      "category": "ui",
+      "description": "Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.",
+      "homepage": "https://github.com/multimediasuite/SweetCurtain",
+      "tags": ["swift", "pull-up", "curtain", "bottom-sheet", "sliding-menu"]
+    }, {
+      "title": "XMLMapper",
+      "category": "xml",
+      "description": "A simple way to map XML to Objects.",
+      "homepage": "https://github.com/gcharita/XMLMapper",
+      "tags": ["swift", "xml", "soap"]
+    }, {
+      "title": "swift-mod",
+      "category": "quality",
+      "description": "A tool for Swift code modification intermediating between code generation and formatting.",
+      "homepage": "https://github.com/ra1028/swift-mod"
+    }, {
+      "title": "CGLayout",
+      "category": "layout",
+      "description": "Powerful autolayout framework, that can manage UIView(NSView), CALayer, not rendered views and etc. Provides placeholders.",
+      "homepage": "https://github.com/k-o-d-e-n/CGLayout",
+      "tags": ["linux"]
+    }, {
+      "title": "SwiftCoroutine",
+      "category": "concurrency",
+      "description": "Coroutines for iOS and macOS.",
+      "homepage": "https://github.com/belozierov/SwiftCoroutine",
+      "tags": ["swift", "coroutine", "coroutines", "await", "async/await"]
+    }, {
+      "title": "CrowdinSDK",
+      "category": "localization",
+      "description": "Delivers all new translations from Crowdin project to the application immediately.",
+      "homepage": "https://github.com/crowdin/mobile-sdk-ios",
+      "tags": ["swift", "crowdin", "localization"]
+    }, {
+      "title": "Apphud",
+      "category": "app-store",
+      "description": "Lightweight library to easily handle auto-renewable subscriptions with no backend required.",
+      "homepage": "https://github.com/apphud/ApphudSDK",
+      "tags": ["swift", "StoreKit"]
+    }, {
+      "title": "ExceptionCatcher",
+      "category": "utility",
+      "description": "Catch Objective-C exceptions.",
+      "homepage": "https://github.com/sindresorhus/ExceptionCatcher"
+    }, {
+      "title": "PrivacyFlash Pro",
+      "category": "utility",
+      "description": "Generate a privacy policy for your Swift iOS app from its code.",
+      "homepage": "https://github.com/privacy-tech-lab/privacyflash-pro",
+      "tags": ["swift", "iOS", "privacy policy", "privacy"]
+    }
   ]
 }

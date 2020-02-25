@@ -5857,6 +5857,14 @@
       "description": "Swift library to easily check the current device and some more info about it.",
       "homepage": "https://github.com/andrealufino/Deviice",
       "tags": ["device", "detection"]
+
+    },
+	{
+	"title": "Azure Functions for Swift",
+	"category": "serverless",
+	"description": "Swift Worker for Azure Functions ",
+	"homepage": "https://github.com/SalehAlbuga/azure-functions-swift",
+	"tags": ["linux", "macOS", "serverless", "cloud", "azure"]
     }, {
       "title": "SweetCurtain",
       "category": "ui",

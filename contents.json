@@ -594,6 +594,9 @@
     "title": "2D",
     "id": "game-engine-2d",
     "parent": "game-engine"
+  }, {
+    "title": "Serverless",
+    "id": "serverless"
   }],
   "projects": [
     {

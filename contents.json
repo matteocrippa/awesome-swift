@@ -784,7 +784,7 @@
     }, {
       "title": "Capable",
       "category": "accessibility",
-      "description": "Track accessibility features to improve your app for people with certain disabilities.",
+      "description": "Keep track of accessibility settings, leverage high contrast colors, and use scalable fonts to enable users with disabilities to use your app.",
       "homepage": "https://github.com/chrs1885/Capable",
       "tags": ["swift", "accessibility", "iOS", "tvOS", "watchOS", "macOS"]
     }, {
@@ -1156,6 +1156,11 @@
       "category": "colors",
       "description": "An intuitive and fun iOS color picker.",
       "homepage": "https://github.com/joncardasis/ChromaColorPicker"
+    }, {
+      "title": "SheetyColors",
+      "category": "colors",
+      "description": "An action sheet styled color picker for iOS.",
+      "homepage": "https://github.com/chrs1885/SheetyColors"
     }, {
       "title": "Commander",
       "category": "command-line",

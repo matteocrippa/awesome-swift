@@ -205,6 +205,10 @@
     "id": "realm",
     "parent": "data-management"
   }, {
+    "title": "Firebase",
+    "id": "firebase",
+    "parent": "data-management"
+  },{
     "title": "Files",
     "id": "files",
     "parent": "libs"
@@ -213,6 +217,11 @@
     "id": "json",
     "parent": "data-management",
     "description": "Struggling using json data? Here are some interesting ways to handle it."
+  }, {
+    "title": "TOML",
+    "id": "toml",
+    "parent": "data-management",
+    "description": "Tom's Obvious, Minimal Language."
   }, {
     "title": "Key Value Store",
     "id": "key-value-store",
@@ -454,7 +463,8 @@
   }, {
     "title": "Phone Numbers",
     "id": "phone-numbers",
-    "parent": "validation"
+    "parent": "validation",
+    "description": "Libs to manage phone numbers."
   }, {
     "title": "Thread",
     "id": "thread",
@@ -584,8 +594,23 @@
     "title": "2D",
     "id": "game-engine-2d",
     "parent": "game-engine"
+  }, {
+    "title": "Serverless",
+    "id": "serverless"
   }],
-  "projects": [{
+  "projects": [
+    {
+      "title": "SwiftAudioPlayer",
+		  "category": "audio",
+		  "description": "Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.",
+		  "homepage": "https://github.com/tanhakabir/SwiftAudioPlayer"
+    }, {
+      "title": "ModelAssistant",
+      "category": "multi-database",
+      "description": "Elegant library to manage the interactions between view and model",
+      "homepage": "https://github.com/ssamadgh/ModelAssistant",
+      "tags": ["swift", "uitableview", "uicollectionview", "ios"]
+    }, {
 		"title": "Cards XI",
 		"category": "transition",
 		"description": "Awesome iOS 11 AppStore's Card Views.",
@@ -594,7 +619,7 @@
       "title": "Apple eBook",
       "category": "official-guides",
       "description": "Official Apple eBook for Swift beginners.",
-      "homepage": "https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11"
+      "homepage": "https://books.apple.com/us/book/swift-programming-language/id881256329"
     }, {
       "title": "API Design Guidelines",
       "category": "official-guides",
@@ -648,18 +673,18 @@
     }, {
      "title": "Ray Wenderlich Tutorials, Videos, Podcasts and books",
      "category": "third-party-guides",
-     "description": "High quality programming tutorials",
+     "description": "High quality programming tutorials.",
      "homepage": "https://www.raywenderlich.com"
    }, {
-      "title": "WeeklyCocoa.News",
-      "category": "newsletter",
-      "description": "Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.",
-      "homepage": "https://weeklycocoa.news"
-    }, {
       "title": "Raywenderlich",
       "category": "style-guides",
       "description": "Raywenderlich guide, a must read.",
       "homepage": "https://github.com/raywenderlich/swift-style-guide"
+    }, {
+       "title": "Airbnb",
+       "category": "style-guides",
+       "description": "Airbnb's Official Style Guide.",
+       "homepage": "https://github.com/airbnb/swift"
     }, {
       "title": "LinkedIn",
       "category": "style-guides",
@@ -691,6 +716,11 @@
       "description": "A curated list of awesome applications, softwares, tools and shiny things for macOS.",
       "homepage": "https://github.com/iCHAIT/awesome-macOS"
     }, {
+      "title": "Accio",
+      "category": "dependency-managers",
+      "description": "A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.",
+      "homepage": "https://github.com/JamitLabs/Accio"
+    }, {
       "title": "Carthage",
       "category": "dependency-managers",
       "description": "A new dependency manager.",
@@ -716,6 +746,11 @@
       "description": "A collection of test cases crashing the compiler.",
       "homepage": "https://github.com/practicalswift/swift-compiler-crashes"
     }, {
+      "title": "Swiftbrew",
+      "category": "misc",
+      "description": "Homebrew for Swift packages.",
+      "homepage": "https://github.com/swiftbrew/Swiftbrew"
+    }, {
       "title": "SwiftGen",
       "category": "misc",
       "description": "A suite of tools to auto-generate code for various assets of your project.",
@@ -725,6 +760,27 @@
       "category": "misc",
       "description": "Easily generate cross platform framework projects from the command line.",
       "homepage": "https://github.com/JohnSundell/SwiftPlate"
+    }, {
+      "title": "Tuist",
+      "category": "misc",
+      "description": "An open source command line tool to create, maintain and interact with your Xcode projects at scale.",
+      "homepage": "https://github.com/tuist/tuist"
+    }, {
+      "title": "xcbeautify",
+      "category": "misc",
+      "description": "Little beautifier tool for xcodebuild.",
+      "homepage": "https://github.com/thii/xcbeautify"
+    }, {
+      "title": "xcodeproj",
+      "category": "misc",
+      "description": "A library to read, update and write Xcode projects and workspaces.",
+      "homepage": "https://github.com/tuist/xcodeproj"
+    }, {
+      "title": "SwiftKit",
+      "category": "misc",
+      "description": "Start your next Open-Source Swift Framework 📦.",
+      "homepage": "https://github.com/SvenTiigi/SwiftKit",
+      "tags": ["cli", "swift", "generate", "framework", "xcode", "script", "brew"]
     }, {
       "title": "Capable",
       "category": "accessibility",
@@ -756,6 +812,11 @@
       "category": "animation",
       "description": "A powerful animation framework for iOS, tvOS, and OS X.",
       "homepage": "https://github.com/timdonnelly/Advance"
+    }, {
+      "title": "Comets",
+      "category": "animation",
+      "description": "Animating Particles.",
+      "homepage": "https://github.com/cruisediary/Comets"
     }, {
       "title": "DKChainableAnimationKit",
       "category": "animation",
@@ -834,6 +895,11 @@
       "description": "Better Easing for SpriteKit.",
       "homepage": "https://github.com/craiggrummitt/SpriteKitEasingSwift"
     }, {
+      "title": "Elephant",
+      "category": "animation",
+      "description": "Elegant SVG animation kit for iOS",
+      "homepage": "https://github.com/s2mr/Elephant"
+    }, {
       "title": "Appz",
       "category": "app-routing",
       "description": "Launch external apps and deeplink with ease.",
@@ -899,6 +965,12 @@
       "description": "A Lightweight Dependency Injection Framework by Square.",
       "homepage": "https://github.com/square/Cleanse"
     }, {
+      "title": "Deli",
+      "category": "dependency-injection",
+      "description": "Deli is an easy-to-use Dependency Injection(DI).",
+      "homepage": "https://github.com/kawoou/Deli",
+      "tags": ["swift", "ios", "di"]
+    }, {
       "title": "Dip",
       "category": "dependency-injection",
       "description": "A simple Dependency Injection Container.",
@@ -906,7 +978,7 @@
     }, {
       "title": "RandomUserSwift",
       "category": "api",
-      "description": "Framework to Generate Random Users - An Unofficial SDK for randomuser.me",
+      "description": "Framework to Generate Random Users - An Unofficial SDK for randomuser.me.",
       "homepage": "https://github.com/dingwilson/RandomUserSwift"
     }, {
       "title": "GooglePlacesAutocomplete",
@@ -934,10 +1006,20 @@
       "description": "Instagram API wrapper.",
       "homepage": "https://github.com/AnderGoig/SwiftInstagram"
     }, {
+      "title": "SwiftyInsta",
+      "category": "api",
+      "description": "Private and Tokenless Instagram RESTful API.",
+      "homepage": "https://github.com/TheM4hd1/SwiftyInsta"
+    }, {
       "title": "InstagramLogin",
       "category": "authentication",
       "description": "Simple way to authenticate Instagram accounts.",
       "homepage": "https://github.com/AnderGoig/InstagramLogin"
+    }, {
+      "title": "Pure",
+      "category": "dependency-injection",
+      "description": "A way to do a dependency injection without a DI container.",
+      "homepage": "https://github.com/devxoul/Pure"
     }, {
       "title": "Swinject",
       "category": "dependency-injection",
@@ -951,8 +1033,14 @@
     }, {
       "title": "Weaver",
       "category": "dependency-injection",
-      "description": "A declarative, easy-to-use and safe Dependency Injection framework for Swift",
+      "description": "A declarative, easy-to-use and safe Dependency Injection framework.",
       "homepage": "https://github.com/scribd/Weaver"
+    }, {
+      "title": "DITranquillity",
+      "category": "dependency-injection",
+      "description": "Dependency injection framework with tranquility.",
+      "homepage": "https://github.com/ivlevAstef/DITranquillity/",
+      "tags": ["Swift", "DI", "IoC"]
     }, {
       "title": "BlueCap",
       "category": "bluetooth",
@@ -989,6 +1077,11 @@
       "description": "Rad Media Capture.",
       "homepage": "https://github.com/NextLevel/NextLevel"
     }, {
+      "title": "CameraKit-iOS",
+      "category": "camera",
+      "description": "Massively increase camera performance and ease of use in your next project.",
+      "homepage": "https://github.com/CameraKit/camerakit-ios"
+    }, {
       "title": "BarcodeScanner",
       "category": "barcode",
       "description": "A simple and beautiful barcode scanner view controller.",
@@ -1019,6 +1112,11 @@
       "description": "Flat UI color palette.",
       "homepage": "https://github.com/brynbellomy/FlatUIColors"
     }, {
+      "title": "Gradients",
+      "category": "colors",
+      "description": "A curated collection of splendid 180+ gradients.",
+      "homepage": "https://github.com/Gradients/Gradients"
+    }, {
       "title": "HexColor",
       "category": "colors",
       "description": "Define UIColors as Hex integers.",
@@ -1027,7 +1125,7 @@
       "title": "Hue",
       "category": "colors",
       "description": "Hue is the all-in-one coloring utility that you'll ever need.",
-      "homepage": "https://github.com/hyperoslo/Hue"
+      "homepage": "https://github.com/zenangst/Hue"
     }, {
       "title": "PrettyColors",
       "category": "colors",
@@ -1036,7 +1134,7 @@
     }, {
       "title": "SwiftGen-Colors",
       "category": "colors",
-      "description": "A tool to auto-generate Swift `enums` for your `UIColor` constants.",
+      "description": "A tool to auto-generate `enums` for your `UIColor` constants.",
       "homepage": "https://github.com/SwiftGen/SwiftGen#uicolor"
     }, {
       "title": "SwiftHEXColors",
@@ -1051,7 +1149,7 @@
     }, {
       "title": "UIGradient",
       "category": "colors",
-      "description": "A simple and powerful library for using gradient layer, image, color",
+      "description": "A simple and powerful library for using gradient layer, image, color.",
       "homepage": "https://github.com/dqhieu/UIGradient"
     }, {
       "title": "ChromaColorPicker",
@@ -1065,6 +1163,12 @@
       "homepage": "https://github.com/kylef/Commander",
       "tags": ["linux"]
     }, {
+      "title": "Guaka",
+      "category": "command-line",
+      "description": "The smart and beautiful (POSIX compliant) command line framework.",
+      "homepage": "https://github.com/nsomar/Guaka",
+      "tags": ["linux"]
+    }, {
       "title": "CommandLine",
       "category": "command-line",
       "description": "Library for creating command-line interfaces.",
@@ -1073,9 +1177,15 @@
     }, {
       "title": "LineNoise",
       "category": "command-line",
-      "description": "A zero-dependency replacement for readline",
+      "description": "A zero-dependency replacement for readline.",
       "homepage": "https://github.com/andybest/linenoise-swift",
       "tags": ["linux"]
+    }, {
+      "title": "nef",
+      "category": "command-line",
+      "description": "A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.",
+      "homepage": "https://github.com/bow-swift/nef",
+      "tags": ["macOS"]
     }, {
       "title": "SwiftCLI",
       "category": "command-line",
@@ -1114,7 +1224,7 @@
     }, {
       "title": "StorageKit",
       "category": "multi-database",
-      "description": "Your Data Storage Troubleshooter 🛠",
+      "description": "Your Data Storage Troubleshooter 🛠.",
       "homepage": "https://github.com/StorageKit/StorageKit"
     }, {
       "title": "AERecord",
@@ -1137,12 +1247,6 @@
       "description": "simple and elegant way to handle Core Data.",
       "homepage": "https://github.com/JohnEstropia/CoreStore"
     }, {
-      "title": "Records",
-      "category": "core-data",
-      "description": "In just a few minutes, setup a fully functioning CoreData implementation that embraces the static, type-safe nature of Swift.",
-      "homepage": "https://github.com/rob-nash/Records"
-    },
-    {
       "title": "Graph",
       "category": "core-data",
       "description": "An elegant data-driven framework for Core Data.",
@@ -1203,6 +1307,11 @@
       "description": "A concise Mantle-like way of working with Realm and JSON.",
       "homepage": "https://github.com/matthewcheok/Realm-JSON"
     }, {
+      "title": "Ballcap",
+      "category": "firebase",
+      "description": "Ballcap is a database schema design framework for Cloud Firestore.",
+      "homepage": "https://github.com/1amageek/Ballcap-iOS"
+    },{
       "title": "KZFileWatchers",
       "category": "files",
       "description": "A micro-framework for observing file changes, both local and remote.",
@@ -1262,7 +1371,7 @@
     }, {
       "title": "EVReflection",
       "category": "json",
-      "description": "Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable",
+      "description": "Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable.",
       "homepage": "https://github.com/evermeer/EVReflection"
     }, {
       "title": "Genome",
@@ -1278,7 +1387,7 @@
     }, {
       "title": "HandyJSON",
       "category": "json",
-      "description": "A handy Swift JSON-object serialization/deserialization library.",
+      "description": "A handy JSON-object serialization/deserialization library.",
       "homepage": "https://github.com/alibaba/handyjson"
     }, {
       "title": "Himotoki",
@@ -1308,13 +1417,13 @@
     }, {
       "title": "SwiftyJSONAccelerator",
       "category": "json",
-      "description": "OSX app to generate models for JSON.",
+      "description": "macOS app to generate Swift 5 models for JSON (with Codeable).",
       "homepage": "https://github.com/insanoid/SwiftyJSONAccelerator"
     }, {
       "title": "ObjectMapper",
       "category": "json",
       "description": "JSON object mapper.",
-      "homepage": "https://github.com/Hearst-DD/ObjectMapper"
+      "homepage": "https://github.com/tristanhimmelman/ObjectMapper"
     }, {
       "title": "SwiftyJSON",
       "category": "json",
@@ -1333,7 +1442,7 @@
     }, {
       "title": "PMJSON",
       "category": "json",
-      "description": "Pure Swift JSON encoding/decoding library.",
+      "description": "JSON encoding/decoding library.",
       "homepage": "https://github.com/postmates/PMJSON"
     }, {
       "title": "YamlSwift",
@@ -1364,7 +1473,7 @@
       "title": "SwiftyUserDefaults",
       "category": "key-value-store",
       "description": "Cleaner, nicer syntax for NSUserDefaults.",
-      "homepage": "https://github.com/radex/SwiftyUserDefaults"
+      "homepage": "https://github.com/sunshinejr/SwiftyUserDefaults"
     }, {
       "title": "Zephyr",
       "category": "key-value-store",
@@ -1373,7 +1482,7 @@
     }, {
       "title": "Default",
       "category": "key-value-store",
-      "description": "Modern interface to UserDefaults + Codable support",
+      "description": "Modern interface to UserDefaults + Codable support.",
       "homepage": "https://github.com/Nirma/Default"
     }, {
       "title": "MongoKitten",
@@ -1534,6 +1643,11 @@
       "homepage": "https://github.com/uraimo/SwiftyGPIO",
       "tags": ["linux"]
     }, {
+      "title": "OpenCombine",
+      "category": "events",
+      "description": "Open source implementation of Apple's Combine framework for processing values over time.",
+      "homepage": "https://github.com/broadwaylamb/OpenCombine"
+    }, {
       "title": "Bond",
       "category": "events",
       "description": "Binding framework.",
@@ -1556,8 +1670,8 @@
     }, {
       "title": "Tomorrowland",
       "category": "events",
-      "description": "Lightweight Promises for Swift & Obj-C.",
-      "homepage": "https://github.com/kballard/Tomorrowland"
+      "description": "Lightweight Promises.",
+      "homepage": "https://github.com/lilyball/Tomorrowland"
     }, {
       "title": "Notificationz",
       "category": "events",
@@ -1581,7 +1695,7 @@
     }, {
       "title": "RxSwift",
       "category": "events",
-      "description": "Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform.",
+      "description": "Microsoft Reactive Extensions (Rx).",
       "homepage": "https://github.com/ReactiveX/RxSwift"
     }, {
       "title": "Signals",
@@ -1621,7 +1735,7 @@
     }, {
       "title": "PMKVObserver",
       "category": "events",
-      "description": "Modern thread-safe and type-safe key-value observing for Swift and Objective-C.",
+      "description": "Modern thread-safe and type-safe key-value observing.",
       "homepage": "https://github.com/postmates/PMKVObserver/"
     },{
       "title": "TopicEventBus",
@@ -1668,6 +1782,11 @@
       "category": "fonts",
       "description": "Library for Font Icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather.",
       "homepage": "https://github.com/ranesr/SwiftIcons"
+    }, {
+      "title": "SYSymbol",
+      "category": "fonts",
+      "description": "All the SFSymbols at your fingertips.",
+      "homepage": "https://github.com/Nirma/SFSymbol"
     }, {
       "title": "Sage",
       "category": "games",
@@ -1720,10 +1839,20 @@
       "description": "High performance and delightful way to play with APNG format in iOS.",
       "homepage": "https://github.com/onevcat/APNGKit"
     }, {
+      "title": "ATGMediaBrowser",
+      "category": "images",
+      "description": "Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.",
+      "homepage": "https://github.com/altayer-digital/ATGMediaBrowser"
+    }, {
       "title": "FacebookImagePicker",
       "category": "images",
       "description": "Facebook album photo picker.",
       "homepage": "https://github.com/floriangbh/FacebookImagePicker"
+    }, {
+        "title": "FMPhotoPicker",
+        "category": "images",
+        "description": "A modern, simple and zero-dependency photo picker with an elegant and customizable image editor",
+        "homepage": "https://github.com/congnd/FMPhotoPicker"
     }, {
       "title": "gifu",
       "category": "images",
@@ -1732,12 +1861,12 @@
     }, {
       "title": "GPUImage 2",
       "category": "images",
-      "description": "GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.",
+      "description": "GPUImage 2 is a BSD-licensed framework for GPU-accelerated video and image processing.",
       "homepage": "https://github.com/BradLarson/GPUImage2"
     }, {
       "title": "GPUImage 3",
       "category": "images",
-      "description": "GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.",
+      "description": "GPUImage 3 is a BSD-licensed framework for GPU-accelerated video and image processing using Metal.",
       "homepage": "https://github.com/BradLarson/GPUImage3"
     }, {
       "title": "HanekeSwift",
@@ -1758,7 +1887,7 @@
       "title": "JLStickerTextView",
       "category": "images",
       "description": "A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.",
-      "homepage": "https://github.com/luiyezheng/JLStickerTextView"
+      "homepage": "https://github.com/Textcat/JLStickerTextView"
     }, {
       "title": "Kingfisher",
       "category": "images",
@@ -1893,7 +2022,7 @@
     }, {
       "title": "PinLayout",
       "category": "layout",
-      "description": "Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS]",
+      "description": "Fast Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS]",
       "homepage": "https://github.com/layoutBox/PinLayout"
     }, {
       "title": "Stevia",
@@ -1905,6 +2034,11 @@
       "category": "auto-layout",
       "description": "Declarative auto layout lib for your project.",
       "homepage": "https://github.com/robb/Cartography"
+    }, {
+      "title": "DeviceLayout",
+      "category": "auto-layout",
+      "description": "AutoLayout can be set differently for each device.",
+      "homepage": "https://github.com/cruisediary/DeviceLayout"
     }, {
       "title": "EasyPeasy",
       "category": "auto-layout",
@@ -1923,7 +2057,7 @@
     }, {
       "title": "NorthLayout",
       "category": "auto-layout",
-      "description": "Fast path to layout using Visual Format Language (VFL) with extended syntax",
+      "description": "Fast path to layout using Visual Format Language (VFL) with extended syntax.",
       "homepage": "https://github.com/banjun/NorthLayout"
     }, {
       "title": "PureLayout",
@@ -2107,6 +2241,18 @@
       "description": "Robust networking for web APIs.",
       "homepage": "https://github.com/mindbody/Conduit"
     }, {
+      "title": "CodyFire",
+      "category": "network",
+      "description": "Powerful Codable API requests builder and manager for iOS. Based on Alamofire.",
+      "homepage": "https://github.com/MihaelIsaev/CodyFire"
+    }, {
+      "title": "Connectivity",
+      "category": "network",
+      "description": "🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.",
+      "homepage": "https://github.com/rwbutler/Connectivity",
+      "tags": ["swift", "connectivity", "reachability", "networking", "network", "connection"],
+      "swift": 4.2
+    }, {
       "title": "Heimdallr.swift",
       "category": "network",
       "description": "Easy to use OAuth 2 library for iOS.",
@@ -2115,7 +2261,7 @@
       "title": "Just",
       "category": "network",
       "description": "HTTP for Humans (a python-requests style HTTP library).",
-      "homepage": "https://github.com/JustHTTP/Just",
+      "homepage": "https://github.com/dduan/Just",
       "tags": ["linux"]
     }, {
       "title": "Malibu",
@@ -2189,19 +2335,14 @@
       "description": "Lightweight network abstraction layer, written on top of Alamofire.",
       "homepage": "https://github.com/MLSDev/TRON"
     }, {
-      "title": "PerfectAPIClient",
-      "category": "network",
-      "description": "An API Client based on a network abstraction layer for the Perfect Server-Side Swift Framework",
-      "homepage": "https://github.com/SvenTiigi/PerfectAPIClient"
-    }, {
       "title": "MultiPeer",
       "category": "network",
-      "description": "A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices",
+      "description": "A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.",
       "homepage": "https://github.com/dingwilson/MultiPeer"
     }, {
       "title": "PMHTTP",
       "category": "network",
-      "description": "Swift/Obj-C HTTP framework with a focus on REST and JSON.",
+      "description": "HTTP framework with a focus on REST and JSON.",
       "homepage": "https://github.com/postmates/PMHTTP"
     }, {
       "title": "Fuzi",
@@ -2227,7 +2368,7 @@
       "title": "CocoaMQTT",
       "category": "messaging-protocol",
       "description": "MQTT for iOS and OS X.",
-      "homepage": "https://github.com/emqtt/CocoaMQTT"
+      "homepage": "https://github.com/emqx/CocoaMQTT"
     }, {
       "title": "Perfect-Notifications",
       "category": "messaging-protocol",
@@ -2236,9 +2377,13 @@
     }, {
       "title": "BlueSocket",
       "category": "socket",
-      "description": "IBM's low level socket framework.",
-      "homepage": "https://github.com/IBM-Swift/BlueSocket",
-      "tags": ["linux"]
+      "description": "IBM's cross platform low level socket framework.",
+      "homepage": "https://github.com/IBM-Swift/BlueSocket"
+    }, {
+      "title": "BlueSSLService",
+      "category": "socket",
+      "description": "SSL/TLS add-in for IBM's low level socket framework.",
+      "homepage": "https://github.com/IBM-Swift/BlueSSLService"
     }, {
       "title": "Socket.IO",
       "category": "socket",
@@ -2357,6 +2502,16 @@
       "description": "A linter tool for Interface Builder.",
       "homepage": "https://github.com/IBDecodable/IBLinter"
     }, {
+      "title": "BlueCryptor",
+      "category": "cryptography",
+      "description": "IBM's Cross Platform Crypto library.",
+      "homepage": "https://github.com/IBM-Swift/BlueCryptor"
+    }, {
+      "title": "BlueRSA",
+      "category": "cryptography",
+      "description": "IBM's Cross Platform RSA Crypto library.",
+      "homepage": "https://github.com/IBM-Swift/BlueRSA"
+    }, {
       "title": "CryptoSwift",
       "category": "cryptography",
       "description": "Crypto related functions and helpers.",
@@ -2370,7 +2525,7 @@
     }, {
       "title": "SCrypto",
       "category": "cryptography",
-      "description": "Elegant Swift interface to access the CommonCrypto routines.",
+      "description": "Elegant interface to access the CommonCrypto routines.",
       "homepage": "https://github.com/sgl0v/scrypto"
     }, {
       "title": "Siphash",
@@ -2393,6 +2548,11 @@
       "description": "Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.",
       "homepage": "https://github.com/cossacklabs/themis"
     }, {
+      "title": "JOSESwift",
+      "category": "cryptography",
+      "description": "A framework for the JOSE standards JWS, JWE, and JWK.",
+      "homepage": "https://github.com/airsidemobile/JOSESwift"
+    }, {
       "title": "keychain-swift",
       "category": "keychain",
       "description": "Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.",
@@ -2406,7 +2566,7 @@
       "title": "Latch",
       "category": "keychain",
       "description": "A simple Keychain Wrapper for iOS.",
-      "homepage": "https://github.com/DanToml/Latch"
+      "homepage": "https://github.com/endocrimes/Latch"
     }, {
       "title": "Locksmith",
       "category": "keychain",
@@ -2422,6 +2582,11 @@
       "category": "sensors",
       "description": "iOS device sensors wrapper.",
       "homepage": "https://github.com/MHaroonBaig/MotionKit"
+    }, {
+      "title": "BlueSignals",
+      "category": "system",
+      "description": "IBM's Cross Platform OS signal handling library.",
+      "homepage": "https://github.com/IBM-Swift/BlueSignals"
     }, {
       "title": "SMCKit",
       "category": "system",
@@ -2440,7 +2605,7 @@
     }, {
       "title": "Kakapo",
       "category": "mock",
-      "description": "Dynamically Mock server behaviors and responses. ",
+      "description": "Dynamically Mock server behaviors and responses.",
       "homepage": "https://github.com/devlucky/Kakapo"
     }, {
       "title": "DVR",
@@ -2479,6 +2644,12 @@
       "homepage": "https://github.com/Quick/Quick",
       "tags": ["linux"]
     }, {
+      "title": "SnapshotTest",
+      "category": "testing",
+      "description": "Snapshot testing tool for iOS and tvOS.",
+      "homepage": "https://github.com/parski/SnapshotTest",
+      "tags": ["iOS", "tvOS"]
+    }, {
       "title": "Spectre",
       "category": "testing",
       "description": "BDD Framework.",
@@ -2500,6 +2671,11 @@
       "description": "A matcher framework.",
       "homepage": "https://github.com/Quick/Nimble"
     }, {
+      "title": "Sizes",
+      "category": "testing",
+      "description": "Test your app on different device and font sizes",
+      "homepage": "https://github.com/marcosgriselli/Sizes"
+    }, {
       "title": "AttributedTextView",
       "category": "text",
       "description": "Easiest way to create an attributed UITextView with support for multiple links, hashtags and mentions.",
@@ -2508,7 +2684,7 @@
       "title": "BonMot",
       "category": "text",
       "description": "Beautiful, easy attributed strings for iOS.",
-      "homepage": "https://github.com/Raizlabs/BonMot"
+      "homepage": "https://github.com/Rightpoint/BonMot"
     }, {
       "title": "edhita",
       "category": "text",
@@ -2592,6 +2768,11 @@
       "description": "Framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.",
       "homepage": "https://github.com/marmelroy/PhoneNumberKit"
     }, {
+      "title": "NKVPhonePicker",
+      "category": "phone-numbers",
+      "description": "An UITextField subclass to simplify country code's picking.",
+      "homepage": "https://github.com/NikKovIos/NKVPhonePicker"
+    }, {
       "title": "Async",
       "category": "thread",
       "description": "Syntactic sugar for Grand Central Dispatch.",
@@ -2647,7 +2828,7 @@
     }, {
       "title": "Animated Tab Bar",
       "category": "tab",
-      "description": "RAMAnimatedTabBarController is a Swift module for adding animation to tab bar items.",
+      "description": "RAMAnimatedTabBarController is a module for adding animation to tab bar items.",
       "homepage": "https://github.com/Ramotion/animated-tab-bar"
     }, {
       "title": "BreakOutToRefresh",
@@ -2659,6 +2840,11 @@
       "category": "walkthrough",
       "description": "A class to build custom walkthroughs for your iOS App.",
       "homepage": "https://github.com/ariok/BWWalkthrough"
+    }, {
+      "title": "ConcentricOnboarding",
+      "category": "walkthrough",
+      "description": "SwiftUI library for a walkthrough or onboarding flow with tap actions.",
+      "homepage": "https://github.com/exyte/ConcentricOnboarding"
     }, {
       "title": "Charts",
       "category": "chart",
@@ -2770,11 +2956,6 @@
       "description": "A UITextField with bouncy placeholder.",
       "homepage": "https://github.com/hanton/HTYTextField"
     }, {
-      "title": "ImagePicker",
-      "category": "ui",
-      "description": "A nicely designed and super easy to use ImagePicker.",
-      "homepage": "https://github.com/hyperoslo/ImagePicker"
-    }, {
       "title": "PPAssetsActionController",
       "category": "ui",
       "description": "Highly customizable Action Sheet Controller with assets preview.",
@@ -2846,6 +3027,11 @@
       "description": "Graceful morphing effects for UILabel.",
       "homepage": "https://github.com/lexrus/LTMorphingLabel"
     }, {
+      "title": "Doric Design System Foundation",
+      "category": "ui",
+      "description": "Protocol oriented, type safe, scalable design system foundation framework for iOS.",
+      "homepage": "https://github.com/jayeshk/Doric"
+    }, {
       "title": "MantleModal",
       "category": "ui",
       "description": "A simple modal resource that uses a UIScrollView to allow the user to close the modal by dragging it down.",
@@ -2855,6 +3041,11 @@
       "category": "ui",
       "description": "Express your creativity with Material, an animation and graphics framework for Google's Material Design and Apple's Flat UI.",
       "homepage": "https://github.com/CosmicMind/Material"
+    }, {
+      "title": "Material Components for iOS",
+      "category": "ui",
+      "description": "Modular and customizable Material Design UI components for iOS",
+      "homepage": "https://github.com/material-components/material-components-ios"
     }, {
       "title": "MaterialKit",
       "category": "ui",
@@ -2871,6 +3062,11 @@
       "description": "Apple TV Parallax effect.",
       "homepage": "https://github.com/DroidsOnRoids/MPParallaxView"
     }, {
+      "title": "Arale",
+      "category": "ui",
+      "description": "A custom stretchable header view for UIScrollView or any its subclasses with UIActivityIndicatorView support for content reloading.",
+      "homepage": "https://github.com/ZulwiyozaPutra/Arale"
+     }, {
       "title": "MXParallaxHeader",
       "category": "ui",
       "description": "Simple parallax header for UIScrollView.",
@@ -2964,7 +3160,7 @@
       "title": "SwiftTheme",
       "category": "styling",
       "description": "Powerful theme/skin manager for iOS 8+.",
-      "homepage": "https://github.com/jiecao-fm/SwiftTheme"
+      "homepage": "https://github.com/wxxsw/SwiftTheme"
     }, {
       "title": "DropDown",
       "category": "ui",
@@ -2973,7 +3169,7 @@
     }, {
       "title": "RxValidator",
       "category": "validation",
-      "description": "Simple, Extensible, Flexible Validation Checker",
+      "description": "Simple, Extensible, Flexible Validation Checker.",
       "homepage": "https://github.com/vbmania/RxValidator"
     }, {
       "title": "SwiftValidator",
@@ -3001,11 +3197,6 @@
       "description": "A switch control with full Interface Builder support.",
       "homepage": "https://github.com/T-Pham/Switch"
     }, {
-      "title": "SYBlinkAnimationKit",
-      "category": "ui",
-      "description": "A blink effect animation framework.",
-      "homepage": "https://github.com/shoheiyokoyama/SYBlinkAnimationKit"
-    }, {
       "title": "TabPageViewController",
       "category": "tab",
       "description": "Paging view controller and scroll tab view.",
@@ -3013,7 +3204,7 @@
     }, {
       "title": "DTPagerController",
       "category": "tab",
-      "description": "Container view controller to display a set of ViewControllers in a horizontal scroll view",
+      "description": "Container view controller to display a set of ViewControllers in a horizontal scroll view.",
       "homepage": "https://github.com/tungvoduc/DTPagerController"
     }, {
       "title": "TagCellLayout",
@@ -3051,6 +3242,11 @@
       "description": "UITextField-Navigation adds next, previous and done buttons to the keyboard for your UITextFields. Highly customizable.",
       "homepage": "https://github.com/T-Pham/UITextField-Navigation"
     }, {
+      "title": "ALRT",
+      "category": "alert",
+      "description": "An easier constructor for UIAlertController. Present an alert from anywhere.",
+      "homepage": "https://github.com/mshrwtnb/alrt"
+    }, {
       "title": "Alertift",
       "category": "alert",
       "description": "Modern, easy UIAlertController wrapper.",
@@ -3069,7 +3265,7 @@
       "title": "CFNotify",
       "category": "alert",
       "description": "A customizable framework to create draggable alert views.",
-      "homepage": "https://github.com/hallelujahbaby/CFNotify"
+      "homepage": "https://github.com/JT501/CFNotify"
     }, {
       "title": "EZAlertController",
       "category": "alert",
@@ -3087,7 +3283,7 @@
       "homepage": "https://github.com/ytakzk/Hokusai"
     }, {
       "title": "Jelly",
-      "category": "alert",
+      "category": "transition",
       "description": "Jelly provides custom view controller transitions with just a few lines of code.",
       "homepage": "https://github.com/SebastianBoldt/Jelly"
     }, {
@@ -3126,11 +3322,6 @@
       "description": "various popups and notifications.",
       "homepage": "https://github.com/peterprokop/SwiftOverlays"
     }, {
-      "title": "Whisper",
-      "category": "alert",
-      "description": "Messages and in-app notification made easy.",
-      "homepage": "https://github.com/hyperoslo/Whisper"
-    }, {
       "title": "XLActionController",
       "category": "alert",
       "description": "Fully customizable and extensible action sheet controller.",
@@ -3155,6 +3346,11 @@
       "category": "button",
       "description": "Floating Action Button for iOS.",
       "homepage": "https://github.com/kciter/Floaty"
+    }, {
+      "title": "FloatingButton",
+      "category": "button",
+      "description": "Easily customizable floating button menu created with SwiftUI.",
+      "homepage": "https://github.com/exyte/FloatingButton"
     }, {
       "title": "LTHRadioButton",
       "category": "button",
@@ -3221,11 +3417,6 @@
       "description": "Pagination enabled view controller.",
       "homepage": "https://github.com/PageMenu/PageMenu"
     }, {
-      "title": "PagingMenuController",
-      "category": "menu",
-      "description": "Paging view controller with customizable menu.",
-      "homepage": "https://github.com/kitasuke/PagingMenuController"
-    }, {
       "title": "MenuItemKit",
       "category": "menu",
       "description": "`UIMenuItem` with image and block (closure) support.",
@@ -3263,7 +3454,7 @@
     }, {
       "title": "PagingKit",
       "category": "menu",
-      "description": "PagingKit provides customizable menu UI",
+      "description": "PagingKit provides customizable menu UI.",
       "homepage": "https://github.com/kazuhiro4949/PagingKit"
     }, {
       "title": "Parchment",
@@ -3291,11 +3482,6 @@
       "category": "permissions",
       "description": "A unified API to ask for permissions on iOS.",
       "homepage": "https://github.com/delba/Permission"
-    }, {
-      "title": "PermissionScope",
-      "category": "permissions",
-      "description": "A Periscope-inspired way to ask for iOS permissions.",
-      "homepage": "https://github.com/nickoneill/PermissionScope"
     }, {
       "title": "Swift-Prompts",
       "category": "alert",
@@ -3347,10 +3533,15 @@
       "description": "Elegant transition library for iOS.",
       "homepage": "https://github.com/HeroTransitions/Hero"
     }, {
+      "title": "ImageTransition",
+      "category": "transition",
+      "description": "ImageTransition is a library for smooth animation of images during transitions.",
+      "homepage": "https://github.com/shtnkgm/ImageTransition"
+    }, {
       "title": "DTTableViewManager",
       "category": "uitableview",
       "description": "Protocol-oriented UITableView management, powered by generics and associated types.",
-      "homepage": "https://github.com/DenHeadless/DTTableViewManager"
+      "homepage": "https://github.com/DenTelezhkin/DTTableViewManager"
     }, {
       "title": "folding-cell",
       "category": "uitableview",
@@ -3394,7 +3585,7 @@
     }, {
       "title": "ExpandableCell",
       "category": "uitableview",
-      "description": "Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate",
+      "description": "Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.",
       "homepage": "https://github.com/younatics/ExpandableCell"
     }, {
       "title": "AlexaSkillsKit",
@@ -3441,11 +3632,6 @@
       "category": "cache",
       "description": "A simple but flexible cache.",
       "homepage": "https://github.com/spring-media/Carlos"
-    }, {
-      "title": "Compass",
-      "category": "app-routing",
-      "description": "Compass helps you setup a central navigation system for your application.",
-      "homepage": "https://github.com/hyperoslo/Compass"
     }, {
       "title": "RxFlow",
       "category": "app-routing",
@@ -3521,11 +3707,6 @@
       "category": "text",
       "description": "Great String Pluralize Extension.",
       "homepage": "https://github.com/joshualat/Pluralize.swift"
-    }, {
-      "title": "Popsicle",
-      "category": "utility",
-      "description": "Delightful, extensible value interpolation framework.",
-      "homepage": "https://github.com/DavdRoman/Popsicle"
     }, {
       "title": "protobuf-swift",
       "category": "utility",
@@ -3629,6 +3810,12 @@
       "description": "Functional data types and functions for any project.",
       "homepage": "https://github.com/typelift/Swiftx"
     }, {
+      "title": "Swifty360Player",
+      "category": "video",
+      "description": "iOS 360-degree video player streaming from an AVPlayer.",
+      "homepage": "https://github.com/abdullahselek/Swifty360Player",
+      "tags": ["iOS", "AVPlayer", "360 video player"]
+    }, {
       "title": "SwiftyUtils",
       "category": "utility",
       "description": "All the reusable code that we need in each project.",
@@ -3722,7 +3909,7 @@
       "title": "Facebook",
       "category": "SDK",
       "description": "Official Facebook SDK.",
-      "homepage": "https://github.com/facebook/facebook-sdk-swift"
+      "homepage": "https://github.com/facebookarchive/facebook-swift-sdk"
     }, {
       "title": "Translucid",
       "category": "label",
@@ -3793,7 +3980,7 @@
       "title": "Swift Module Template",
       "category": "boilerplates",
       "description": "An opinionated starting point for awesome, reusable modules.",
-      "homepage": "https://github.com/fulldecent/swift4-module-template"
+      "homepage": "https://github.com/fulldecent/swift5-module-template"
     }, {
       "title": "Toybox",
       "category": "misc",
@@ -3819,12 +4006,7 @@
       "title": "DeviceKit",
       "category": "device",
       "description": "DeviceKit is a value-type replacement of UIDevice.",
-      "homepage": "https://github.com/dennisweissmann/DeviceKit"
-    }, {
-      "title": "Koyomi",
-      "category": "calendar",
-      "description": "Simple customizable calendar component.",
-      "homepage": "https://github.com/shoheiyokoyama/Koyomi"
+      "homepage": "https://github.com/devicekit/DeviceKit"
     }, {
       "title": "Workaholic",
       "category": "calendar",
@@ -3838,7 +4020,7 @@
     }, {
       "title": "CardParts",
       "category": "cards",
-      "description": "A reactive, card-based UI framework built on UIKit for iOS developers",
+      "description": "A reactive, card-based UI framework built on UIKit for iOS developers.",
       "homepage": "https://github.com/intuit/CardParts"
     }, {
       "title": "CSVParser",
@@ -3903,7 +4085,7 @@
     {
       "title": "SwifterSwift",
       "category": "utility",
-      "description": "A handy collection of more than 500 native Swift extensions to boost your productivity. ",
+      "description": "A handy collection of more than 500 native extensions to boost your productivity.",
       "homepage": "https://github.com/SwifterSwift/SwifterSwift",
       "tags": ["extensions", "ios"]
     },
@@ -3932,6 +4114,12 @@
       "homepage": "https://objectivec2swift.com",
       "tags": ["extensions", "ios", "macos", "objective-c", "swift"]
     }, {
+      "title": "Zolang",
+      "homepage": "https://github.com/Zolang/Zolang",
+      "category": "converters",
+      "description": "A DSL for generating code in multiple programming languages",
+      "tags": ["extensions", "ios", "macos", "linux", "swift"]
+    }, {
       "title": "LocalizationKit",
       "category": "localization",
       "description": "Realtime dynamic localization of your app with remote management so you can manage maintain and deploy translations without resubmitting app.",
@@ -3943,6 +4131,12 @@
       "description": "Drop in user input validation for your iOS apps.",
       "homepage": "https://github.com/adamwaite/Validator"
     }, {
+      "title": "ValidatedPropertyKit",
+      "category": "validation",
+      "description": "Easily validate your Properties with Property Wrappers 👮.",
+      "homepage": "https://github.com/SvenTiigi/ValidatedPropertyKit",
+      "tags": ["ios", "macos", "tvos", "watchos", "swift", "propertywrapper"]
+    }, {
       "title": "Input Mask",
       "category": "validation",
       "description": "Pattern-based user input formatter, parser and validator for iOS.",
@@ -3952,6 +4146,11 @@
       "category": "images",
       "description": "Multi image downloader with priority.",
       "homepage": "https://github.com/jinSasaki/Vulcan"
+    }, {
+      "title": "YPImagePicker",
+      "category": "images",
+      "description": "Instagram-like image picker & filters for iOS.",
+      "homepage": "https://github.com/Yummypets/YPImagePicker"
     }, {
       "title": "Sharaku",
       "category": "images",
@@ -3994,7 +4193,7 @@
       "title": "Telegram Bot SDK",
       "category": "bots",
       "description": "Unofficial SDK.",
-      "homepage": "https://github.com/zmeyc/telegram-bot-swift",
+      "homepage": "https://github.com/rapierorg/telegram-bot-swift",
       "tags": ["linux", "iOS", "swift", "bot", "telegram"]
 
     }, {
@@ -4090,7 +4289,7 @@
       "title": "EFQRCode",
       "category": "barcode",
       "description": "A better way to operate quick response code.",
-      "homepage": "https://github.com/EyreFree/EFQRCode",
+      "homepage": "https://github.com/EFPrefix/EFQRCode",
       "tags": ["swift", "qrcode", "barcode", "generator", "recognizer"]
     }, {
       "title": "LoginKit",
@@ -4205,11 +4404,6 @@
       "description": "Curated newsletter.",
       "homepage": "https://www.natashatherobot.com"
     }, {
-      "title": "Indie iOS Focus Weekly",
-      "category": "newsletter",
-      "description": "Curated weekly iOS newsletter.",
-      "homepage": "https://indieiosfocus.com"
-    }, {
       "title": "Swift Weekly Brief",
       "category": "newsletter",
       "description": "A multi author curated newsletter.",
@@ -4228,7 +4422,7 @@
       "title": "Themes",
       "category": "styling",
       "description": "Theme management.",
-      "homepage": "https://github.com/onmyway133/Themes"
+      "homepage": "https://github.com/onmyway133/EasyTheme"
     }, {
       "title": "FanMenu",
       "category": "menu",
@@ -4247,7 +4441,7 @@
     }, {
       "title": "ImageViewer",
       "category": "images",
-      "description": "An image viewer à la Twitter",
+      "description": "An image viewer à la Twitter.",
       "homepage": "https://github.com/Krisiacik/ImageViewer"
     }, {
       "title": "VGPlayer",
@@ -4268,7 +4462,7 @@
       "title": "PryntTrimmerView",
       "category": "video",
       "description": "Trim and crop videos.",
-      "homepage": "https://github.com/prynt/PryntTrimmerView"
+      "homepage": "https://github.com/HHK1/PryntTrimmerView"
     }, {
       "title": "GridView",
       "category": "uitableview",
@@ -4367,11 +4561,6 @@
       "description": "LayoutKit is a fast view layout library for iOS, macOS, and tvOS.",
       "homepage": "https://github.com/linkedin/LayoutKit"
     }, {
-      "title": "RAReorderableLayout",
-      "category": "uicollectionview",
-      "description": "A UICollectionView layout which can move an item with drag and drop.",
-      "homepage": "https://github.com/ra1028/RAReorderableLayout"
-    }, {
       "title": "TransitionButton",
       "category": "button",
       "description": "UIButton subclass for loading and transition animation.",
@@ -4420,11 +4609,6 @@
       "description": "Manage the task execution in different threads through Kommands.",
       "homepage": "https://github.com/intelygenz/Kommander-iOS"
     }, {
-      "title": "Colorify",
-      "category": "colors",
-      "description": "Colorify - simple, yet powerful color library.",
-      "homepage": "https://github.com/czater/Colorify"
-    }, {
       "title": "HGPlaceholders",
       "category": "uitableview",
       "description": "Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.",
@@ -4452,7 +4636,7 @@
     }, {
       "title": "VegaScroll",
       "category": "uicollectionview",
-      "description": "Lightweight animation flowlayout for UICollectionView completely written in Swift.",
+      "description": "Lightweight animation flowlayout for UICollectionView.",
       "homepage": "https://github.com/AppliKeySolutions/VegaScroll"
     }, {
       "title": "MediaBrowser",
@@ -4496,15 +4680,20 @@
       "description": "An Xcode playground showcasing the new features in Swift 4.0.",
       "homepage": "https://github.com/ole/whats-new-in-swift-4"
     }, {
+      "title": "Conferences.digital",
+      "category": "third-party-guides",
+      "description": "Watch conference videos in a native macOS app.",
+      "homepage": "https://github.com/zagahr/Conferences.digital"
+    }, {
       "title": "Cachyr",
       "category": "cache",
       "description": "A small key-value data cache for iOS, macOS and tvOS.",
-      "homepage": "https://github.com/YR/Cachyr"
+      "homepage": "https://github.com/nrkno/yr-cachyr"
     }, {
       "title": "SectionScrubber",
       "category": "uitableview",
       "description": "A component to quickly scroll between collection view sections.",
-      "homepage": "https://github.com/bakkenbaeck/SectionScrubber"
+      "homepage": "https://github.com/3lvis/SectionScrubber"
     }, {
       "title": "Closures",
       "category": "utility",
@@ -4557,8 +4746,8 @@
     }, {
       "title": "TSAO",
       "category": "utility",
-      "description": "Type-Safe Associated Objects in Swift.",
-      "homepage": "https://github.com/kballard/swift-tsao"
+      "description": "Type-Safe Associated Objects.",
+      "homepage": "https://github.com/lilyball/swift-tsao"
     }, {
       "title": "AXPhotoViewer",
       "category": "images",
@@ -4570,17 +4759,17 @@
       "description": "An elegant way to show users that something is happening and also prepare them to which contents he is waiting.",
       "homepage": "https://github.com/Juanpe/SkeletonView"
     }, {
-  		"title": "RxWebSocket",
-  		"category": "socket",
-  		"description": "Reactive WebSockets.",
-  		"homepage": "https://github.com/fjcaetano/RxWebSocket",
-  		"tags": ["reactive", "rxswift"]
+      "title": "RxWebSocket",
+      "category": "socket",
+      "description": "Reactive WebSockets.",
+      "homepage": "https://github.com/fjcaetano/RxWebSocket",
+      "tags": ["reactive", "rxswift"]
     }, {
-  		"title": "ReCaptcha",
-  		"category": "authentication",
-  		"description": "[In]visible ReCaptcha for iOS.",
-  		"homepage": "https://github.com/fjcaetano/ReCaptcha",
-  		"tags": ["google", "reactive", "rxswift", "webview"]
+      "title": "ReCaptcha",
+      "category": "authentication",
+      "description": "[In]visible ReCaptcha for iOS.",
+      "homepage": "https://github.com/fjcaetano/ReCaptcha",
+      "tags": ["google", "reactive", "rxswift", "webview"]
     }, {
       "title": "FlowingMenu",
       "category": "menu",
@@ -4592,9 +4781,9 @@
       "description": "Windless makes it easy to implement invisible layout loading view.",
       "homepage": "https://github.com/Interactive-Studio/Windless"
     },{
-      "title": "Karmadust",
+      "title": "CalendarView",
       "category": "calendar",
-      "description": "Unidirectional Calendar Component with Native Events Support.",
+      "description": "Calendar Component, It features both vertical and horizontal layout (and scrolling) and the display of native calendar events.",
       "homepage": "https://github.com/mmick66/CalendarView"
     }, {
       "title": "Mandoline",
@@ -4602,10 +4791,15 @@
       "description": "An iOS picker view to serve all your 'picking' needs.",
       "homepage": "https://github.com/blueapron/Mandoline"
     }, {
+      "title": "YMTreeMap",
+      "category": "ui",
+      "description": "Treemap / Heatmap layout engine, based on Squarified",
+      "homepage": "https://github.com/yahoo/YMTreeMap"
+    }, {
       "title": "Viewer",
       "category": "images",
       "description": "Image viewer (or Lightbox) with support for local and remote videos and images.",
-      "homepage": "https://github.com/bakkenbaeck/Viewer"
+      "homepage": "https://github.com/3lvis/Viewer"
     }, {
       "title": "VueFlux",
       "category": "events",
@@ -4617,11 +4811,11 @@
       "description": "Publish and discover services using mDNS (Bonjour, Zeroconf).",
       "homepage": "https://github.com/AlTavares/Ciao"
     }, {
-	    "title": "ARVoxelKit",
-	    "category": "augmented-reality",
-	    "description": "Voxel graphic framework using ARKit",
-	    "homepage": "https://github.com/VoxxxelAR/ARVoxelKit",
-	    "tags": ["AR", "augmented", "reality", "voxel"]
+      "title": "ARVoxelKit",
+      "category": "augmented-reality",
+      "description": "Voxel graphic framework using ARKit.",
+      "homepage": "https://github.com/VoxxxelAR/ARVoxelKit",
+      "tags": ["AR", "augmented", "reality", "voxel"]
     }, {
       "title": "Chronology",
       "category": "date",
@@ -4652,7 +4846,7 @@
       "title": "Sukari",
       "category": "Syntactic Sugar",
       "description": "Sweet Syntactic Sugar.",
-      "homepage": "https://github.com/xrisyz/Sukari"
+      "homepage": "https://github.com/chriskarani/Sukari"
     }, {
       "title": "Shiny",
       "category": "ui",
@@ -4691,6 +4885,13 @@
       "description": "A command line interface for your Swift scripts.",
       "homepage": "https://github.com/yonaskolb/Beak"
     }, {
+      "title": "CodableWrappers",
+      "category": "misc",
+      "description": "A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.",
+      "homepage": "https://github.com/GottaGetSwifty/CodableWrappers",
+      "tags": ["swift", "codable", "property-wrappers"]
+    },
+    {
       "title": "Fluid Slider",
       "category": "ui",
       "description": "A slider widget with a popup bubble displaying the precise value selected.",
@@ -4711,11 +4912,6 @@
       "description": "Blazing fasst 2D gaming engine.",
       "homepage": "https://github.com/JohnSundell/ImagineEngine"
     }, {
-      "title": "PanelKit",
-      "category": "ui",
-      "description": "A UI framework that enables panels on iOS.",
-      "homepage": "https://github.com/louisdh/panelkit"
-    }, {
       "title": "DeepDiff",
       "category": "utility",
       "description": "Fast diff library.",
@@ -4731,20 +4927,26 @@
       "description": "Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.",
       "homepage": "https://github.com/dillidon/alerts-and-pickers"
     }, {
+      "title": "ASCollectionView",
+      "category": "uicollectionview",
+      "description": "Lightweight custom collection view inspired by Airbnb.",
+      "homepage": "https://github.com/abdullahselek/ASCollectionView",
+      "tags": ["ios", "customcollectionview", "custom ui"]
+    }, {
       "title": "AZCollectionViewController",
       "category": "uicollectionview",
       "description": "Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.",
       "homepage": "https://github.com/AfrozZaheer/AZCollectionViewController"
     }, {
+      "title": "GradientProgressBar",
+      "category": "ui",
+      "description": "An animated gradient progress bar.",
+      "homepage": "https://github.com/fxm90/GradientProgressBar"
+    }, {
       "title": "GradientLoadingBar",
       "category": "hud",
       "description": "An animated gradient loading bar.",
       "homepage": "https://github.com/fxm90/GradientLoadingBar"
-    }, {
-      "title": "GradientProgressBar",
-      "category": "ui",
-      "description": "A customizable gradient progress bar (UIProgressView).",
-      "homepage": "https://github.com/fxm90/GradientProgressBar"
     }, {
       "title": "Thingy",
       "category": "device",
@@ -4754,7 +4956,7 @@
     }, {
 		  "title": "Kinieta",
 		  "category": "animation",
-		  "description": "An simple Animation Engine for iOS with an Intuitive API and Readable Code",
+		  "description": "An simple Animation Engine for iOS with an Intuitive API and Readable Code.",
 		  "homepage": "https://github.com/mmick66/kinieta",
 		  "tags": ["animation", "engine", "motion", "bezier"]
     }, {
@@ -4771,7 +4973,7 @@
     }, {
 	    "title": "ARVideoKit",
 	    "category": "augmented-reality",
-	    "description": "Capture & record ARKit videos, photos, Live Photos, and GIFs",
+	    "description": "Capture & record ARKit videos, photos, Live Photos, and GIFs.",
 	    "homepage": "https://github.com/AFathi/ARVideoKit",
 	    "tags": ["AR", "augmented", "reality", "video"]
     }, {
@@ -4842,7 +5044,7 @@
     }, {
       "title": "swift-tips",
       "category": "third-party-guides",
-      "description": "A series of useful tips by Vincent Pradeilles",
+      "description": "A series of useful tips by Vincent Pradeilles.",
       "homepage": "https://github.com/vincent-pradeilles/swift-tips"
     }, {
       "title": "Localize",
@@ -4896,7 +5098,7 @@
     }, {
       "title": "Poly",
       "category": "augmented-reality",
-      "description": "Unofficial Google Poly SDK – explore the world of 3D",
+      "description": "Unofficial Google Poly SDK – explore the world of 3D.",
       "homepage": "https://github.com/piemonte/Poly"
     }, {
       "title": "TheAnimation",
@@ -4909,11 +5111,11 @@
       "description": "Poi makes you use card UI like tinder UI .You can use it like tableview method.",
       "homepage": "https://github.com/HideakiTouhara/Poi"
     }, {
-	    "title": "DNWebSocket",
-	    "category": "socket",
-	    "description": "Object-Oriented, Autobahn tested WebSocket Library (RFC 6455) for Swift-compatible Platforms.",
-	    "homepage": "https://github.com/GlebRadchenko/DNWebSocket",
-	    "tags": ["websocket", "socket", "io", "network", "networking"]
+      "title": "DNWebSocket",
+      "category": "socket",
+      "description": "Object-Oriented, Autobahn tested WebSocket Library (RFC 6455).",
+      "homepage": "https://github.com/GlebRadchenko/DNWebSocket",
+      "tags": ["websocket", "socket", "io", "network", "networking"]
     }, {
       "title": "ClassicKit",
       "category": "ui",
@@ -4937,7 +5139,7 @@
     }, {
       "title": "Vaccine",
       "category": "utility",
-      "description": "Make your apps immune to recompile-decease",
+      "description": "Make your apps immune to recompile-decease.",
       "homepage": "https://github.com/zenangst/Vaccine"
     }, {
       "title": "Differific",
@@ -4967,10 +5169,10 @@
       "description": "A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.",
       "homepage": "https://github.com/JoniVR/VerticalCardSwiper"
     }, {
-      "title": "AnimatedMaskLabel",
-      "category": "label",
-      "description": "A nice gradient animated label that make easy to add a shimmering effect to any view.",
-      "homepage": "https://github.com/imjog/AnimatedMaskLabel"
+      "title": "LoadingShimmer",
+      "category": "ui",
+      "description": "An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.",
+      "homepage": "https://github.com/jogendra/LoadingShimmer"
     }, {
       "title": "Telegrammer",
       "category": "bots",
@@ -4981,11 +5183,11 @@
       "title": "example-ios-apps",
       "category": "other-awesome-lists",
       "description": "An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.",
-      "homepage": "https://github.com/imjog/example-ios-apps"
+      "homepage": "https://github.com/jogendra/example-ios-apps"
     }, {
       "title": "UserDefaultsStore",
       "category": "key-value-store",
-      "description": "Why not use UserDefaults to store Codable objects 😉",
+      "description": "Why not use UserDefaults to store Codable objects 😉.",
       "homepage": "https://github.com/omaralbeik/UserDefaultsStore"
     }, {
       "title": "Crossroad",
@@ -5017,13 +5219,13 @@
     }, {
       "title": "Awesome iOS Interview",
       "category": "other-awesome-lists",
-      "description": "List of the questions that helps you to prepare for the interview",
+      "description": "List of the questions that helps you to prepare for the interview.",
       "homepage": "https://github.com/dashvlas/awesome-ios-interview",
       "tags": ["interview", "ios-developer", "question list"]
     }, {
       "title": "FluentQuery",
       "category": "utility",
-      "description": "Powerful and easy to use Swift Query Builder.",
+      "description": "Powerful and easy to use Query Builder.",
       "homepage": "https://github.com/MihaelIsaev/FluentQuery",
       "tags": ["linux"]
     }, {
@@ -5047,7 +5249,7 @@
       "title": "Schedule",
       "category": "thread",
       "description": "A missing lightweight task scheduler with an incredibly human-friendly syntax.",
-      "homepage": "https://github.com/jianstm/Schedule",
+      "homepage": "https://github.com/luoxiu/Schedule",
       "tags": ["timer", "gcd", "ios", "macos", "watchos", "tvos", "linux"]
     }, {
       "title": "ExpandableButton",
@@ -5064,13 +5266,657 @@
     }, {
       "title": "DifferenceKit",
       "category": "utility",
-      "description": "💻 A fast and flexible O(n) difference algorithm framework for Swift collection.",
+      "description": "💻 A fast and flexible O(n) difference algorithm framework.",
       "homepage": "https://github.com/ra1028/DifferenceKit"
     }, {
       "title": "Disk",
       "category": "other-data",
       "description": "Delightful framework for iOS to easily persist structs, images, and data.",
       "homepage": "https://github.com/saoudrizwan/Disk"
+    },
+    {
+      "title": "OKTableViewLiaison",
+      "category": "uitableview",
+      "description": "Framework to help you better manage UITableViews",
+      "homepage": "https://github.com/okcupid/OKTableViewLiaison"
+    }, {
+      "title": "SwiftyComments",
+      "category": "uitableview",
+      "description": "Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.",
+      "homepage": "https://github.com/tsucres/SwiftyComments"
+    }, {
+      "title": "ESTabBarController",
+      "category": "tab",
+      "description": "A highly customizable TabBarController component, which is inherited from UITabBarController.",
+      "homepage": "https://github.com/eggswift/ESTabBarController"
+    }, {
+      "title": "FlexiblePageControl",
+      "category": "pagination",
+      "description": "A flexible UIPageControl like Instagram.",
+      "homepage": "https://github.com/shima11/FlexiblePageControl",
+      "tags": ["iOS", "swift", "pagination", "animation", "pagecontrol", "UIPageControl", "instagram"]
+    }, {
+      "title": "InputBarAccessoryView",
+      "category": "chat",
+      "description": "A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.",
+      "homepage": "https://github.com/nathantannar4/InputBarAccessoryView"
+    }, {
+      "title": "Sheet",
+      "category": "alert",
+      "description": "Actionsheet with navigation features such as the Flipboard App.",
+      "homepage": "https://github.com/ParkGwangBeom/Sheet"
+    }, {
+      "title": "voice-overlay-ios",
+      "category": "audio",
+      "description": "An overlay that gets your user’s voice permission and input as text in a customizable UI.",
+      "homepage": "https://github.com/algolia/voice-overlay-ios"
+    }, {
+	  "title": "ModernAVPlayer",
+	  "category": "audio",
+	  "description": "Persistence AVPlayer to resume playback after bad network connection even in background mode.",
+	  "homepage": "https://github.com/noreasonprojects/ModernAVPlayer",
+      "tags": ["swift", "reachability", "network", "avplayer", "player", "hls", "mp3", "wav", "aiff"]
+	}, {
+      "title": "LightRoute",
+      "category": "app-routing",
+      "description": "Routing between VIPER modules.",
+      "homepage": "https://github.com/SpectralDragon/LightRoute"
+    }, {
+      "title": "Viperit",
+      "category": "patterns",
+      "description": "Viper Framework for iOS.",
+      "homepage": "https://github.com/ferranabello/Viperit"
+    }, {
+      "title": "Lumos",
+      "category": "utility",
+      "description": "An easy-to-use API for Objective-C runtime functions.",
+      "homepage": "https://github.com/sushinoya/Lumos"
+    }, {
+      "title": "Panels",
+      "category": "menu",
+      "description": "Panels is a framework to easily add sliding panels to your application.",
+      "homepage": "https://github.com/antoniocasero/Panels"
+    }, {
+      "title": "Kitsunebi",
+      "category": "video",
+      "description": "Overlay alpha channel video animation player view using OpenGLES.",
+      "homepage": "https://github.com/noppefoxwolf/Kitsunebi"
+    }
+    , {
+      "title": "CleanArchitectureRxSwift",
+      "category": "patterns",
+      "description": "Example of Clean Architecture of iOS app using RxSwift.",
+      "homepage": "https://github.com/sergdort/CleanArchitectureRxSwift"
+    }, {
+      "title": "LinkedInSignIn",
+      "category": "authentication",
+      "description": "Simple view controller to log in and retrieve an access token from LinkedIn.",
+      "homepage": "https://github.com/serhii-londar/LinkedInSignIn"
+    }, {
+      "title": "Reactant",
+      "category": "patterns",
+      "description": "Reactant is a reactive architecture for iOS.",
+      "homepage": "https://github.com/Brightify/Reactant"
+    }, {
+      "title": "HaishinKit",
+      "category": "streaming",
+      "description": "Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.",
+      "homepage": "https://github.com/shogo4405/HaishinKit.swift"
+    }, {
+      "title": "XCTest",
+      "category": "testing",
+      "description": "The XCTest Project, A Swift core library for providing unit test support.",
+      "homepage": "https://github.com/apple/swift-corelibs-xctest"
+    }, {
+      "title": "Defaults",
+      "category": "key-value-store",
+      "description": "Strongly-typed UserDefaults with support for Codable and key observation.",
+      "homepage": "https://github.com/sindresorhus/Defaults"
+    }, {
+      "title": "Preferences",
+      "category": "ui",
+      "description": "Add a preferences window to your macOS app in minutes.",
+      "homepage": "https://github.com/sindresorhus/Preferences"
+    }, {
+      "title": "LaunchAtLogin",
+      "category": "system",
+      "description": "Easily add 'Launch at Login' functionality to your sandboxed macOS app.",
+      "homepage": "https://github.com/sindresorhus/LaunchAtLogin"
+    }, {
+      "title": "DockProgress",
+      "category": "ui",
+      "description": "Show progress in your macOS app's Dock icon.",
+      "homepage": "https://github.com/sindresorhus/DockProgress"
+    }, {
+      "title": "OnboardKit",
+      "category": "walkthrough",
+      "description": "Customisable user onboarding for your iOS app.",
+      "homepage": "https://github.com/NikolaKirev/OnboardKit"
+    }, {
+      "title": "CircularProgress",
+      "category": "ui",
+      "description": "Circular progress indicator for your macOS app.",
+      "homepage": "https://github.com/sindresorhus/CircularProgress"
+    }, {
+      "title": "PersistenceKit",
+      "category": "multi-database",
+      "description": "Store and retrieve Codable objects to various persistence layers, in a couple lines of code!",
+      "homepage": "https://github.com/Teknasyon-Teknoloji/PersistenceKit",
+      "tags": ["swift", "filemanager", "userdefaults", "keychain", "ios", "macos", "tvos", "watchos"]
+    }, {
+      "title": "Rough",
+      "category": "images",
+      "description": "Rough lets you draw in a sketchy, hand-drawn-like, style.",
+      "homepage": "https://github.com/bakhtiyork/Rough",
+      "tags": ["swift", "sketchy", "hand-drawn"]
+    }, {
+      "title": "iOS project template",
+      "category": "boilerplates",
+      "description": "iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.",
+      "homepage": "https://github.com/messeb/ios-project-template"
+    }, {
+      "title": "Pixel",
+      "category": "images",
+      "description": "An image editor and engine using CoreImage.",
+      "homepage": "https://github.com/muukii/Pixel"
+    },  {
+      "title": "UICollectionViewSplitLayout",
+      "category": "uicollectionview",
+      "description": "UICollectionViewSplitLayout makes collection view more responsive.",
+      "homepage": "https://github.com/yahoojapan/UICollectionViewSplitLayout"
+    }, {
+      "title": "AHDownloadButton",
+      "category": "button",
+      "description": "Customizable download button with progress and transition animations. It is based on Apple's App Store download button.",
+      "homepage": "https://github.com/amerhukic/AHDownloadButton"
+    }, {
+      "title": "PaperOnboarding",
+      "category": "walkthrough",
+      "description": "PaperOnboarding is a material design UI slider.",
+      "homepage": "https://github.com/Ramotion/paper-onboarding"
+    }, {
+      "title": "CircleMenu",
+      "category": "menu",
+      "description": "CircleMenu is a simple, elegant UI menu with a circular layout and material design animations.",
+      "homepage": "https://github.com/Ramotion/circle-menu"
+    }, {
+      "title": "GitHubAPI",
+      "category": "api",
+      "description": "Implementation of GitHub REST API v3",
+      "homepage": "https://github.com/serhii-londar/GithubAPI"
+    }, {
+      "title": "Gliding Collection",
+      "category": "uicollectionview",
+      "description": "Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Controller.",
+      "homepage": "https://github.com/Ramotion/gliding-collection"
+    }, {
+      "title": "WeakableSelf",
+      "category": "utility",
+      "description": "A micro-framework to encapsulate [weak self] and guard statements within closures.",
+      "homepage": "https://github.com/vincent-pradeilles/weakable-self"
+     }, {
+      "title": "SPPermission",
+      "category": "permissions",
+      "description": "Simple request permission with native UI and interactive animation.",
+      "homepage": "https://github.com/ivanvorobei/SPPermissions"
+     }, {
+      "title": "Google",
+      "category": "style-guides",
+      "description": "This style guide is based on Apple’s excellent Swift standard library style and also incorporates feedback from usage across multiple Swift projects within Google.",
+      "homepage": "https://google.github.io/swift/"
+     }, {
+      "title": "paper-switch",
+      "category": "switch",
+      "description": "RAMPaperSwitch is a material design UI module which paints over the parent view when the switch is turned on.",
+      "homepage": "https://github.com/Ramotion/paper-switch"
+     }, {
+      "title": "OverlayContainer",
+      "category": "ui",
+      "description": "OverlayContainer makes it easier to develop overlay based interfaces, such as the one presented in the Apple Maps or Stocks apps.",
+      "homepage": "https://github.com/applidium/OverlayContainer"
+     }, {
+      "title": "ApplyStyleKit",
+      "category": "utility",
+      "description": "Elegantly, Apply style to UIKit using Method Chain.",
+      "homepage": "https://github.com/shindyu/ApplyStyleKit",
+      "tags": ["swift", "methodchain", "design", "ios"]
+     }, {
+      "title": "Model2App",
+      "category": "misc",
+      "description": "Turn your data model into a working CRUD app.",
+      "homepage": "https://github.com/Q-Mobile/Model2App"
+     }, {
+      "title": "SwiftFFmpeg",
+      "category": "video",
+      "description": "A wrapper for the FFmpeg C API.",
+      "homepage": "https://github.com/sunlubo/SwiftFFmpeg"
+     }, {
+      "title": "HidesNavigationBarWhenPushed",
+      "category": "ui",
+      "description": "A library, which adds the ability to hide navigation bar when view controller is pushed via hidesNavigationBarWhenPushed flag.",
+      "homepage": "https://github.com/gontovnik/HidesNavigationBarWhenPushed"
+     }, {
+      "title": "Soundable",
+      "category": "audio",
+      "description": "Soundable allows you to play sounds, single and in sequence, in a very easy way.",
+      "homepage": "https://github.com/ThXou/Soundable",
+      "tags": ["avfoundation", "sound", "audio", "avaudioplayer", "avqueueplayer", "avaudiosession", "ios", "swift"]
+    }, {
+      "title": "ZamzamKit",
+      "category": "utility",
+      "description": "A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.",
+      "homepage": "https://github.com/ZamzamInc/ZamzamKit"
+    }, {
+      "title": "CarLensCollectionViewLayout",
+      "category": "uicollectionview",
+      "description": "An easy-to-use Collection View Layout for card-like animation.",
+      "homepage": "https://github.com/netguru/CarLensCollectionViewLayout"
+    }, {
+      "title": "DGElasticPullToRefresh",
+      "category": "uitableview",
+      "description": "Elastic pull to refresh.",
+      "homepage": "https://github.com/gontovnik/DGElasticPullToRefresh"
+    }, {
+      "title": "CoreXLSX",
+      "category": "other-data",
+      "description": "Excel spreadsheet (XLSX) format support.",
+      "homepage": "https://github.com/MaxDesiatov/CoreXLSX"
+    }, {
+      "title": "XMLCoder",
+      "category": "xml",
+      "description": "XMLEncoder & XMLDecoder based on Codable protocols from the standard library",
+      "homepage": "https://github.com/MaxDesiatov/XMLCoder"
+    }, {
+      "title": "Carbon",
+      "category": "form",
+      "description": "🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.",
+      "homepage": "https://github.com/ra1028/Carbon"
+    }, {
+      "title": "EZLayout",
+      "category": "auto-layout",
+      "description": "An easier and faster way to code Autolayout.",
+      "homepage": "https://github.com/alexliubj/EZAnchor"
+    }, {
+      "title": "Swiftbot",
+      "category": "utility",
+      "description": "run swift code on slack.",
+      "homepage": "https://github.com/noppefoxwolf/Swiftbot"
+    }, {
+      "title": "Real-time Chat with Firebase",
+      "category": "chat",
+      "description": "Functional real-time chat app with Firebase Firestore using MessageKit.",
+      "homepage": "https://github.com/instamobile/messenger-iOS-chat-swift-firestore"
+    }, {
+      "title": "CollapsibleTableSectionViewController",
+      "category": "uitableview",
+      "description": "A library to support collapsible sections in a table view.",
+      "homepage": "https://github.com/jeantimex/CollapsibleTableSectionViewController"
+    }, {
+      "title": "Loaf",
+      "category": "alert",
+      "description": "A simple framework for easy iOS Toasts.",
+      "homepage": "https://github.com/schmidyy/Loaf",
+      "tags": ["toast", "alert"]
+    }, {
+      "title": "CircleBar",
+      "category": "tab",
+      "description": "A fun, easy-to-use tab bar navigation controller for iOS.",
+      "homepage": "https://github.com/softhausHQ/CircleBar",
+      "tags": ["tab", "navigation"]
+    }, {
+      "title": "MemoryCache",
+      "category": "cache",
+      "description": "Type-safe memory cache.",
+      "homepage": "https://github.com/yysskk/MemoryCache",
+      "tags": ["cache", "utility"]
+    }, {
+      "title": "BadgeHub",
+      "category": "ui",
+      "description": "Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.",
+      "homepage": "https://github.com/jogendra/BadgeHub",
+      "tags": ["animation", "badge"]
+    }, {
+      "title": "RealmWrapper",
+      "category": "realm",
+      "description": "Safe and easy wrappers for RealmSwift.",
+      "homepage": "https://github.com/k-lpmg/RealmWrapper"
+    }, {
+      "title": "Tokamak",
+      "category": "events",
+      "description": "React-like declarative API for building native UI components with easy to use one-way data binding.",
+      "homepage": "https://github.com/MaxDesiatov/Tokamak",
+      "tags": ["react", "redux"]
+    }, {
+      "title": "VEditorKit",
+      "category": "text",
+      "description": "Lightweight and Powerful Editor Kit.",
+      "homepage": "https://github.com/GeekTree0101/VEditorKit"
+    }, {
+      "title": "Nantes",
+      "category": "label",
+      "description": "TTTAttributedLabel replacement.",
+      "homepage": "https://github.com/instacart/Nantes"
+    }, {
+      "title": "SecureDefaults",
+      "category": "key-value-store",
+      "description": "A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.",
+      "homepage": "https://github.com/vpeschenkov/SecureDefaults"
+    }, {
+      "title": "Codextended",
+      "category": "utility",
+      "description": "Extensions giving Codable API type inference super powers.",
+      "homepage": "https://github.com/JohnSundell/Codextended"
+    }, {
+      "title": "AwaitToast",
+      "category": "alert",
+      "description": "🍞 An async waiting toast with basic toast. Inspired by facebook posting toast.",
+      "homepage": "https://github.com/k-lpmg/AwaitToast"
+    }, {
+      "title": "Sejima",
+      "category": "UI",
+      "description": "Collection of User Interface components.",
+      "homepage": "https://github.com/MoveUpwards/Sejima",
+      "tags": ["UI", "components"]
+    }, {
+      "title": "WLEmptyState",
+      "category": "uitableview",
+      "description": "A component that lets you customize the view when the dataset of UITableView is empty.",
+      "homepage": "https://github.com/wizeline/WLEmptyState"
+    }, {
+      "title": "lottie-ios",
+      "category": "animation",
+      "description": "An iOS library to natively render After Effects vector animations.",
+      "homepage": "https://github.com/airbnb/lottie-ios",
+      "tags": ["swift", "animation"]
+    }, {
+      "title": "glide engine",
+      "category": "game-engine",
+      "description": "SpriteKit and GameplayKit based engine for making 2d games, with practical examples and tutorials.",
+      "homepage": "https://github.com/cocoatoucher/Glide",
+      "tags": ["platformer", "side", "scroller", "tilemap", "tiles", "spritekit"]
+    }, {
+      "title": "ATGValidator",
+      "category": "validation",
+      "description": "Rule based validation framework with form and card validation support for iOS.",
+      "homepage": "https://github.com/altayer-digital/ATGValidator"
+    }, {
+      "title": "SPStorkController",
+      "category": "transition",
+      "description": "Now playing controller from Apple Music. Customisable height.",
+      "homepage": "https://github.com/IvanVorobei/SPStorkController",
+      "tags": ["swift", "animation", "UI", "transition", "apple music"]
+    }, {
+      "title": "SPLarkController",
+      "category": "transition",
+      "description": "Custom transition between two controller. Translate to top.",
+      "homepage": "https://github.com/IvanVorobei/SPLarkController",
+      "tags": ["swift", "animation", "UI", "transition"]
+    }, {
+      "title": "Unrealm",
+      "category": "realm",
+      "description": "Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.",
+      "homepage": "https://github.com/arturdev/Unrealm",
+      "tags": ["swift", "realm", "data-management", "struct"]
+    }, {
+      "title": "SPAlert",
+      "category": "alert",
+      "description": "Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.",
+      "homepage": "https://github.com/ivanvorobei/SPAlert",
+      "tags": ["swift", "UI"]
+    }, {
+      "title": "LightweightObservable",
+      "category": "events",
+      "description": "A lightweight implementation of an observable sequence that you can subscribe to.",
+      "homepage": "https://github.com/fxm90/LightweightObservable",
+      "tags": ["swift", "observable", "observer", "reactive"]
+    }, {
+      "title": "SamuraiTransition",
+      "category": "transition",
+      "description": "Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.",
+      "homepage": "https://github.com/hachinobu/SamuraiTransition",
+      "tags": ["swift", "animation", "UI", "transition"]
+    }, {
+       "title": "Locatable",
+       "category": "dependency-injection",
+       "description": "A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.",
+       "homepage": "https://github.com/vincent-pradeilles/locatable",
+       "tags": ["swift", "dependency", "property wrapper"]
+    }, {
+        "title": "PanSlip",
+        "category": "transition",
+        "description": "Use PanGesture to dismiss view on UIViewController and UIView.",
+        "homepage": "https://github.com/k-lpmg/PanSlip"
+    }, {
+        "title": "Tagging",
+        "category": "text",
+        "description": "A TextView that provides easy to use tagging feature for Mention or Hashtag.",
+        "homepage": "https://github.com/k-lpmg/Tagging"
+    }, {
+        "title": "MultiSlider",
+        "category": "ui",
+        "description": "UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.",
+        "homepage": "https://github.com/yonat/MultiSlider"
+    }, {
+        "title": "RadioGroup",
+        "category": "button",
+        "description": "The missing iOS radio buttons group.",
+        "homepage": "https://github.com/yonat/RadioGroup"
+    }, {
+        "title": "CameraBackground",
+        "category": "camera",
+        "description": "Show camera layer as a background to any UIView.",
+        "homepage": "https://github.com/yonat/CameraBackground"
+    }, {
+        "title": "CheckmarkCollectionViewCell",
+        "category": "uicollectionview",
+        "description": "UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app 'Select' mode.",
+        "homepage": "https://github.com/yonat/CheckmarkCollectionViewCell"
+    }, {
+        "title": "BatteryView",
+        "category": "ui",
+        "description": "Simple battery shaped UIView.",
+        "homepage": "https://github.com/yonat/BatteryView"
+    }, {
+        "title": "DiffableDataSources",
+        "category": "uitableview",
+        "description": "💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.",
+        "homepage": "https://github.com/ra1028/DiffableDataSources"
+    }, {
+        "title": "TOMLDecoder",
+        "category": "toml",
+        "description": "Latest TOML standard, decoded.",
+        "homepage": "https://github.com/dduan/TOMLDecoder"
+    }, {
+        "title": "Pathos",
+        "category": "files",
+        "description": "Efficient Unix file management.",
+        "homepage": "https://github.com/dduan/Pathos",
+        "tags": ["linux"]
+    }, {
+        "title": "VKPinCodeView",
+        "category": "textfield",
+        "description": "Simple and elegant UI component for input PIN.",
+        "homepage": "https://github.com/Sunspension/VKPinCodeView",
+	      "tags": ["swift", "UI", "PIN"]
+    }, {
+        "title": "Texstyle",
+        "category": "text",
+        "description": "Texstyle allows you to format attributed strings easily.",
+        "homepage": "https://github.com/rosberry/texstyle"
+    }, {
+        "title": "Combinative",
+        "category": "events",
+        "description": "UI event handling using Apple's combine framework.",
+        "homepage": "https://github.com/noppefoxwolf/Combinative"
+    }, {
+        "title": "SelectionList",
+        "category": "uitableview",
+        "description": "Simple single-selection or multiple-selection checklist, based on UITableView.",
+        "homepage": "https://github.com/yonat/SelectionList"
+    }, {
+        "title": "ResizingTokenField",
+        "category": "ui",
+        "description": "A UICollectionView-based token field which provides intrinsic content height.",
+        "homepage": "https://github.com/tadejr/ResizingTokenField"
+    }, {
+        "title": "Bow",
+        "category": "utility",
+        "description": "Companion library for Typed Functional Programming.",
+        "homepage": "https://github.com/bow-swift/bow"
+    }, {
+        "title": "AutoMockable",
+        "category": "mock",
+        "description": "A framework that leverages the type system to let you easily create mocked instances of your data types.",
+        "homepage": "https://github.com/vincent-pradeilles/AutoMocker"
+    }, {
+        "title": "ShowSomeProgress",
+        "category": "ui",
+        "description": "Animated Progress and Activity Indicators for iOS apps.",
+        "homepage": "https://github.com/stoneburner/ShowSomeProgress"
+    }, {
+        "title": "Ribbon",
+        "category": "keyboard",
+        "description": "🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.",
+        "homepage": "https://github.com/chriszielinski/Ribbon"
+    }, {
+        "title": "MultiSelectSegmentedControl",
+        "category": "ui",
+        "description": "UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.",
+        "homepage": "https://github.com/yonat/MultiSelectSegmentedControl"
+    }, {
+        "title": "FlexibleHeader",
+        "category": "ui",
+        "description": "A container view that responds to scrolling of UIScrollView.",
+        "homepage": "https://github.com/k-lpmg/FlexibleHeader"
+    }, {
+      "title": "ReactiveAPI",
+      "category": "network",
+      "description": "Write clean, concise and declarative network code relying on URLSession, with the power of RxSwift. Inspired by Retrofit.",
+      "homepage": "https://github.com/sky-uk/ReactiveAPI",
+      "tags": ["swift", "declarative", "rx", "reactive", "urlsession"]
+    }, {
+      "title": "PolioPager",
+      "category": "tab",
+      "description": "A flexible TabBarController with search tab like SNKRS.",
+      "homepage": "https://github.com/YuigaWada/PolioPager"
+    }, {
+      "title": "DuctTape",
+      "category": "utility",
+      "description": "📦 KeyPath dynamicMemberLookup based syntax sugar for Swift.",
+      "homepage": "https://github.com/marty-suzuki/DuctTape"
+    }, {
+      "title": "BTree",
+      "category": "algorithm",
+      "description": "Fast sorted collections for Swift using in-memory B-trees.",
+      "homepage": "https://github.com/attaswift/BTree"
+    }, {
+      "title": "SwiftFormat",
+      "category": "quality",
+      "description": "A code library and command-line formatting tool for reformatting Swift code.",
+      "homepage": "https://github.com/nicklockwood/SwiftFormat"
+    }, {
+      "title": "SwiftShell",
+      "category": "command-line",
+      "description": "A library for creating command-line applications and running shell commands.",
+      "homepage": "https://github.com/kareman/SwiftShell"
+    }, {
+  		"title": "TermiNetwork",
+  		"category": "network",
+  		"description": "A networking abstraction layer in Swift designed to work with Codables.",
+  		"homepage": "https://github.com/billp/TermiNetwork"
+    }, { 
+      "title": "SwiftCop",
+      "category": "quality",
+      "description": "A validation library which inspired by the clarity of Ruby On Rails Active Record validations.",
+      "homepage": "https://github.com/andresinaka/SwiftCop"
+    }, {
+      "title": "DIKit",
+      "category": "dependency-injection",
+      "description": "Dependency Injection Framework for Swift, inspired by KOIN.",
+      "homepage": "https://github.com/Liftric/DIKit"
+    }, {
+      "title": "MockSwift",
+      "category": "mock",
+      "description": "Mock Framework that uses the power of property wrappers.",
+      "homepage": "https://github.com/leoture/MockSwift"
+    },{
+      "title": "OEMentions",
+      "category": "text",
+      "description": "An easy way to add mentions to uitextview like Facebook and Instagram.",
+      "homepage": "https://github.com/omar14/OEMentions",
+      "tags": ["Swift", "UITextView", "UITableView"]
+    }, {
+      "title": "Translatio",
+      "category": "localization",
+      "description": "Super lightweight library that helps you to localize strings, even directly in storyboards.",
+      "homepage": "https://github.com/andrealufino/Translatio",
+      "tags": ["localization", "language", "translation"]
+    }, {
+      "title": "Deviice",
+      "category": "device",
+      "description": "Swift library to easily check the current device and some more info about it.",
+      "homepage": "https://github.com/andrealufino/Deviice",
+      "tags": ["device", "detection"]
+
+    },
+	{
+	"title": "Azure Functions for Swift",
+	"category": "serverless",
+	"description": "Swift Worker for Azure Functions ",
+	"homepage": "https://github.com/SalehAlbuga/azure-functions-swift",
+	"tags": ["linux", "macOS", "serverless", "cloud", "azure"]
+    }, {
+      "title": "SweetCurtain",
+      "category": "ui",
+      "description": "Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.",
+      "homepage": "https://github.com/multimediasuite/SweetCurtain",
+      "tags": ["swift", "pull-up", "curtain", "bottom-sheet", "sliding-menu"]
+    }, {
+      "title": "XMLMapper",
+      "category": "xml",
+      "description": "A simple way to map XML to Objects.",
+      "homepage": "https://github.com/gcharita/XMLMapper",
+      "tags": ["swift", "xml", "soap"]
+    }, {
+      "title": "swift-mod",
+      "category": "quality",
+      "description": "A tool for Swift code modification intermediating between code generation and formatting.",
+      "homepage": "https://github.com/ra1028/swift-mod"
+    }, {
+      "title": "CGLayout",
+      "category": "layout",
+      "description": "Powerful autolayout framework, that can manage UIView(NSView), CALayer, not rendered views and etc. Provides placeholders.",
+      "homepage": "https://github.com/k-o-d-e-n/CGLayout",
+      "tags": ["linux"]
+    }, {
+      "title": "SwiftCoroutine",
+      "category": "concurrency",
+      "description": "Coroutines for iOS and macOS.",
+      "homepage": "https://github.com/belozierov/SwiftCoroutine",
+      "tags": ["swift", "coroutine", "coroutines", "await", "async/await"]
+    }, {
+      "title": "CrowdinSDK",
+      "category": "localization",
+      "description": "Delivers all new translations from Crowdin project to the application immediately.",
+      "homepage": "https://github.com/crowdin/mobile-sdk-ios",
+      "tags": ["swift", "crowdin", "localization"]
+    }, {
+      "title": "Apphud",
+      "category": "app-store",
+      "description": "Lightweight library to easily handle auto-renewable subscriptions with no backend required.",
+      "homepage": "https://github.com/apphud/ApphudSDK",
+      "tags": ["swift", "StoreKit"]
+    }, {
+      "title": "ExceptionCatcher",
+      "category": "utility",
+      "description": "Catch Objective-C exceptions.",
+      "homepage": "https://github.com/sindresorhus/ExceptionCatcher"
+    }, {
+      "title": "PrivacyFlash Pro",
+      "category": "utility",
+      "description": "Generate a privacy policy for your Swift iOS app from its code.",
+      "homepage": "https://github.com/privacy-tech-lab/privacyflash-pro",
+      "tags": ["swift", "iOS", "privacy policy", "privacy"]
     }
   ]
 }

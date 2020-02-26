@@ -5917,6 +5917,12 @@
       "description": "Generate a privacy policy for your Swift iOS app from its code.",
       "homepage": "https://github.com/privacy-tech-lab/privacyflash-pro",
       "tags": ["swift", "iOS", "privacy policy", "privacy"]
+    }, {
+      "title": "Partition Kit",
+      "category": "ui",
+      "description": "A SwiftUI Library for creating resizable partitions for View Content.",
+      "homepage": "https://github.com/kieranb662/PartitionKit",
+      "tags": ["swiftui", "swift-package-manager", "swift-library"]
     }
   ]
 }

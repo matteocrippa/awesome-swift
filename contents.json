@@ -3243,7 +3243,7 @@
     }, {
         "title": "Insert3D",
         "category": "ui-3d",
-        "description": "The fastest 🚀 way to embed a 3D model in Swift.",
+        "description": "The fastest 🚀 way to embed a 3D model.",
         "homepage": "https://github.com/Viktoo/Insert3D"
     }, {
       "title": "URLEmbeddedView",

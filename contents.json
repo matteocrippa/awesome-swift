@@ -558,6 +558,10 @@
     "id": "template",
     "parent": "ui"
   }, {
+      "title": "3D",
+      "id": "ui-3d",
+      "parent": "ui"
+  }, {
     "title": "Utility",
     "id": "utility",
     "parent": "libs",
@@ -3236,6 +3240,11 @@
       "category": "ui",
       "description": "Easy way to make elements in your iOS app twinkle.",
       "homepage": "https://github.com/piemonte/Twinkle"
+    }, {
+        "title": "Insert3D",
+        "category": "ui-3d",
+        "description": "The fastest 🚀 way to embed a 3D model.",
+        "homepage": "https://github.com/Viktoo/Insert3D"
     }, {
       "title": "URLEmbeddedView",
       "category": "ui",

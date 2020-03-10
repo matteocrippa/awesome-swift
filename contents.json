@@ -4793,7 +4793,7 @@
       "title": "Windless",
       "category": "ui",
       "description": "Windless makes it easy to implement invisible layout loading view.",
-      "homepage": "https://github.com/Interactive-Studio/Windless"
+      "homepage": "https://github.com/ParkGwangBeom/Windless"
     },{
       "title": "CalendarView",
       "category": "calendar",
@@ -4834,7 +4834,7 @@
       "title": "Chronology",
       "category": "date",
       "description": "Building a better date/time library.",
-      "homepage": "https://github.com/davedelong/Chronology"
+      "homepage": "https://github.com/davedelong/time"
     }, {
       "title": "L10n-swift",
       "category": "localization",

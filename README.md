@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1027 | March 10, 2020
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1028 | March 12, 2020
 
 ### Contents
 
@@ -404,6 +404,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - Manage cache easy.
 * [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache.
+* [CachyKit](https://github.com/Sadmansamee/CachyKit) - A Caching Library that can cache JSON, Image, Zip or AnyObject with expiry date/TTYL and force refresh.
 * [Cachyr](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS.
 * [Carlos](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 * [EVURLCache](https://github.com/evermeer/EVURLCache) - If you want to make your app still works when it's offline.

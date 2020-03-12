@@ -4860,7 +4860,7 @@
       "title": "Sukari",
       "category": "Syntactic Sugar",
       "description": "Sweet Syntactic Sugar.",
-      "homepage": "https://github.com/captain-charisma/Sukari"
+      "homepage": "https://github.com/chriskarani/Sukari"
     }, {
       "title": "Shiny",
       "category": "ui",
@@ -5937,6 +5937,11 @@
       "description": "A SwiftUI Library for creating resizable partitions for View Content.",
       "homepage": "https://github.com/kieranb662/PartitionKit",
       "tags": ["swiftui", "swift-package-manager", "swift-library"]
+    }, {
+      "title": "CachyKit",
+      "category": "cache",
+      "description": "A Caching Library that can cache JSON, Image, Zip or AnyObject with expiry date/TTYL and force refresh.",
+      "homepage": "https://github.com/Sadmansamee/CachyKit"
     }
   ]
 }

@@ -3401,6 +3401,11 @@
       "description": "Forms that can be validated.",
       "homepage": "https://github.com/neoneye/SwiftyFORM"
     }, {
+      "title": "ObjectForm",
+      "category": "form",
+      "description": "A simple yet powerful library to build form for your class models.",
+      "homepage": "https://github.com/haojianzong/ObjectForm"
+    }, {
       "title": "AKSwiftSlideMenu",
       "category": "menu",
       "description": "Slide Menu (Drawer).",

@@ -5947,6 +5947,12 @@
       "category": "cache",
       "description": "A Caching Library that can cache JSON, Image, Zip or AnyObject with expiry date/TTYL and force refresh.",
       "homepage": "https://github.com/Sadmansamee/CachyKit"
+    }, {
+      "title": "Spin",
+      "category": "patterns",
+      "description": "Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine",
+      "homepage": "https://github.com/Spinners/Spin.Swift",
+      "tags": ["swift", "feedback-loop", "rxswift", "reactiveswift", "combine"]
     }
   ]
 }

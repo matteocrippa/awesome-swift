@@ -192,6 +192,11 @@
     "parent": "data-management",
     "description": "No more pain with Core Data, here are some interesting libs to handle data management."
   }, {
+    "title": "CSV",
+    "id": "csv",
+    "parent": "data-management",
+    "description": "Helpful libraries to parse from and serialize to comma-separated value representations."
+  }, {
     "title": "Multi Database",
     "id": "multi-database",
     "parent": "data-management",
@@ -4032,9 +4037,15 @@
       "category": "cards",
       "description": "A reactive, card-based UI framework built on UIKit for iOS developers.",
       "homepage": "https://github.com/intuit/CardParts"
+    },{
+      "title": "CodableCSV",
+      "category": "csv",
+      "description": "Read and write CSV files row-by-row or through Swift's Codable interface.",
+      "homepage": "https://github.com/dehesa/CodableCSV",
+      "tags": ["linux"]
     }, {
       "title": "CSVParser",
-      "category": "other-data",
+      "category": "csv",
       "description": "Fast parser for CSV.",
       "homepage": "https://github.com/Nero5023/CSVParser",
       "tags": ["linux"]

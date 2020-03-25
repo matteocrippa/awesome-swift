@@ -2977,6 +2977,11 @@
       "description": "Awesome fully customizable search view like Pinterest.",
       "homepage": "https://github.com/younatics/YNSearch"
     }, {
+      "title": "ActivityIndicatorView",
+      "category": "ui",
+      "description": "A number of preset loading indicators created with SwiftUI.",
+      "homepage": "https://github.com/exyte/ActivityIndicatorView"
+    }, {
       "title": "Instructions",
       "category": "walkthrough",
       "description": "A library to create app walkthroughs and guided tours.",

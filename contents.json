@@ -656,11 +656,6 @@
       "description": "Complete training course that teaches app development through 30 hands-on projects, for free.",
       "homepage": "https://www.hackingwithswift.com"
     }, {
-      "title": "Swift Web Weekly",
-      "category": "third-party-guides",
-      "description": "A free, hand-picked list of the best links for Swift Web Developers, every Monday in your inbox.",
-      "homepage": "http://swiftwebweekly.com"
-    }, {
       "title": "The Swift Web Developer",
       "category": "third-party-guides",
       "description": "A publication for Swift Web Developers.",

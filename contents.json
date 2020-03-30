@@ -5917,9 +5917,9 @@
     }, {
       "title": "SwiftCoroutine",
       "category": "concurrency",
-      "description": "Coroutines for iOS and macOS.",
+      "description": "Coroutines for iOS, macOS and Linux.",
       "homepage": "https://github.com/belozierov/SwiftCoroutine",
-      "tags": ["swift", "coroutine", "coroutines", "await", "async/await"]
+      "tags": ["linux", "swift", "coroutine", "coroutines", "await", "async/await"]
     }, {
       "title": "CrowdinSDK",
       "category": "localization",

@@ -5955,6 +5955,11 @@
       "description": "Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine",
       "homepage": "https://github.com/Spinners/Spin.Swift",
       "tags": ["swift", "feedback-loop", "rxswift", "reactiveswift", "combine"]
+    }, {
+      "title": "Playbook",
+      "category": "utility",
+      "description": "📘A library for isolated developing UI components and automatically snapshots of them.",
+      "homepage": "https://github.com/playbook-ui/playbook-ios"
     }
   ]
 }

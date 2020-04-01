@@ -1247,6 +1247,11 @@
       "description": "Framework that hides the complexity of managed object contexts.",
       "homepage": "https://github.com/jmfieldman/cadmium"
     }, {
+      "title": "CloudCore",
+      "category": "core-data",
+      "description": "Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.",
+      "homepage": "https://github.com/deeje/CloudCore/"
+    }, {
       "title": "CoreStore",
       "category": "core-data",
       "description": "simple and elegant way to handle Core Data.",

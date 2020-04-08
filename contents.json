@@ -612,7 +612,7 @@
     }, {
       "title": "ModelAssistant",
       "category": "multi-database",
-      "description": "Elegant library to manage the interactions between view and model",
+      "description": "Elegant library to manage the interactions between view and model.",
       "homepage": "https://github.com/ssamadgh/ModelAssistant",
       "tags": ["swift", "uitableview", "uicollectionview", "ios"]
     }, {
@@ -897,7 +897,7 @@
     }, {
       "title": "Elephant",
       "category": "animation",
-      "description": "Elegant SVG animation kit for iOS",
+      "description": "Elegant SVG animation kit.",
       "homepage": "https://github.com/s2mr/Elephant"
     }, {
       "title": "Appz",
@@ -1861,7 +1861,7 @@
     }, {
         "title": "FMPhotoPicker",
         "category": "images",
-        "description": "A modern, simple and zero-dependency photo picker with an elegant and customizable image editor",
+        "description": "A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.",
         "homepage": "https://github.com/congnd/FMPhotoPicker"
     }, {
       "title": "gifu",
@@ -2683,7 +2683,7 @@
     }, {
       "title": "Sizes",
       "category": "testing",
-      "description": "Test your app on different device and font sizes",
+      "description": "Test your app on different device and font sizes.",
       "homepage": "https://github.com/marcosgriselli/Sizes"
     }, {
       "title": "AttributedTextView",
@@ -3059,7 +3059,7 @@
     }, {
       "title": "Material Components for iOS",
       "category": "ui",
-      "description": "Modular and customizable Material Design UI components for iOS",
+      "description": "Modular and customizable Material Design UI components.",
       "homepage": "https://github.com/material-components/material-components-ios"
     }, {
       "title": "MaterialKit",
@@ -4143,7 +4143,7 @@
       "title": "Zolang",
       "homepage": "https://github.com/Zolang/Zolang",
       "category": "converters",
-      "description": "A DSL for generating code in multiple programming languages",
+      "description": "A DSL for generating code in multiple programming languages.",
       "tags": ["extensions", "ios", "macos", "linux", "swift"]
     }, {
       "title": "LocalizationKit",
@@ -4819,7 +4819,7 @@
     }, {
       "title": "YMTreeMap",
       "category": "ui",
-      "description": "Treemap / Heatmap layout engine, based on Squarified",
+      "description": "Treemap / Heatmap layout engine, based on Squarified.",
       "homepage": "https://github.com/yahoo/YMTreeMap"
     }, {
       "title": "Viewer",
@@ -5303,7 +5303,7 @@
     {
       "title": "OKTableViewLiaison",
       "category": "uitableview",
-      "description": "Framework to help you better manage UITableViews",
+      "description": "Framework to help you better manage UITableViews.",
       "homepage": "https://github.com/okcupid/OKTableViewLiaison"
     }, {
       "title": "SwiftyComments",
@@ -5468,7 +5468,7 @@
     }, {
       "title": "GitHubAPI",
       "category": "api",
-      "description": "Implementation of GitHub REST API v3",
+      "description": "Implementation of GitHub REST API v3.",
       "homepage": "https://github.com/serhii-londar/GithubAPI"
     }, {
       "title": "Gliding Collection",
@@ -5550,7 +5550,7 @@
     }, {
       "title": "XMLCoder",
       "category": "xml",
-      "description": "XMLEncoder & XMLDecoder based on Codable protocols from the standard library",
+      "description": "XMLEncoder & XMLDecoder based on Codable protocols from the standard library.",
       "homepage": "https://github.com/MaxDesiatov/XMLCoder"
     }, {
       "title": "Carbon",
@@ -5888,7 +5888,7 @@
 	{
 	"title": "Azure Functions for Swift",
 	"category": "serverless",
-	"description": "Swift Worker for Azure Functions ",
+	"description": "Swift Worker for Azure Functions.",
 	"homepage": "https://github.com/SalehAlbuga/azure-functions-swift",
 	"tags": ["linux", "macOS", "serverless", "cloud", "azure"]
     }, {
@@ -5957,7 +5957,7 @@
     }, {
       "title": "Spin",
       "category": "patterns",
-      "description": "Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine",
+      "description": "Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine.",
       "homepage": "https://github.com/Spinners/Spin.Swift",
       "tags": ["swift", "feedback-loop", "rxswift", "reactiveswift", "combine"]
     }, {

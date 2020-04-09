@@ -2798,11 +2798,6 @@
       "description": "Grand Central Dispatch Utilities.",
       "homepage": "https://github.com/comyar/Chronos-Swift"
     }, {
-      "title": "EKI",
-      "category": "thread",
-      "description": "Make Grand Central Dispatch easy and fun to use (queue, task, group, timer and semaphore).",
-      "homepage": "https://github.com/kodlian/Eki"
-    }, {
       "title": "GCDTimer",
       "category": "thread",
       "description": "A well-tested GCD timer.",

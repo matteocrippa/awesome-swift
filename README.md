@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1032 | April 08, 2020
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1030 | April 10, 2020
 
 ### Contents
 
@@ -225,7 +225,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 ## Converters
 
-* [Swiftify](https://objectivec2swift.com) - Objective-C to Swift online code converter and Xcode extension.
+* [Swiftify](https://swiftify.com/#/converter/code/) - Objective-C to Swift online code converter and Xcode extension.
 * [Zolang](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
 
 ## Other Awesome Lists
@@ -330,7 +330,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 *Quick libs to get access to third party API services* [back to top](#readme) 
 
 * [GitHubAPI](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
-* [GooglePlacesAutocomplete](https://github.com/watsonbox/ios_google_places_autocomplete) - Simple Google Places address entry for iOS.
 * [PXGoogleDirections](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
 * [RandomUserSwift](https://github.com/dingwilson/RandomUserSwift) - Framework to Generate Random Users - An Unofficial SDK for randomuser.me.
 * [reddift](https://github.com/sonsongithub/reddift) - reddit API wrapper.
@@ -344,7 +343,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [Appz](https://github.com/SwiftKitz/Appz) - Launch external apps and deeplink with ease.
 * [Crossroad](https://github.com/giginet/Crossroad) - :oncoming_bus: Crossroad is an URL router focused on handling Custom URL Schemes.
-* [LightRoute](https://github.com/SpectralDragon/LightRoute) - Routing between VIPER modules.
+* [LightRoute](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
 * [Linker](https://github.com/MaksimKurpa/Linker) - Lightweight way to handle internal and external deeplinks for iOS.
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) - RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS.
@@ -1210,7 +1209,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [AwaitKit](https://github.com/yannickl/AwaitKit) - The ES7 Async/Await control flow.
 * [Chronos](https://github.com/comyar/Chronos-Swift) - Grand Central Dispatch Utilities.
 * [Each](https://github.com/dalu93/Each) - Each is a NSTimer bridge library.
-* [EKI](https://github.com/kodlian/Eki) - Make Grand Central Dispatch easy and fun to use (queue, task, group, timer and semaphore).
 * [GCDTimer](https://github.com/hemantasapkota/GCDTimer) - A well-tested GCD timer.
 * [Schedule](https://github.com/luoxiu/Schedule) :penguin: - A missing lightweight task scheduler with an incredibly human-friendly syntax.
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer) - API for NSTimer.

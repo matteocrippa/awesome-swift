@@ -2732,12 +2732,6 @@
       "description": " RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.",
       "homepage": "https://github.com/cjwirth/RichEditorView"
     }, {
-      "title": "Roman",
-      "category": "text",
-      "description": "Seamless Roman numeral conversion.",
-      "homepage": "https://github.com/nvzqz/Roman",
-      "tags": ["linux"]
-    }, {
       "title": "SwiftVerbalExpressions",
       "category": "text",
       "description": "VerbalExpressions porting.",

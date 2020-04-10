@@ -5341,7 +5341,7 @@
       "title": "LightRoute",
       "category": "app-routing",
       "description": "Routing between VIPER modules.",
-      "homepage": "https://github.com/SpectralDragon/LightRoute"
+      "homepage": "https://github.com/SpectralDragon/LiteRoute"
     }, {
       "title": "Viperit",
       "category": "patterns",

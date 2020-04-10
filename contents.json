@@ -981,11 +981,6 @@
       "description": "Framework to Generate Random Users - An Unofficial SDK for randomuser.me.",
       "homepage": "https://github.com/dingwilson/RandomUserSwift"
     }, {
-      "title": "GooglePlacesAutocomplete",
-      "category": "api",
-      "description": "Simple Google Places address entry for iOS.",
-      "homepage": "https://github.com/watsonbox/ios_google_places_autocomplete"
-    }, {
       "title": "PXGoogleDirections",
       "category": "api",
       "description": "Google Directions API helper.",

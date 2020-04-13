@@ -955,11 +955,6 @@
       "description": "A Plug-n-Play login framework.",
       "homepage": "https://github.com/chaione/Cely"
     }, {
-      "title": "Simplicity",
-      "category": "authentication",
-      "description": "A simple way to implement Facebook and Google login in your iOS and OS X apps.",
-      "homepage": "https://github.com/SimplicityMobile/Simplicity"
-    }, {
       "title": "Cleanse",
       "category": "dependency-injection",
       "description": "A Lightweight Dependency Injection Framework by Square.",
@@ -1803,11 +1798,6 @@
       "category": "gesture",
       "description": "db path recognizer for letters.",
       "homepage": "https://github.com/didierbrun/DBPathRecognizer"
-    }, {
-      "title": "PeekPop",
-      "category": "gesture",
-      "description": "Framework for backwards-compatible Peek and Pop.",
-      "homepage": "https://github.com/marmelroy/PeekPop"
     }, {
       "title": "SwiftyGestureRecognition",
       "category": "gesture",
@@ -2691,11 +2681,6 @@
       "description": "Fully open source text editor for iOS.",
       "homepage": "https://github.com/tnantoka/edhita"
     }, {
-      "title": "Format",
-      "category": "text",
-      "description": "Formatting kit for numbers, addresses and colors.",
-      "homepage": "https://github.com/marmelroy/Format"
-    }, {
       "title": "MarkdownKit",
       "category": "text",
       "description": "A simple and customizable Markdown Parser.",
@@ -2771,11 +2756,6 @@
       "category": "thread",
       "description": "The ES7 Async/Await control flow.",
       "homepage": "https://github.com/yannickl/AwaitKit"
-    }, {
-      "title": "Chronos",
-      "category": "thread",
-      "description": "Grand Central Dispatch Utilities.",
-      "homepage": "https://github.com/comyar/Chronos-Swift"
     }, {
       "title": "GCDTimer",
       "category": "thread",
@@ -2884,11 +2864,6 @@
       "category": "ui",
       "description": "Beautiful flag icons for usage in apps and on the web.",
       "homepage": "https://github.com/madebybowtie/FlagKit"
-    }, {
-      "title": "FloatLabelFields",
-      "category": "label",
-      "description": "Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.",
-      "homepage": "https://github.com/FahimF/FloatLabelFields"
     }, {
       "title": "FloatRatingView",
       "category": "ui",

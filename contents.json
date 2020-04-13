@@ -2732,11 +2732,6 @@
       "description": "VerbalExpressions porting.",
       "homepage": "https://github.com/VerbalExpressions/SwiftVerbalExpressions"
     }, {
-      "title": "SyntaxKit",
-      "category": "text",
-      "description": "TextMate-style syntax highlighting.",
-      "homepage": "https://github.com/soffes/SyntaxKit"
-    }, {
       "title": "TextAttributes",
       "category": "text",
       "description": "An easier way to compose attributed strings.",

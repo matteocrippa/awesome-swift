@@ -2583,11 +2583,6 @@
       "description": "Simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.",
       "homepage": "https://github.com/jrendel/SwiftKeychainWrapper"
     }, {
-      "title": "MotionKit",
-      "category": "sensors",
-      "description": "iOS device sensors wrapper.",
-      "homepage": "https://github.com/MHaroonBaig/MotionKit"
-    }, {
       "title": "BlueSignals",
       "category": "system",
       "description": "IBM's Cross Platform OS signal handling library.",

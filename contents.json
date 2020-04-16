@@ -788,11 +788,6 @@
       "homepage": "https://github.com/chrs1885/Capable",
       "tags": ["swift", "accessibility", "iOS", "tvOS", "watchOS", "macOS"]
     }, {
-      "title": "MLKit",
-      "category": "ai",
-      "description": "A simple machine learning framework.",
-      "homepage": "https://github.com/Somnibyte/MLKit"
-    }, {
       "title": "CoreML-Models",
       "category": "ai",
       "description": "A collection of unique Core ML Models.",
@@ -875,11 +870,6 @@
       "description": "Choreograph animations on the screen.",
       "homepage": "https://github.com/willowtreeapps/spruce-ios"
     }, {
-      "title": "SwiftyAnimate",
-      "category": "animation",
-      "description": "Composable animations.",
-      "homepage": "https://github.com/rchatham/SwiftyAnimate"
-    }, {
       "title": "YapAnimator",
       "category": "animation",
       "description": "Your fast and friendly physics-based animation system.",
@@ -944,11 +934,6 @@
       "category": "audio",
       "description": "A framework for composing and transforming music.",
       "homepage": "https://github.com/benzguo/MusicKit"
-    }, {
-      "title": "TuningFork",
-      "category": "audio",
-      "description": "A Simple Tuner for iOS.",
-      "homepage": "https://github.com/comyar/TuningFork"
     }, {
       "title": "Cely",
       "category": "authentication",
@@ -1087,20 +1072,10 @@
       "description": "A lightweight framework to build chat applications.",
       "homepage": "https://github.com/badoo/Chatto"
     }, {
-      "title": "Chameleon",
-      "category": "colors",
-      "description": "Chameleon is a lightweight, yet powerful, color framework for iOS.",
-      "homepage": "https://github.com/ViccAlexander/Chameleon"
-    }, {
       "title": "DynamicColor",
       "category": "colors",
       "description": "An extension to manipulate colors easily.",
       "homepage": "https://github.com/yannickl/DynamicColor"
-    }, {
-      "title": "FlatUIColors",
-      "category": "colors",
-      "description": "Flat UI color palette.",
-      "homepage": "https://github.com/brynbellomy/FlatUIColors"
     }, {
       "title": "Gradients",
       "category": "colors",
@@ -1217,11 +1192,6 @@
       "homepage": "https://github.com/quanvo87/GroupWork",
       "tags": ["linux"]
     }, {
-      "title": "StorageKit",
-      "category": "multi-database",
-      "description": "Your Data Storage Troubleshooter 🛠.",
-      "homepage": "https://github.com/StorageKit/StorageKit"
-    }, {
       "title": "AERecord",
       "category": "core-data",
       "description": "Super awesome Core Data wrapper library for iOS.",
@@ -1231,11 +1201,6 @@
       "category": "core-data",
       "description": "Simple Core Data wrapper library.",
       "homepage": "https://github.com/Alecrim/AlecrimCoreData"
-    }, {
-      "title": "Cadmium",
-      "category": "core-data",
-      "description": "Framework that hides the complexity of managed object contexts.",
-      "homepage": "https://github.com/jmfieldman/cadmium"
     }, {
       "title": "CloudCore",
       "category": "core-data",
@@ -1317,11 +1282,6 @@
       "description": "A micro-framework for observing file changes, both local and remote.",
       "homepage": "https://github.com/krzysztofzablocki/KZFileWatchers"
     }, {
-      "title": "FileBrowser",
-      "category": "files",
-      "description": "Powerful file browser for iOS.",
-      "homepage": "https://github.com/marmelroy/FileBrowser"
-    }, {
       "title": "FileKit",
       "category": "files",
       "description": "Simple and expressive file management.",
@@ -1374,11 +1334,6 @@
       "description": "Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable.",
       "homepage": "https://github.com/evermeer/EVReflection"
     }, {
-      "title": "Genome",
-      "category": "json",
-      "description": "A simple, type safe, failure driven mapping library for serializing JSON to models.",
-      "homepage": "https://github.com/LoganWright/Genome"
-    }, {
       "title": "Gloss",
       "category": "json",
       "description": "Shiny JSON parsing library.",
@@ -1399,11 +1354,6 @@
       "category": "json",
       "description": "JSON parsing with outstanding performances and convenient operators.",
       "homepage": "https://github.com/delba/JASON"
-    }, {
-      "title": "JSONCodable",
-      "category": "json",
-      "description": "Hassle-free JSON encoding and decoding.",
-      "homepage": "https://github.com/matthewcheok/JSONCodable"
     }, {
       "title": "JSONHelper",
       "category": "json",
@@ -1449,11 +1399,6 @@
       "category": "yaml",
       "description": "Load YAML and JSON documents.",
       "homepage": "https://github.com/behrang/YamlSwift"
-    }, {
-      "title": "Palau",
-      "category": "key-value-store",
-      "description": "Typesafe NSUserDefaults with custom rules.",
-      "homepage": "https://github.com/symentis/Palau"
     }, {
       "title": "Prephirences",
       "category": "key-value-store",
@@ -1794,11 +1739,6 @@
       "homepage": "https://github.com/nvzqz/Sage",
       "tags": ["linux"]
     }, {
-      "title": "DBPathRecognizer",
-      "category": "gesture",
-      "description": "db path recognizer for letters.",
-      "homepage": "https://github.com/didierbrun/DBPathRecognizer"
-    }, {
       "title": "SwiftyGestureRecognition",
       "category": "gesture",
       "description": "UIGestureRecognizers in Xcode Playgrounds.",
@@ -1995,11 +1935,6 @@
       "description": "An Impressive Autolayout DSL for iOS, tvOS & OSX.",
       "homepage": "https://github.com/keshavvishwkarma/KVConstraintKit"
     }, {
-      "title": "ManualLayout",
-      "category": "layout",
-      "description": "Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.",
-      "homepage": "https://github.com/isair/ManualLayout"
-    }, {
       "title": "Neon",
       "category": "layout",
       "description": "A powerful programmatic UI layout framework.",
@@ -2095,11 +2030,6 @@
       "description": "Localize apps using e.g. regular expressions in Localizable.strings.",
       "homepage": "https://github.com/marmelroy/Localize-Swift"
     }, {
-      "title": "Swifternalization",
-      "category": "localization",
-      "description": "Localize apps using e.g. regular expressions in Localizable.strings.",
-      "homepage": "https://github.com/tomkowz/Swifternalization"
-    }, {
       "title": "SwiftGen-L10n",
       "category": "localization",
       "description": "A tool to auto-generate `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`).",
@@ -2109,12 +2039,6 @@
       "category": "logging",
       "description": "Customizable Console UI overlay with debug log on top of your iOS App.",
       "homepage": "https://github.com/tadija/AEConsole"
-    }, {
-      "title": "Dotzu",
-      "category": "logging",
-      "description": "Debbuger tool for iOS developer. Display logs, network request, device informations, crash logs while using the app.",
-      "homepage": "https://github.com/remirobert/Dotzu",
-      "tags": ["logger", "app", "ios", "crash"]
     }, {
       "title": "CleanroomLogger",
       "category": "logging",
@@ -2283,11 +2207,6 @@
       "category": "network",
       "description": "OAuth library for iOS.",
       "homepage": "https://github.com/OAuthSwift/OAuthSwift"
-    }, {
-      "title": "PeerKit",
-      "category": "network",
-      "description": "Framework for building event-driven, zero-config Multipeer Connectivity apps.",
-      "homepage": "https://github.com/jpsim/PeerKit"
     }, {
       "title": "Pitaya",
       "category": "network",
@@ -2563,11 +2482,6 @@
       "description": "A simple Keychain Wrapper for iOS.",
       "homepage": "https://github.com/endocrimes/Latch"
     }, {
-      "title": "Locksmith",
-      "category": "keychain",
-      "description": "A powerful, protocol-oriented library for working with the iOS Keychain.",
-      "homepage": "https://github.com/matthewpalmer/Locksmith"
-    }, {
       "title": "SwiftKeychainWrapper",
       "category": "keychain",
       "description": "Simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.",
@@ -2578,11 +2492,6 @@
       "description": "IBM's Cross Platform OS signal handling library.",
       "homepage": "https://github.com/IBM-Swift/BlueSignals"
     }, {
-      "title": "SMCKit",
-      "category": "system",
-      "description": "Apple SMC library.",
-      "homepage": "https://github.com/beltex/SMCKit"
-    }, {
       "title": "SystemKit",
       "category": "system",
       "description": "OS X system library.",
@@ -2592,11 +2501,6 @@
       "category": "mock",
       "description": "First boilerplate-free mocking framework.",
       "homepage": "https://github.com/Brightify/Cuckoo"
-    }, {
-      "title": "Kakapo",
-      "category": "mock",
-      "description": "Dynamically Mock server behaviors and responses.",
-      "homepage": "https://github.com/devlucky/Kakapo"
     }, {
       "title": "DVR",
       "category": "testing",

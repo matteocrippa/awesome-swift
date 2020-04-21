@@ -5824,6 +5824,12 @@
       "description": "Helps you define secure storages for your properties using Swift property wrappers.",
       "homepage": "https://github.com/alexruperez/SecurePropertyStorage",
       "tags": ["security", "property wrappers", "userdefaults", "keychain", "singleton", "codable", "dependency injection"]
+    }, {
+      "title": "SwiftLocalNotification",
+      "category": "events",
+      "description": "Super easy to push local notifications in different simple useful ways.",
+      "homepage": "https://github.com/Salarsoleimani/SwiftLocalNotification",
+      "tags": ["localNotification", "usernotification", "adaptor", "swift5"]
     }
   ]
 }

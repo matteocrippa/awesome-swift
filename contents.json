@@ -5824,6 +5824,12 @@
       "description": "Helps you define secure storages for your properties using Swift property wrappers.",
       "homepage": "https://github.com/alexruperez/SecurePropertyStorage",
       "tags": ["security", "property wrappers", "userdefaults", "keychain", "singleton", "codable", "dependency injection"]
+    }, {
+      "title": "QuickDB",
+      "category": "other-data",
+      "description": "Fast usage dataBase to avoid struggling with dataBase complexity. Just save every object with a simple function.",
+      "homepage": "https://github.com/behrad-kzm/QuickDB",
+      "tags": ["dataBase", "coreData", "userdefaults", "codable", "generic", "codable", "query"]
     }
   ]
 }

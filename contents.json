@@ -5824,6 +5824,12 @@
       "description": "Helps you define secure storages for your properties using Swift property wrappers.",
       "homepage": "https://github.com/alexruperez/SecurePropertyStorage",
       "tags": ["security", "property wrappers", "userdefaults", "keychain", "singleton", "codable", "dependency injection"]
+    }, {
+      "title": "AnyLint",
+      "category": "quality",
+      "description": "Lint anything by combining the power of Swift & regular expressions.",
+      "homepage": "https://github.com/Flinesoft/AnyLint",
+      "tags": ["linux"]
     }
   ]
 }

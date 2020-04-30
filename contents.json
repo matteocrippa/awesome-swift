@@ -1824,6 +1824,11 @@
       "description": "A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.",
       "homepage": "https://github.com/Textcat/JLStickerTextView"
     }, {
+      "title": "SwiftWebImage",
+      "category": "images",
+      "description": "🚀SwiftUI Image downloader with performant LRU mem/disk cache.",
+      "homepage": "https://github.com/geekaurora/SwiftWebImage"
+    }, {
       "title": "Kingfisher",
       "category": "images",
       "description": "Image download and caching.",

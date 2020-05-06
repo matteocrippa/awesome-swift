@@ -5840,6 +5840,12 @@
       "description": "Lint anything by combining the power of Swift & regular expressions.",
       "homepage": "https://github.com/Flinesoft/AnyLint",
       "tags": ["linux"]
+    }, {
+      "title": "PopupView",
+      "category": "alert",
+      "description": "Toasts and popups library written with SwiftUI.",
+      "homepage": "https://github.com/exyte/PopupView",
+      "tags": ["swiftui", "swift-package-manager", "swift-library"]
     }
   ]
 }

@@ -2346,6 +2346,12 @@
       "description": "Super lightweight web framework based on SWSGI.",
       "homepage": "https://github.com/envoy/Ambassador"
     }, {
+      "title": "Corvus",
+      "category": "webserver",
+      "description": "Web framework to build REST APIs with a declarative syntax.",
+      "homepage": "https://github.com/apodini/corvus",
+      "tags": ["linux"]
+    },{
       "title": "Curassow",
       "category": "webserver",
       "description": "HTTP server using the pre-fork worker model.",

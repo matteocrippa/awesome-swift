@@ -2114,6 +2114,11 @@
       "description": "Full featured & Configurable logging utility with log levels, timestamps, and line numbers.",
       "homepage": "https://github.com/DaveWoodCom/XCGLogger"
     }, {
+      "title": "Gedatsu",
+      "category": "logging",
+      "description": "Provide readable format about AutoLayout error console log.",
+      "homepage": "https://github.com/bannzai/gedatsu"
+    }, {
       "title": "Printer",
       "category": "logging",
       "description": "A fancy logger for your next app.",

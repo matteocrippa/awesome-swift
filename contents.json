@@ -2116,7 +2116,7 @@
     }, {
       "title": "Gedatsu",
       "category": "logging",
-      "description": "Provide readable format about AutoLayout error console log",
+      "description": "Provide readable format about AutoLayout error console log.",
       "homepage": "https://github.com/bannzai/gedatsu"
     }, {
       "title": "Printer",

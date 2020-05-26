@@ -5857,6 +5857,11 @@
       "description": "Toasts and popups library written with SwiftUI.",
       "homepage": "https://github.com/exyte/PopupView",
       "tags": ["swiftui", "swift-package-manager", "swift-library"]
+    }, {
+      "title": "CHIOTPField",
+      "category": "textfield",
+      "description": "A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.",
+      "homepage": "https://github.com/ChiliLabs/CHIOTPField"
     }
   ]
 }

@@ -5862,6 +5862,11 @@
       "category": "textfield",
       "description": "A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.",
       "homepage": "https://github.com/ChiliLabs/CHIOTPField"
+    }, {
+      "title": "AnimatedCardInput",
+      "category": "payment",
+      "description": "Customisable and easy to use Credit Card UI.",
+      "homepage": "https://github.com/netguru/AnimatedCardInput"
     }
   ]
 }

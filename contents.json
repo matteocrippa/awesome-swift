@@ -1183,7 +1183,7 @@
       "title": "Futures",
       "category": "concurrency",
       "description": "Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side.",
-      "homepage": "https://github.com/formbound/Futures",
+      "homepage": "https://github.com/davidask/Futures",
       "tags": ["linux"]
     }, {
       "title": "GroupWork",
@@ -5867,6 +5867,11 @@
       "category": "payment",
       "description": "Customisable and easy to use Credit Card UI.",
       "homepage": "https://github.com/netguru/AnimatedCardInput"
+    }, {
+      "title": "StateViewController",
+      "category": "patterns",
+      "description": "Stateful UIVIewController composition — the MVC cure for Massive View Controllers.",
+      "homepage": "https://github.com/davidask/StateViewController"
     }
   ]
 }

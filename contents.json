@@ -5489,7 +5489,7 @@
       "title": "Tokamak",
       "category": "events",
       "description": "React-like declarative API for building native UI components with easy to use one-way data binding.",
-      "homepage": "https://github.com/MaxDesiatov/Tokamak",
+      "homepage": "https://github.com/swiftwasm/Tokamak",
       "tags": ["react", "redux"]
     }, {
       "title": "VEditorKit",

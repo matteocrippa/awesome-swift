@@ -5867,6 +5867,11 @@
       "category": "payment",
       "description": "Customisable and easy to use Credit Card UI.",
       "homepage": "https://github.com/netguru/AnimatedCardInput"
+    }, {
+      "title": "StateViewController",
+      "category": "patterns",
+      "description": "Stateful UIVIewController composition — the MVC cure for Massive View Controllers.",
+      "homepage": "https://github.com/davidask/StateViewController"
     }
   ]
 }

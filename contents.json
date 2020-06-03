@@ -5425,7 +5425,7 @@
       "title": "CoreXLSX",
       "category": "other-data",
       "description": "Excel spreadsheet (XLSX) format support.",
-      "homepage": "https://github.com/MaxDesiatov/CoreXLSX"
+      "homepage": "https://github.com/CoreOffice/CoreXLSX"
     }, {
       "title": "XMLCoder",
       "category": "xml",

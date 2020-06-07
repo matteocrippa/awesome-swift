@@ -5882,6 +5882,12 @@
       "category": "patterns",
       "description": "Stateful UIVIewController composition — the MVC cure for Massive View Controllers.",
       "homepage": "https://github.com/davidask/StateViewController"
+    }, {
+      "title": "KeyboardShortcuts",
+      "category": "keyboard",
+      "description": "Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.",
+      "homepage": "https://github.com/sindresorhus/KeyboardShortcuts",
+      "tags": ["swiftui", "swift-package-manager", "swift-library", "macos", "hotkey", "shortcut"]
     }
   ]
 }

@@ -5895,9 +5895,15 @@
       "homepage": "https://github.com/exyte/Grid",
       "tags": ["swiftui", "swift-library", "grid-container"]
     }, {
+      "title": "Mocker",
+      "category": "mock",
+      "description": "Mock Alamofire and URLSession requests without touching your code implementation",
+      "homepage": "https://github.com/WeTransfer/Mocker",
+      "tags": ["alamofire", "urlsession", "mock"]
+    }, {
       "title": "ContainerController",
       "category": "ui",
-      "description": "UI Component. This is a copy swipe-panel from app: https://www.apple.com/ios/maps/. Swift version",
+      "description": "UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks. Swift version.",
       "homepage": "https://github.com/mrustaa/ContainerController",
       "tags": ["swift", "maps", "swipe", "panel", "collection", "tableview", "scrollview", "view", "recognizer", "gesture", "pan"]
     }

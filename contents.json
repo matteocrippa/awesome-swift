@@ -5894,6 +5894,12 @@
       "description": "The most powerful Grid container missed in SwiftUI.",
       "homepage": "https://github.com/exyte/Grid",
       "tags": ["swiftui", "swift-library", "grid-container"]
+    }, {
+      "title": "Mocker",
+      "category": "mock",
+      "description": "Mock Alamofire and URLSession requests without touching your code implementation",
+      "homepage": "https://github.com/WeTransfer/Mocker",
+      "tags": ["alamofire", "urlsession", "mock"]
     }
   ]
 }

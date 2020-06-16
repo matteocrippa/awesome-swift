@@ -798,6 +798,12 @@
       "description": "A collection of unique Core ML Models.",
       "homepage": "https://github.com/likedan/Awesome-CoreML-Models"
     }, {
+      "title": "DL4S",
+      "category": "ai",
+      "description": "Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.",
+      "homepage": "https://github.com/palle-k/DL4S",
+      "tags": ["math", "machine-learning", "automatic-differentiation", "neural-networks"]
+    }, {
       "title": "CenteredCollectionView",
       "category": "uicollectionview",
       "description": "A lightweight UICollectionViewLayout that pages and centers it's cells.",

@@ -5917,6 +5917,12 @@
       "description": "UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks",
       "homepage": "https://github.com/mrustaa/ContainerController",
       "tags": ["swift", "maps", "swipe", "panel", "collection", "tableview", "scrollview", "view", "recognizer", "gesture", "pan"]
+    }, {
+      "title": "HorizonCalendar",
+      "category": "calendar",
+      "description": "A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.",
+      "homepage": "https://github.com/airbnb/HorizonCalendar",
+      "tags": ["calendar", "airbnb", "declerative"]
     }
   ]
 }

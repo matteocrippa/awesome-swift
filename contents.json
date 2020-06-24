@@ -5928,7 +5928,7 @@
       "category": "walkthrough",
       "description": "Library for educating users about features in app.",
       "homepage": "https://github.com/huemae/SuggestionsKit",
-      "tags": ["suggestions", "instructions", "hint", "guide", "tip"]
+      "tags": ["suggestions", "instructions", "hint", "guide"]
     }
   ]
 }

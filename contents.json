@@ -711,6 +711,11 @@
       "description": "A collaborative list of open-source iOS Apps.",
       "homepage": "https://github.com/dkhamsing/open-source-ios-apps"
     }, {
+      "title": "open-source-mac-os-apps",
+      "category": "other-awesome-lists",
+      "description": "Awesome list of open source applications for macOS.",
+      "homepage": "https://github.com/serhii-londar/open-source-mac-os-apps"
+    }, {
       "title": "awesome-macOS",
       "category": "other-awesome-lists",
       "description": "A curated list of awesome applications, softwares, tools and shiny things for macOS.",
@@ -792,6 +797,12 @@
       "category": "ai",
       "description": "A collection of unique Core ML Models.",
       "homepage": "https://github.com/likedan/Awesome-CoreML-Models"
+    }, {
+      "title": "DL4S",
+      "category": "ai",
+      "description": "Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.",
+      "homepage": "https://github.com/palle-k/DL4S",
+      "tags": ["math", "machine-learning", "automatic-differentiation", "neural-networks"]
     }, {
       "title": "CenteredCollectionView",
       "category": "uicollectionview",
@@ -1183,7 +1194,7 @@
       "title": "Futures",
       "category": "concurrency",
       "description": "Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side.",
-      "homepage": "https://github.com/formbound/Futures",
+      "homepage": "https://github.com/davidask/Futures",
       "tags": ["linux"]
     }, {
       "title": "GroupWork",
@@ -1940,6 +1951,11 @@
       "homepage": "https://github.com/FabrizioBrancati/BFKit-Swift",
       "tags": ["linux"]
     }, {
+      "title": "EasySwiftLayout",
+      "category": "auto-layout",
+      "description": "Lightweight Swift framework for Apple's Auto-Layout.",
+      "homepage": "https://github.com/Pimine/EasySwiftLayout"
+    }, {
       "title": "KVConstraintKit",
       "category": "auto-layout",
       "description": "An Impressive Autolayout DSL for iOS, tvOS & OSX.",
@@ -2113,6 +2129,11 @@
       "category": "logging",
       "description": "Full featured & Configurable logging utility with log levels, timestamps, and line numbers.",
       "homepage": "https://github.com/DaveWoodCom/XCGLogger"
+    }, {
+      "title": "Gedatsu",
+      "category": "logging",
+      "description": "Provide readable format about AutoLayout error console log.",
+      "homepage": "https://github.com/bannzai/gedatsu"
     }, {
       "title": "Printer",
       "category": "logging",
@@ -3733,7 +3754,7 @@
       "title": "MobilePlayer",
       "category": "video",
       "description": "A powerful and completely customizable media player for iOS.",
-      "homepage": "https://github.com/mobileplayer/mobileplayer-ios"
+      "homepage": "https://github.com/sahin/mobileplayer-ios"
     }, {
       "title": "Player",
       "category": "video",
@@ -4465,6 +4486,11 @@
       "category": "ui",
       "description": "Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.",
       "homepage": "https://github.com/MKGitHub/UIPheonix"
+    }, {
+      "title": "UltraDrawerView",
+      "category": "ui",
+      "description": "Lightweight, fast and customizable Drawer View implementation identical to Apple Maps, Stocks and etc.",
+      "homepage": "https://github.com/super-ultra/UltraDrawerView"
     }, {
       "title": "UIDeviceComplete",
       "category": "device",
@@ -5415,7 +5441,7 @@
       "title": "CoreXLSX",
       "category": "other-data",
       "description": "Excel spreadsheet (XLSX) format support.",
-      "homepage": "https://github.com/MaxDesiatov/CoreXLSX"
+      "homepage": "https://github.com/CoreOffice/CoreXLSX"
     }, {
       "title": "XMLCoder",
       "category": "xml",
@@ -5479,7 +5505,7 @@
       "title": "Tokamak",
       "category": "events",
       "description": "React-like declarative API for building native UI components with easy to use one-way data binding.",
-      "homepage": "https://github.com/MaxDesiatov/Tokamak",
+      "homepage": "https://github.com/swiftwasm/Tokamak",
       "tags": ["react", "redux"]
     }, {
       "title": "VEditorKit",
@@ -5858,6 +5884,51 @@
       "description": "Library for educating users about features in app.",
       "homepage": "https://github.com/huemae/SuggestionsKit",
       "tags": ["suggestions", "instructions", "hint", "guide"]
+    }, {
+      "title": "CHIOTPField",
+      "category": "textfield",
+      "description": "A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.",
+      "homepage": "https://github.com/ChiliLabs/CHIOTPField"
+    }, {
+      "title": "AnimatedCardInput",
+      "category": "payment",
+      "description": "Customisable and easy to use Credit Card UI.",
+      "homepage": "https://github.com/netguru/AnimatedCardInput"
+    }, {
+      "title": "StateViewController",
+      "category": "patterns",
+      "description": "Stateful UIVIewController composition — the MVC cure for Massive View Controllers.",
+      "homepage": "https://github.com/davidask/StateViewController"
+    }, {
+      "title": "KeyboardShortcuts",
+      "category": "keyboard",
+      "description": "Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.",
+      "homepage": "https://github.com/sindresorhus/KeyboardShortcuts",
+      "tags": ["swiftui", "swift-package-manager", "swift-library", "macos", "hotkey", "shortcut"]
+    }, {
+      "title": "Grid",
+      "category": "layout",
+      "description": "The most powerful Grid container missed in SwiftUI.",
+      "homepage": "https://github.com/exyte/Grid",
+      "tags": ["swiftui", "swift-library", "grid-container"]
+    }, {
+      "title": "Mocker",
+      "category": "mock",
+      "description": "Mock Alamofire and URLSession requests without touching your code implementation",
+      "homepage": "https://github.com/WeTransfer/Mocker",
+      "tags": ["alamofire", "urlsession", "mock"]
+    }, {
+      "title": "ContainerController",
+      "category": "ui",
+      "description": "UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks",
+      "homepage": "https://github.com/mrustaa/ContainerController",
+      "tags": ["swift", "maps", "swipe", "panel", "collection", "tableview", "scrollview", "view", "recognizer", "gesture", "pan"]
+    }, {
+      "title": "HorizonCalendar",
+      "category": "calendar",
+      "description": "A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.",
+      "homepage": "https://github.com/airbnb/HorizonCalendar",
+      "tags": ["calendar", "airbnb", "declerative"]
     }
   ]
 }

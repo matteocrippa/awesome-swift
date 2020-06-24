@@ -5852,6 +5852,11 @@
       "description": "Toasts and popups library written with SwiftUI.",
       "homepage": "https://github.com/exyte/PopupView",
       "tags": ["swiftui", "swift-package-manager", "swift-library"]
+    }, {
+      "title": "SuggestionsKit",
+      "category": "walkthrough",
+      "description": "Library for educating users about features in app.",
+      "homepage": "https://github.com/huemae/SuggestionsKit"
     }
   ]
 }

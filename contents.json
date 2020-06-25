@@ -5923,6 +5923,12 @@
       "description": "A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.",
       "homepage": "https://github.com/airbnb/HorizonCalendar",
       "tags": ["calendar", "airbnb", "declerative"]
+    }, {
+      "title": "SuggestionsKit",
+      "category": "walkthrough",
+      "description": "Library for educating users about features in app.",
+      "homepage": "https://github.com/huemae/SuggestionsKit",
+      "tags": ["suggestions", "instructions", "hint", "guide"]
     }
   ]
 }

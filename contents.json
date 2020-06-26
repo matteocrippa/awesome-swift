@@ -5929,6 +5929,12 @@
       "description": "Library for educating users about features in app.",
       "homepage": "https://github.com/huemae/SuggestionsKit",
       "tags": ["suggestions", "instructions", "hint", "guide"]
+    }, {
+        "title": "ElegantCalendar",
+        "category": "calendar",
+        "description": "The elegant full screen calendar missed in SwiftUI.",
+        "homepage": "https://github.com/ThasianX/ElegantCalendar",
+        "tags": ["elegantcalendar", "calendar", "declarative", "swiftui"]
     }
   ]
 }

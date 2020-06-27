@@ -5935,6 +5935,12 @@
         "description": "The elegant full screen calendar missed in SwiftUI.",
         "homepage": "https://github.com/ThasianX/ElegantCalendar",
         "tags": ["elegantcalendar", "calendar", "declarative", "swiftui"]
+    }, {
+        "title": "Atributika",
+        "category": "label",
+        "description": "TConvert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.",
+        "homepage": "https://github.com/psharanda/Atributika",
+        "tags": ["html", "attributedstring", "link", "tag", "hashtag", "clickable"]
     }
   ]
 }

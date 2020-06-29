@@ -1602,7 +1602,7 @@
       "title": "OpenCombine",
       "category": "events",
       "description": "Open source implementation of Apple's Combine framework for processing values over time.",
-      "homepage": "https://github.com/broadwaylamb/OpenCombine"
+      "homepage": "https://github.com/OpenCombine/OpenCombine"
     }, {
       "title": "Bond",
       "category": "events",

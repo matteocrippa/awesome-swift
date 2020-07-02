@@ -5935,6 +5935,11 @@
         "description": "TConvert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.",
         "homepage": "https://github.com/psharanda/Atributika",
         "tags": ["html", "attributedstring", "link", "tag", "hashtag", "clickable"]
+    }, {
+      "title": "Mockingbird",
+      "category": "mock",
+      "description": "Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.",
+      "homepage": "https://github.com/Farfetch/mockingbird"
     }
   ]
 }

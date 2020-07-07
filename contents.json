@@ -5945,6 +5945,11 @@
       "category": "camera",
       "description": "Easily take a photo or video or choose from library.",
       "homepage": "https://github.com/fulldecent/FDTake"
+    }, {
+      "title": "FDChessboardView",
+      "category": "games",
+      "description": "A view controller for chess boards",
+      "homepage": "https://github.com/fulldecent/FDChessboardView"
     }
   ]
 }

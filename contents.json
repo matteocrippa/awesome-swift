@@ -5945,6 +5945,11 @@
       "category": "camera",
       "description": "Easily take a photo or video or choose from library.",
       "homepage": "https://github.com/fulldecent/FDTake"
+    }, {
+      "title": "Swift Module Template",
+      "category": "boilerplates",
+      "description": "Use this template as a starting point for any Swift 5 module that you want other people to include in their projects.",
+      "homepage": "https://github.com/fulldecent/swift5-module-template"
     }
   ]
 }

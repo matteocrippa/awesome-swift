@@ -5945,6 +5945,11 @@
       "category": "camera",
       "description": "Easily take a photo or video or choose from library.",
       "homepage": "https://github.com/fulldecent/FDTake"
+    }, {
+      "title": "FDSoundActivatedRecorder",
+      "category": "audio",
+      "description": "Start recording when the user speaks.",
+      "homepage": "https://github.com/fulldecent/FDSoundActivatedRecorder"
     }
   ]
 }

@@ -5941,6 +5941,11 @@
       "description": "Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.",
       "homepage": "https://github.com/Farfetch/mockingbird"
     }, {
+      "title": "FDTextFieldTableViewCell",
+      "category": "uitableview",
+      "description": "Adds a UITextField to the cell and places it correctly.",
+      "homepage": "https://github.com/fulldecent/FDTextFieldTableViewCell"
+    }, {
       "title": "FDWaveformView",
       "category": "audio",
       "description": "An easy way to display an audio waveform in your app.",

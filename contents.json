@@ -5956,6 +5956,11 @@
       "description": "Easily take a photo or video or choose from library.",
       "homepage": "https://github.com/fulldecent/FDTake"
     }, {
+      "title": "FDBarGauge",
+      "category": "form",
+      "description": "Simulate the level indicator on an audio mixing board",
+      "homepage": "https://github.com/fulldecent/FDBarGauge"
+    }, {
       "title": "FDChessboardView",
       "category": "games",
       "description": "A view controller for chess boards",

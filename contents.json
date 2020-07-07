@@ -5941,6 +5941,16 @@
       "description": "Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.",
       "homepage": "https://github.com/Farfetch/mockingbird"
     }, {
+      "title": "FDTextFieldTableViewCell",
+      "category": "uitableview",
+      "description": "Adds a UITextField to the cell and places it correctly.",
+      "homepage": "https://github.com/fulldecent/FDTextFieldTableViewCell"
+    }, {
+      "title": "FDWaveformView",
+      "category": "audio",
+      "description": "An easy way to display an audio waveform in your app.",
+      "homepage": "https://github.com/fulldecent/FDWaveformView"
+    }, {
       "title": "FDTake",
       "category": "camera",
       "description": "Easily take a photo or video or choose from library.",
@@ -5950,6 +5960,16 @@
       "category": "audio",
       "description": "Start recording when the user speaks.",
       "homepage": "https://github.com/fulldecent/FDSoundActivatedRecorder"
+    }, {
+      "title": "FDBarGauge",
+      "category": "form",
+      "description": "Simulate the level indicator on an audio mixing board",
+      "homepage": "https://github.com/fulldecent/FDBarGauge"
+    }, {
+      "title": "FDChessboardView",
+      "category": "games",
+      "description": "A view controller for chess boards",
+      "homepage": "https://github.com/fulldecent/FDChessboardView"
     }
   ]
 }

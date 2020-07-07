@@ -5945,6 +5945,16 @@
       "category": "uitableview",
       "description": "Adds a UITextField to the cell and places it correctly.",
       "homepage": "https://github.com/fulldecent/FDTextFieldTableViewCell"
+    }, {
+      "title": "FDWaveformView",
+      "category": "audio",
+      "description": "An easy way to display an audio waveform in your app.",
+      "homepage": "https://github.com/fulldecent/FDWaveformView"
+    }, {
+      "title": "FDTake",
+      "category": "camera",
+      "description": "Easily take a photo or video or choose from library.",
+      "homepage": "https://github.com/fulldecent/FDTake"
     }
   ]
 }

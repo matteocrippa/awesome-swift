@@ -419,6 +419,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SwiftChart](https://github.com/gpbl/SwiftChart) - A simple line and area charting library for iOS. Supports multiple series, partially filled series and touch events.
 * [SwiftCharts](https://github.com/i-schuetz/SwiftCharts) - Highly customizable charts for iOS.
 * [TKRadarChart](https://github.com/TBXark/TKRadarChart) - A customizable radar chart.
+* [ChartView](https://github.com/AppPear/ChartView) - Swift package for displaying beautiful charts effortlessly
 
 ### Chat
 *Libs to get access to build chat app* [back to top](#readme) 

@@ -2756,7 +2756,7 @@
       "description": "Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).",
       "homepage": "https://github.com/danielgindi/Charts"
     }, {
-        "title:": "ChartView",
+        "title": "ChartView",
         "category": "chart",
         "description": "Swift package for displaying beautiful charts effortlessly",
         "homepage": "https://github.com/AppPear/ChartView"    

@@ -5975,6 +5975,11 @@
       "category": "games",
       "description": "A view controller for chess boards",
       "homepage": "https://github.com/fulldecent/FDChessboardView"
+    }, {
+      "title": "Streamoji",
+      "category": "ui",
+      "description": "Custom emoji rendering library with support for GIFs and images, UITextView extension.",
+      "homepage": "https://github.com/GetStream/Streamoji"
     }
   ]
 }

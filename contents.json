@@ -5976,7 +5976,7 @@
       "description": "A view controller for chess boards",
       "homepage": "https://github.com/fulldecent/FDChessboardView"
     }, {
-      "title": "* SwiftyListKit,
+      "title": "SwiftyListKit",
       "category": "uitableview",
       "description": "Powerful framework for building flexible, reusable and fast lists with a declarative approach.",
       "homepage": "https://github.com/aleksandrshoshiashvili/SwiftyListKit"

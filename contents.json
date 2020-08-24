@@ -5980,6 +5980,11 @@
       "category": "ui",
       "description": "Custom emoji rendering library with support for GIFs and images, UITextView extension.",
       "homepage": "https://github.com/GetStream/Streamoji"
+    }, {
+      "title": "BetterSafariView",
+      "category": "utility",
+      "description": "A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.",
+      "homepage": "https://github.com/stleamist/BetterSafariView"
     }
   ]
 }

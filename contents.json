@@ -5992,7 +5992,7 @@
     }, {
       "title": "SociableWeaver",
       "category": "graphql",
-      "description": "Build declarative GraphQL queries.",
+      "description": "Build declarative GraphQL queries and mutations.",
       "homepage": "https://github.com/NicholasBellucci/SociableWeaver"
     }
   ]

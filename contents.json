@@ -5992,7 +5992,7 @@
     }, {
       "title": "SociableWeaver",
       "category": "data-management",
-      "description": "Build declarative GraphQL queries in Swift.",
+      "description": "Build declarative GraphQL queries.",
       "homepage": "https://github.com/NicholasBellucci/SociableWeaver"
     }
   ]

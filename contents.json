@@ -5982,7 +5982,7 @@
       "homepage": "https://github.com/GetStream/Streamoji"
     }, {
       "title": "BetterSafariView",
-      "category": "utility",
+      "category": "ui",
       "description": "A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.",
       "homepage": "https://github.com/stleamist/BetterSafariView"
     }

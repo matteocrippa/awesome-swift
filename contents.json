@@ -5991,7 +5991,7 @@
       "homepage": "https://github.com/stleamist/BetterSafariView"
     }, {
       "title": "SociableWeaver",
-      "category": "data-management",
+      "category": "graphql",
       "description": "Build declarative GraphQL queries.",
       "homepage": "https://github.com/NicholasBellucci/SociableWeaver"
     }

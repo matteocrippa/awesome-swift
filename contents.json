@@ -218,6 +218,10 @@
     "id": "files",
     "parent": "libs"
   }, {
+    "title": "GraphQL",
+    "id": "graphql",
+    "parent": "data-management"
+  }, {
     "title": "JSON",
     "id": "json",
     "parent": "data-management",
@@ -5985,6 +5989,11 @@
       "category": "ui",
       "description": "A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.",
       "homepage": "https://github.com/stleamist/BetterSafariView"
+    }, {
+      "title": "SociableWeaver",
+      "category": "data-management",
+      "description": "Build declarative GraphQL queries in Swift.",
+      "homepage": "https://github.com/NicholasBellucci/SociableWeaver"
     }
   ]
 }

@@ -628,7 +628,7 @@
       "title": "Apple eBook",
       "category": "official-guides",
       "description": "Official Apple eBook for Swift beginners.",
-      "homepage": "https://books.apple.com/us/book/swift-programming-language/id881256329"
+      "homepage": "https://books.apple.com/us/book/the-swift-programming-language-swift-5-2/id881256329"
     }, {
       "title": "API Design Guidelines",
       "category": "official-guides",
@@ -1750,7 +1750,7 @@
     }, {
       "title": "SwiftUI-FontIcon",
       "category": "fonts",
-      "description": "Font icons for SwiftUI: font awesome, ionicons, material icons",
+      "description": "Font icons for SwiftUI: font awesome, ionicons, material icons.",
       "homepage": "https://github.com/huybuidac/SwiftUIFontIcon"
     }, {
       "title": "Sage",
@@ -5513,7 +5513,7 @@
       "title": "Tokamak",
       "category": "events",
       "description": "React-like declarative API for building native UI components with easy to use one-way data binding.",
-      "homepage": "https://github.com/swiftwasm/Tokamak",
+      "homepage": "https://github.com/TokamakUI/Tokamak",
       "tags": ["react", "redux"]
     }, {
       "title": "VEditorKit",

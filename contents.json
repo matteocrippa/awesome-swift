@@ -1748,6 +1748,11 @@
       "description": "All the SFSymbols at your fingertips.",
       "homepage": "https://github.com/Nirma/SFSymbol"
     }, {
+      "title": "SwiftUI-FontIcon",
+      "category": "fonts",
+      "description": "Font icons for SwiftUI: font awesome, ionicons, material icons",
+      "homepage": "https://github.com/huybuidac/SwiftUIFontIcon"
+    }, {
       "title": "Sage",
       "category": "games",
       "description": "A cross-platform chess library.",

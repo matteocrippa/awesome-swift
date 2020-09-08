@@ -602,6 +602,10 @@
   }, {
     "title": "Serverless",
     "id": "serverless"
+  }, {
+    "title": "GraphQL",
+    "id": "graphql",
+    "parent": "data-management"
   }],
   "projects": [
     {
@@ -5985,6 +5989,11 @@
       "category": "ui",
       "description": "A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.",
       "homepage": "https://github.com/stleamist/BetterSafariView"
+    }, {
+      "title": "SociableWeaver",
+      "category": "graphql",
+      "description": "Build declarative GraphQL queries and mutations.",
+      "homepage": "https://github.com/NicholasBellucci/SociableWeaver"
     }
   ]
 }

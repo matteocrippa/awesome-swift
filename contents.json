@@ -1889,6 +1889,12 @@
       "description": "A beautiful and flexible text field control implementation of \"Float Label Pattern\".",
       "homepage": "https://github.com/Skyscanner/SkyFloatingLabelTextField"
     }, {
+      "title": "FloatingLabelTextFieldSwiftUI",
+      "category": "textfield",
+      "description": "FloatingLabelTextFieldSwiftUI is a small and lightweight SwiftUI framework written in completely SwiftUI (not using UIViewRepresentable) that allows to create beautiful and customisable floating label textfield!",
+      "tags": ["floatinglabeltextfield", "swiftui", "textfield", "floatinglabeltextfieldswiftui"],
+      "homepage": "https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI"
+    }, {
       "title": "SwiftGen-Assets",
       "category": "images",
       "description": "A tool to auto-generate `enums` for all your `UIImages` from your Assets Catalogs.",

@@ -6005,6 +6005,12 @@
       "category": "graphql",
       "description": "Build declarative GraphQL queries and mutations.",
       "homepage": "https://github.com/NicholasBellucci/SociableWeaver"
+    }, {
+      "title": "Fugen",
+      "category": "misc",
+      "description": "A command line tool for exporting resources and generating code from your Figma files.",
+      "homepage": "https://github.com/almazrafi/Fugen",
+      "tags": ["figma", "figma-export", "design-tokens", "design-systems", "xcode-assets", "codegenerator"]
     }
   ]
 }

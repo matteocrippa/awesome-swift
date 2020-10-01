@@ -628,7 +628,7 @@
       "title": "Apple eBook",
       "category": "official-guides",
       "description": "Official Apple eBook for Swift beginners.",
-      "homepage": "https://books.apple.com/us/book/the-swift-programming-language-swift-5-2/id881256329"
+      "homepage": "https://books.apple.com/us/book/the-swift-programming-language-swift-5-3/id881256329"
     }, {
       "title": "API Design Guidelines",
       "category": "official-guides",
@@ -2095,7 +2095,7 @@
       "title": "HeliumLogger",
       "category": "logging",
       "description": "IBM's lightweight logging framework.",
-      "homepage": "https://github.com/IBM-Swift/HeliumLogger",
+      "homepage": "https://github.com/Kitura/HeliumLogger",
       "tags": ["linux"]
     }, {
       "title": "Puree",
@@ -2338,12 +2338,12 @@
       "title": "BlueSocket",
       "category": "socket",
       "description": "IBM's cross platform low level socket framework.",
-      "homepage": "https://github.com/IBM-Swift/BlueSocket"
+      "homepage": "https://github.com/Kitura/BlueSocket "
     }, {
       "title": "BlueSSLService",
       "category": "socket",
       "description": "SSL/TLS add-in for IBM's low level socket framework.",
-      "homepage": "https://github.com/IBM-Swift/BlueSSLService"
+      "homepage": "https://github.com/Kitura/BlueSSLService"
     }, {
       "title": "Socket.IO",
       "category": "socket",
@@ -2409,7 +2409,7 @@
       "title": "Kitura",
       "category": "webserver",
       "description": "IBM's web framework and server for web services.",
-      "homepage": "https://github.com/IBM-Swift/Kitura",
+      "homepage": "https://github.com/Kitura/Kitura",
       "tags": ["linux"]
     }, {
       "title": "Noze.io",
@@ -2445,7 +2445,7 @@
       "title": "SwiftOCR",
       "category": "ocr",
       "description": "Neural Network based OCR lib.",
-      "homepage": "https://github.com/garnele007/SwiftOCR"
+      "homepage": "https://github.com/NMAC427/SwiftOCR"
     }, {
       "title": "SwiftLint",
       "category": "quality",
@@ -2471,12 +2471,12 @@
       "title": "BlueCryptor",
       "category": "cryptography",
       "description": "IBM's Cross Platform Crypto library.",
-      "homepage": "https://github.com/IBM-Swift/BlueCryptor"
+      "homepage": "https://github.com/Kitura/BlueCryptor"
     }, {
       "title": "BlueRSA",
       "category": "cryptography",
       "description": "IBM's Cross Platform RSA Crypto library.",
-      "homepage": "https://github.com/IBM-Swift/BlueRSA"
+      "homepage": "https://github.com/Kitura/BlueRSA"
     }, {
       "title": "CryptoSwift",
       "category": "cryptography",
@@ -2542,7 +2542,7 @@
       "title": "BlueSignals",
       "category": "system",
       "description": "IBM's Cross Platform OS signal handling library.",
-      "homepage": "https://github.com/IBM-Swift/BlueSignals"
+      "homepage": "https://github.com/Kitura/BlueSignals"
     }, {
       "title": "SystemKit",
       "category": "system",

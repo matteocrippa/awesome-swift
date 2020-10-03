@@ -6011,6 +6011,12 @@
       "description": "A command line tool for exporting resources and generating code from your Figma files.",
       "homepage": "https://github.com/almazrafi/Fugen",
       "tags": ["figma", "figma-export", "design-tokens", "design-systems", "xcode-assets", "codegenerator"]
+    }, {
+      "title": "Netswift",
+      "category": "network",
+      "description": "A type-safe, high-level networking solution.",
+      "homepage": "https://github.com/MrSkwiggs/Netswift",
+      "tags": ["swift", "declarative", "protocols", "structured", "urlsession"]
     }
   ]
 }

@@ -6014,7 +6014,7 @@
     }, {
       "title": "Netswift",
       "category": "network",
-      "description": "A type-safe, high-level networking solution for Swift apps",
+      "description": "A type-safe, high-level networking solution.",
       "homepage": "https://github.com/MrSkwiggs/Netswift",
       "tags": ["swift", "declarative", "protocols", "structured", "urlsession"]
     }

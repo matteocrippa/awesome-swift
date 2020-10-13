@@ -6018,5 +6018,11 @@
       "homepage": "https://github.com/MrSkwiggs/Netswift",
       "tags": ["swift", "declarative", "protocols", "structured", "urlsession"]
     }
+    , {
+      "title": "Tactile",
+      "category": "gesture",
+      "description": "A safer and more idiomatic way to respond to gestures and control events.",
+      "homepage": "https://github.com/delba/Tactile"
+    }
   ]
 }

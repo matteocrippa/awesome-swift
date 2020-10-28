@@ -6031,5 +6031,12 @@
       "homepage": "https://github.com/y-okudera/NeumorphismKit",
       "tags": ["neumorphism", "uicomponents", "swift", "ios", "storyboard"]
     }
+    , {
+      "title": "MonarchRouter",
+      "category": "app-routing",
+      "description": "Declarative state- and URL-based router. Complex automatic View Controllers hierarchy transitions. Time-tested server-side conventions.",
+      "homepage": "https://github.com/nikans/MonarchRouter",
+      "tags": ["routing", "router", "swift", "ios", "declarative", "state-based", "url", "redux", "reactive"]
+    }
   ]
 }

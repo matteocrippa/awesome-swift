@@ -4176,11 +4176,11 @@
       "homepage": "https://github.com/ChiliLabs/CHIPageControl",
       "tags": ["iOS", "swift", "pagination", "animation", "pagecontrol", "UIPageControl"]
     }, {
-      "title": "iPages",
-      "category": "pagination",
-      "description": "Quickly implement swipable page views in SwiftUI 📝.",
-      "homepage": "https://github.com/benjaminsage/iPages",
-      "tags": ["iOS", "swift", "pagination", "swiftui", "pagecontrol", "UIPageControl", "UIPageViewController"]
+      "title": "iPhoneNumberField",
+      "category": "textfield",
+      "description": "Format phone numbers as they're typed—entirely in SwiftUI 📱.",
+      "homepage": "https://github.com/MojtabaHs/iPhoneNumberField",
+      "tags": ["iOS", "swift", "phonenumber", "swiftui", "phone", "textfield", "UITextField"]
     }, {
       "title": "ReverseExtension",
       "category": "uitableview",

@@ -4176,11 +4176,11 @@
       "homepage": "https://github.com/ChiliLabs/CHIPageControl",
       "tags": ["iOS", "swift", "pagination", "animation", "pagecontrol", "UIPageControl"]
     }, {
-      "title": "iPhoneNumberField",
+      "title": "iTextField ⌨️",
       "category": "textfield",
-      "description": "Format phone numbers as they're typed—entirely in SwiftUI 📱.",
-      "homepage": "https://github.com/MojtabaHs/iPhoneNumberField",
-      "tags": ["iOS", "swift", "phonenumber", "swiftui", "phone", "textfield", "UITextField"]
+      "description": "A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.",
+      "homepage": "https://github.com/benjaminsage/iTextField",
+      "tags": ["iOS", "swift", "swiftui", "textfield", "UITextField", "viewmodifiers"]
     }, {
       "title": "ReverseExtension",
       "category": "uitableview",

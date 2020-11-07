@@ -4176,6 +4176,12 @@
       "homepage": "https://github.com/ChiliLabs/CHIPageControl",
       "tags": ["iOS", "swift", "pagination", "animation", "pagecontrol", "UIPageControl"]
     }, {
+      "title": "iPages",
+      "category": "pagination",
+      "description": "Quickly implement swipable page views in SwiftUI 📝.",
+      "homepage": "https://github.com/benjaminsage/iPages",
+      "tags": ["iOS", "swift", "pagination", "swiftui", "pagecontrol", "UIPageControl", "UIPageViewController"]
+    }, {
       "title": "ReverseExtension",
       "category": "uitableview",
       "description": "UITableView extension that enables the insertion of cells the from bottom of a table view.",
@@ -6037,6 +6043,9 @@
       "description": "Declarative state- and URL-based router. Complex automatic View Controllers hierarchy transitions. Time-tested server-side conventions.",
       "homepage": "https://github.com/nikans/MonarchRouter",
       "tags": ["routing", "router", "swift", "ios", "declarative", "state-based", "url", "redux", "reactive"]
+    }
+    , {
+      "title": ""
     }
   ]
 }

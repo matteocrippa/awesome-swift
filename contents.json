@@ -4176,6 +4176,12 @@
       "homepage": "https://github.com/ChiliLabs/CHIPageControl",
       "tags": ["iOS", "swift", "pagination", "animation", "pagecontrol", "UIPageControl"]
     }, {
+      "title": "iTextField ⌨️",
+      "category": "textfield",
+      "description": "A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.",
+      "homepage": "https://github.com/benjaminsage/iTextField",
+      "tags": ["iOS", "swift", "swiftui", "textfield", "UITextField", "viewmodifiers"]
+    }, {
       "title": "ReverseExtension",
       "category": "uitableview",
       "description": "UITableView extension that enables the insertion of cells the from bottom of a table view.",

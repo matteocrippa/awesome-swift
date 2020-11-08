@@ -6044,8 +6044,5 @@
       "homepage": "https://github.com/nikans/MonarchRouter",
       "tags": ["routing", "router", "swift", "ios", "declarative", "state-based", "url", "redux", "reactive"]
     }
-    , {
-      "title": ""
-    }
   ]
 }

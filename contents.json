@@ -4180,7 +4180,13 @@
       "category": "textfield",
       "description": "A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.",
       "homepage": "https://github.com/benjaminsage/iTextField",
-      "tags": ["iOS", "swift", "swiftui", "textfield", "UITextField", "viewmodifiers"]
+      "tags": ["iOS", "swift", "swiftui", "textfield", "UITextField", "viewmodifiers"]    
+    }, {
+      "title": "iPages",
+      "category": "pagination",
+      "description": "Quickly implement swipable page views in SwiftUI 📝.",
+      "homepage": "https://github.com/benjaminsage/iPages",
+      "tags": ["iOS", "swift", "pagination", "swiftui", "pagecontrol", "UIPageControl", "UIPageViewController"]
     }, {
       "title": "ReverseExtension",
       "category": "uitableview",

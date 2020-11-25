@@ -996,6 +996,12 @@
       "description": "Instagram API wrapper.",
       "homepage": "https://github.com/AnderGoig/SwiftInstagram"
     }, {
+      "title": "Swiftkube",
+      "category": "api",
+      "description": "Swift client for Kubernetes.",
+      "homepage": "https://github.com/swiftkube/client",
+      "tags": ["linux", "macos", "kubernetes", "cloud"]
+    }, {
       "title": "SwiftyInsta",
       "category": "api",
       "description": "Private and Tokenless Instagram RESTful API.",

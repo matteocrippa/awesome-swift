@@ -396,6 +396,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [LoginKit](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
 * [ReCaptcha](https://github.com/fjcaetano/ReCaptcha) - [In]visible ReCaptcha for iOS.
 * [SpotifyLogin](https://github.com/spotify/SpotifyLogin) - Authenticate with the Spotify API.
+* [SimpleOAuth2](https://github.com/hadiidbouk/SimpleOAuth2) - A simple implementation of OAuth2 in Swift using Combine and AuthenticationServices (macOS and iOS).
 
 ### Bots
 *Libs to build bot* [back to top](#readme) 

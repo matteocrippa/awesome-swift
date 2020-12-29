@@ -5775,9 +5775,9 @@
     }, {
   		"title": "TermiNetwork",
   		"category": "network",
-  		"description": "A networking abstraction layer in Swift designed to work with Codables.",
+  		"description": "🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.",
   		"homepage": "https://github.com/billp/TermiNetwork"
-    }, { 
+    }, {
       "title": "SwiftCop",
       "category": "quality",
       "description": "A validation library which inspired by the clarity of Ruby On Rails Active Record validations.",

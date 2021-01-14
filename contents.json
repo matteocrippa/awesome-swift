@@ -6056,5 +6056,12 @@
       "homepage": "https://github.com/nikans/MonarchRouter",
       "tags": ["routing", "router", "swift", "ios", "declarative", "state-based", "url", "redux", "reactive"]
     }
+    , {
+    	"title": "CardNavigation",
+    	"category": "cards",
+    	"description": "A navigation controller that displays its view controllers as an interactive stack of cards.",
+    	"homepage": "https://github.com/james01/CardNavigation",
+    	"tags": ["navigation", "interactive", "cards", "uikit", "transition", "interruptible"]
+    }
   ]
 }

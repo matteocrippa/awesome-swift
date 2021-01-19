@@ -4799,7 +4799,7 @@
       "title": "Sukari",
       "category": "Syntactic Sugar",
       "description": "Sweet Syntactic Sugar.",
-      "homepage": "https://github.com/chriskarani/Sukari"
+      "homepage": "https://github.com/Johnny-MadDog/Sukari"
     }, {
       "title": "Shiny",
       "category": "ui",
@@ -5596,13 +5596,13 @@
       "title": "SPStorkController",
       "category": "transition",
       "description": "Now playing controller from Apple Music. Customisable height.",
-      "homepage": "https://github.com/IvanVorobei/SPStorkController",
+      "homepage": "https://github.com/varabeis/SPStorkController",
       "tags": ["swift", "animation", "UI", "transition", "apple music"]
     }, {
       "title": "SPLarkController",
       "category": "transition",
       "description": "Custom transition between two controller. Translate to top.",
-      "homepage": "https://github.com/IvanVorobei/SPLarkController",
+      "homepage": "https://github.com/varabeis/SPLarkController",
       "tags": ["swift", "animation", "UI", "transition"]
     }, {
       "title": "Unrealm",

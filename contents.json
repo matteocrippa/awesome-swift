@@ -6062,6 +6062,12 @@
     	"description": "A navigation controller that displays its view controllers as an interactive stack of cards.",
     	"homepage": "https://github.com/james01/CardNavigation",
     	"tags": ["navigation", "interactive", "cards", "uikit", "transition", "interruptible"]
+    },
+    {
+      "title": "Swift Argument Parser",
+      "category": "command-line",
+      "description": "Straightforward, type-safe argument parsing for Swift.",
+      "homepage": "https://github.com/apple/swift-argument-parser"
     }
   ]
 }

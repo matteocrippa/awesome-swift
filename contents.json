@@ -6068,6 +6068,12 @@
       "category": "command-line",
       "description": "Straightforward, type-safe argument parsing for Swift.",
       "homepage": "https://github.com/apple/swift-argument-parser"
+    }, {
+      "title": "Puppy",
+      "category": "logging",
+      "description": "A flexible logging library that supports multiple transports and platforms.",
+      "homepage": "https://github.com/sushichop/Puppy",
+      "tags": ["swift", "linux", "macos", "ios", "tvos", "watchos"]
     }
   ]
 }

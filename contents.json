@@ -5579,6 +5579,11 @@
       "description": "An iOS library to natively render After Effects vector animations.",
       "homepage": "https://github.com/airbnb/lottie-ios",
       "tags": ["swift", "animation"]
+    }, {
+      "title": "TwitterTextEditor",
+      "category": "text",
+      "description": "A standalone, flexible API that provides a full featured rich text editor for iOS applications.",
+      "homepage": "https://github.com/twitter/TwitterTextEditor"
     }
   ]
 }

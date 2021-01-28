@@ -6074,6 +6074,11 @@
       "description": "A flexible logging library that supports multiple transports and platforms.",
       "homepage": "https://github.com/sushichop/Puppy",
       "tags": ["swift", "linux", "macos", "ios", "tvos", "watchos"]
+    }, {
+      "title": "TwitterTextEditor",
+      "category": "text",
+      "description": "A standalone, flexible API that provides a full featured rich text editor for iOS applications.",
+      "homepage": "https://github.com/twitter/TwitterTextEditor"
     }
   ]
 }

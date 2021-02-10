@@ -6079,6 +6079,11 @@
       "category": "text",
       "description": "A standalone, flexible API that provides a full featured rich text editor for iOS applications.",
       "homepage": "https://github.com/twitter/TwitterTextEditor"
-    }
+    }, {
+	  "title": "SwiftPlantUML",
+	  "category": "utility",
+	  "description": "A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.",
+	  "homepage": "https://github.com/MarcoEidinger/SwiftPlantUML"
+	}
   ]
 }

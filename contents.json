@@ -3985,7 +3985,7 @@
       "title": "Wallet",
       "category": "ui",
       "description": "A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.",
-      "homepage": "https://github.com/rshevchuk/Wallet"
+      "homepage": "https://github.com/russ-stamant/Wallet"
     }, {
       "title": "SwiftlySalesforce",
       "category": "api",
@@ -4507,7 +4507,7 @@
       "title": "LayoutKit",
       "category": "layout",
       "description": "LayoutKit is a fast view layout library for iOS, macOS, and tvOS.",
-      "homepage": "https://github.com/linkedin/LayoutKit"
+      "homepage": "https://github.com/LinkedInAttic/LayoutKit"
     }, {
       "title": "TransitionButton",
       "category": "button",
@@ -5614,7 +5614,7 @@
       "title": "SPAlert",
       "category": "alert",
       "description": "Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.",
-      "homepage": "https://github.com/ivanvorobei/SPAlert",
+      "homepage": "https://github.com/varabeis/SPAlert",
       "tags": ["swift", "UI"]
     }, {
       "title": "LightweightObservable",

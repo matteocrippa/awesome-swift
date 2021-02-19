@@ -4062,6 +4062,13 @@
       "description": "A DSL for generating code in multiple programming languages.",
       "tags": ["extensions", "ios", "macos", "linux", "swift"]
     }, {
+      "title": "SimpleLocalize CLI",
+      "category": "localization",
+      "description": "Open source tool for finding i18n keys in Swift projects. It helps in managing translation messages in Localizable.strings.",
+      "homepage": "https://github.com/simplelocalize/simplelocalize-cli",
+      "tags": ["extensions", "ios", "macos", "swift"]
+    },
+	  {
       "title": "LocalizationKit",
       "category": "localization",
       "description": "Realtime dynamic localization of your app with remote management so you can manage maintain and deploy translations without resubmitting app.",

@@ -1201,6 +1201,12 @@
       "homepage": "https://github.com/Zewo/Venice",
       "tags": ["linux"]
     }, {
+      "title": "Throttler",
+      "category": "concurrency",
+      "description": "Throttle massive number of asynchronous inputs in a single drop of one line API.",
+      "homepage": "https://github.com/boraseoksoon/Throttler",
+      "tags": ["ios", "macos", "tvos", "watchos", "swift"]
+    }, {
       "title": "Futures",
       "category": "concurrency",
       "description": "Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side.",

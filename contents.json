@@ -2886,7 +2886,7 @@
       "title": "PPAssetsActionController",
       "category": "ui",
       "description": "Highly customizable Action Sheet Controller with assets preview.",
-      "homepage": "https://github.com/pantuspavel/PPAssetsActionController",
+      "homepage": "https://github.com/pavelpantus/PPAssetsActionController",
       "tags": ["macOS", "UICollectionView", "photos", "assets"]
     }, {
       "title": "YNSearch",

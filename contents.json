@@ -5608,7 +5608,7 @@
       "title": "SPLarkController",
       "category": "transition",
       "description": "Custom transition between two controller. Translate to top.",
-      "homepage": "https://github.com/varabeis/SPLarkController",
+      "homepage": "https://github.com/ivanvorobei/SPLarkController",
       "tags": ["swift", "animation", "UI", "transition"]
     }, {
       "title": "Unrealm",
@@ -5620,7 +5620,7 @@
       "title": "SPAlert",
       "category": "alert",
       "description": "Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.",
-      "homepage": "https://github.com/varabeis/SPAlert",
+      "homepage": "https://github.com/ivanvorobei/SPAlert",
       "tags": ["swift", "UI"]
     }, {
       "title": "LightweightObservable",

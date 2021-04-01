@@ -3304,6 +3304,11 @@
       "description": "A powerful UIButton with super powers, customizable from Storyboard.",
       "homepage": "https://github.com/pmusolino/PMSuperButton"
     }, {
+      "title": "IGStoryButtonKit",
+      "category": "button",
+      "description": "Easy-to-use button with rich animation inspired by instagram stories.",
+      "homepage": "https://github.com/KaoruMuta/IGStoryButtonKit"
+    }, {
       "title": "Eureka",
       "category": "form",
       "description": "Elegant iOS form builder.",

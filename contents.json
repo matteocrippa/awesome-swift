@@ -750,11 +750,6 @@
       "description": "Design Patterns.",
       "homepage": "https://github.com/ochococo/Design-Patterns-In-Swift"
     }, {
-      "title": "swift-compiler-crashes",
-      "category": "misc",
-      "description": "A collection of test cases crashing the compiler.",
-      "homepage": "https://github.com/practicalswift/swift-compiler-crashes"
-    }, {
       "title": "Swiftbrew",
       "category": "misc",
       "description": "Homebrew for Swift packages.",
@@ -2221,7 +2216,7 @@
       "title": "CodyFire",
       "category": "network",
       "description": "Powerful Codable API requests builder and manager for iOS. Based on Alamofire.",
-      "homepage": "https://github.com/MihaelIsaev/CodyFire"
+      "homepage": "https://github.com/CodyFlame/CodyFire"
     }, {
       "title": "Connectivity",
       "category": "network",
@@ -4366,7 +4361,7 @@
       "title": "Swift Weekly Brief",
       "category": "newsletter",
       "description": "A multi author curated newsletter.",
-      "homepage": "https://swiftweekly.github.io"
+      "homepage": "https://swiftweeklybrief.com/"
     }, {
       "title": "MarkdownView",
       "category": "text",
@@ -5379,10 +5374,10 @@
       "description": "iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.",
       "homepage": "https://github.com/messeb/ios-project-template"
     }, {
-      "title": "Pixel",
+      "title": "Brightroom",
       "category": "images",
       "description": "An image editor and engine using CoreImage.",
-      "homepage": "https://github.com/muukii/Pixel"
+      "homepage": "https://github.com/muukii/Brightroom"
     },  {
       "title": "UICollectionViewSplitLayout",
       "category": "uicollectionview",
@@ -5422,7 +5417,7 @@
       "title": "SPPermission",
       "category": "permissions",
       "description": "Simple request permission with native UI and interactive animation.",
-      "homepage": "https://github.com/varabeis/SPPermissions"
+      "homepage": "https://github.com/ivanvorobei/SPPermissions"
      }, {
       "title": "Google",
       "category": "style-guides",
@@ -5607,7 +5602,7 @@
       "title": "SPStorkController",
       "category": "transition",
       "description": "Now playing controller from Apple Music. Customisable height.",
-      "homepage": "https://github.com/varabeis/SPStorkController",
+      "homepage": "https://github.com/ivanvorobei/SPStorkController",
       "tags": ["swift", "animation", "UI", "transition", "apple music"]
     }, {
       "title": "SPLarkController",

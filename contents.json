@@ -6095,6 +6095,11 @@
     "category": "images",
     "description": "A iOS library for adding effects, drawings, text, stickers, and making GIFs from existing media or the camera.",
     "homepage": "https://github.com/tumblr/kanvas-ios"
+  }, {
+    "title": "ColorKit",
+    "category": "colors",
+    "description": "Advanced color manipulation for iOS.",
+    "homepage": "https://github.com/Boris-Em/ColorKit"
   }
   ]
 }

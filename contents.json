@@ -3164,6 +3164,12 @@
       "description": "Easy way to make elements in your iOS app twinkle.",
       "homepage": "https://github.com/piemonte/Twinkle"
     }, {
+      "title": "TZSignalBarStrength",
+      "category": "ui",
+      "description": "TZSignalStrengthView is an easy to use UI component to help display a signal bar with an added customizable fill animation",
+      "homepage": "https://github.com/TrianglZ/TZSignalBarStrength",
+      "tags": ["iOS", "UIKit"]
+    }, {
         "title": "Insert3D",
         "category": "ui-3d",
         "description": "The fastest 🚀 way to embed a 3D model.",

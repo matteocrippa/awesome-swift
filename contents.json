@@ -3166,7 +3166,7 @@
     }, {
       "title": "TZSignalBarStrength",
       "category": "ui",
-      "description": "TZSignalStrengthView is an easy to use UI component to help display a signal bar with an added customizable fill animation",
+      "description": "TZSignalStrengthView is an easy to use UI component to help display a signal bar with an added customizable fill animation.",
       "homepage": "https://github.com/TrianglZ/TZSignalBarStrength",
       "tags": ["iOS", "UIKit"]
     }, {

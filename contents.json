@@ -6106,6 +6106,11 @@
       "category": "colors",
       "description": "Advanced color manipulation for iOS.",
       "homepage": "https://github.com/Boris-Em/ColorKit"
-    }
+    }, {
+      "title": "TextBuilder",
+      "category": "text",
+      "description": "Like a SwiftUI ViewBuilder, but for Text.",
+      "homepage": "https://github.com/davdroman/TextBuilder"
+    }	  
   ]
 }

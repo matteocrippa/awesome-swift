@@ -345,6 +345,12 @@
     "parent": "libs",
     "description": "Libraries for coding with a simplified API"
   }, {
+      "title": "LayoutBuilder",
+      "category": "layout",
+      "description": "Clean and elegant layout with equation syntax for iOS and macOS.",
+      "homepage": "https://github.com/multimediasuite/LayoutBuilder",
+      "tags": ["swift", "layout", "nslayoutconstraint", "ios"]
+   }, {
     "title": "Layout",
     "id": "layout",
     "parent": "libs",

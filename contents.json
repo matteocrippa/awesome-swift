@@ -6111,6 +6111,11 @@
       "category": "text",
       "description": "Like a SwiftUI ViewBuilder, but for Text.",
       "homepage": "https://github.com/davdroman/TextBuilder"
-    }	  
+    }, {
+      "title": "CalendarApp",
+      "category": "boilerplates",
+      "description": "Sample calendar app created with CalendarKit (template)",
+      "homepage": "https://github.com/richardtop/CalendarApp"
+    }
   ]
 }

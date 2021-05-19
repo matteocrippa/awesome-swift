@@ -4157,11 +4157,6 @@
       "homepage": "https://github.com/yonaskolb/SwagGen",
       "tags": ["linux", "swagger", "swift", "CI", "generator", "template", "open-api"]
     }, {
-      "title": "Swift 3 VIPER Module Template",
-      "category": "boilerplates",
-      "description": "Xcode template for VIPER Architecture.",
-      "homepage": "https://github.com/Juanpe/Swift-VIPER-Module"
-    }, {
       "title": "Hydra",
       "category": "concurrency",
       "description": "Promises & Await - Write better async code.",

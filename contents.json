@@ -6111,6 +6111,11 @@
       "category": "text",
       "description": "Like a SwiftUI ViewBuilder, but for Text.",
       "homepage": "https://github.com/davdroman/TextBuilder"
-    }	  
+    }, {
+      "title": "QBIndicatorButton",
+      "category": "button",
+      "description": "Simple way to create beautiful button with fully customisable (gradient background, touch animation, activity indicator) and much more.",
+      "homepage": "https://github.com/sjc-bui/QBIndicatorButton"
+    }
   ]
 }

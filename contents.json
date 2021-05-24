@@ -6115,7 +6115,8 @@
       "title": "QBIndicatorButton",
       "category": "button",
       "description": "Simple way to create beautiful button with fully customisable (gradient background, touch animation, activity indicator) and much more.",
-      "homepage": "https://github.com/sjc-bui/QBIndicatorButton"
+      "homepage": "https://github.com/sjc-bui/QBIndicatorButton",
+      "tags": ["button", "gradient-button", "ui-button", "loading-button"]
     }
   ]
 }

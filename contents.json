@@ -6113,6 +6113,13 @@
       "description": "A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.",
       "homepage": "https://github.com/tikhop/TPInAppReceipt",
       "tags": ["swift", "ios", "tvos", "watchos", "macos", "inAppReceipt", "inAppPurchase", "StoreKit", "receipt"]
-    }	  
+    },
+     {
+      "title": "CalendarApp",
+      "category": "boilerplates",
+      "description": "Sample calendar app created with CalendarKit (template)",
+      "homepage": "https://github.com/richardtop/CalendarApp",
+      "tags": ["swift", "iOS", "calendar", "eventkit", "calendarkit", "template"]
+    }
   ]
 }

@@ -6113,6 +6113,6 @@
       "description": "A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.",
       "homepage": "https://github.com/tikhop/TPInAppReceipt",
       "tags": ["swift", "ios", "tvos", "watchos", "macos", "inAppReceipt", "inAppPurchase", "StoreKit", "receipt"]
-    }	  
+    }
   ]
 }

@@ -6113,6 +6113,13 @@
       "description": "A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.",
       "homepage": "https://github.com/tikhop/TPInAppReceipt",
       "tags": ["swift", "ios", "tvos", "watchos", "macos", "inAppReceipt", "inAppPurchase", "StoreKit", "receipt"]
-    }	  
+    },
+    {
+      "title": "SwiftDraw",
+      "category": "images",
+      "description": "Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.",
+      "homepage": "https://github.com/swhitty/SwiftDraw",
+      "tags": ["swift", "ios", "macos"]
+    }
   ]
 }

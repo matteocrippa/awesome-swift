@@ -6113,10 +6113,20 @@
       "description": "A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.",
       "homepage": "https://github.com/tikhop/TPInAppReceipt",
       "tags": ["swift", "ios", "tvos", "watchos", "macos", "inAppReceipt", "inAppPurchase", "StoreKit", "receipt"]
-    }
+    },
+    {
 	  "title": "The Composable Architecture",
 	  "category": "patterns"
 	  "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
-	  "homepage": "https://github.com/pointfreeco/swift-composable-architecture"
+	  "homepage": "https://github.com/pointfreeco/swift-composable-architecture",
+            "tags": ["swift", "ios"]
+    },
+    {
+      "title": "SwiftDraw",
+      "category": "images",
+      "description": "Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.",
+      "homepage": "https://github.com/swhitty/SwiftDraw",
+      "tags": ["swift", "ios", "macos"]
+    }
   ]
 }

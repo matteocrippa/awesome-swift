@@ -1811,6 +1811,11 @@
       "description": "Facebook album photo picker.",
       "homepage": "https://github.com/floriangbh/FacebookImagePicker"
     }, {
+      "title": "FaceCrop",
+      "category": "images",
+      "description": "Detect and center faces in your images using Apple’s Vision Framework.",
+      "homepage": "https://github.com/Ancestry/FaceCrop"
+    }, {
         "title": "FMPhotoPicker",
         "category": "images",
         "description": "A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.",

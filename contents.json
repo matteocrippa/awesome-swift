@@ -606,6 +606,10 @@
     "title": "GraphQL",
     "id": "graphql",
     "parent": "data-management"
+  }, {
+    "title": "SOAP",
+    "id": "soap",
+    "parent": "network"
   }],
   "projects": [
     {
@@ -6105,22 +6109,25 @@
       "category": "text",
       "description": "Like a SwiftUI ViewBuilder, but for Text.",
       "homepage": "https://github.com/davdroman/TextBuilder"
-    },
-    {
+    }, {
       "title": "TPInAppReceipt",
       "category": "payment",
       "description": "A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.",
       "homepage": "https://github.com/tikhop/TPInAppReceipt",
       "tags": ["swift", "ios", "tvos", "watchos", "macos", "inAppReceipt", "inAppPurchase", "StoreKit", "receipt"]
-    },
-    {
-	  "title": "The Composable Architecture",
-	  "category": "patterns"
-	  "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
-	  "homepage": "https://github.com/pointfreeco/swift-composable-architecture",
-            "tags": ["swift", "ios"]
-    },
-    {
+    }, {
+      "title": "SOAPEngine",
+      "category": "soap",
+      "description": "Generic SOAP client to access SOAP Web Services using iOS, Mac OS X, and Apple TV.",
+      "homepage": "https://github.com/priore/SOAPEngine",
+      "tags": ["swift", "soap", "macos", "ios", "tvos", "xml"]
+    }, {
+	    "title": "The Composable Architecture",
+	    "category": "patterns",
+	    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+	    "homepage": "https://github.com/pointfreeco/swift-composable-architecture",
+	    "tags": ["swift", "ios"]
+    }, {
       "title": "SwiftDraw",
       "category": "images",
       "description": "Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.",

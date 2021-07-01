@@ -1815,6 +1815,11 @@
       "description": "Facebook album photo picker.",
       "homepage": "https://github.com/floriangbh/FacebookImagePicker"
     }, {
+      "title": "FaceCrop",
+      "category": "images",
+      "description": "Detect and center faces in your images using Apple’s Vision Framework.",
+      "homepage": "https://github.com/Ancestry/FaceCrop"
+    }, {
         "title": "FMPhotoPicker",
         "category": "images",
         "description": "A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.",
@@ -3167,12 +3172,6 @@
       "category": "ui",
       "description": "Easy way to make elements in your iOS app twinkle.",
       "homepage": "https://github.com/piemonte/Twinkle"
-    }, {
-      "title": "TZSignalBarStrength",
-      "category": "ui",
-      "description": "TZSignalStrengthView is an easy to use UI component to help display a signal bar with an added customizable fill animation.",
-      "homepage": "https://github.com/TrianglZ/TZSignalBarStrength",
-      "tags": ["iOS", "UIKit"]
     }, {
         "title": "Insert3D",
         "category": "ui-3d",
@@ -6110,8 +6109,7 @@
       "category": "text",
       "description": "Like a SwiftUI ViewBuilder, but for Text.",
       "homepage": "https://github.com/davdroman/TextBuilder"
-    },
-    {
+    }, {
       "title": "TPInAppReceipt",
       "category": "payment",
       "description": "A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.",
@@ -6123,6 +6121,18 @@
       "description": "Generic SOAP client to access SOAP Web Services using iOS, Mac OS X, and Apple TV.",
       "homepage": "https://github.com/priore/SOAPEngine",
       "tags": ["swift", "soap", "macos", "ios", "tvos", "xml"]
-    }	  
+    }, {
+	    "title": "The Composable Architecture",
+	    "category": "patterns",
+	    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+	    "homepage": "https://github.com/pointfreeco/swift-composable-architecture",
+	    "tags": ["swift", "ios"]
+    }, {
+      "title": "SwiftDraw",
+      "category": "images",
+      "description": "Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.",
+      "homepage": "https://github.com/swhitty/SwiftDraw",
+      "tags": ["swift", "ios", "macos"]
+    }
   ]
 }

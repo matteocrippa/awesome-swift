@@ -607,8 +607,8 @@
     "id": "graphql",
     "parent": "data-management"
   }, {
-    "title": "SOAP Protocol",
-    "id": "soap-protocol",
+    "title": "SOAP",
+    "id": "soap",
     "parent": "network"
   }],
   "projects": [
@@ -6119,9 +6119,10 @@
       "tags": ["swift", "ios", "tvos", "watchos", "macos", "inAppReceipt", "inAppPurchase", "StoreKit", "receipt"]
     }, {
       "title": "SOAPEngine",
-      "category": "soap-protocol",
+      "category": "soap",
       "description": "Generic SOAP client to access SOAP Web Services using iOS, Mac OS X, and Apple TV.",
-      "homepage": "https://github.com/priore/SOAPEngine"
+      "homepage": "https://github.com/priore/SOAPEngine",
+      "tags": ["swift", "soap", "macos", "ios", "tvos", "xml"]
     }	  
   ]
 }

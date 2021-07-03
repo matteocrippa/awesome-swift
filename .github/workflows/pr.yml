@@ -17,5 +17,3 @@ jobs:
       - run: pip install json-spec
       - run: awesome_bot --allow=429 contents.json -w AERecord,theswiftwebdeveloper,bluemix,swiftplayground,awesome-for-swift-cheatsheet
       - run: json validate --schema-file=.github/schema.json --document-file=contents.json
-      - run: ruby .github/convert.rb
-      - run: node .github/upgradeDb.js

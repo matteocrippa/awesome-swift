@@ -1,0 +1,21 @@
+name: PR Approved
+
+on:
+   push:
+    branches: [master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.6'
+      - run: ruby .github/convert.rb
+      - name: Push changes
+        uses: actions-go/push@v1
+        with:
+          force: true
+          author-name: AwesomeSwift Bot
+          commit-message: 'Updated markdown'

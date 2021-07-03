@@ -2,12 +2,11 @@ name: PullRequest Check
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [master]
 
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2

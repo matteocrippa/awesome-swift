@@ -2595,6 +2595,11 @@
       "description": "A simple mocking framework, inspired by the famous Mockito for Java.",
       "homepage": "https://github.com/sabirvirtuoso/Mockit"
     }, {
+      "title": "Mussel",
+      "category": "testing",
+      "description": "A framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.",
+      "homepage": "https://github.com/UrbanCompass/Mussel"
+    }, {
       "title": "OHHTTPStubs",
       "category": "testing",
       "description": "A testing library designed to stub your network requests easily.",

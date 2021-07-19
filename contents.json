@@ -639,6 +639,11 @@
       "description": "Official Swift API design guidelines.",
       "homepage": "https://swift.org/documentation/api-design-guidelines/"
     }, {
+      "title": "Introducing SwiftUI",
+      "category": "official-guides",
+      "description": "Official SwiftUI tutorial with 4+ hours of content and interactive tutorials.",
+      "homepage": "https://developer.apple.com/tutorials/swiftui"
+    }, {
       "title": "Swift Education",
       "category": "third-party-guides",
       "description": "A community of educators sharing materials for teaching Swift and app development.",

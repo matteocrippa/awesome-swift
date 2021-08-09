@@ -6138,6 +6138,12 @@
       "description": "Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.",
       "homepage": "https://github.com/swhitty/SwiftDraw",
       "tags": ["swift", "ios", "macos"]
+    }, {
+      "title": "SwiftCurrent",
+      "category": "app-routing",
+      "description": "Manage complex workflows wherever Swift can be built. It comes with built-in support for UIKit, Storyboards, and SwiftUI.",
+      "homepage": "https://github.com/wwt/SwiftCurrent",
+      "tags": ["uikit", "storyboard", "swiftui", "iOS", "watchOS", "tvOS", "macOS", "declarative", "navigation"]
     }
   ]
 }

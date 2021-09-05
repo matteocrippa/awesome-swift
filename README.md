@@ -1037,6 +1037,11 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SwiftSoup](https://github.com/scinfu/SwiftSoup) :penguin: - HTML Parser, with best of DOM, CSS, and jquery.
 * [WKZombie](https://github.com/mkoehnke/WKZombie) - Headless browser.
 
+*Need to build html contents?* [back to top](#readme) 
+
+* [Swep](https://github.com/alja7dali/swift-web-page) - A type-safe HTML/CSS DSL SwiftUI-like.
+
+
 #### Messaging Protocol
 [back to top](#readme) 
 

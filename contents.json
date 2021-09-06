@@ -2092,6 +2092,11 @@
       "description": "Localize apps using e.g. regular expressions in Localizable.strings.",
       "homepage": "https://github.com/marmelroy/Localize-Swift"
     }, {
+      "title": "Locheck",
+      "category": "localization",
+      "description": "Validate .strings and .stringsdict files for errors",
+      "homepage": "https://github.com/Asana/locheck"
+    }, {
       "title": "SwiftGen-L10n",
       "category": "localization",
       "description": "A tool to auto-generate `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`).",

@@ -6149,6 +6149,12 @@
       "description": "Manage complex workflows wherever Swift can be built. It comes with built-in support for UIKit, Storyboards, and SwiftUI.",
       "homepage": "https://github.com/wwt/SwiftCurrent",
       "tags": ["uikit", "storyboard", "swiftui", "iOS", "watchOS", "tvOS", "macOS", "declarative", "navigation"]
+    },
+    {
+      "title": "Percentage",
+      "category": "utility",
+      "description": "Make percentages more readable and type-safe.",
+      "homepage": "https://github.com/sindresorhus/Percentage"
     }
   ]
 }

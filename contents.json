@@ -3028,6 +3028,11 @@
       "description": "Simple parallax header for UIScrollView.",
       "homepage": "https://github.com/maxep/MXParallaxHeader"
     }, {
+      "title": "HPParallaxHeader",
+      "category": "ui",
+      "description": "Simple parallax header for UIScrollView.",
+      "homepage": "https://github.com/ngochiencse/HPParallaxHeader"
+    }, {
       "title": "MZFormSheetPresentationController",
       "category": "ui",
       "description": "Provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.",

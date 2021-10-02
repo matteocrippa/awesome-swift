@@ -789,6 +789,11 @@
       "description": "A library to read, update and write Xcode projects and workspaces.",
       "homepage": "https://github.com/tuist/xcodeproj"
     }, {
+      "title": "Swift Toolchain for Android",
+      "category": "misc",
+      "description": "Swift Toolchain, for making Android apps with Swift.",
+      "homepage": "https://github.com/vgorloff/swift-everywhere-toolchain"
+    }, {
       "title": "SwiftKit",
       "category": "misc",
       "description": "Start your next Open-Source Swift Framework 📦.",

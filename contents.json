@@ -2694,6 +2694,12 @@
       "homepage": "https://github.com/crossroadlabs/Regex",
       "tags": ["linux"]
     }, {
+      "title": "Regex by sindresorhus",
+      "category": "text",
+      "description": "Swifty regular expressions, fully tested & documented, and with correct Unicode handling.",
+      "homepage": "https://github.com/sindresorhus/Regex",
+      "tags": ["regex"]
+    }, {
       "title": "RichEditorView",
       "category": "text",
       "description": " RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.",

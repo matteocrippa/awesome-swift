@@ -2946,7 +2946,7 @@
     }, {
       "title": "Toast-Swift",
       "category": "ui",
-      "description": "A Swift Toast view - iOS 14 style and newer - built with UIKit. ",
+      "description": "An easy to use library to create iOS 14 and newer style toasts.",
       "homepage": "https://github.com/BastiaanJansen/Toast-Swift"
     }, {
       "title": "HorizontalDial",

@@ -2683,11 +2683,6 @@
       "description": "An NSPredicate DSL for iOS & OS X inspired by SnapKit.",
       "homepage": "https://github.com/KrakenDev/PrediKit"
     }, {
-      "title": "PySwiftyRegex",
-      "category": "text",
-      "description": "Easily deal with Regex in a Pythonic way.",
-      "homepage": "https://github.com/cezheng/PySwiftyRegex"
-    }, {
       "title": "Regex by crossroadlabs",
       "category": "text",
       "description": "Very easy to use Regular Expressions library with rich functionality. Features both operator `=~` and method based APIs. Unit tests covered.",

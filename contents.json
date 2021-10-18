@@ -2939,6 +2939,11 @@
       "description": "Notification toasts.",
       "homepage": "https://github.com/devxoul/Toaster"
     }, {
+      "title": "Toast-Swift",
+      "category": "alert",
+      "description": "An easy to use library to create iOS 14 and newer style toasts.",
+      "homepage": "https://github.com/BastiaanJansen/Toast-Swift"
+    }, {
       "title": "HorizontalDial",
       "category": "ui",
       "description": "A horizontal scroll dial like Instagram.",

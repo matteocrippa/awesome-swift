@@ -6169,7 +6169,7 @@
     }, {
       "title": "ARHeadsetKit",
       "category": "augmented-reality",
-      "description": "A high-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.",
+      "description": "High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.",
       "homepage": "https://github.com/philipturner/ARHeadsetKit",
       "tags": ["macOS", "swiftui", "iOS", "metal", "virtual reality", "GPGPU", "google cardboard"]
     }  

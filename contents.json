@@ -6166,6 +6166,12 @@
       "category": "utility",
       "description": "Make percentages more readable and type-safe.",
       "homepage": "https://github.com/sindresorhus/Percentage"
-    }
+    }, {
+      "title": "ARHeadsetKit",
+      "category": "augmented-reality",
+      "description": "High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.",
+      "homepage": "https://github.com/philipturner/ARHeadsetKit",
+      "tags": ["macOS", "swiftui", "iOS", "metal", "virtual reality", "GPGPU", "google cardboard"]
+    }  
   ]
 }

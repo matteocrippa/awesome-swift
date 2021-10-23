@@ -6172,6 +6172,12 @@
       "description": "High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.",
       "homepage": "https://github.com/philipturner/ARHeadsetKit",
       "tags": ["macOS", "swiftui", "iOS", "metal", "virtual reality", "GPGPU", "google cardboard"]
-    }  
+    },
+    {
+      "title": "Rugby",
+      "category": "utility",
+      "description": "🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.",
+      "homepage": "https://github.com/swiftyfinch/Rugby"
+    }
   ]
 }

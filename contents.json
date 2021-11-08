@@ -187,6 +187,11 @@
     "parent": "libs",
     "description": "A collection of libs to recognize your device."
   }, {
+    "title": "CBOR",
+    "id": "cbor",
+    "parent": "data-management",
+    "description": "Concise Binary Object Representation."
+  }, {
     "title": "Core Data",
     "id": "core-data",
     "parent": "data-management",
@@ -3999,6 +4004,12 @@
       "category": "cards",
       "description": "A reactive, card-based UI framework built on UIKit for iOS developers.",
       "homepage": "https://github.com/intuit/CardParts"
+    },{
+      "title": "CBORCoding",
+      "category": "cbor",
+      "description": "Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.",
+      "homepage": "https://github.com/SomeRandomiOSDev/CBORCoding",
+      "tags": ["ios", "macos", "tvos", "watchos", "linux", "swift"]
     },{
       "title": "CodableCSV",
       "category": "csv",

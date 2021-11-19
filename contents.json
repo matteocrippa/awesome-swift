@@ -962,7 +962,7 @@
       "title": "Cely",
       "category": "authentication",
       "description": "A Plug-n-Play login framework.",
-      "homepage": "https://github.com/chaione/Cely"
+      "homepage": "https://github.com/cely-tools/Cely"
     }, {
       "title": "Cleanse",
       "category": "dependency-injection",

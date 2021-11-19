@@ -393,7 +393,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 ### Authentication
 *Easy way to manage auth in your apps.* [back to top](#readme) 
 
-* [Cely](https://github.com/chaione/Cely) - A Plug-n-Play login framework.
+* [Cely](https://github.com/cely-tools/Cely) - A Plug-n-Play login framework.
 * [InstagramLogin](https://github.com/AnderGoig/InstagramLogin) - Simple way to authenticate Instagram accounts.
 * [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to log in and retrieve an access token from LinkedIn.
 * [LoginKit](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.

@@ -256,6 +256,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [StateViewController](https://github.com/davidask/StateViewController) - Stateful UIVIewController composition — the MVC cure for Massive View Controllers.
 * [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 * [Viperit](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
+* [ReduxUI](https://github.com/gre4ixin/ReduxUI) - Redux framework for easy use with SwiftUI.
 
 ## Misc
 *Miscellaneous Swift related projects* 

@@ -5322,6 +5322,11 @@
       "description": "Viper Framework for iOS.",
       "homepage": "https://github.com/ferranabello/Viperit"
     }, {
+      "title": "ReduxUI",
+      "category": "patterns",
+      "description": "Redux framework for easy use with SwiftUI.",
+      "homepage": "https://github.com/gre4ixin/ReduxUI"
+    }, {
       "title": "Lumos",
       "category": "utility",
       "description": "An easy-to-use API for Objective-C runtime functions.",

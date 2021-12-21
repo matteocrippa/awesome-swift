@@ -615,6 +615,10 @@
     "title": "SOAP",
     "id": "soap",
     "parent": "network"
+  }, {
+    "title": "SVG",
+    "id": "svg",
+    "parent": "libs"
   }],
   "projects": [
     {
@@ -6194,6 +6198,12 @@
       "category": "utility",
       "description": "🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.",
       "homepage": "https://github.com/swiftyfinch/Rugby"
+    },
+    {
+      "title": "SVGView",
+      "category": "svg",
+      "description": "SVG parser and renderer written in SwiftUI.",
+      "homepage": "https://github.com/exyte/SVGView"
     }
   ]
 }

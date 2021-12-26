@@ -4371,7 +4371,7 @@
     }, {
       "title": "CardTabBar",
       "category": "tab",
-      "description": "Adding animation to iOS tabbar items",
+      "description": "Adding animation to iOS tabbar items.",
       "homepage": "https://github.com/yusadogru/CardTabBar",
       "tags": ["uitabbar", "tabbar", "cardTabBar", "uitabbaritem", "uitabbarviewcontroller", "swift"]
     }, {

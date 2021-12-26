@@ -4369,6 +4369,12 @@
       "homepage": "https://github.com/uias/Tabman",
       "tags": ["uitabbar", "tabbar", "uipageviewcontroller", "pager", "swift"]
     }, {
+      "title": "CardTabBar",
+      "category": "tab",
+      "description": "Adding animation to iOS tabbar items",
+      "homepage": "https://github.com/yusadogru/CardTabBar",
+      "tags": ["uitabbar", "tabbar", "cardTabBar", "uitabbaritem", "uitabbarviewcontroller", "swift"]
+    }, {
       "title": "SpreadsheetView",
       "category": "ui",
       "description": "Full configurable spreadsheet view user interfaces for iOS applications.",

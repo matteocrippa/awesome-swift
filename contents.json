@@ -6210,6 +6210,12 @@
       "category": "svg",
       "description": "SVG parser and renderer written in SwiftUI.",
       "homepage": "https://github.com/exyte/SVGView"
-    }
+    },
+    {
+      "title": "ProgressIndicatorView",
+      "category": "ui",
+      "description": "A progress indicator view library written in SwiftUI.",
+      "homepage": "https://github.com/exyte/ProgressIndicatorView"
+    },
   ]
 }

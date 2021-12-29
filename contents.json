@@ -6216,6 +6216,6 @@
       "category": "ui",
       "description": "A progress indicator view library written in SwiftUI.",
       "homepage": "https://github.com/exyte/ProgressIndicatorView"
-    },
+    }
   ]
 }

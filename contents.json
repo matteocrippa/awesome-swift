@@ -58,6 +58,10 @@
     "id": "vim",
     "parent": "editor-support"
   }, {
+    "title": "Google Colaboratory",
+    "id": "google-colaboratory",
+    "parent": "editor-support"
+  }, {
     "title": "Benchmark",
     "id": "benchmark"
   }, {
@@ -722,6 +726,11 @@
       "category": "vim",
       "description": "Vim runtime files.",
       "homepage": "https://github.com/keith/swift.vim"
+    }, {
+      "title": "swift-colab",
+      "category": "google-colaboratory",
+      "description": "Run Swift in a browser.",
+      "homepage": "https://github.com/philipturner/swift-colab"
     }, {
       "title": "vim-polyglot",
       "category": "vim",

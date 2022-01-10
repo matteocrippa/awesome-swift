@@ -2214,6 +2214,11 @@
       "description": "An elegant and simple 3D Flyover Location Request Screen.",
       "homepage": "https://github.com/SvenTiigi/STLocationRequest"
     }, {
+      "title": "AsyncLocationKit",
+      "category": "location",
+      "description": "Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).",
+      "homepage": "https://github.com/AsyncSwift/AsyncLocationKit"
+    }, {
       "title": "Arithmosophi",
       "category": "math",
       "description": "Set of protocols for Arithmetic and Logical operations.",

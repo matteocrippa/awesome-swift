@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1071 | December 29, 2021
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1072 | January 10, 2022
 
 ### Contents
 
@@ -23,6 +23,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 - [REPL](#repl)
 - [Editor Support](#editor-support)
   - [Emacs](#emacs)
+  - [Google Colaboratory](#google-colaboratory)
   - [Vim](#vim)
 - [Benchmark](#benchmark)
 - [Converters](#converters)
@@ -215,6 +216,11 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 [back to top](#readme) 
 
 * [swift-mode](https://github.com/swift-emacs/swift-mode) - Emacs support, including partial flycheck error support.
+
+### Google Colaboratory
+[back to top](#readme) 
+
+* [swift-colab](https://github.com/philipturner/swift-colab) - Run Swift in a browser.
 
 ### Vim
 [back to top](#readme) 

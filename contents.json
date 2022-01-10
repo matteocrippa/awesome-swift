@@ -675,7 +675,7 @@
       "title": "Developing iOS Apps with Swift",
       "category": "third-party-guides",
       "description": "Stanford course by Paul Hegarty.",
-      "homepage": "https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961"
+      "homepage": "https://podcasts.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780"
     }, {
       "title": "Hacking With Swift",
       "category": "third-party-guides",
@@ -800,7 +800,7 @@
       "title": "xcbeautify",
       "category": "misc",
       "description": "Little beautifier tool for xcodebuild.",
-      "homepage": "https://github.com/thii/xcbeautify"
+      "homepage": "https://github.com/tuist/xcbeautify"
     }, {
       "title": "xcodeproj",
       "category": "misc",

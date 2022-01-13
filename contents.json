@@ -6230,6 +6230,13 @@
       "category": "ui",
       "description": "A progress indicator view library written in SwiftUI.",
       "homepage": "https://github.com/exyte/ProgressIndicatorView"
+    },
+    {
+      "title": "Surmagic",
+      "category": "misc",
+      "description": "Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.",
+      "homepage": "https://github.com/gurhub/surmagic",
+      "tags": ["xcframework", "fat-framework", "binary-framework", "generate", "iOS", "Mac Catalyst", "macOS", "tvOS", "watchOS", "ci", "swift"]
     }
   ]
 }

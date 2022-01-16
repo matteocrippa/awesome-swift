@@ -6237,6 +6237,11 @@
       "description": "Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.",
       "homepage": "https://github.com/gurhub/surmagic",
       "tags": ["xcframework", "fat-framework", "binary-framework", "generate", "iOS", "Mac Catalyst", "macOS", "tvOS", "watchOS", "ci", "swift"]
+    }, {
+      "title": "YiVideoEditor",
+      "category": "video",
+      "description": "a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.",
+      "homepage": "https://github.com/coderyi/YiVideoEditor"
     }
   ]
 }

@@ -6242,6 +6242,12 @@
       "category": "video",
       "description": "a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.",
       "homepage": "https://github.com/coderyi/YiVideoEditor"
+    }, {
+      "title": "SwiftUICharts",
+      "category": "chart",
+      "description": "A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.",
+      "homepage": "https://github.com/willdale/SwiftUICharts",
+      "tags": ["iOS", "macOS", "tvOS", "watchOS", "swiftui"]
     }
   ]
 }

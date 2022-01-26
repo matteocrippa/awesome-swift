@@ -6248,6 +6248,12 @@
       "description": "A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.",
       "homepage": "https://github.com/willdale/SwiftUICharts",
       "tags": ["iOS", "macOS", "tvOS", "watchOS", "swiftui"]
+    }, {
+      "title": "Raylib for Swift",
+      "category": "game-engine",
+      "description": "A Cross-Platform Swift package for Raylib. Builds Raylib from source so no need to fiddle with libraries. Just add as a dependency in you game package and go!",
+      "homepage": "https://github.com/STREGAsGate/Raylib",
+      "tags": ["macOS", "linux", "windows", "swift"]
     }
   ]
 }

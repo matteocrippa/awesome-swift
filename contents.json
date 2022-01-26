@@ -1217,6 +1217,13 @@
       "homepage": "https://github.com/scottrhoyt/SwiftyTextTable",
       "tags": ["linux"]
     }, {
+      "title": "Ashen",
+      "category": "command-line",
+      "description": "A framework for writing terminal applications in Swift. Based on The Elm Architecture.",
+      "homepage": "https://github.com/colinta/Ashen",
+      "tags": ["macOS"]
+    },
+    {
       "title": "Venice",
       "category": "concurrency",
       "description": "Communicating sequential processes (CSP), Linux ready.",

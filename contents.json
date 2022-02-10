@@ -6261,6 +6261,11 @@
       "description": "A Cross-Platform Swift package for Raylib. Builds Raylib from source so no need to fiddle with libraries. Just add as a dependency in you game package and go!",
       "homepage": "https://github.com/STREGAsGate/Raylib",
       "tags": ["macOS", "linux", "windows", "swift"]
+    }, {
+      "title": "IParallaxAndHapticEffect",
+      "category": "ui",
+      "description": "✨ Super easy Parallax and Haptic Effect.",
+      "homepage": "https://github.com/Omilr/IParallaxAndHapticEffect.git"
     }
   ]
 }

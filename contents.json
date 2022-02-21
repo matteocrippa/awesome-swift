@@ -1453,7 +1453,7 @@
     }, {
       "title": "Sextant",
       "category": "json",
-      "description": "High performance JSONPath queries for Swift",
+      "description": "High performance JSONPath queries",
       "homepage": "https://github.com/KittyMac/Sextant",
       "tags": ["linux", "macOS", "iOS", "tvOS"]
     }, {

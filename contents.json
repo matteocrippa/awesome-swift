@@ -1451,6 +1451,12 @@
       "description": "JSON encoding/decoding library.",
       "homepage": "https://github.com/postmates/PMJSON"
     }, {
+      "title": "Sextant",
+      "category": "json",
+      "description": "High performance JSONPath queries",
+      "homepage": "https://github.com/KittyMac/Sextant",
+      "tags": ["linux", "macOS", "iOS", "tvOS"]
+    }, {
       "title": "YamlSwift",
       "category": "yaml",
       "description": "Load YAML and JSON documents.",

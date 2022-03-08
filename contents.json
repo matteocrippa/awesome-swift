@@ -4306,6 +4306,12 @@
       "homepage": "https://github.com/efremidze/Magnetic",
       "tags": ["spritekit", "floating", "bubble", "picker", "applemusic", "swift"]
     }, {
+      "title": "async+",
+      "category": "concurrency",
+      "description": "A chainable interface for Swift 5.5's async/await.",
+      "homepage": "https://github.com/async-plus/async-plus",
+      "tags": ["linux", "macOS", "iOS", "tvOS", "watchOS", "5.5"]
+    }, {
       "title": "AsyncNinja",
       "category": "concurrency",
       "description": "A complete set of concurrency and reactive programming primitives.",

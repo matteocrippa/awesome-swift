@@ -6208,6 +6208,12 @@
 	    "homepage": "https://github.com/pointfreeco/swift-composable-architecture",
 	    "tags": ["swift", "ios"]
     }, {
+      "title": "The Atomic Architecture",
+      "category": "patterns",
+      "description": "A declarative state management and dependency injection library for SwiftUI x Concurrency.",
+      "homepage": "https://github.com/ra1028/swiftui-atomic-architecture",
+      "tags": ["swift", "swiftui", "architecture"]
+    }, {
       "title": "SwiftDraw",
       "category": "images",
       "description": "Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.",

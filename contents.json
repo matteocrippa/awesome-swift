@@ -6279,6 +6279,12 @@
       "description": "A Cross-Platform Swift package for Raylib. Builds Raylib from source so no need to fiddle with libraries. Just add as a dependency in you game package and go!",
       "homepage": "https://github.com/STREGAsGate/Raylib",
       "tags": ["macOS", "linux", "windows", "swift"]
+    }, {
+      "title": "Scaling Header Scroll View",
+      "category": "layout",
+      "description": "A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.",
+      "homepage": "https://github.com/exyte/ScalingHeaderScrollView",
+      "tags": ["swiftui", "iOS", "sticky-header", "scaling-header"]
     }
   ]
 }

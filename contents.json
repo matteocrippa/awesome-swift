@@ -2842,7 +2842,8 @@
         "title": "FLCharts",
         "category": "chart",
         "description": "Easy to use and highly customizable charts library for iOS.",
-        "homepage": "https://github.com/francescoleoni98/FLCharts"
+        "homepage": "https://github.com/francescoleoni98/FLCharts",
+        "tags": ["iOS", "swift", "Mac Catalyst"]
     }, {
         "title": "ChartView",
         "category": "chart",

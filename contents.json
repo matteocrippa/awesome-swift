@@ -2839,10 +2839,16 @@
       "description": "Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).",
       "homepage": "https://github.com/danielgindi/Charts"
     }, {
+        "title": "FLCharts",
+        "category": "chart",
+        "description": "Easy to use and highly customizable charts library for iOS.",
+        "homepage": "https://github.com/francescoleoni98/FLCharts",
+        "tags": ["iOS", "swift", "Mac Catalyst"]
+    }, {
         "title": "ChartView",
         "category": "chart",
         "description": "Swift package for displaying beautiful charts effortlessly",
-        "homepage": "https://github.com/AppPear/ChartView"    
+        "homepage": "https://github.com/AppPear/ChartView"
     }, {
       "title": "CountdownLabel",
       "category": "label",

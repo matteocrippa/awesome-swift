@@ -6292,7 +6292,7 @@
       "homepage": "https://github.com/exyte/ScalingHeaderScrollView",
       "tags": ["swiftui", "iOS", "sticky-header", "scaling-header"]
     }, {
-      "title": "Bottom Sheet",
+      "title": "BottomSheet",
       "category": "ui",
       "description": "Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.",
       "homepage": "https://github.com/joomcode/BottomSheet",

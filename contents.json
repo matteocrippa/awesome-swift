@@ -6291,6 +6291,12 @@
       "description": "A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.",
       "homepage": "https://github.com/exyte/ScalingHeaderScrollView",
       "tags": ["swiftui", "iOS", "sticky-header", "scaling-header"]
+    }, {
+      "title": "BottomSheet",
+      "category": "ui",
+      "description": "Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.",
+      "homepage": "https://github.com/joomcode/BottomSheet",
+      "tags": ["uikit", "iOS", "bottom-sheet"]
     }
   ]
 }

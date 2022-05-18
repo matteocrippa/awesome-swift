@@ -6303,6 +6303,12 @@
       "description": "A most fully customization calendar for Apple platforms 📅",
       "homepage": "https://github.com/kvyatkovskys/KVKCalendar",
       "tags": ["uikit", "iOS", "calendar", "swiftui"]
+    }, {
+      "title": "SwiftBoost",
+      "category": "utility",
+      "description": "Collection of Swift-extensions to boost development process.",
+      "homepage": "https://github.com/sparrowcode/SwiftBoost",
+      "tags": ["swift", "productivity", "boost"]
     }
   ]
 }

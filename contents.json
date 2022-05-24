@@ -6309,6 +6309,15 @@
       "description": "Collection of Swift-extensions to boost development process.",
       "homepage": "https://github.com/sparrowcode/SwiftBoost",
       "tags": ["swift", "productivity", "boost"]
+    }, {
+      "title": "ISEmojiView",
+      "category": "keyboard",
+      "description": "Emoji Keyboard for iOS",
+      "homepage": "https://github.com/isaced/ISEmojiView",
+      "tags": [
+        "swift",
+        "emoji"
+      ]
     }
   ]
 }

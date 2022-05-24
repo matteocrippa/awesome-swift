@@ -6314,10 +6314,7 @@
       "category": "keyboard",
       "description": "Emoji Keyboard for iOS",
       "homepage": "https://github.com/isaced/ISEmojiView",
-      "tags": [
-        "swift",
-        "emoji"
-      ]
+      "tags": ["swift", "emoji"]
     }
   ]
 }

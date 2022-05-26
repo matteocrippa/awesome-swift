@@ -6217,7 +6217,7 @@
       "title": "SwiftUI Atom Properties",
       "category": "patterns",
       "description": "A Reactive Data-Binding and Dependency Injection Library for SwiftUI x Concurrency.",
-      "homepage": "https://github.com/ra1028/swiftui-atom-properties.git",
+      "homepage": "https://github.com/ra1028/swiftui-atom-properties",
       "tags": ["swift", "swiftui", "architecture"]
     }, {
       "title": "SwiftDraw",

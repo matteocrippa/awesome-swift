@@ -6214,10 +6214,10 @@
 	    "homepage": "https://github.com/pointfreeco/swift-composable-architecture",
 	    "tags": ["swift", "ios"]
     }, {
-      "title": "The Atomic Architecture",
+      "title": "SwiftUI Atom Properties",
       "category": "patterns",
-      "description": "A declarative state management and dependency injection library for SwiftUI x Concurrency.",
-      "homepage": "https://github.com/ra1028/swiftui-atomic-architecture",
+      "description": "A Reactive Data-Binding and Dependency Injection Library for SwiftUI x Concurrency.",
+      "homepage": "https://github.com/ra1028/swiftui-atom-properties",
       "tags": ["swift", "swiftui", "architecture"]
     }, {
       "title": "SwiftDraw",

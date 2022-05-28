@@ -6315,6 +6315,12 @@
       "description": "Emoji Keyboard for iOS",
       "homepage": "https://github.com/isaced/ISEmojiView",
       "tags": ["swift", "emoji"]
+    }, {
+      "title": "TabBar",
+      "category": "tab",
+      "description": "Highly customizable tab bar for SwiftUI applications.",
+      "homepage": "https://github.com/onl1ner/TabBar",
+      "tags": ["swift", "swiftui", "tab-bar", "iOS"]
     }
   ]
 }

@@ -1876,6 +1876,11 @@
       "description": "GPUImage 3 is a BSD-licensed framework for GPU-accelerated video and image processing using Metal.",
       "homepage": "https://github.com/BradLarson/GPUImage3"
     }, {
+        "title": "Harbeth",
+        "category": "images",
+        "description": "Metal API for GPU accelerated Graphics and Video and Camera filter framework.",
+        "homepage": "https://github.com/yangKJ/Harbeth"
+    }, {
       "title": "HanekeSwift",
       "category": "images",
       "description": "A lightweight generic cache for iOS with extra love for images.",

@@ -6326,6 +6326,11 @@
       "description": "Highly customizable tab bar for SwiftUI applications.",
       "homepage": "https://github.com/onl1ner/TabBar",
       "tags": ["swift", "swiftui", "tab-bar", "iOS"]
+    }, {
+      "title": "Model-View-Presenter template",
+      "category": "boilerplates",
+      "description": "A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.",
+      "homepage": "https://github.com/onl1ner/ios-mvp-template"
     }
   ]
 }

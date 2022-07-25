@@ -6331,6 +6331,12 @@
       "category": "boilerplates",
       "description": "A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.",
       "homepage": "https://github.com/onl1ner/ios-mvp-template"
+    }, {
+      "title": "CUIExpandableButton",
+      "category": "button",
+      "description": "A SwiftUI button that expands to reveal more content.",
+      "homepage": "https://github.com/robhasacamera/CUIExpandableButton",
+      "tags": ["swift", "swiftui", "iOS"]
     }
   ]
 }

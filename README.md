@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1090 | July 14, 2022
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1091 | August 04, 2022
 
 ### Contents
 
@@ -163,6 +163,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 ### Newsletter
 [back to top](#readme) 
 
+* [Open Source Updates for Swift Projects](https://www.getrevue.co/profile/ossp_updates/) - A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.
 * [Swift Developments](https://andybargh.com/swiftdevelopments/) - A weekly curated newsletter containing for people interested in designing and developing their own iOS, watchOS and Apple TV apps.
 * [Swift Weekly Brief](https://swiftweeklybrief.com/) - A multi author curated newsletter.
 

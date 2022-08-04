@@ -6331,6 +6331,11 @@
       "category": "boilerplates",
       "description": "A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.",
       "homepage": "https://github.com/onl1ner/ios-mvp-template"
+    }, {
+      "title": "Open Source Updates for Swift Projects",
+      "category": "newsletter",
+      "description": "A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.",
+      "homepage": "https://www.getrevue.co/profile/ossp_updates/"
     }
   ]
 }

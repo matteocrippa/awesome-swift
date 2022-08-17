@@ -288,6 +288,8 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 ## Libs
 *Here you can find a list of snippets and libs for your Swift projects.* 
+* [Explore Swift](https://kandi.openweaver.com/explore/swift) - Discover libraries, code snippets, top authors, trending discussions.
+
 
 ### Accessibility
 [back to top](#readme) 

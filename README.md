@@ -200,6 +200,8 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SwiftTips](https://github.com/JohnSundell/SwiftTips) - A collection of useful tips by John Sundell.
 * [The Swift Web Developer](https://theswiftwebdeveloper.com) - A publication for Swift Web Developers.
 * [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
+* [Explore Swift](https://kandi.openweaver.com/explore/swift) - A curated list of Swift libraries, authors, kits, tutorials & learning resources
+
 
 ## Boilerplates
 

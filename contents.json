@@ -4275,7 +4275,7 @@
       "category": "textfield",
       "description": "A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.",
       "homepage": "https://github.com/benjaminsage/iTextField",
-      "tags": ["iOS", "swift", "swiftui", "textfield", "UITextField", "viewmodifiers"]    
+      "tags": ["iOS", "swift", "swiftui", "textfield", "UITextField", "viewmodifiers"]
     }, {
       "title": "iPages",
       "category": "pagination",
@@ -6336,6 +6336,11 @@
       "category": "newsletter",
       "description": "A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.",
       "homepage": "https://www.getrevue.co/profile/ossp_updates/"
+    }, {
+      "title": "Popovers",
+      "category": "ui",
+      "description": "A library to present popovers. Simple, modern, and highly customizable. Not boring!",
+      "homepage": "https://github.com/aheze/Popovers"
     }
   ]
 }

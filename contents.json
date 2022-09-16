@@ -6341,6 +6341,12 @@
       "category": "ui",
       "description": "A library to present popovers. Simple, modern, and highly customizable. Not boring!",
       "homepage": "https://github.com/aheze/Popovers"
+    }, {
+      "title": "CapturePreventionKit",
+      "category": "ui",
+      "description": "Provides `Label` and `ImageView` for `screen capture prevention`.",
+      "homepage": "https://github.com/Jaesung-Jung/CapturePreventionKit",
+      "tags": ["swift", "iOS", "ui", "security"]
     }
   ]
 }

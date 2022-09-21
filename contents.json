@@ -279,7 +279,7 @@
     "title": "Date",
     "id": "date",
     "parent": "libs",
-    "description": "Handle data formatting easily."
+    "description": "Handle date formatting easily."
   }, {
     "title": "Dependency Injection",
     "id": "dependency-injection",

@@ -6347,6 +6347,11 @@
       "description": "Provides `Label` and `ImageView` for `screen capture prevention`.",
       "homepage": "https://github.com/Jaesung-Jung/CapturePreventionKit",
       "tags": ["swift", "iOS", "ui", "security"]
+    }, {
+      "title": "AppReview",
+      "category": "app-store",
+      "description": "A tiny library to request review on the AppStore via SKStoreReviewController.",
+      "homepage": "https://github.com/mezhevikin/AppReview"
     }
   ]
 }

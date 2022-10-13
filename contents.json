@@ -6347,6 +6347,11 @@
       "category": "app-store",
       "description": "A tiny library to request review on the AppStore via SKStoreReviewController.",
       "homepage": "https://github.com/mezhevikin/AppReview"
+    }, {
+      "title": "Tracker Aggregator",
+      "category": "analytics",
+      "description": "Versatile analytics abstraction layer.",
+      "homepage": "https://github.com/kafejo/Tracker-Aggregator"
     }
   ]
 }

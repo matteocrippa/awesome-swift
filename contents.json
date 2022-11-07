@@ -3552,6 +3552,11 @@
       "description": "Elegant transition library for iOS.",
       "homepage": "https://github.com/HeroTransitions/Hero"
     }, {
+      "title": "NavigationTransitions",
+      "category": "transition",
+      "description": "Pure SwiftUI Navigation transitions.",
+      "homepage": "https://github.com/davdroman/swiftui-navigation-transitions"
+    }, {
       "title": "ImageTransition",
       "category": "transition",
       "description": "ImageTransition is a library for smooth animation of images during transitions.",

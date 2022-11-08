@@ -6357,6 +6357,11 @@
       "category": "analytics",
       "description": "Versatile analytics abstraction layer.",
       "homepage": "https://github.com/kafejo/Tracker-Aggregator"
-    }
+    }, {
+        "title": "RxNetworks",
+        "category": "network",
+        "description": "Network API With RxSwift + Moya + HandyJSON + Plugins.",
+        "homepage": "https://github.com/yangKJ/RxNetworks"
+      }
   ]
 }

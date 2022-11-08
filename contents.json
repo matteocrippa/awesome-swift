@@ -695,12 +695,12 @@
      "title": "Ray Wenderlich Tutorials, Videos, Podcasts and books",
      "category": "third-party-guides",
      "description": "High quality programming tutorials.",
-     "homepage": "https://www.raywenderlich.com"
+     "homepage": "https://www.kodeco.com"
    }, {
       "title": "Raywenderlich",
       "category": "style-guides",
       "description": "Raywenderlich guide, a must read.",
-      "homepage": "https://github.com/raywenderlich/swift-style-guide"
+      "homepage": "https://github.com/kodecocodes/swift-style-guide"
     }, {
        "title": "Airbnb",
        "category": "style-guides",

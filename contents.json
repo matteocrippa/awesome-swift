@@ -6358,5 +6358,11 @@
         "description": "Network API With RxSwift + Moya + HandyJSON + Plugins.",
         "homepage": "https://github.com/yangKJ/RxNetworks"
       }
+    , {
+      "title": "HypeUI",
+      "category": "auto-layout",
+      "description": "🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit",
+      "homepage": "https://github.com/hyperconnect/HypeUI"
+    }
   ]
 }

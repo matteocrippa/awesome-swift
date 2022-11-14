@@ -2651,6 +2651,11 @@
       "description": "A testing library designed to stub your network requests easily.",
       "homepage": "https://github.com/AliSoftware/OHHTTPStubs"
     }, {
+      "title": "SBTUITestTunnel",
+      "category": "testing",
+      "description": "UI testing library for interact with network requests, stub CLLocationManager and UNUserNotificationCenter, and fine grain scrolling in table/collection/scroll views",
+      "homepage": "https://github.com/Subito-it/SBTUITestTunnel"
+    }, {
       "title": "Quick",
       "category": "testing",
       "description": "Quick is a behavior-driven development framework.",

@@ -6368,6 +6368,11 @@
       "category": "auto-layout",
       "description": "🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit",
       "homepage": "https://github.com/hyperconnect/HypeUI"
+    }, {
+      "title": "MediaPicker",
+      "category": "camera",
+      "description": "SwiftUI customizable media picker - supports camera and gallery with albums",
+      "homepage": "https://github.com/exyte/mediapicker"
     }
   ]
 }

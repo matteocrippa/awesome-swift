@@ -6373,6 +6373,11 @@
       "category": "camera",
       "description": "SwiftUI customizable media picker - supports camera and gallery with albums",
       "homepage": "https://github.com/exyte/mediapicker"
+    }, {
+      "title": "LiquidSwipe",
+      "category": "transition",
+      "description": "Liquid navigation animation",
+      "homepage": "https://github.com/exyte/LiquidSwipe"
     }
   ]
 }

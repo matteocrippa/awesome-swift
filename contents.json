@@ -1645,6 +1645,11 @@
       "homepage": "https://github.com/uraimo/SwiftyGPIO",
       "tags": ["linux"]
     }, {
+      "title": "OneWay",
+      "category": "events",
+      "description": "State management with unidirectional data flow.",
+      "homepage": "https://github.com/DevYeom/OneWay"
+    }, {
       "title": "OpenCombine",
       "category": "events",
       "description": "Open source implementation of Apple's Combine framework for processing values over time.",

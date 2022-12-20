@@ -1306,7 +1306,7 @@
       "title": "swift-algorithm-club",
       "category": "algorithm",
       "description": "Algorithms and data structures, with explanations.",
-      "homepage": "https://github.com/raywenderlich/swift-algorithm-club"
+      "homepage": "https://github.com/kodecocodes/swift-algorithm-club"
     }, {
       "title": "Pencil",
       "category": "other-data",
@@ -1316,7 +1316,7 @@
       "title": "Realm",
       "category": "realm",
       "description": "Realm is a mobile database: a replacement for Core Data & SQLite.",
-      "homepage": "https://github.com/realm/realm-cocoa"
+      "homepage": "https://github.com/realm/realm-swift"
     }, {
       "title": "Realm+JSON",
       "category": "realm",
@@ -1490,7 +1490,7 @@
       "title": "MongoKitten",
       "category": "mongodb",
       "description": "MongoDB Connector.",
-      "homepage": "https://github.com/OpenKitten/MongoKitten",
+      "homepage": "https://github.com/orlandos-nl/MongoKitten",
       "tags": ["linux"]
     }, {
       "title": "Perfect-MongoDB",
@@ -1636,7 +1636,7 @@
       "title": "SourceDocs",
       "category": "documentation",
       "description": "Generate Markdown reference documentation that lives with your code.",
-      "homepage": "https://github.com/eneko/SourceDocs/",
+      "homepage": "https://github.com/SourceDocs/SourceDocs",
   		"tags": ["documentation", "reference", "markdown", "generator"]
     }, {
       "title": "SwiftyGPIO",
@@ -1778,7 +1778,7 @@
       "title": "SwiftIconFont",
       "category": "fonts",
       "description": "Fontawesome, Iconic, Ionicons, Octicon ports.",
-      "homepage": "https://github.com/0x73/SwiftIconFont"
+      "homepage": "https://github.com/segecey/SwiftIconFont"
     }, {
       "title": "UIFontComplete",
       "category": "fonts",
@@ -2121,7 +2121,7 @@
       "title": "BartyCrouch",
       "category": "localization",
       "description": "Incrementally update/translate your Strings files from Code and Storyboards/XIBs.",
-      "homepage": "https://github.com/Flinesoft/BartyCrouch"
+      "homepage": "https://github.com/FlineDev/BartyCrouch"
     }, {
       "title": "Localize-Swift",
       "category": "localization",
@@ -3099,7 +3099,7 @@
       "title": "NextGrowingTextView",
       "category": "ui",
       "description": "The next in the generations of 'growing textviews' optimized for iOS 7 and above.",
-      "homepage": "https://github.com/muukii/NextGrowingTextView"
+      "homepage": "https://github.com/FluidGroup/NextGrowingTextView"
     }, {
       "title": "NumberMorphView",
       "category": "label",
@@ -3204,7 +3204,7 @@
       "title": "SwiftCharts",
       "category": "chart",
       "description": "Highly customizable charts for iOS.",
-      "homepage": "https://github.com/i-schuetz/SwiftCharts"
+      "homepage": "https://github.com/ivanschuetz/SwiftCharts"
     }, {
       "title": "SwiftyWalkthrough",
       "category": "walkthrough",

@@ -3942,8 +3942,8 @@
     }, {
       "title": "Facebook",
       "category": "SDK",
-      "description": "Official Facebook SDK.",
-      "homepage": "https://github.com/facebookarchive/facebook-swift-sdk"
+      "description": "Facebook SDK for iOS.",
+      "homepage": "https://github.com/facebook/facebook-ios-sdk"
     }, {
       "title": "Translucid",
       "category": "label",
@@ -4141,14 +4141,7 @@
       "description": "Add beautiful progress bars to your command line.",
       "homepage": "https://github.com/jkandzi/Progress.swift",
       "tags": ["linux"]
-    },
-    {
-      "title": "NEKit",
-      "category": "network",
-      "description": "A toolkit for Network Extension Framework.",
-      "homepage": "https://github.com/zhuhaow/NEKit"
-    },
-    {
+    }, {
       "title": "xcprofiler",
       "category": "benchmark",
       "description": "Command line utility to profile compilation time.",
@@ -4171,11 +4164,6 @@
       "description": "Realtime dynamic localization of your app with remote management so you can manage maintain and deploy translations without resubmitting app.",
       "homepage": "https://github.com/willpowell8/LocalizationKit_iOS",
       "tags": ["extensions", "ios"]
-    }, {
-      "title": "Validator",
-      "category": "validation",
-      "description": "Drop in user input validation for your iOS apps.",
-      "homepage": "https://github.com/adamwaite/Validator"
     }, {
       "title": "ValidatedPropertyKit",
       "category": "validation",
@@ -4382,13 +4370,6 @@
       "homepage": "https://github.com/BrikerMan/BMPlayer",
       "tags": ["swift", "avplayer", "video-player", "ios-swift", "carthage"]
     }, {
-      "title": "Marathon",
-      "category": "scripting",
-      "description": "Easy way to create and manage scripts.",
-      "homepage": "https://github.com/JohnSundell/Marathon",
-      "tags": ["swift", "scripting"]
-    },
-    {
       "title": "TextFieldCounter",
       "category": "textfield",
       "description": "UITextField character counter with lovable UX.",
@@ -4434,12 +4415,6 @@
       "description": "Full configurable spreadsheet view user interfaces for iOS applications.",
       "homepage": "https://github.com/kishikawakatsumi/SpreadsheetView",
       "tags": ["spreadsheet"]
-    }, {
-      "title": "RbSwift",
-      "category": "extension",
-      "description": "Extensions with hundreds of handy methods.",
-      "homepage": "https://github.com/Draveness/RbSwift",
-      "tags": ["extension", "number", "string"]
     }, {
       "title": "LicensePlist",
       "category": "ui",
@@ -4497,11 +4472,6 @@
       "category": "images",
       "description": "An image viewer à la Twitter.",
       "homepage": "https://github.com/Krisiacik/ImageViewer"
-    }, {
-      "title": "VGPlayer",
-      "category": "video",
-      "description": "A simple iOS video player, support play local and network, background playback mode, automatic caching while playing.",
-      "homepage": "https://github.com/VeinGuo/VGPlayer"
     }, {
       "title": "Zip Foundation",
       "category": "zip",
@@ -4609,11 +4579,6 @@
       "category": "ui",
       "description": "Make shadows management easy on UIView.",
       "homepage": "https://github.com/PierrePerrin/ShadowView"
-    },{
-      "title": "LayoutKit",
-      "category": "layout",
-      "description": "LayoutKit is a fast view layout library for iOS, macOS, and tvOS.",
-      "homepage": "https://github.com/LinkedInAttic/LayoutKit"
     }, {
       "title": "TransitionButton",
       "category": "button",
@@ -4635,17 +4600,11 @@
       "description": "UIDevice extensions that fill in the missing pieces.",
       "homepage": "https://github.com/Nirma/UIDeviceComplete"
     }, {
-      "title": "FluxCapacitor",
-      "category": "utility",
-      "description": "FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.",
-      "homepage": "https://github.com/marty-suzuki/FluxCapacitor",
-      "tags": ["flux"]
-    }, {
-        "title": "Cassowary",
-        "category": "auto-layout",
-        "description": "A linear constraint solving library using the same algorithm as AutoLayout.",
-        "homepage": "https://github.com/tribalworldwidelondon/CassowarySwift",
-        "tags": ["cassowary", "constraints", "autolayout"]
+      "title": "Cassowary",
+      "category": "auto-layout",
+      "description": "A linear constraint solving library using the same algorithm as AutoLayout.",
+      "homepage": "https://github.com/tribalworldwidelondon/CassowarySwift",
+      "tags": ["cassowary", "constraints", "autolayout"]
     }, {
       "title": "Observable",
       "category": "events",
@@ -4657,16 +4616,6 @@
       "category": "uitableview",
       "description": "Elegant and easy way to integrate pagination with placeholder views.",
       "homepage": "https://github.com/AfrozZaheer/AZTableViewController"
-    }, {
-      "title": "NetClient",
-      "category": "network",
-      "description": "Versatile HTTP networking library.",
-      "homepage": "https://github.com/intelygenz/NetClient-iOS"
-    }, {
-      "title": "Kommander",
-      "category": "concurrency",
-      "description": "Manage the task execution in different threads through Kommands.",
-      "homepage": "https://github.com/intelygenz/Kommander-iOS"
     }, {
       "title": "HGPlaceholders",
       "category": "uitableview",
@@ -4748,11 +4697,6 @@
       "category": "cache",
       "description": "A small key-value data cache for iOS, macOS and tvOS.",
       "homepage": "https://github.com/nrkno/yr-cachyr"
-    }, {
-      "title": "SectionScrubber",
-      "category": "uitableview",
-      "description": "A component to quickly scroll between collection view sections.",
-      "homepage": "https://github.com/3lvis/SectionScrubber"
     }, {
       "title": "Closures",
       "category": "utility",
@@ -4854,11 +4798,6 @@
       "category": "ui",
       "description": "Treemap / Heatmap layout engine, based on Squarified.",
       "homepage": "https://github.com/yahoo/YMTreeMap"
-    }, {
-      "title": "Viewer",
-      "category": "images",
-      "description": "Image viewer (or Lightbox) with support for local and remote videos and images.",
-      "homepage": "https://github.com/3lvis/Viewer"
     }, {
       "title": "VueFlux",
       "category": "events",
@@ -4965,16 +4904,6 @@
       "category": "game-engine-2d",
       "description": "Blazing fasst 2D gaming engine.",
       "homepage": "https://github.com/JohnSundell/ImagineEngine"
-    }, {
-      "title": "DeepDiff",
-      "category": "utility",
-      "description": "Fast diff library.",
-      "homepage": "https://github.com/onmyway133/DeepDiff"
-    }, {
-      "title": "Ambience",
-      "category": "styling",
-      "description": "Brightness aware accessibility theme switching without coding.",
-      "homepage": "https://github.com/tmergulhao/Ambience"
     }, {
       "title": "Alerts Pickers",
       "category": "alert",
@@ -5121,12 +5050,6 @@
       "description": "A modern In-App Purchases management framework for iOS.",
       "homepage": "https://github.com/benjaminmayo/merchantkit"
     }, {
-      "title": "MapViewPlus",
-      "category": "maps",
-      "description": "Use any custom view as custom callout view for MKMapView with cool animations. Use any image as annotation view.",
-      "homepage": "https://github.com/okhanokbay/MapViewPlus",
-      "tags": ["map", "customcalloutview", "calloutview", "annotationview", "swift", "MapKit", "MKMapView"]
-    }, {
       "title": "Swift for Scripting",
       "category": "scripting",
       "description": "A hand-curated collection of useful and informative scripting material.",
@@ -5149,11 +5072,6 @@
       "category": "images",
       "description": "Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.",
       "homepage": "https://github.com/Feghal/ImageDetect"
-    }, {
-      "title": "Poly",
-      "category": "augmented-reality",
-      "description": "Unofficial Google Poly SDK – explore the world of 3D.",
-      "homepage": "https://github.com/piemonte/Poly"
     }, {
       "title": "TheAnimation",
       "category": "animation",
@@ -5201,12 +5119,6 @@
       "description": "A fast and convenient diffing framework.",
       "homepage": "https://github.com/zenangst/Differific"
     }, {
-      "title": "RxReduce",
-      "category": "events",
-      "description": "Reactive implementation of the state container pattern (like Redux). It is based on the simple concepts of state immutability and unidirectionnal data flow.",
-      "homepage": "https://github.com/RxSwiftCommunity/RxReduce",
-      "tags": ["rxswift", "redux", "state container"]
-    }, {
       "title": "MessengerKit",
       "category": "chat",
       "description": "A UI framework for building messenger interfaces.",
@@ -5238,11 +5150,6 @@
       "category": "other-awesome-lists",
       "description": "An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.",
       "homepage": "https://github.com/jogendra/example-ios-apps"
-    }, {
-      "title": "UserDefaultsStore",
-      "category": "key-value-store",
-      "description": "Why not use UserDefaults to store Codable objects 😉.",
-      "homepage": "https://github.com/omaralbeik/UserDefaultsStore"
     }, {
       "title": "Crossroad",
       "category": "app-routing",
@@ -5288,12 +5195,6 @@
       "description": "Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.",
       "homepage": "https://github.com/SteadyAction/EtherWalletKit",
       "tags": ["ethereum", "wallet", "ethereum-wallet", "swift", "ios", "blockchain", "coin", "token", "crypto", "cryptocurrency", "cryptowallet"]
-    }, {
-      "title": "EasyFutures",
-      "category": "events",
-      "description": "🔗Futures & Promises. Easy to use. Highly combinable.",
-      "homepage": "https://github.com/DimaMishchenko/EasyFutures",
-      "tags": ["swift", "future", "futures", "promise", "promises", "ios"]
     }, {
       "title": "Cabbage",
       "category": "video",
@@ -5565,11 +5466,6 @@
       "category": "utility",
       "description": "A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.",
       "homepage": "https://github.com/ZamzamInc/ZamzamKit"
-    }, {
-      "title": "CarLensCollectionViewLayout",
-      "category": "uicollectionview",
-      "description": "An easy-to-use Collection View Layout for card-like animation.",
-      "homepage": "https://github.com/netguru/CarLensCollectionViewLayout"
     }, {
       "title": "DGElasticPullToRefresh",
       "category": "uitableview",
@@ -6114,11 +6010,6 @@
       "category": "games",
       "description": "A view controller for chess boards",
       "homepage": "https://github.com/fulldecent/FDChessboardView"
-    }, {
-      "title": "Streamoji",
-      "category": "ui",
-      "description": "Custom emoji rendering library with support for GIFs and images, UITextView extension.",
-      "homepage": "https://github.com/GetStream/Streamoji"
     }, {
       "title": "BetterSafariView",
       "category": "ui",

@@ -845,11 +845,6 @@
       "description": "Animating Particles.",
       "homepage": "https://github.com/cruisediary/Comets"
     }, {
-      "title": "DKChainableAnimationKit",
-      "category": "animation",
-      "description": "Easy to read and write chainable animations.",
-      "homepage": "https://github.com/Draveness/DKChainableAnimationKit"
-    }, {
       "title": "EasyAnimation",
       "category": "animation",
       "description": "A library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level.",
@@ -1008,11 +1003,6 @@
       "description": "Twitter framework.",
       "homepage": "https://github.com/mattdonnelly/Swifter"
     }, {
-      "title": "SwiftInstagram",
-      "category": "api",
-      "description": "Instagram API wrapper.",
-      "homepage": "https://github.com/AnderGoig/SwiftInstagram"
-    }, {
       "title": "Swiftkube",
       "category": "api",
       "description": "Swift client for Kubernetes.",
@@ -1023,11 +1013,6 @@
       "category": "api",
       "description": "Private and Tokenless Instagram RESTful API.",
       "homepage": "https://github.com/TheM4hd1/SwiftyInsta"
-    }, {
-      "title": "InstagramLogin",
-      "category": "authentication",
-      "description": "Simple way to authenticate Instagram accounts.",
-      "homepage": "https://github.com/AnderGoig/InstagramLogin"
     }, {
       "title": "Pure",
       "category": "dependency-injection",
@@ -1074,11 +1059,6 @@
       "category": "bluetooth",
       "description": "Simple and reliable closure based wrapper around CoreBluetooth.",
       "homepage": "https://github.com/jordanebelanger/SwiftyBluetooth"
-    }, {
-      "title": "ALCameraViewController",
-      "category": "camera",
-      "description": "Camera view controller with custom image picker and image cropping.",
-      "homepage": "https://github.com/AlexLittlejohn/ALCameraViewController"
     }, {
       "title": "Fusuma",
       "category": "camera",
@@ -1177,12 +1157,6 @@
       "homepage": "https://github.com/nsomar/Guaka",
       "tags": ["linux"]
     }, {
-      "title": "CommandLine",
-      "category": "command-line",
-      "description": "Library for creating command-line interfaces.",
-      "homepage": "https://github.com/jatoben/CommandLine",
-      "tags": ["linux"]
-    }, {
       "title": "LineNoise",
       "category": "command-line",
       "description": "A zero-dependency replacement for readline.",
@@ -1247,11 +1221,6 @@
       "category": "core-data",
       "description": "Super awesome Core Data wrapper library for iOS.",
       "homepage": "https://github.com/tadija/AERecord"
-    }, {
-      "title": "AlecrimCoreData",
-      "category": "core-data",
-      "description": "Simple Core Data wrapper library.",
-      "homepage": "https://github.com/Alecrim/AlecrimCoreData"
     }, {
       "title": "CloudCore",
       "category": "core-data",
@@ -1385,12 +1354,6 @@
       "description": "Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable.",
       "homepage": "https://github.com/evermeer/EVReflection"
     }, {
-      "title": "Gloss",
-      "category": "json",
-      "description": "Shiny JSON parsing library.",
-      "homepage": "https://github.com/hkellaway/Gloss",
-      "tags": ["linux"]
-    }, {
       "title": "HandyJSON",
       "category": "json",
       "description": "A handy JSON-object serialization/deserialization library.",
@@ -1430,16 +1393,6 @@
       "category": "json",
       "description": "A lib for JSON with error handling.",
       "homepage": "https://github.com/SwiftyJSON/SwiftyJSON"
-    }, {
-      "title": "Freddy",
-      "category": "json",
-      "description": "A reusable framework for parsing JSON.",
-      "homepage": "https://github.com/bignerdranch/Freddy"
-    }, {
-      "title": "Unbox",
-      "category": "json",
-      "description": "The easy to use JSON decoder.",
-      "homepage": "https://github.com/JohnSundell/Unbox"
     }, {
       "title": "PMJSON",
       "category": "json",
@@ -1593,11 +1546,6 @@
       "description": "Easy NSDate Management.",
       "homepage": "https://github.com/malcommac/SwiftDate"
     }, {
-      "title": "SwiftMoment",
-      "category": "date",
-      "description": "A time and calendar manipulation library.",
-      "homepage": "https://github.com/akosma/SwiftMoment"
-    }, {
       "title": "SwiftyTimer",
       "category": "thread",
       "description": "API for NSTimer.",
@@ -1660,11 +1608,6 @@
       "description": "Binding framework.",
       "homepage": "https://github.com/DeclarativeHub/Bond"
     }, {
-      "title": "BrightFutures",
-      "category": "events",
-      "description": "Promise and future lib.",
-      "homepage": "https://github.com/Thomvis/BrightFutures"
-    }, {
       "title": "EmitterKit",
       "category": "events",
       "description": "Implementation of event emitters and listeners.",
@@ -1709,11 +1652,6 @@
       "category": "events",
       "description": "Replaces delegates and notifications.",
       "homepage": "https://github.com/artman/Signals"
-    }, {
-      "title": "Snail",
-      "category": "events",
-      "description": "An Observables framework.",
-      "homepage": "https://github.com/UrbanCompass/Snail"
     }, {
       "title": "SwiftEventBus",
       "category": "events",
@@ -1957,11 +1895,6 @@
       "description": "A tool to auto-generate `enums` for all your `UIImages` from your Assets Catalogs.",
       "homepage": "https://github.com/SwiftGen/SwiftGen#assets-catalogs"
     }, {
-      "title": "SwiftGif",
-      "category": "images",
-      "description": "A small UIImage extension with GIF support.",
-      "homepage": "https://github.com/swiftgif/SwiftGif"
-    }, {
       "title": "SwiftSVG",
       "category": "images",
       "description": "A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).",
@@ -2159,11 +2092,6 @@
       "description": "IBM's lightweight logging framework.",
       "homepage": "https://github.com/Kitura/HeliumLogger",
       "tags": ["linux"]
-    }, {
-      "title": "Puree",
-      "category": "logging",
-      "description": "A log collector for iOS.",
-      "homepage": "https://github.com/cookpad/puree-ios"
     }, {
       "title": "QorumLogs",
       "category": "logging",
@@ -2377,11 +2305,6 @@
       "description": "A fast & lightweight XML/HTML parser with XPath & CSS support.",
       "homepage": "https://github.com/cezheng/Fuzi"
     }, {
-      "title": "Ji",
-      "category": "html",
-      "description": "XML/HTML parser.",
-      "homepage": "https://github.com/honghaoz/Ji"
-    }, {
       "title": "Kanna",
       "category": "html",
       "description": "Another XML/HTML parser.",
@@ -2449,12 +2372,6 @@
       "description": "Super lightweight web framework based on SWSGI.",
       "homepage": "https://github.com/envoy/Ambassador"
     }, {
-      "title": "Corvus",
-      "category": "webserver",
-      "description": "Web framework to build REST APIs with a declarative syntax.",
-      "homepage": "https://github.com/apodini/corvus",
-      "tags": ["linux"]
-    },{
       "title": "Curassow",
       "category": "webserver",
       "description": "HTTP server using the pre-fork worker model.",
@@ -3066,11 +2983,6 @@
       "description": "Material design components.",
       "homepage": "https://github.com/nghialv/MaterialKit"
     }, {
-      "title": "MediumScrollFullScreen",
-      "category": "ui",
-      "description": "Medium scroll style menubar.",
-      "homepage": "https://github.com/pixyzehn/MediumScrollFullScreen"
-    }, {
       "title": "MPParallaxView",
       "category": "ui",
       "description": "Apple TV Parallax effect.",
@@ -3196,11 +3108,6 @@
       "description": "A rule-based validation library.",
       "homepage": "https://github.com/SwiftValidatorCommunity/SwiftValidator"
     }, {
-      "title": "SwiftyDrop",
-      "category": "alert",
-      "description": "Lightweight dropdown message bar.",
-      "homepage": "https://github.com/morizotter/SwiftyDrop"
-    }, {
       "title": "SwiftCharts",
       "category": "chart",
       "description": "Highly customizable charts for iOS.",
@@ -3240,11 +3147,6 @@
       "category": "textfield",
       "description": "Several ready to use effects for UITextFields.",
       "homepage": "https://github.com/raulriera/TextFieldEffects"
-    }, {
-      "title": "TouchVisualizer",
-      "category": "ui",
-      "description": "Lightweight touch visualization library with a single line of code.",
-      "homepage": "https://github.com/morizotter/TouchVisualizer"
     }, {
       "title": "Twinkle",
       "category": "ui",
@@ -3315,11 +3217,6 @@
       "category": "alert",
       "description": "Simple UIAlertController builder class.",
       "homepage": "https://github.com/tasanobu/Kamagari"
-    }, {
-      "title": "KRAlertController",
-      "category": "alert",
-      "description": "A beautiful alert controller for your iOS.",
-      "homepage": "https://github.com/krimpedance/KRAlertController"
     }, {
       "title": "PMAlertController",
       "category": "alert",
@@ -3401,11 +3298,6 @@
       "description": "A fully customizable library for easy creating UITableView based form.",
       "homepage": "https://github.com/ra1028/Former"
     }, {
-      "title": "SwiftForms",
-      "category": "form",
-      "description": "Forms are now easy as 1-2-3.",
-      "homepage": "https://github.com/ortuman/SwiftForms"
-    }, {
       "title": "SwiftyFORM",
       "category": "form",
       "description": "Forms that can be validated.",
@@ -3435,11 +3327,6 @@
       "category": "menu",
       "description": "Customizable iOS Interactive Side Menu.",
       "homepage": "https://github.com/handsomecode/InteractiveSideMenu"
-    }, {
-      "title": "MediumMenu",
-      "category": "menu",
-      "description": "A menu based on Medium iOS app.",
-      "homepage": "https://github.com/pixyzehn/MediumMenu"
     }, {
       "title": "Pagemenu",
       "category": "menu",
@@ -3612,11 +3499,6 @@
       "description": "Swipeable UITableViewCell based on the stock Mail.app.",
       "homepage": "https://github.com/SwipeCellKit/SwipeCellKit"
     }, {
-      "title": "ExpyTableView",
-      "category": "uitableview",
-      "description": "Make your table view expandable just by implementing one method.",
-      "homepage": "https://github.com/okhanokbay/ExpyTableView"
-    }, {
       "title": "ExpandableCell",
       "category": "uitableview",
       "description": "Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.",
@@ -3636,16 +3518,6 @@
       "category": "utility",
       "description": "Pure Declarative Programming.",
       "homepage": "https://github.com/typelift/Basis"
-    }, {
-      "title": "PinpointKit",
-      "category": "testing",
-      "description": "Lets your testers and users send feedback with annotated screenshots and logs using a simple gesture.",
-      "homepage": "https://github.com/Lickability/PinpointKit"
-    }, {
-      "title": "Butterfly",
-      "category": "utility",
-      "description": "A lightweight library for integrating bug-report and feedback features with shake-motion event.",
-      "homepage": "https://github.com/wongzigii/Butterfly"
     }, {
       "title": "ChainPageCollectionView",
       "category": "animation",
@@ -3726,11 +3598,6 @@
       "category": "utility",
       "description": "The simplest way to display the librarie's licences used in your application.",
       "homepage": "https://github.com/floriangbh/OpenSourceController"
-    }, {
-      "title": "Money",
-      "category": "currency",
-      "description": "Currency formatter.",
-      "homepage": "https://github.com/danthorpe/Money"
     }, {
       "title": "PDFGenerator",
       "category": "pdf",
@@ -3909,16 +3776,6 @@
       "category": "utility",
       "description": "It makes a preview from an url, grabbing all information such as title, relevant texts and images.",
       "homepage": "https://github.com/LeonardoCardoso/SwiftLinkPreview"
-    }, {
-      "title": "InfoView",
-      "category": "ui",
-      "description": "Simple information view with pointed arrow.",
-      "homepage": "https://github.com/anatoliyv/InfoView"
-    }, {
-      "title": "SMIconLabel",
-      "category": "label",
-      "description": "UILabel with image placed from left or right.",
-      "homepage": "https://github.com/anatoliyv/SMIconLabel"
     }, {
       "title": "Version",
       "category": "version-manager",
@@ -4682,11 +4539,6 @@
       "category": "auto-layout",
       "description": "Auto Layout (and manual layout) in one line.",
       "homepage": "https://github.com/wordlessj/Bamboo"
-    }, {
-      "title": "whats-new-in-swift-4",
-      "category": "third-party-guides",
-      "description": "An Xcode playground showcasing the new features in Swift 4.0.",
-      "homepage": "https://github.com/ole/whats-new-in-swift-4"
     }, {
       "title": "Conferences.digital",
       "category": "third-party-guides",

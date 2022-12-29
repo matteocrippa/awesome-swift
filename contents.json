@@ -1100,11 +1100,6 @@
       "description": "A curated collection of splendid 180+ gradients.",
       "homepage": "https://github.com/Gradients/Gradients"
     }, {
-      "title": "HexColor",
-      "category": "colors",
-      "description": "Define UIColors as Hex integers.",
-      "homepage": "https://github.com/artman/HexColor"
-    }, {
       "title": "Hue",
       "category": "colors",
       "description": "Hue is the all-in-one coloring utility that you'll ever need.",
@@ -1286,11 +1281,6 @@
       "category": "realm",
       "description": "Realm is a mobile database: a replacement for Core Data & SQLite.",
       "homepage": "https://github.com/realm/realm-swift"
-    }, {
-      "title": "Realm+JSON",
-      "category": "realm",
-      "description": "A concise Mantle-like way of working with Realm and JSON.",
-      "homepage": "https://github.com/matthewcheok/Realm-JSON"
     }, {
       "title": "Ballcap",
       "category": "firebase",
@@ -1707,11 +1697,6 @@
       "category": "fonts",
       "description": "Use Octicons as UIImage / UIFont in your projects.",
       "homepage": "https://github.com/keitaoouchi/OcticonsKit"
-    }, {
-      "title": "OpenSansSwift",
-      "category": "fonts",
-      "description": "OpenSans.",
-      "homepage": "https://github.com/hemantasapkota/OpenSansSwift"
     }, {
       "title": "SwiftIconFont",
       "category": "fonts",
@@ -2357,11 +2342,6 @@
       "description": "Simple TCP socket library.",
       "homepage": "https://github.com/swiftsocket/SwiftSocket"
     }, {
-      "title": "SwiftDSSocket",
-      "category": "socket",
-      "description": "Asynchronous socket framework built atop DispatchSource.",
-      "homepage": "https://github.com/csujedihy/SwiftDSSocket"
-    }, {
       "title": "SwiftWebSocket",
       "category": "socket",
       "description": "A high performance WebSocket client library .",
@@ -2797,11 +2777,6 @@
       "description": "A message bar for iOS.",
       "homepage": "https://github.com/evgenyneu/Dodo"
     }, {
-      "title": "Element",
-      "category": "ui",
-      "description": "Programmatic UI framework for macOS.",
-      "homepage": "https://github.com/eonist/Element"
-    }, {
       "title": "EstMusicIndicator",
       "category": "ui",
       "description": "Music play indicator like iTunes.",
@@ -2842,11 +2817,6 @@
       "description": "Spotlight view for iOS.",
       "homepage": "https://github.com/yukiasai/Gecco"
     }, {
-      "title": "Geometry",
-      "category": "ui",
-      "description": "extensions for UIView.",
-      "homepage": "https://github.com/artman/Geometry"
-    }, {
       "title": "GlitchLabel",
       "category": "label",
       "description": "Glitching UILabel for iOS.",
@@ -2862,11 +2832,6 @@
       "description": "Flexible Mustache templates.",
       "homepage": "https://github.com/groue/GRMustache.swift"
     }, {
-      "title": "Hexacon",
-      "category": "ui",
-      "description": "A new way to display content in your app like the Apple Watch SpringBoard.",
-      "homepage": "https://github.com/gautier-gdx/Hexacon"
-    }, {
       "title": "HGCircularSlider",
       "category": "ui",
       "description": "A custom reusable circular slider control for iOS application.",
@@ -2876,12 +2841,6 @@
       "category": "textfield",
       "description": "A UITextField with bouncy placeholder.",
       "homepage": "https://github.com/hanton/HTYTextField"
-    }, {
-      "title": "PPAssetsActionController",
-      "category": "ui",
-      "description": "Highly customizable Action Sheet Controller with assets preview.",
-      "homepage": "https://github.com/pavelpantus/PPAssetsActionController",
-      "tags": ["macOS", "UICollectionView", "photos", "assets"]
     }, {
       "title": "YNSearch",
       "category": "ui",
@@ -2927,11 +2886,6 @@
       "category": "label",
       "description": "An UILabel subclass that updates itself to make time ago's format easier.",
       "homepage": "https://github.com/delannoyk/KDEDateLabel"
-    }, {
-      "title": "KDInteractiveNavigationController",
-      "category": "ui",
-      "description": "A UINavigationController subclass that support pop interactive UINavigationBar with hidden or show.",
-      "homepage": "https://github.com/kingiol/KDInteractiveNavigationController"
     }, {
       "title": "KMNavigationBarTransition",
       "category": "ui",
@@ -3013,11 +2967,6 @@
       "description": "The next in the generations of 'growing textviews' optimized for iOS 7 and above.",
       "homepage": "https://github.com/FluidGroup/NextGrowingTextView"
     }, {
-      "title": "NumberMorphView",
-      "category": "label",
-      "description": "A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.",
-      "homepage": "https://github.com/me-abhinav/NumberMorphView"
-    }, {
       "title": "NVActivityIndicatorView",
       "category": "ui",
       "description": "Collection of nice loading animations.",
@@ -3033,11 +2982,6 @@
       "description": "Reimplementation of the Apple HUD.",
       "homepage": "https://github.com/pkluz/PKHUD"
     }, {
-      "title": "PNChart-Swift",
-      "category": "chart",
-      "description": "A simple and beautiful chart lib with animation.",
-      "homepage": "https://github.com/kevinzhow/PNChart-Swift"
-    }, {
       "title": "TKRadarChart",
       "category": "chart",
       "description": "A customizable radar chart.",
@@ -3052,11 +2996,6 @@
       "category": "ui",
       "description": "Option list managed as a reel.",
       "homepage": "https://github.com/Ramotion/reel-search"
-    }, {
-      "title": "SAHistoryNavigationViewController",
-      "category": "ui",
-      "description": "iOS task manager like UI in UINavigationContoller.",
-      "homepage": "https://github.com/marty-suzuki/SAHistoryNavigationViewController"
     }, {
       "title": "ScrollableGraphView",
       "category": "chart",
@@ -3202,11 +3141,6 @@
       "category": "alert",
       "description": "A simple style messages/notifications for iOS 7+.",
       "homepage": "https://github.com/wxxsw/GSMessages"
-    }, {
-      "title": "Hokusai",
-      "category": "alert",
-      "description": "A library for a cool bouncy action sheet.",
-      "homepage": "https://github.com/ytakzk/Hokusai"
     }, {
       "title": "Jelly",
       "category": "transition",
@@ -3574,11 +3508,6 @@
       "description": "How standard types and classes were supposed to work.",
       "homepage": "https://github.com/goktugyil/EZSwiftExtensions"
     }, {
-      "title": "Focus",
-      "category": "utility",
-      "description": "Optics library (includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.",
-      "homepage": "https://github.com/typelift/Focus"
-    }, {
       "title": "XestiMonitors",
       "category": "utility",
       "description": "An extensible monitoring framework.",
@@ -3802,11 +3731,6 @@
       "description": "Facebook SDK for iOS.",
       "homepage": "https://github.com/facebook/facebook-ios-sdk"
     }, {
-      "title": "Translucid",
-      "category": "label",
-      "description": "Lightweight library to set an Image as text background.",
-      "homepage": "https://github.com/Ekhoo/Translucid"
-    }, {
       "title": "DateTimePicker",
       "category": "calendar",
       "description": "A nicer iOS UI component for picking date and time.",
@@ -3877,12 +3801,6 @@
       "category": "misc",
       "description": "Xcode Playground management made easy.",
       "homepage": "https://github.com/giginet/Toybox"
-    },
-    {
-      "title": "CostumeKit",
-      "category": "ui",
-      "description": "Base types for theming an app.",
-      "homepage": "https://github.com/jakemarsh/CostumeKit"
     }, {
       "title": "SwiftChart",
       "category": "chart",
@@ -3936,12 +3854,6 @@
       "category": "ui",
       "description": "Powerful and easy-to-use vector graphics library with SVG support.",
       "homepage": "https://github.com/exyte/macaw"
-    }, {
-      "title": "NoOptionalInterpolation",
-      "category": "localization",
-      "description": "Get rid of \"Optional(...)\" and \"nil\" in string interpolation. Easy pluralization.",
-      "homepage": "https://github.com/T-Pham/NoOptionalInterpolation",
-      "tags": ["optional", "localize", "nil"]
     }, {
       "title": "Wallet",
       "category": "ui",
@@ -4032,11 +3944,6 @@
       "category": "validation",
       "description": "Pattern-based user input formatter, parser and validator for iOS.",
       "homepage": "https://github.com/RedMadRobot/input-mask-ios"
-    }, {
-      "title": "Vulcan",
-      "category": "images",
-      "description": "Multi image downloader with priority.",
-      "homepage": "https://github.com/jinSasaki/Vulcan"
     }, {
       "title": "YPImagePicker",
       "category": "images",
@@ -4391,11 +4298,6 @@
       "description": "A library of widgets and helpers to build instant-search features on iOS.",
       "homepage": "https://github.com/algolia/instantsearch-ios"
     }, {
-      "title": "Dratini",
-      "category": "network",
-      "description": "A neat network layer.",
-      "homepage": "https://github.com/kevin0571/Dratini"
-    }, {
       "title": "XcodeGen",
       "category": "misc",
       "description": "Tool for generating Xcode projects from a YAML file and your project directory.",
@@ -4661,12 +4563,6 @@
       "description": "Publish and discover services using mDNS (Bonjour, Zeroconf).",
       "homepage": "https://github.com/AlTavares/Ciao"
     }, {
-      "title": "ARVoxelKit",
-      "category": "augmented-reality",
-      "description": "Voxel graphic framework using ARKit.",
-      "homepage": "https://github.com/VoxxxelAR/ARVoxelKit",
-      "tags": ["AR", "augmented", "reality", "voxel"]
-    }, {
       "title": "Chronology",
       "category": "date",
       "description": "Building a better date/time library.",
@@ -4788,12 +4684,6 @@
       "description": "A modern device detection and querying library.",
       "homepage": "https://github.com/bojan/Thingy",
       "tags": ["device", "system"]
-    }, {
-		  "title": "Kinieta",
-		  "category": "animation",
-		  "description": "An simple Animation Engine for iOS with an Intuitive API and Readable Code.",
-		  "homepage": "https://github.com/mmick66/kinieta",
-		  "tags": ["animation", "engine", "motion", "bezier"]
     }, {
       "title": "NextLevelSessionExporter",
       "category": "video",

@@ -6024,7 +6024,7 @@
     }, {
       "title": "Periphery",
       "category": "utility",
-      "description": "A tool to identify unused code in Swift projects",
+      "description": "A tool to identify unused code in Swift projects.",
       "homepage": "https://github.com/peripheryapp/periphery"
     }
   ]

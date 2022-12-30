@@ -6021,6 +6021,11 @@
       "category": "misc",
       "description": "Level up your `Codable` structs through property wrappers. The goal of these property wrappers is to avoid implementing a custom `init(from decoder: Decoder)` throws and suffer through boilerplate.",
       "homepage": "https://github.com/marksands/BetterCodable"
+    }, {
+      "title": "Periphery",
+      "category": "utility",
+      "description": "A tool to identify unused code in Swift projects.",
+      "homepage": "https://github.com/peripheryapp/periphery"
     }
   ]
 }

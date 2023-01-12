@@ -808,6 +808,11 @@
       "homepage": "https://github.com/SvenTiigi/SwiftKit",
       "tags": ["cli", "swift", "generate", "framework", "xcode", "script", "brew"]
     }, {
+      "title": "xc",
+      "category": "misc",
+      "description": "A tool to open the Xcode project file by the specified version.",
+      "homepage": "https://github.com/s2mr/xc"
+    }, {
       "title": "Capable",
       "category": "accessibility",
       "description": "Keep track of accessibility settings, leverage high contrast colors, and use scalable fonts to enable users with disabilities to use your app.",

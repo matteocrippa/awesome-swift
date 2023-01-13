@@ -3150,7 +3150,7 @@
       "title": "Kamagari",
       "category": "alert",
       "description": "Simple UIAlertController builder class.",
-      "homepage": "https://github.com/tasanobu/Kamagari"
+      "homepage": "https://github.com/tasanobu-zz/Kamagari"
     }, {
       "title": "PMAlertController",
       "category": "alert",
@@ -6026,6 +6026,11 @@
       "category": "utility",
       "description": "A tool to identify unused code in Swift projects.",
       "homepage": "https://github.com/peripheryapp/periphery"
+    }, {
+      "title": "xc",
+      "category": "misc",
+      "description": "A tool to open the Xcode project file by the specified version.",
+      "homepage": "https://github.com/s2mr/xc"
     }
   ]
 }

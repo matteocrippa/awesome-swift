@@ -6034,7 +6034,7 @@
     }, {
         "title": "OpenAI",
         "category": "AI",
-        "description": "Swift implementation over OpenAI public API.",
+        "description": "Swift package for OpenAI public API.",
         "homepage": "https://github.com/MacPaw/OpenAI"
       }
   ]

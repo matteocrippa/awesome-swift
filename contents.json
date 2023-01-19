@@ -6031,6 +6031,11 @@
       "category": "misc",
       "description": "A tool to open the Xcode project file by the specified version.",
       "homepage": "https://github.com/s2mr/xc"
-    }
+    }, {
+        "title": "OpenAI",
+        "category": "AI",
+        "description": "Swift implementation over OpenAI public API.",
+        "homepage": "https://github.com/MacPaw/OpenAI"
+      }
   ]
 }

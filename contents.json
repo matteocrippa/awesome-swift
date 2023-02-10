@@ -6321,6 +6321,12 @@
       "description": "Highly customizable tab bar for SwiftUI applications.",
       "homepage": "https://github.com/onl1ner/TabBar",
       "tags": ["swift", "swiftui", "tab-bar", "iOS"]
+    },{
+      "title": "GoodPersistence",
+      "category": "keychain",
+      "description": "💾 GoodPersistence simplifies caching data in keychain and UserDefaults. Using a property wrappers",
+      "homepage": "https://github.com/GoodRequest/GoodPersistence",
+      "tags": ["swift", "iOS", "persistence", "userdefaults", "keychain"]
     }
   ]
 }

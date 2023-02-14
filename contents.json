@@ -6032,10 +6032,15 @@
       "description": "A tool to open the Xcode project file by the specified version.",
       "homepage": "https://github.com/s2mr/xc"
     }, {
-      "title": "L10nLint",
-      "category": "quality",
-      "description": "A linter tool for Localizable.strings.",
-      "homepage": "https://github.com/s2mr/L10nLint"
+        "title": "OpenAI",
+        "category": "ai",
+        "description": "Swift package for OpenAI public API.",
+        "homepage": "https://github.com/MacPaw/OpenAI"
+    }, {
+        "title": "L10nLint",
+        "category": "quality",
+        "description": "A linter tool for Localizable.strings.",
+        "homepage": "https://github.com/s2mr/L10nLint"
     }
   ]
 }

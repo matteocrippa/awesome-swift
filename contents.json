@@ -6033,7 +6033,7 @@
       "homepage": "https://github.com/s2mr/xc"
     }, {
         "title": "OpenAI",
-        "category": "AI",
+        "category": "ai",
         "description": "Swift package for OpenAI public API.",
         "homepage": "https://github.com/MacPaw/OpenAI"
     }, {

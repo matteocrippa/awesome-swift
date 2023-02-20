@@ -6041,6 +6041,11 @@
         "category": "quality",
         "description": "A linter tool for Localizable.strings.",
         "homepage": "https://github.com/s2mr/L10nLint"
+    }, {
+        "title": "AnimatedTabBar",
+        "category": "layout",
+        "description": "A tabbar with a number of preset animations.",
+        "homepage": "https://github.com/exyte/AnimatedTabBar"
     }
   ]
 }

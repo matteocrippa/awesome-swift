@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1039 | February 23, 2023
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1040 | February 23, 2023
 
 ### Contents
 
@@ -257,6 +257,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [App Architecture](https://github.com/objcio/app-architecture) - A sample Code of the App Architecture Book.
 * [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns.
+* [GoodReactor](https://github.com/GoodRequest/GoodReactor) - ⚛️ GoodReactor is a Redux-inspired Reactor framework for communication between the View Model, View Controller, and Coordinator.
 * [Reactant](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS.
 * [ReduxUI](https://github.com/gre4ixin/ReduxUI) - Redux framework for easy use with SwiftUI.
 * [Spin](https://github.com/Spinners/Spin.Swift) - Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine.

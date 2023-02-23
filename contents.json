@@ -6084,7 +6084,7 @@
     },{
       "title": "GoodNetworking",
       "category": "network",
-      "description": "📡 GoodNetworking is an iOS library written in Swift that simplifies HTTP networking",
+      "description": "📡 GoodNetworking simplifies HTTP networking.",
       "homepage": "https://github.com/GoodRequest/GoodNetworking",
       "tags": ["swift", "iOS", "networking"]
     }

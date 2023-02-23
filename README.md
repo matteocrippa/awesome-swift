@@ -163,7 +163,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 ### Newsletter
 [back to top](#readme) 
 
-* [Open Source Updates for Swift Projects](https://www.getrevue.co/profile/ossp_updates/) - A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.
+* [Open Source Updates for Swift Projects](https://ossp-updates.beehiiv.com/) - A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.
 * [Swift Weekly Brief](https://swiftweeklybrief.com/) - A multi author curated newsletter.
 
 ### Official Guides

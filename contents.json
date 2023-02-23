@@ -6081,6 +6081,12 @@
         "category": "layout",
         "description": "A tabbar with a number of preset animations.",
         "homepage": "https://github.com/exyte/AnimatedTabBar"
+    },{
+      "title": "GoodNetworking",
+      "category": "network",
+      "description": "📡 GoodNetworking simplifies HTTP networking.",
+      "homepage": "https://github.com/GoodRequest/GoodNetworking",
+      "tags": ["swift", "iOS", "networking"]
     }
   ]
 }

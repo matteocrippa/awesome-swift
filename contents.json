@@ -5965,6 +5965,12 @@
       "homepage": "https://github.com/onl1ner/TabBar",
       "tags": ["swift", "swiftui", "tab-bar", "iOS"]
     },{
+      "title": "Temple",
+      "category": "template",
+      "description": "🗂️ Most advanced project and file templates.",
+      "homepage": "https://github.com/GoodRequest/Temple",
+      "tags": ["swift", "iOS", "tempalate", "Xcode"]
+    },{
       "title": "GoodProvider",
       "category": "uicollectionview",
       "description": "🚀 UITableView and UICollectionView provider to simplify basic scenarios of showing the data.",
@@ -6006,8 +6012,7 @@
         "category": "network",
         "description": "Network API With RxSwift + Moya + HandyJSON + Plugins.",
         "homepage": "https://github.com/yangKJ/RxNetworks"
-      }
-    , {
+    }, {
       "title": "HypeUI",
       "category": "auto-layout",
       "description": "🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit",

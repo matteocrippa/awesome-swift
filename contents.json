@@ -662,6 +662,11 @@
       "description": "A community of educators sharing materials for teaching Swift and app development.",
       "homepage": "https://github.com/swifteducation"
     }, {
+      "title": "Swift & SwiftUI Tutorials",
+      "category": "third-party-guides",
+      "description": "SwiftUI learning with Ease.",
+      "homepage": "https://janeshswift.com"
+    },{
       "title": "30 Days of Swift",
       "category": "third-party-guides",
       "description": "A cool 30 days tutorial.",

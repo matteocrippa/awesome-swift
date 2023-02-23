@@ -5964,6 +5964,12 @@
       "description": "Highly customizable tab bar for SwiftUI applications.",
       "homepage": "https://github.com/onl1ner/TabBar",
       "tags": ["swift", "swiftui", "tab-bar", "iOS"]
+    },{
+      "title": "GoodProvider",
+      "category": "uicollectionview",
+      "description": "🚀 UITableView and UICollectionView provider to simplify basic scenarios of showing the data.",
+      "homepage": "https://github.com/GoodRequest/GRProvider",
+      "tags": ["swift", "iOS", "UITableView", "UICollectionView"]
     }, {
       "title": "Model-View-Presenter template",
       "category": "boilerplates",

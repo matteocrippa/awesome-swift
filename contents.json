@@ -2081,7 +2081,7 @@
       "title": "QorumLogs",
       "category": "logging",
       "description": "Logging Utility for Xcode & Google Docs.",
-      "homepage": "https://github.com/goktugyil/QorumLogs"
+      "homepage": "https://github.com/Esqarrouth/QorumLogs"
     }, {
       "title": "Rainbow",
       "category": "logging",
@@ -2785,7 +2785,7 @@
       "title": "EZLoadingActivity",
       "category": "hud",
       "description": "Lightweight loading activity HUD.",
-      "homepage": "https://github.com/goktugyil/EZLoadingActivity"
+      "homepage": "https://github.com/Esqarrouth/EZLoadingActivity"
     }, {
       "title": "FAQView",
       "category": "ui",

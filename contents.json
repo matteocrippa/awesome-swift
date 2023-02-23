@@ -5964,6 +5964,12 @@
       "description": "Highly customizable tab bar for SwiftUI applications.",
       "homepage": "https://github.com/onl1ner/TabBar",
       "tags": ["swift", "swiftui", "tab-bar", "iOS"]
+    }, {
+      "title": "GoodExtensions-iOS",
+      "category": "utility",
+      "description": "📑 GoodExtensions is a collection of useful and frequently used extensions.",
+      "homepage": "https://github.com/GoodRequest/GoodExtensions-iOS",
+      "tags": ["swift", "iOS", "utility"]
     },{
       "title": "GoodUIKit",
       "category": "utility",

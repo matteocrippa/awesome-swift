@@ -5964,6 +5964,12 @@
       "description": "Highly customizable tab bar for SwiftUI applications.",
       "homepage": "https://github.com/onl1ner/TabBar",
       "tags": ["swift", "swiftui", "tab-bar", "iOS"]
+    }, {
+      "title": "GoodReactor",
+      "category": "patterns",
+      "description": "⚛️ GoodReactor is a Redux-inspired Reactor framework for communication between the View Model, View Controller, and Coordinator.",
+      "homepage": "https://github.com/GoodRequest/GoodReactor",
+      "tags": ["swift", "iOS", "reactorKit"]
     },{
       "title": "GoodPersistence",
       "category": "keychain",

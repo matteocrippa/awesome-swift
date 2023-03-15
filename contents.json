@@ -2307,7 +2307,7 @@
     }, {
       "title": "ZMarkupParser",
       "category": "html",
-      "description": "A pure-Swift library that helps you convert HTML strings into NSAttributedString with customized styles and tags.",
+      "description": "Helps you convert HTML strings into NSAttributedString with customized styles and tags.",
       "homepage": "https://github.com/ZhgChgLi/ZMarkupParser"
     }, {
       "title": "CocoaMQTT",

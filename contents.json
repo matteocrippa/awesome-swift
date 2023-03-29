@@ -572,6 +572,10 @@
       "id": "ui-3d",
       "parent": "ui"
   }, {
+      "title": "Scroll Bars",
+      "id": "scroll-bars",
+      "parent": "ui"
+  }, {
     "title": "Utility",
     "id": "utility",
     "parent": "libs",
@@ -6087,6 +6091,12 @@
       "description": "📡 GoodNetworking simplifies HTTP networking.",
       "homepage": "https://github.com/GoodRequest/GoodNetworking",
       "tags": ["swift", "iOS", "networking"]
+    }, {
+      "title": "DMScrollBar",
+      "category": "scroll-bars",
+      "description": "Best in class customizable ScrollBar for any type of ScrollView with Decelerating, Bounce & Rubber band mechanisms and many many more.",
+      "homepage": "https://github.com/batanus/DMScrollBar",
+      "tags": ["swift", "iOS", "scroll-bar", "scroll-indicator", "scroll-view"]
     }
   ]
 }

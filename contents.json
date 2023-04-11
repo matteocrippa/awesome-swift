@@ -926,6 +926,11 @@
       "description": "Elegant SVG animation kit.",
       "homepage": "https://github.com/s2mr/Elephant"
     }, {
+      "title": "CocoaSprings",
+      "category": "animation",
+      "description": "Interactive spring animations for iOS/macOS.",
+      "homepage": "https://github.com/MacPaw/CocoaSprings"
+    }, {
       "title": "Appz",
       "category": "app-routing",
       "description": "Launch external apps and deeplink with ease.",

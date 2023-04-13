@@ -2829,7 +2829,7 @@
       "title": "Gecco",
       "category": "walkthrough",
       "description": "Spotlight view for iOS.",
-      "homepage": "https://github.com/yukiasai/Gecco"
+      "homepage": "https://github.com/xai3/Gecco"
     }, {
       "title": "GlitchLabel",
       "category": "label",
@@ -3435,7 +3435,7 @@
       "title": "Shoyu",
       "category": "uitableview",
       "description": "Easier way to represent the structure of UITableView.",
-      "homepage": "https://github.com/yukiasai/Shoyu"
+      "homepage": "https://github.com/xai3/Shoyu"
     }, {
       "title": "YNExpandableCell",
       "category": "uitableview",

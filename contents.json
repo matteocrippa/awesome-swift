@@ -6102,6 +6102,12 @@
       "description": "Best in class customizable ScrollBar for any type of ScrollView with Decelerating, Bounce & Rubber band mechanisms and many many more.",
       "homepage": "https://github.com/batanus/DMScrollBar",
       "tags": ["swift", "iOS", "scroll-bar", "scroll-indicator", "scroll-view"]
+    }, {
+      "title": "Chat",
+      "category": "Chat",
+      "description": "SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker",
+      "homepage": "https://github.com/exyte/chat",
+      "tags": ["swift", "iOS", "swiftui", "chat"]
     }
   ]
 }

@@ -3313,7 +3313,7 @@
     }, {
       "title": "SegmentIO",
       "category": "menu",
-      "description": "Animated top/bottom segmented menu for iOS written in Swift.",
+      "description": "Animated top/bottom segmented menu for iOS.",
       "homepage": "https://github.com/Yalantis/Segmentio"
     }, {
       "title": "KWDrawerController",

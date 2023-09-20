@@ -6108,6 +6108,11 @@
       "description": "SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker",
       "homepage": "https://github.com/exyte/chat",
       "tags": ["swift", "iOS", "swiftui", "chat"]
+    }, {
+      "title": "Video Editor SDK",
+      "category": "video",
+      "description": "Video Editor SDK[https://www.banuba.com/video-editor-sdk-best-for-developers] (Android & iOS) is a fully-functional video editor that can be integrated into an app in minutes, designed to create exciting social media content with a wide range of effects and filters for professional-quality videos on phones.",
+      "homepage": "https://github.com/Banuba/ve-sdk-ios-integration-sample"
     }
   ]
 }

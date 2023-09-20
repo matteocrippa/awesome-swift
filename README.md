@@ -1755,7 +1755,6 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - Easy to Use UIView subclass for implementating a video background.
 * [Swifty360Player](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
 * [YiVideoEditor](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
-* [VideoEditor SDK](https://github.com/Banuba/ve-sdk-ios-integration-sample) - Video Editor SDK (Android & iOS) is a fully-functional video editor that can be integrated into an app in minutes, designed to create exciting social media content with a wide range of effects and filters for professional-quality videos on phones.
 
 ## Serverless
 

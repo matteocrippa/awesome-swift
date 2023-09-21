@@ -6108,6 +6108,12 @@
       "description": "SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker",
       "homepage": "https://github.com/exyte/chat",
       "tags": ["swift", "iOS", "swiftui", "chat"]
+    }, {
+      "title": "SwiftAutoGUI",
+      "category": "utility",
+      "description": "Used to programmatically control the mouse & keyboard. A library for manipulating macOS with Swift.",
+      "homepage": "https://github.com/NakaokaRei/SwiftAutoGUI",
+      "tags": ["swift", "macos"]
     }
   ]
 }

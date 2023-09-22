@@ -100,12 +100,12 @@ def output_table(ios_app_link, num_projects)
   date = DateTime.now
   date_display = date.strftime "%B %d, %Y"
 
-  o = "| Awesome | Linux | Projects | Updated\n| :-: | :-: | :-: | :-: | :-:\n"
-  o << '| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | '
-  o << ' :penguin: | '
-  o << "#{num_projects} | "
-  o << date_display
-
+  o =  "| Awesome | Linux | Projects | Updated |\n"
+  o << "|:-------:|:-----:|:--------:|:-------:|\n"
+  # row
+  o << '| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) '
+  o << "| :penguin: | #{num_projects} | #{date_display} |"
+  # /row
   o
 end
 

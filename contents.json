@@ -6120,6 +6120,12 @@
       "description": "Present any popup in no time. Keep your code clean.",
       "homepage": "https://github.com/Mijick/PopupView",
       "tags": ["swift", "swiftui", "iOS", "macOS", "tvOS", "popup"]
+    }, {
+      "title": "MijickNavigattie",
+      "category": "transition",
+      "description": "Easy navigation with SwiftUI.",
+      "homepage": "https://github.com/Mijick/Navigattie",
+      "tags": ["swift", "swiftui", "iOS", "transition", "navigation"]
     }
   ]
 }

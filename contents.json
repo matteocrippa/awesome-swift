@@ -6114,6 +6114,12 @@
       "description": "Used to programmatically control the mouse & keyboard. A library for manipulating macOS with Swift.",
       "homepage": "https://github.com/NakaokaRei/SwiftAutoGUI",
       "tags": ["swift", "macos"]
+    }, {
+      "title": "MijickPopupView",
+      "category": "alert",
+      "description": "Present any popup in no time. Keep your code clean.",
+      "homepage": "https://github.com/Mijick/PopupView",
+      "tags": ["swift", "swiftui", "iOS", "macOS", "tvOS", "popup"]
     }
   ]
 }

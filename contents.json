@@ -6103,8 +6103,8 @@
       "homepage": "https://github.com/batanus/DMScrollBar",
       "tags": ["swift", "iOS", "scroll-bar", "scroll-indicator", "scroll-view"]
     }, {
-      "title": "Chat",
-      "category": "Chat",
+      "title": "ExyteChat",
+      "category": "chat",
       "description": "SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker",
       "homepage": "https://github.com/exyte/chat",
       "tags": ["swift", "iOS", "swiftui", "chat"]

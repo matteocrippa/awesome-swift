@@ -6132,6 +6132,12 @@
       "description": "Enhancing Date handling by enabling type-level customization of date components",
       "homepage": "https://github.com/Ryu0118/swift-typed-date",
       "tags": ["swift", "date", "iOS", "macOS", "tvOS"]
+    }, {
+      "title": "MemberwiseInit",
+      "category": "misc",
+      "description": "`@MemberwiseInit` is a Swift Macro that can more often provide your intended `init`, while following the same safe-by-default semantics of Swift’s memberwise initializers.",
+      "homepage": "https://github.com/gohanlon/swift-memberwise-init-macro",
+      "tags": ["swift", "macro", "init", "initializers"]
     }
   ]
 }

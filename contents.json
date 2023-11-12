@@ -6126,6 +6126,12 @@
       "description": "Easy navigation with SwiftUI.",
       "homepage": "https://github.com/Mijick/Navigattie",
       "tags": ["swift", "swiftui", "iOS", "transition", "navigation"]
+    }, {
+      "title": "Aptabase",
+      "category": "analytics",
+      "description": "Open Source, Privacy-First and Simple Analytics for Swift Apps.",
+      "homepage": "https://github.com/aptabase/aptabase",
+      "tags": ["analytics", "swift", "iOS", "macOS", "tvOS"]
     }
   ]
 }

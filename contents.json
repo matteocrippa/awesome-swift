@@ -6127,7 +6127,7 @@
       "homepage": "https://github.com/Mijick/Navigattie",
       "tags": ["swift", "swiftui", "iOS", "transition", "navigation"]
     }, {
-      "title": "swift-fullscreen-popup",
+      "title": "FullscreenPopup",
       "category": "alert",
       "description": "Present any popup above NavigationBar in SwiftUI",
       "homepage": "https://github.com/Ryu0118/swift-fullscreen-popup",

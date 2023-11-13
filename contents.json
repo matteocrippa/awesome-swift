@@ -6126,6 +6126,12 @@
       "description": "Easy navigation with SwiftUI.",
       "homepage": "https://github.com/Mijick/Navigattie",
       "tags": ["swift", "swiftui", "iOS", "transition", "navigation"]
+    }, {
+      "title": "TypedDate",
+      "category": "date",
+      "description": "Enhancing Date handling by enabling type-level customization of date components",
+      "homepage": "https://github.com/Ryu0118/swift-typed-date",
+      "tags": ["swift", "date", "iOS", "macOS", "tvOS"]
     }
   ]
 }

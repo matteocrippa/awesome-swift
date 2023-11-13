@@ -6126,6 +6126,12 @@
       "description": "Easy navigation with SwiftUI.",
       "homepage": "https://github.com/Mijick/Navigattie",
       "tags": ["swift", "swiftui", "iOS", "transition", "navigation"]
+    }, {
+      "title": "SimplexArchitecture",
+      "category": "patterns",
+      "description": "A Simple architecture that decouples state changes from SwiftUI's View",
+      "homepage": "https://github.com/Ryu0118/swiftui-simplex-architecture",
+      "tags": ["swift", "swiftui", "iOS", "transition", "navigation"]
     }
   ]
 }

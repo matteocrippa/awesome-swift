@@ -6138,6 +6138,12 @@
       "description": "Present any popup above NavigationBar in SwiftUI",
       "homepage": "https://github.com/Ryu0118/swift-fullscreen-popup",
       "tags": ["swift", "swiftui", "iOS", "macOS", "tvOS", "popup"]
+    }, {
+      "title": "MemberwiseInit",
+      "category": "misc",
+      "description": "`@MemberwiseInit` is a Swift Macro that can more often provide your intended `init`, while following the same safe-by-default semantics of Swift’s memberwise initializers.",
+      "homepage": "https://github.com/gohanlon/swift-memberwise-init-macro",
+      "tags": ["swift", "macro", "init", "initializers"]
     }
   ]
 }

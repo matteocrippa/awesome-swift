@@ -804,7 +804,7 @@
       "title": "xcbeautify",
       "category": "misc",
       "description": "Little beautifier tool for xcodebuild.",
-      "homepage": "https://github.com/tuist/xcbeautify"
+      "homepage": "https://github.com/cpisciotta/xcbeautify"
     }, {
       "title": "xcodeproj",
       "category": "misc",
@@ -974,7 +974,7 @@
       "title": "MusicKit",
       "category": "audio",
       "description": "A framework for composing and transforming music.",
-      "homepage": "https://github.com/benzguo/MusicKit"
+      "homepage": "https://github.com/vprtwn/MusicKit"
     }, {
       "title": "Cely",
       "category": "authentication",
@@ -3064,7 +3064,7 @@
       "title": "SwiftCharts",
       "category": "chart",
       "description": "Highly customizable charts for iOS.",
-      "homepage": "https://github.com/ivanschuetz/SwiftCharts"
+      "homepage": "https://github.com/owlmafia/SwiftCharts"
     }, {
       "title": "SwiftyWalkthrough",
       "category": "walkthrough",
@@ -3520,7 +3520,7 @@
       "title": "EZSwiftExtensions",
       "category": "utility",
       "description": "How standard types and classes were supposed to work.",
-      "homepage": "https://github.com/goktugyil/EZSwiftExtensions"
+      "homepage": "https://github.com/Esqarrouth/EZSwiftExtensions"
     }, {
       "title": "XestiMonitors",
       "category": "utility",

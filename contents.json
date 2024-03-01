@@ -6144,6 +6144,13 @@
       "description": "`@MemberwiseInit` is a Swift Macro that can more often provide your intended `init`, while following the same safe-by-default semantics of Swift’s memberwise initializers.",
       "homepage": "https://github.com/gohanlon/swift-memberwise-init-macro",
       "tags": ["swift", "macro", "init", "initializers"]
+    },
+    {
+      "title": "SwiftUIMaterialTabs",
+      "category": "tab",
+      "description": "Material 3-style tabs and Sticky Headers rolled into one SwiftUI library",
+      "homepage": "https://github.com/SwiftKickMobile/SwiftUIMaterialTabs",
+      "tags": ["swiftui", "tab", "ios", "scroll", "header"]
     }
   ]
 }

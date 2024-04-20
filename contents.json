@@ -7614,6 +7614,12 @@
       "description": "`@MemberwiseInit` is a Swift Macro that can more often provide your intended `init`, while following the same safe-by-default semantics of Swift’s memberwise initializers.",
       "homepage": "https://github.com/gohanlon/swift-memberwise-init-macro",
       "tags": ["swift", "macro", "init", "initializers"]
-    }
+    }, {
+      "title": "ExtendedAttributes",
+      "category": "files",
+      "description": "Manage extended attributes for files and folders.",
+      "homepage": "https://github.com/sindresorhus/ExtendedAttributes",
+      "tags": ["swift", "system", "file-system"]
+    }  
   ]
 }

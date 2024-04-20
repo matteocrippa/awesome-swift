@@ -1,0 +1,16 @@
+[
+  {
+    "loc": 2761,
+    "status": 301,
+    "link": "https://github.com/danielgindi/Charts",
+    "redirect": "https://github.com/ChartsOrg/Charts",
+    "error": ""
+  },
+  {
+    "loc": 3147,
+    "status": 301,
+    "link": "https://github.com/JT501/CFNotify",
+    "redirect": "https://github.com/JT501/SwiftNotify",
+    "error": ""
+  }
+]

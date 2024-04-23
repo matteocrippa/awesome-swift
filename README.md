@@ -1485,6 +1485,7 @@ In parternship with:
 * [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 * [YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) - Adorable iOS drop down menu.
+* [SegmentIO](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented menu for iOS
 
 #### Pagination
 [back to top](#readme) 

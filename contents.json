@@ -4002,6 +4002,12 @@
       "homepage": "https://github.com/hemangshah/HHFloatingView"
     },
     {
+      "title": "SegmentIO",
+      "category": "menu",
+      "description": "Animated top/bottom segmented menu for iOS.",
+      "homepage": "https://github.com/Yalantis/Segmentio"
+    },
+    {
       "title": "KWDrawerController",
       "category": "menu",
       "description": "Drawer view controller that easy to use.",

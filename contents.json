@@ -7629,12 +7629,20 @@
       "tags": ["swift", "macro", "init", "initializers"]
     },
     {
+      "title": "SimplexArchitecture",
+      "category": "patterns",
+      "description": "A Simple architecture that decouples state changes from SwiftUI's View",
+      "homepage": "https://github.com/Ryu0118/swiftui-simplex-architecture",
+      "tags": ["swift", "swiftui", "iOS", "macOS", "tvOS"]
+    },
+    {
       "title": "SwiftUIMaterialTabs",
       "category": "tab",
       "description": "Material 3-style tabs and Sticky Headers rolled into one SwiftUI library",
       "homepage": "https://github.com/SwiftKickMobile/SwiftUIMaterialTabs",
       "tags": ["swiftui", "tab", "ios", "scroll", "header"]
-    }, {
+    },
+    {
       "title": "ExtendedAttributes",
       "category": "files",
       "description": "Manage extended attributes for files and folders.",

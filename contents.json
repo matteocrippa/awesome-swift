@@ -2404,6 +2404,12 @@
       "homepage": "https://github.com/layoutBox/FlexLayout"
     },
     {
+      "title": "FrameLayoutKit",
+      "category": "layout",
+      "description": "This framework supports complex layouts, including chaining and nesting layout with simple and intuitive operand & DSL syntax.",
+      "homepage": "https://github.com/kennic/FrameLayoutKit"
+    },
+    {
       "title": "PinLayout",
       "category": "layout",
       "description": "Fast Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS]",

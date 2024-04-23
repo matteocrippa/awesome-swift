@@ -7595,6 +7595,13 @@
       "tags": ["swift", "swiftui", "iOS", "transition", "navigation"]
     },
     {
+      "title": "Aptabase",
+      "category": "analytics",
+      "description": "Open Source, Privacy-First and Simple Analytics for Swift Apps.",
+      "homepage": "https://github.com/aptabase/aptabase",
+      "tags": ["analytics", "swift", "iOS", "macOS", "tvOS"]
+    },
+    {
       "title": "TypedDate",
       "category": "date",
       "description": "Enhancing Date handling by enabling type-level customization of date components",

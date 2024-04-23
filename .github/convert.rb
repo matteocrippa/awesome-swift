@@ -94,6 +94,12 @@ def output_contributing(j)
   o
 end
 
+def output_partnership()
+  o = "\n\nIn parternship with:\n\n"
+  o << "[![Codemotion](https://github.com/matteocrippa/awesome-swift/blob/master/.github/images/codemotion_logo.png?raw=true)](https://codemo.tech/partners)"
+  o << "\n\n"
+end
+
 def output_table(ios_app_link, num_projects)
   require 'date'
 
@@ -140,6 +146,7 @@ end
 
 def write_readme(j, filename)
     output = output_header(j)
+    output << output_partnership()
     output << output_toc(j)
     output << output_content(j)
     output << output_contributing(j)

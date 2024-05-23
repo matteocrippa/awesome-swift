@@ -2512,6 +2512,12 @@
       "homepage": "https://github.com/Asana/locheck"
     },
     {
+      "title": "StringSwitch",
+      "category": "localization",
+      "description": "Easily convert iOS .strings files to Android strings.xml format and vice versa.",
+      "homepage": "https://stringswitch.com"
+    },
+    {
       "title": "SwiftGen-L10n",
       "category": "localization",
       "description": "A tool to auto-generate `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`).",

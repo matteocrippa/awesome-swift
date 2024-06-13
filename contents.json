@@ -7654,6 +7654,20 @@
       "description": "Manage extended attributes for files and folders.",
       "homepage": "https://github.com/sindresorhus/ExtendedAttributes",
       "tags": ["swift", "system", "file-system"]
+    },
+    {
+      "title": "AnimatedGradient",
+      "category": "animation",
+      "description": "Animated linear gradient library written with SwiftUI",
+      "homepage": "https://github.com/exyte/AnimatedGradient",
+      "tags": ["swiftui", "gradient", "animation"]
+    },
+    {
+      "title": "FlagAndCountryCode",
+      "category": "utility",
+      "description": "FlagAndCountryCode provides phone codes and flags for every country. Works on UIKit and SwiftUI",
+      "homepage": "https://github.com/exyte/FlagAndCountryCode",
+      "tags": ["swift", "flag", "phone", "country-code"]
     }  
   ]
 }

@@ -2374,6 +2374,12 @@
       "tags": ["linux"]
     },
     {
+      "title": "ContactsChangeNotifier",
+      "category": "kit",
+      "description": "Which contacts changed outside your app? Better CNContactStoreDidChange notification: Get real changes, without the noise.",
+      "homepage": "https://github.com/yonat/ContactsChangeNotifier"
+    },
+    {
       "title": "EasySwiftLayout",
       "category": "auto-layout",
       "description": "Lightweight Swift framework for Apple's Auto-Layout.",

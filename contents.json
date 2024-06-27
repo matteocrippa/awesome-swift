@@ -2442,7 +2442,7 @@
     {
       "title": "FixFlex",
       "category": "auto-layout",
-      "description": "Declarative autolayout based on NSLayoutAnchor, swifty reimagination of VFL, alternative to UIStackView",
+      "description": "Declarative autolayout based on NSLayoutAnchor, swifty reimagination of VFL, alternative to UIStackView.",
       "homepage": "https://github.com/psharanda/FixFlex"
     },
     {

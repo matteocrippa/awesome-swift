@@ -6363,6 +6363,12 @@
       "homepage": "https://github.com/Ramotion/circle-menu"
     },
     {
+      "title": "GitHubRestAPISwiftOpenAPI",
+      "category": "api",
+      "description": "Scheduled generated GitHub's REST API as Swift code from OpenAPI specification.",
+      "homepage": "https://github.com/Wei18/github-rest-api-swift-openapi"
+    },
+    {
       "title": "GitHubAPI",
       "category": "api",
       "description": "Implementation of GitHub REST API v3.",

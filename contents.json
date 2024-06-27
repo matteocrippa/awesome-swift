@@ -2440,6 +2440,12 @@
       "homepage": "https://github.com/nakiostudio/EasyPeasy"
     },
     {
+      "title": "FixFlex",
+      "category": "auto-layout",
+      "description": "Declarative autolayout based on NSLayoutAnchor, swifty reimagination of VFL, alternative to UIStackView.",
+      "homepage": "https://github.com/psharanda/FixFlex"
+    },
+    {
       "title": "MisterFusion",
       "category": "auto-layout",
       "description": "DSL for AutoLayout, supports Size Class.",

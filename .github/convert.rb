@@ -94,18 +94,24 @@ def output_contributing(j)
   o
 end
 
+def output_partnership()
+  o = "\n\nIn parternship with:\n\n"
+  o << "[![Codemotion](https://github.com/matteocrippa/awesome-swift/blob/master/.github/images/codemotion_logo.png?raw=true)](https://codemo.tech/partners)"
+  o << "\n\n"
+end
+
 def output_table(ios_app_link, num_projects)
   require 'date'
 
   date = DateTime.now
   date_display = date.strftime "%B %d, %Y"
 
-  o = "| Awesome | Linux | Projects | Updated\n| :-: | :-: | :-: | :-: | :-:\n"
-  o << '| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | '
-  o << ' :penguin: | '
-  o << "#{num_projects} | "
-  o << date_display
-
+  o =  "| Awesome | Linux | Projects | Updated |\n"
+  o << "|:-------:|:-----:|:--------:|:-------:|\n"
+  # row
+  o << '| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) '
+  o << "| :penguin: | #{num_projects} | #{date_display} |"
+  # /row
   o
 end
 
@@ -140,6 +146,7 @@ end
 
 def write_readme(j, filename)
     output = output_header(j)
+    output << output_partnership()
     output << output_toc(j)
     output << output_content(j)
     output << output_contributing(j)

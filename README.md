@@ -503,6 +503,7 @@ In parternship with:
 * [SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
 * [Throttler](https://github.com/boraseoksoon/Throttler) - Throttle massive number of asynchronous inputs in a single drop of one line API.
 * [Venice](https://github.com/Zewo/Venice) :penguin: - Communicating sequential processes (CSP), Linux ready.
+* [Primitives](https://github.com/Genaro-Chris/swift-concurrency-primitives) : Low-level concurrency primitives for Swift
 
 ### Currency
 [back to top](#readme) 
@@ -1259,7 +1260,7 @@ In parternship with:
 * [GCDTimer](https://github.com/hemantasapkota/GCDTimer) - A well-tested GCD timer.
 * [Schedule](https://github.com/luoxiu/Schedule) :penguin: - A missing lightweight task scheduler with an incredibly human-friendly syntax.
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer) - API for NSTimer.
-
+* [Primitives](https://github.com/Genaro-Chris/swift-concurrency-primitives) : Low-level concurrency primitives for Swift
 ### UI
 *A collection of pre-packaged transitions & cool ui stuffs.* [back to top](#readme) 
 

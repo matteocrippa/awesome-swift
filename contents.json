@@ -6108,6 +6108,11 @@
       "description": "SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker",
       "homepage": "https://github.com/exyte/chat",
       "tags": ["swift", "iOS", "swiftui", "chat"]
-    }
+    }, {
+    	"title: "SwiftLee",
+    	"category": "Blog",
+	"description": "A weekly blog about Swift, iOS and Xcode Tips and Tricks.",
+	"homepage": "https://www.avanderlee.com/",
+      	"tags": ["swift", "iOS", "swiftui"]
   ]
 }

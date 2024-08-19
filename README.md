@@ -171,7 +171,6 @@ In parternship with:
 [back to top](#readme) 
 
 * [Open Source Updates for Swift Projects](https://ossp-updates.beehiiv.com/) - A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.
-* [SwiftLee](https://www.avanderlee.com/) - A weekly blog about Swift, iOS and Xcode Tips and Tricks.
 
 ### Official Guides
 [back to top](#readme) 

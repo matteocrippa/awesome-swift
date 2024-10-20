@@ -1269,6 +1269,12 @@
       "homepage": "https://github.com/devxoul/Pure"
     },
     {
+      "title": "SafeDI",
+      "category": "dependency-injection",
+      "description": "Compile-time safe dependency injection.",
+      "homepage": "https://github.com/dfed/safedi"
+    },
+    {
       "title": "Swinject",
       "category": "dependency-injection",
       "description": "A dependency injection framework.",
@@ -3073,6 +3079,12 @@
       "category": "keychain",
       "description": "Simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.",
       "homepage": "https://github.com/jrendel/SwiftKeychainWrapper"
+    },
+    {
+      "title": "Valet",
+      "category": "keychain",
+      "description": "Valet lets you securely store data in the Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.",
+      "homepage": "https://github.com/square/Valet"
     },
     {
       "title": "BlueSignals",
@@ -5030,6 +5042,13 @@
       ]
     },
     {
+      "title": "AsyncQueue",
+      "category": "concurrency",
+      "description": "A library of queues that enable sending ordered tasks from synchronous to asynchronous contexts.",
+      "homepage": "https://github.com/dfed/swift-async-queue",
+      "tags": ["linux", "macOS", "iOS", "tvOS", "watchOS", "visionOS", "6.0"]
+    },
+    {
       "title": "EFQRCode",
       "category": "barcode",
       "description": "A better way to operate quick response code.",
@@ -6462,6 +6481,12 @@
       "category": "uitableview",
       "description": "Elastic pull to refresh.",
       "homepage": "https://github.com/gontovnik/DGElasticPullToRefresh"
+    },
+    {
+      "title": "CacheAdvance",
+      "category": "other-data",
+      "description": "A performant cache for logging systems. CacheAdvance persists log events 30x faster than SQLite.",
+      "homepage": "https://github.com/dfed/CacheAdvance"
     },
     {
       "title": "CoreXLSX",

@@ -946,7 +946,7 @@
       "title": "swift-package-manager",
       "category": "dependency-managers",
       "description": "SPM is the Package Manager for the Swift Programming Language.",
-      "homepage": "https://github.com/apple/swift-package-manager"
+      "homepage": "https://github.com/swiftlang/swift-package-manager"
     },
     {
       "title": "Design-Patterns-In-Swift",
@@ -1198,7 +1198,7 @@
       "title": "MusicKit",
       "category": "audio",
       "description": "A framework for composing and transforming music.",
-      "homepage": "https://github.com/vprtwn/MusicKit"
+      "homepage": "https://github.com/0thernet/MusicKit"
     },
     {
       "title": "Cely",
@@ -2316,7 +2316,7 @@
       "title": "SwiftyGif",
       "category": "images",
       "description": "High performance GIF engine.",
-      "homepage": "https://github.com/kirualex/SwiftyGif"
+      "homepage": "https://github.com/alexiscreuzot/SwiftyGif"
     },
     {
       "title": "Toucan",
@@ -3741,7 +3741,7 @@
       "title": "SwiftCharts",
       "category": "chart",
       "description": "Highly customizable charts for iOS.",
-      "homepage": "https://github.com/owlmafia/SwiftCharts"
+      "homepage": "https://github.com/ivnsch/SwiftCharts"
     },
     {
       "title": "SwiftyWalkthrough",
@@ -4434,7 +4434,7 @@
       "title": "SwiftTweaks",
       "category": "utility",
       "description": "Tweak your iOS app without recompiling.",
-      "homepage": "https://github.com/khan/swifttweaks"
+      "homepage": "https://github.com/bryanjclark/SwiftTweaks"
     },
     {
       "title": "SwiftValidators",
@@ -4639,7 +4639,7 @@
       "title": "Swift Module Template",
       "category": "boilerplates",
       "description": "An opinionated starting point for awesome, reusable modules.",
-      "homepage": "https://github.com/fulldecent/swift5-module-template"
+      "homepage": "https://github.com/fulldecent/swift6-module-template"
     },
     {
       "title": "Toybox",

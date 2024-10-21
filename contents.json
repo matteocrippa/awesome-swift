@@ -946,7 +946,7 @@
       "title": "swift-package-manager",
       "category": "dependency-managers",
       "description": "SPM is the Package Manager for the Swift Programming Language.",
-      "homepage": "https://github.com/apple/swift-package-manager"
+      "homepage": "https://github.com/swiftlang/swift-package-manager"
     },
     {
       "title": "Design-Patterns-In-Swift",
@@ -1198,7 +1198,7 @@
       "title": "MusicKit",
       "category": "audio",
       "description": "A framework for composing and transforming music.",
-      "homepage": "https://github.com/vprtwn/MusicKit"
+      "homepage": "https://github.com/0thernet/MusicKit"
     },
     {
       "title": "Cely",
@@ -1267,6 +1267,12 @@
       "category": "dependency-injection",
       "description": "A way to do a dependency injection without a DI container.",
       "homepage": "https://github.com/devxoul/Pure"
+    },
+    {
+      "title": "SafeDI",
+      "category": "dependency-injection",
+      "description": "Compile-time safe dependency injection.",
+      "homepage": "https://github.com/dfed/safedi"
     },
     {
       "title": "Swinject",
@@ -2310,7 +2316,7 @@
       "title": "SwiftyGif",
       "category": "images",
       "description": "High performance GIF engine.",
-      "homepage": "https://github.com/kirualex/SwiftyGif"
+      "homepage": "https://github.com/alexiscreuzot/SwiftyGif"
     },
     {
       "title": "Toucan",
@@ -3075,6 +3081,12 @@
       "homepage": "https://github.com/jrendel/SwiftKeychainWrapper"
     },
     {
+      "title": "Valet",
+      "category": "keychain",
+      "description": "Valet lets you securely store data in the Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.",
+      "homepage": "https://github.com/square/Valet"
+    },
+    {
       "title": "BlueSignals",
       "category": "system",
       "description": "IBM's Cross Platform OS signal handling library.",
@@ -3729,7 +3741,7 @@
       "title": "SwiftCharts",
       "category": "chart",
       "description": "Highly customizable charts for iOS.",
-      "homepage": "https://github.com/owlmafia/SwiftCharts"
+      "homepage": "https://github.com/ivnsch/SwiftCharts"
     },
     {
       "title": "SwiftyWalkthrough",
@@ -4422,7 +4434,7 @@
       "title": "SwiftTweaks",
       "category": "utility",
       "description": "Tweak your iOS app without recompiling.",
-      "homepage": "https://github.com/khan/swifttweaks"
+      "homepage": "https://github.com/bryanjclark/SwiftTweaks"
     },
     {
       "title": "SwiftValidators",
@@ -4627,7 +4639,7 @@
       "title": "Swift Module Template",
       "category": "boilerplates",
       "description": "An opinionated starting point for awesome, reusable modules.",
-      "homepage": "https://github.com/fulldecent/swift5-module-template"
+      "homepage": "https://github.com/fulldecent/swift6-module-template"
     },
     {
       "title": "Toybox",
@@ -5028,6 +5040,13 @@
         "functional",
         "reactive"
       ]
+    },
+    {
+      "title": "AsyncQueue",
+      "category": "concurrency",
+      "description": "A library of queues that enable sending ordered tasks from synchronous to asynchronous contexts.",
+      "homepage": "https://github.com/dfed/swift-async-queue",
+      "tags": ["linux", "macOS", "iOS", "tvOS", "watchOS", "visionOS", "6.0"]
     },
     {
       "title": "EFQRCode",
@@ -6462,6 +6481,12 @@
       "category": "uitableview",
       "description": "Elastic pull to refresh.",
       "homepage": "https://github.com/gontovnik/DGElasticPullToRefresh"
+    },
+    {
+      "title": "CacheAdvance",
+      "category": "other-data",
+      "description": "A performant cache for logging systems. CacheAdvance persists log events 30x faster than SQLite.",
+      "homepage": "https://github.com/dfed/CacheAdvance"
     },
     {
       "title": "CoreXLSX",

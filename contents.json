@@ -1503,6 +1503,13 @@
       "tags": ["linux"]
     },
     {
+      "title": "Primitives",
+      "category": "concurrency",
+      "description": "Low-level concurrency primitives.",
+      "homepage": "https://github.com/Genaro-Chris/swift-concurrency-primitives",
+      "tags": ["thread", "concurrency"]
+    },
+    {
       "title": "AERecord",
       "category": "core-data",
       "description": "Super awesome Core Data wrapper library for iOS.",

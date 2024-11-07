@@ -7768,11 +7768,12 @@
       "homepage": "https://github.com/rustq/swiftui-skiae",
       "tags": ["swift", "swiftui", "skia", "rust"]
     },
+    {
       "title": "SwiftFiddle",
       "category": "repl",
       "description": "Playground for making, sharing, and embedding Swift code.",
       "homepage": "https://swiftfiddle.com",
-      "tags": ["swift", "repl", "playground"] 
+      "tags": ["swift", "repl", "playground"]
     }
   ]
 }

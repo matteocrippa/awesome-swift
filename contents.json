@@ -6079,6 +6079,25 @@
       ]
     },
     {
+      "title": "DebugSwift",
+      "category": "debug",
+      "description": "DebugSwift is a comprehensive toolkit designed to simplify and enhance the debugging process for Swift-based applications. Whether you're troubleshooting issues or optimizing performance, DebugSwift provides a set of powerful features to make your debugging experience more efficient.",
+      "homepage": "https://github.com/DebugSwift/DebugSwift",
+      "tags": [
+        "debug",
+        "network",
+        "debugger",
+        "log",
+        "logger",
+        "logging",
+        "logging-library",
+        "layout-debugger",
+        "leak-detection",
+        "crashlytics",
+        "performance-analysis"
+      ]
+    },
+    {
       "title": "Awesome iOS Interview",
       "category": "other-awesome-lists",
       "description": "List of the questions that helps you to prepare for the interview.",

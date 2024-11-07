@@ -3204,6 +3204,12 @@
       "homepage": "https://github.com/marcosgriselli/Sizes"
     },
     {
+      "title": "swift-testing-expectation",
+      "category": "testing",
+      "description": "Create an asynchronous expectation in Swift Testing.",
+      "homepage": "https://github.com/dfed/swift-testing-expectation"
+    },
+    {
       "title": "AttributedTextView",
       "category": "text",
       "description": "Easiest way to create an attributed UITextView with support for multiple links, hashtags and mentions.",

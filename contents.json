@@ -4576,6 +4576,12 @@
       "homepage": "https://github.com/patchthecode/JTAppleCalendar"
     },
     {
+      "title": "OBCalendar",
+      "category": "calendar",
+      "description": "OBCalendar is designed for simplicity and customization, it allows you to build beautiful and functional calendar interfaces effortlessly.",
+      "homepage": "https://github.com/oBilet/OBCalendar"
+    },  
+    {
       "title": "WSTagsField",
       "category": "ui",
       "description": "An iOS text field that represents different Tags.",

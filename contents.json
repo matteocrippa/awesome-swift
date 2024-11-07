@@ -7750,6 +7750,12 @@
       "tags": ["swift", "flag", "phone", "country-code"]
     },
     {
+      "title": "SwiftUISkia",
+      "category": "ui",
+      "description": "Skia based 2d graphics SwiftUI rendering library, based on Rust to implement software rasterization to perform rendering",
+      "homepage": "https://github.com/rustq/swiftui-skiae",
+      "tags": ["swift", "swiftui", "skia", "rust"]
+    },
       "title": "SwiftFiddle",
       "category": "repl",
       "description": "Playground for making, sharing, and embedding Swift code.",

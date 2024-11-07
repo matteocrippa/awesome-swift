@@ -7723,6 +7723,13 @@
       "description": "FlagAndCountryCode provides phone codes and flags for every country. Works on UIKit and SwiftUI",
       "homepage": "https://github.com/exyte/FlagAndCountryCode",
       "tags": ["swift", "flag", "phone", "country-code"]
+    },
+    {
+      "title": "SwiftFiddle",
+      "category": "repl",
+      "description": "Playground for making, sharing, and embedding Swift code.",
+      "homepage": "https://swiftfiddle.com",
+      "tags": ["swift", "repl", "playground"] 
     }
   ]
 }

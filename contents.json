@@ -946,7 +946,7 @@
       "title": "swift-package-manager",
       "category": "dependency-managers",
       "description": "SPM is the Package Manager for the Swift Programming Language.",
-      "homepage": "https://github.com/apple/swift-package-manager"
+      "homepage": "https://github.com/swiftlang/swift-package-manager"
     },
     {
       "title": "Design-Patterns-In-Swift",
@@ -1198,7 +1198,7 @@
       "title": "MusicKit",
       "category": "audio",
       "description": "A framework for composing and transforming music.",
-      "homepage": "https://github.com/vprtwn/MusicKit"
+      "homepage": "https://github.com/0thernet/MusicKit"
     },
     {
       "title": "Cely",
@@ -1267,6 +1267,12 @@
       "category": "dependency-injection",
       "description": "A way to do a dependency injection without a DI container.",
       "homepage": "https://github.com/devxoul/Pure"
+    },
+    {
+      "title": "SafeDI",
+      "category": "dependency-injection",
+      "description": "Compile-time safe dependency injection.",
+      "homepage": "https://github.com/dfed/safedi"
     },
     {
       "title": "Swinject",
@@ -2310,7 +2316,7 @@
       "title": "SwiftyGif",
       "category": "images",
       "description": "High performance GIF engine.",
-      "homepage": "https://github.com/kirualex/SwiftyGif"
+      "homepage": "https://github.com/alexiscreuzot/SwiftyGif"
     },
     {
       "title": "Toucan",
@@ -3075,6 +3081,12 @@
       "homepage": "https://github.com/jrendel/SwiftKeychainWrapper"
     },
     {
+      "title": "Valet",
+      "category": "keychain",
+      "description": "Valet lets you securely store data in the Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.",
+      "homepage": "https://github.com/square/Valet"
+    },
+    {
       "title": "BlueSignals",
       "category": "system",
       "description": "IBM's Cross Platform OS signal handling library.",
@@ -3729,7 +3741,7 @@
       "title": "SwiftCharts",
       "category": "chart",
       "description": "Highly customizable charts for iOS.",
-      "homepage": "https://github.com/owlmafia/SwiftCharts"
+      "homepage": "https://github.com/ivnsch/SwiftCharts"
     },
     {
       "title": "SwiftyWalkthrough",
@@ -4422,7 +4434,7 @@
       "title": "SwiftTweaks",
       "category": "utility",
       "description": "Tweak your iOS app without recompiling.",
-      "homepage": "https://github.com/khan/swifttweaks"
+      "homepage": "https://github.com/bryanjclark/SwiftTweaks"
     },
     {
       "title": "SwiftValidators",
@@ -4564,6 +4576,12 @@
       "homepage": "https://github.com/patchthecode/JTAppleCalendar"
     },
     {
+      "title": "OBCalendar",
+      "category": "calendar",
+      "description": "OBCalendar is designed for simplicity and customization, it allows you to build beautiful and functional calendar interfaces effortlessly.",
+      "homepage": "https://github.com/oBilet/OBCalendar"
+    },  
+    {
       "title": "WSTagsField",
       "category": "ui",
       "description": "An iOS text field that represents different Tags.",
@@ -4627,7 +4645,7 @@
       "title": "Swift Module Template",
       "category": "boilerplates",
       "description": "An opinionated starting point for awesome, reusable modules.",
-      "homepage": "https://github.com/fulldecent/swift5-module-template"
+      "homepage": "https://github.com/fulldecent/swift6-module-template"
     },
     {
       "title": "Toybox",
@@ -5028,6 +5046,13 @@
         "functional",
         "reactive"
       ]
+    },
+    {
+      "title": "AsyncQueue",
+      "category": "concurrency",
+      "description": "A library of queues that enable sending ordered tasks from synchronous to asynchronous contexts.",
+      "homepage": "https://github.com/dfed/swift-async-queue",
+      "tags": ["linux", "macOS", "iOS", "tvOS", "watchOS", "visionOS", "6.0"]
     },
     {
       "title": "EFQRCode",
@@ -6054,6 +6079,25 @@
       ]
     },
     {
+      "title": "DebugSwift",
+      "category": "debug",
+      "description": "DebugSwift is a comprehensive toolkit designed to simplify and enhance the debugging process for Swift-based applications. Whether you're troubleshooting issues or optimizing performance, DebugSwift provides a set of powerful features to make your debugging experience more efficient.",
+      "homepage": "https://github.com/DebugSwift/DebugSwift",
+      "tags": [
+        "debug",
+        "network",
+        "debugger",
+        "log",
+        "logger",
+        "logging",
+        "logging-library",
+        "layout-debugger",
+        "leak-detection",
+        "crashlytics",
+        "performance-analysis"
+      ]
+    },
+    {
       "title": "Awesome iOS Interview",
       "category": "other-awesome-lists",
       "description": "List of the questions that helps you to prepare for the interview.",
@@ -6462,6 +6506,12 @@
       "category": "uitableview",
       "description": "Elastic pull to refresh.",
       "homepage": "https://github.com/gontovnik/DGElasticPullToRefresh"
+    },
+    {
+      "title": "CacheAdvance",
+      "category": "other-data",
+      "description": "A performant cache for logging systems. CacheAdvance persists log events 30x faster than SQLite.",
+      "homepage": "https://github.com/dfed/CacheAdvance"
     },
     {
       "title": "CoreXLSX",
@@ -7608,6 +7658,12 @@
       "description": "SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker",
       "homepage": "https://github.com/exyte/chat",
       "tags": ["swift", "iOS", "swiftui", "chat"]
+    }, {
+    	"title": "SwiftLee",
+    	"category": "Newsletter",
+	    "description": "A weekly blog about Swift, iOS and Xcode Tips and Tricks.",
+	    "homepage": "https://www.avanderlee.com/",
+	    "tags": ["swift", "iOS", "swiftui"]
     },
     {
       "title": "SwiftAutoGUI",
@@ -7699,6 +7755,12 @@
       "description": "Skia based 2d graphics SwiftUI rendering library, based on Rust to implement software rasterization to perform rendering",
       "homepage": "https://github.com/rustq/swiftui-skiae",
       "tags": ["swift", "swiftui", "skia", "rust"]
+    },
+      "title": "SwiftFiddle",
+      "category": "repl",
+      "description": "Playground for making, sharing, and embedding Swift code.",
+      "homepage": "https://swiftfiddle.com",
+      "tags": ["swift", "repl", "playground"] 
     }
   ]
 }

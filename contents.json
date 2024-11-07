@@ -2840,6 +2840,12 @@
       "homepage": "https://github.com/mkoehnke/WKZombie"
     },
     {
+      "title": "ZMarkupParser",
+      "category": "html",
+      "description": "Helps you convert HTML strings into NSAttributedString with customized styles and tags.",
+      "homepage": "https://github.com/ZhgChgLi/ZMarkupParser"
+    },
+    {
       "title": "CocoaMQTT",
       "category": "messaging-protocol",
       "description": "MQTT for iOS and OS X.",

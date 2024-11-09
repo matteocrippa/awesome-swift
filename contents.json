@@ -4895,12 +4895,6 @@
       "homepage":"https://github.com/exyte/macaw"
     },
     {
-      "title":"Wallet",
-      "category":"ui",
-      "description":"A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.",
-      "homepage":"https://github.com/russ-stamant/Wallet"
-    },
-    {
       "title":"SwiftlySalesforce",
       "category":"api",
       "description":"Framework for rapid development of native iOS apps that integrate with Salesforce.",
@@ -5085,7 +5079,7 @@
       "title":"About Swift",
       "category":"third-party-guides",
       "description":"A playground about the Swift language.",
-      "homepage":"https://github.com/NicolaLancellotti-About/About-Swift"
+      "homepage":"https://github.com/NicolaLancellotti/about-swift"
     },
     {
       "title":"Telegram Bot SDK",
@@ -5170,7 +5164,7 @@
       "title":"iTextField ⌨️",
       "category":"textfield",
       "description":"A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.",
-      "homepage":"https://github.com/benjaminsage/iTextField",
+      "homepage":"https://github.com/blsage/iTextField",
       "tags":[
         "iOS",
         "swift",
@@ -5184,7 +5178,7 @@
       "title":"iPages",
       "category":"pagination",
       "description":"Quickly implement swipable page views in SwiftUI 📝.",
-      "homepage":"https://github.com/benjaminsage/iPages",
+      "homepage":"https://github.com/blsage/iPages",
       "tags":[
         "iOS",
         "swift",
@@ -5620,7 +5614,7 @@
       "title":"ARKit-CoreLocation",
       "category":"augmented-reality",
       "description":"Combines the high accuracy of AR with the scale of GPS data.",
-      "homepage":"https://github.com/ProjectDent/ARKit-CoreLocation"
+      "homepage":"https://github.com/AndrewHartAR/ARKit-CoreLocation"
     },
     {
       "title":"ARKit-Navigation",

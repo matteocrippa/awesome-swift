@@ -8480,39 +8480,25 @@
       ]
     },
     {
-      "title":"FlagAndCountryCode",
-      "category":"utility",
-      "description":"FlagAndCountryCode provides phone codes and flags for every country. Works on UIKit and SwiftUI",
-      "homepage":"https://github.com/exyte/FlagAndCountryCode",
-      "tags":[
-        "swift",
-        "flag",
-        "phone",
-        "country-code"
-      ]
+      "title": "FlagAndCountryCode",
+      "category": "utility",
+      "description": "FlagAndCountryCode provides phone codes and flags for every country. Works on UIKit and SwiftUI",
+      "homepage": "https://github.com/exyte/FlagAndCountryCode",
+      "tags": ["swift", "flag", "phone", "country-code"]
     },
     {
-      "title":"SwiftUISkia",
-      "category":"ui",
-      "description":"Skia based 2d graphics SwiftUI rendering library, based on Rust to implement software rasterization to perform rendering",
-      "homepage":"https://github.com/rustq/swiftui-skia",
-      "tags":[
-        "swift",
-        "swiftui",
-        "skia",
-        "rust"
-      ]
+      "title": "SwiftFiddle",
+      "category": "repl",
+      "description": "Playground for making, sharing, and embedding Swift code.",
+      "homepage": "https://swiftfiddle.com",
+      "tags": ["swift", "repl", "playground"] 
     },
     {
-      "title":"SwiftFiddle",
-      "category":"repl",
-      "description":"Playground for making, sharing, and embedding Swift code.",
-      "homepage":"https://swiftfiddle.com",
-      "tags":[
-        "swift",
-        "repl",
-        "playground"
-      ]
+      "title": "SwiftGodot",
+      "category": "game-engine",
+      "description": "Swift bindings for the Godot game engine to build extensions or act as an api with SwiftGodotKit.",
+      "homepage": "https://migueldeicaza.github.io/SwiftGodotDocs/tutorials/swiftgodot-tutorials/",
+      "tags":["swift", "game-engine", "bindings"]
     }
   ]
 }

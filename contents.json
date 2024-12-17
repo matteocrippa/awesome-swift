@@ -6044,6 +6044,16 @@
       ]
     },
     {
+      "title":"Forked",
+      "category":"misc",
+      "description":"Generalized approach to managing shared data in Swift applications to support Local-first apps.",
+      "homepage":"https://github.com/drewmccormack/Forked",
+      "tags":[
+        "swift",
+        "codable"
+      ]
+    },
+    {
       "title":"Fluid Slider",
       "category":"ui",
       "description":"A slider widget with a popup bubble displaying the precise value selected.",

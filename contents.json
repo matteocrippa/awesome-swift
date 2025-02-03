@@ -8355,7 +8355,7 @@
     {
       "title":"MijickPopups",
       "category":"alert",
-      "description":"Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple. Written with and for SwiftUI.",
+      "description":"Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple.",
       "homepage":"https://github.com/Mijick/Popups",
       "tags":[
         "swiftui",

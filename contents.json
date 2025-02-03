@@ -8504,6 +8504,12 @@
       "description": "Swift bindings for the Godot game engine to build extensions or act as an api with SwiftGodotKit.",
       "homepage": "https://migueldeicaza.github.io/SwiftGodotDocs/tutorials/swiftgodot-tutorials/",
       "tags":["swift", "game-engine", "bindings"]
+    },
+    {
+      "title":"MijickCamera",
+      "category":"camera",
+      "description":"Camera made simple. Fully customizable camera library that significantly reduces implementation time and effort.",
+      "homepage":"https://github.com/Mijick/Camera"
     }
   ]
 }

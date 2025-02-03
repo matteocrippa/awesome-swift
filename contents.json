@@ -8514,6 +8514,13 @@
       "description": "Swift bindings for the Godot game engine to build extensions or act as an api with SwiftGodotKit.",
       "homepage": "https://migueldeicaza.github.io/SwiftGodotDocs/tutorials/swiftgodot-tutorials/",
       "tags":["swift", "game-engine", "bindings"]
+    }, 
+    {
+      "title": "Swiftly",
+      "category": "dependency-managers",
+      "description": "Swift CLI toolchain installer to install different versions of Swift.",
+      "homepage": "https://github.com/swiftlang/swiftly",
+      "tags":["swift", "dependency", "cli"]
     },
     {
       "title":"MijickCamera",

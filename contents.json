@@ -8353,16 +8353,15 @@
       ]
     },
     {
-      "title":"MijickPopupView",
+      "title":"MijickPopups",
       "category":"alert",
-      "description":"Present any popup in no time. Keep your code clean.",
-      "homepage":"https://github.com/Mijick/PopupView",
+      "description":"Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple.",
+      "homepage":"https://github.com/Mijick/Popups",
       "tags":[
-        "swift",
         "swiftui",
-        "iOS",
-        "macOS",
-        "tvOS",
+        "swift-package-manager",
+        "swift-library",
+        "popupview",
         "popup"
       ]
     },
@@ -8511,6 +8510,6 @@
       "description": "Swift bindings for the Godot game engine to build extensions or act as an api with SwiftGodotKit.",
       "homepage": "https://migueldeicaza.github.io/SwiftGodotDocs/tutorials/swiftgodot-tutorials/",
       "tags":["swift", "game-engine", "bindings"]
-    } 
+    }
   ]
 }

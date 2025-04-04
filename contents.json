@@ -5659,12 +5659,6 @@
       "homepage":"https://github.com/AladinWay/TransitionButton"
     },
     {
-      "title":"UIPheonix",
-      "category":"ui",
-      "description":"Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.",
-      "homepage":"https://github.com/MKGitHub/UIPheonix"
-    },
-    {
       "title":"UltraDrawerView",
       "category":"ui",
       "description":"Lightweight, fast and customizable Drawer View implementation identical to Apple Maps, Stocks and etc.",
@@ -5765,7 +5759,7 @@
       "title":"BulletinBoard",
       "category":"ui",
       "description":"Generates and manages contextual cards displayed at the bottom of the screen.",
-      "homepage":"https://github.com/alexisakers/BulletinBoard"
+      "homepage":"https://github.com/alexaubry/BulletinBoard"
     },
     {
       "title":"LifetimeTracker",
@@ -5976,7 +5970,7 @@
       "title":"Sukari",
       "category":"Syntactic Sugar",
       "description":"Sweet Syntactic Sugar.",
-      "homepage":"https://github.com/chriskarani/Sukari"
+      "homepage":"https://github.com/christopherkarani/Sukari"
     },
     {
       "title":"Shiny",
@@ -6006,7 +6000,7 @@
       "title":"MCScratchImageView",
       "category":"images",
       "description":"A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.",
-      "homepage":"https://github.com/Minecodecraft/MCScratchImageView"
+      "homepage":"https://github.com/JaylenCoding/MCScratchImageView"
     },
     {
       "title":"Ease",
@@ -6041,6 +6035,16 @@
         "swift",
         "codable",
         "property-wrappers"
+      ]
+    },
+    {
+      "title":"Forked",
+      "category":"misc",
+      "description":"Generalized approach to managing shared data in Swift applications to support Local-first apps.",
+      "homepage":"https://github.com/drewmccormack/Forked",
+      "tags":[
+        "swift",
+        "codable"
       ]
     },
     {
@@ -6705,7 +6709,7 @@
       "title":"XCTest",
       "category":"testing",
       "description":"The XCTest Project, A Swift core library for providing unit test support.",
-      "homepage":"https://github.com/apple/swift-corelibs-xctest"
+      "homepage":"https://github.com/swiftlang/swift-corelibs-xctest"
     },
     {
       "title":"Defaults",
@@ -6717,13 +6721,13 @@
       "title":"Preferences",
       "category":"ui",
       "description":"Add a preferences window to your macOS app in minutes.",
-      "homepage":"https://github.com/sindresorhus/Preferences"
+      "homepage":"https://github.com/sindresorhus/Settings"
     },
     {
       "title":"LaunchAtLogin",
       "category":"system",
       "description":"Easily add 'Launch at Login' functionality to your sandboxed macOS app.",
-      "homepage":"https://github.com/sindresorhus/LaunchAtLogin"
+      "homepage":"https://github.com/sindresorhus/LaunchAtLogin-Legacy"
     },
     {
       "title":"DockProgress",
@@ -6780,7 +6784,7 @@
       "title":"Brightroom",
       "category":"images",
       "description":"An image editor and engine using CoreImage.",
-      "homepage":"https://github.com/muukii/Brightroom"
+      "homepage":"https://github.com/FluidGroup/Brightroom"
     },
     {
       "title":"UICollectionViewSplitLayout",
@@ -6834,7 +6838,7 @@
       "title":"SPPermission",
       "category":"permissions",
       "description":"Simple request permission with native UI and interactive animation.",
-      "homepage":"https://github.com/ivanvorobei/SPPermissions"
+      "homepage":"https://github.com/sparrowcode/PermissionsKit"
     },
     {
       "title":"Google",
@@ -6888,7 +6892,7 @@
       "title":"Soundable",
       "category":"audio",
       "description":"Soundable allows you to play sounds, single and in sequence, in a very easy way.",
-      "homepage":"https://github.com/ThXou/Soundable",
+      "homepage":"https://github.com/lcardevnas/Soundable",
       "tags":[
         "avfoundation",
         "sound",
@@ -6904,7 +6908,7 @@
       "title":"ZamzamKit",
       "category":"utility",
       "description":"A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.",
-      "homepage":"https://github.com/ZamzamInc/ZamzamKit"
+      "homepage":"https://github.com/basememara/ZamzamKit"
     },
     {
       "title":"DGElasticPullToRefresh",
@@ -6928,7 +6932,7 @@
       "title":"XMLCoder",
       "category":"xml",
       "description":"XMLEncoder & XMLDecoder based on Codable protocols from the standard library.",
-      "homepage":"https://github.com/MaxDesiatov/XMLCoder"
+      "homepage":"https://github.com/CoreOffice/XMLCoder"
     },
     {
       "title":"Carbon",
@@ -7060,7 +7064,7 @@
       "title":"WLEmptyState",
       "category":"uitableview",
       "description":"A component that lets you customize the view when the dataset of UITableView is empty.",
-      "homepage":"https://github.com/wizeline/WLEmptyState"
+      "homepage":"https://github.com/WizelineLabs/WLEmptyState"
     },
     {
       "title":"lottie-ios",
@@ -7121,7 +7125,7 @@
       "title":"Unrealm",
       "category":"realm",
       "description":"Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.",
-      "homepage":"https://github.com/arturdev/Unrealm",
+      "homepage":"https://github.com/matghazaryan/Unrealm",
       "tags":[
         "swift",
         "realm",
@@ -7133,7 +7137,7 @@
       "title":"SPAlert",
       "category":"alert",
       "description":"Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.",
-      "homepage":"https://github.com/ivanvorobei/SPAlert",
+      "homepage":"https://github.com/sparrowcode/AlertKit",
       "tags":[
         "swift",
         "UI"
@@ -7424,7 +7428,7 @@
       "title":"SweetCurtain",
       "category":"ui",
       "description":"Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.",
-      "homepage":"https://github.com/multimediasuite/SweetCurtain",
+      "homepage":"https://github.com/ihormalovanyi/SweetCurtain",
       "tags":[
         "swift",
         "pull-up",
@@ -7567,7 +7571,7 @@
       "title":"AnyLint",
       "category":"quality",
       "description":"Lint anything by combining the power of Swift & regular expressions.",
-      "homepage":"https://github.com/Flinesoft/AnyLint",
+      "homepage":"https://github.com/FlineDev/AnyLint",
       "tags":[
         "linux"
       ]
@@ -7671,7 +7675,7 @@
       "title":"SuggestionsKit",
       "category":"walkthrough",
       "description":"Library for educating users about features in app.",
-      "homepage":"https://github.com/huemae/SuggestionsKit",
+      "homepage":"https://github.com/AlphanumericCharactersOrSingleHyphenz/SuggestionsKit",
       "tags":[
         "suggestions",
         "instructions",
@@ -8353,16 +8357,15 @@
       ]
     },
     {
-      "title":"MijickPopupView",
+      "title":"MijickPopups",
       "category":"alert",
-      "description":"Present any popup in no time. Keep your code clean.",
-      "homepage":"https://github.com/Mijick/PopupView",
+      "description":"Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple.",
+      "homepage":"https://github.com/Mijick/Popups",
       "tags":[
-        "swift",
         "swiftui",
-        "iOS",
-        "macOS",
-        "tvOS",
+        "swift-package-manager",
+        "swift-library",
+        "popupview",
         "popup"
       ]
     },
@@ -8370,7 +8373,7 @@
       "title":"MijickNavigattie",
       "category":"transition",
       "description":"Easy navigation with SwiftUI.",
-      "homepage":"https://github.com/Mijick/Navigattie",
+      "homepage":"https://github.com/Mijick/NavigationView",
       "tags":[
         "swift",
         "swiftui",
@@ -8511,13 +8514,26 @@
       "description": "Swift bindings for the Godot game engine to build extensions or act as an api with SwiftGodotKit.",
       "homepage": "https://migueldeicaza.github.io/SwiftGodotDocs/tutorials/swiftgodot-tutorials/",
       "tags":["swift", "game-engine", "bindings"]
+    }, 
+    {
+      "title": "Swiftly",
+      "category": "dependency-managers",
+      "description": "Swift CLI toolchain installer to install different versions of Swift.",
+      "homepage": "https://github.com/swiftlang/swiftly",
+      "tags":["swift", "dependency", "cli"]
+    },
+    {
+      "title":"MijickCamera",
+      "category":"camera",
+      "description":"Camera made simple. Fully customizable camera library that significantly reduces implementation time and effort.",
+      "homepage":"https://github.com/Mijick/Camera"
     },
     {
       "title": "ReerCodable",
       "category": "json",
       "description": "Codable extensions using Swift macro.",
       "homepage": "https://github.com/reers/ReerCodable",
-      "tags":["swift", "iOS", "tvOS", "watchOS", "macOS"]
-    } 
+      "tags":["swift", "codable"]
+    }
   ]
 }

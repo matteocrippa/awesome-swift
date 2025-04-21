@@ -327,6 +327,7 @@ In parternship with:
 * [Aptabase](https://github.com/aptabase/aptabase) - Open Source, Privacy-First and Simple Analytics for Swift Apps.
 * [Tracker Aggregator](https://github.com/kafejo/Tracker-Aggregator) - Versatile analytics abstraction layer.
 * [Umbrella](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
+* [Hypno](https://github.com/STCData/Hypno) - iOS/OSX application and framework that logs detected text, human poses, window manager information and user actions from built in web browser, terminal emulator, camera, and any other external application
 
 ### Animation
 *Libs to help with animation* [back to top](#readme) 

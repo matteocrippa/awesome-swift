@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1077 | February 03, 2025 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1079 | April 21, 2025 |
 
 In parternship with:
 
@@ -568,6 +568,7 @@ In parternship with:
 * [JSONNeverDie](https://github.com/johnlui/JSONNeverDie) - Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die.
 * [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
 * [PMJSON](https://github.com/postmates/PMJSON) - JSON encoding/decoding library.
+* [ReerCodable](https://github.com/reers/ReerCodable) - Codable extensions using Swift macro.
 * [Sextant](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - A lib for JSON with error handling.
 * [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
@@ -1718,6 +1719,7 @@ In parternship with:
 * [R.swift](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
 * [RandomKit](https://github.com/nvzqz/RandomKit/) :penguin: - Random data generation.
 * [ReadabilityKit](https://github.com/exyte/ReadabilityKit) - Preview extractor for news, articles and full-texts.
+* [ReerKit](https://github.com/reers/ReerKit) - Powerful Swift foundation library of extensions and providing utility functions to supercharge your iOS/macOS/Linux development workflow.
 * [ResourceKit](https://github.com/bannzai/ResourceKit) - Enable autocomplete use resources.
 * [Result](https://github.com/antitypical/Result) - Type modelling the success/failure of arbitrary operations.
 * [Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.

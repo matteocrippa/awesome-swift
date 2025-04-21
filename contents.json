@@ -8527,6 +8527,13 @@
       "category":"camera",
       "description":"Camera made simple. Fully customizable camera library that significantly reduces implementation time and effort.",
       "homepage":"https://github.com/Mijick/Camera"
+    },
+    {
+      "title": "ReerCodable",
+      "category": "json",
+      "description": "Codable extensions using Swift macro.",
+      "homepage": "https://github.com/reers/ReerCodable",
+      "tags":["swift", "codable"]
     }
   ]
 }

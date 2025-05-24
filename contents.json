@@ -1187,6 +1187,12 @@
       "homepage":"https://github.com/bizz84/SwiftyStoreKit"
     },
     {
+      "title":"Flare",
+      "category":"app-store",
+      "description":"A framework that simplifies working with in-app purchases on iOS, macOS, tvOS, and watchOS, with full support for both StoreKit 1 and StoreKit 2.",
+      "homepage":"https://github.com/space-code/flare"
+    },
+    {
       "title":"AudioKit",
       "category":"audio",
       "description":"Powerful audio synthesis, processing and analysis, without the steep learning curve.",

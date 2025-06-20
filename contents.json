@@ -5497,6 +5497,12 @@
       "homepage":"https://github.com/Fawxy/CBPinEntryView"
     },
     {
+      "title":"GMarkdown",
+      "category":"text",
+      "description":"GMarkdown is a powerful, native Swift Markdown rendering library built on swift-markdown parser that provides seamless integration and high performance for iOS applications.",
+      "homepage":"https://github.com/GIKICoder/GMarkdown"
+    },
+    {
       "title":"MarkdownView",
       "category":"text",
       "description":"iOS Markdown view.",

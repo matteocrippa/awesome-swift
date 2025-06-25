@@ -8547,6 +8547,13 @@
       "description": "Codable extensions using Swift macro.",
       "homepage": "https://github.com/reers/ReerCodable",
       "tags":["swift", "codable"]
+    },
+    {
+      "title": "ComponentsKit",
+      "category": "ui",
+      "description": "A collection of reusable and fully customizable SwiftUI & UIKit components.",
+      "homepage": "https://github.com/componentskit/ComponentsKit",
+      "tags": ["swiftui", "uikit", "ui"]
     }
   ]
 }

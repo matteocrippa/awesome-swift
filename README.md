@@ -1039,7 +1039,6 @@ In parternship with:
 * [GoodNetworking](https://github.com/GoodRequest/GoodNetworking) - 📡 GoodNetworking simplifies HTTP networking.
 * [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
 * [Just](https://github.com/dduan/Just) :penguin: - HTTP for Humans (a python-requests style HTTP library).
-- [LogDog](https://github.com/modrena/log-dog-ios-sdk) - LogDog is a remote debugging/logging SDK (iOS and Android) with a web ui. Captures all logs and requests in real-time and allows to intercept them. 
 * [Malibu](https://github.com/hyperoslo/Malibu) - A networking library built on promises.
 * [Moya](https://github.com/Moya/Moya) - Network abstraction layer.
 * [MultiPeer](https://github.com/dingwilson/MultiPeer) - A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.

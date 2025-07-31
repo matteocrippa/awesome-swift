@@ -7741,6 +7741,12 @@
       "homepage":"https://github.com/fulldecent/FDWaveformView"
     },
     {
+        "title":"FluidAudio",
+        "category":"audio",
+        "description":"SDK for real-time speaker diarization and identification on iOS/macOS, with CoreML models converted directly from PyTorch to leverage Apple Neural Engine for better performance on older devices.",
+        "homepage":"https://github.com/FluidInference/FluidAudio"
+    },
+    {
       "title":"FDTake",
       "category":"camera",
       "description":"Easily take a photo or video or choose from library.",

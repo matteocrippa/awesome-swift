@@ -8553,6 +8553,17 @@
       "description": "Codable extensions using Swift macro.",
       "homepage": "https://github.com/reers/ReerCodable",
       "tags":["swift", "codable"]
+    },
+    {
+      "title": "Scout",
+      "category": "analytics",
+      "description": "Production-grade logging SDK for iOS apps using CloudKit as a backend.",
+      "homepage": "https://github.com/kasianov-mikhail/scout",
+      "tags": [
+        "analytics",
+        "swift",
+        "iOS"
+      ]
     }
   ]
 }

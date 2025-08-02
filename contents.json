@@ -2832,6 +2832,12 @@
         "linux"
       ]
     },
+    {  
+      "title":"LogDog",
+      "category":"network",
+      "description":"[LogDog](https://log.dog) is a remote debugging/logging SDK (iOS and Android) with a web ui. Captures all logs, requests and events in real-time and allows to intercept them.",
+      "homepage":"https://github.com/modrena/log-dog-ios-sdk"
+    },
     {
       "title":"Malibu",
       "category":"network",

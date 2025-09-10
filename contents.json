@@ -8553,6 +8553,13 @@
       "description": "Codable extensions using Swift macro.",
       "homepage": "https://github.com/reers/ReerCodable",
       "tags":["swift", "codable"]
+    },
+    {
+      "title": "swift-build",
+      "category": "utility",
+      "description": "GitHub Action for building and testing Swift packages across all platforms.",
+      "homepage": "https://github.com/brightdigit/swift-build",
+      "tags":["swift", "github"]      
     }
   ]
 }

@@ -8553,6 +8553,12 @@
       "description": "Codable extensions using Swift macro.",
       "homepage": "https://github.com/reers/ReerCodable",
       "tags":["swift", "codable"]
+    },
+    {
+      "title":"JWSETKit",
+      "category":"cryptography",
+      "description":"A full-featured Swift library for JOSE standards with first-class support for CryptoKit keys, providing JWS, JWT, and JWE with signing, encryption, and JWK key management.",
+      "homepage":"https://github.com/amosavian/JWSETKit"
     }
   ]
 }

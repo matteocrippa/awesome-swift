@@ -365,6 +365,7 @@ In parternship with:
 * [PXGoogleDirections](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
 * [RandomUserSwift](https://github.com/dingwilson/RandomUserSwift) - Framework to Generate Random Users - An Unofficial SDK for randomuser.me.
 * [reddift](https://github.com/sonsongithub/reddift) - reddit API wrapper.
+* [SwiftDisc](https://github.com/M1tsumi/SwiftDisc) - Discord API wrapper.
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Twitter framework.
 * [Swiftkube](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
 * [SwiftlySalesforce](https://github.com/mike4aday/SwiftlySalesforce) - Framework for rapid development of native iOS apps that integrate with Salesforce.

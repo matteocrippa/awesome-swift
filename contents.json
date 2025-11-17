@@ -7743,7 +7743,7 @@
     {
         "title":"FluidAudio",
         "category":"audio",
-        "description":"SDK for real-time speaker diarization and identification on iOS/macOS, with CoreML models converted directly from PyTorch to leverage Apple Neural Engine for better performance on older devices.",
+        "description":"SDK for real-time on-device audio intelligence on iOS/macOS (diarization, identification, VAD, separation, embeddings, ASR), with CoreML models converted directly from PyTorch to leverage Apple Neural Engine performance.",
         "homepage":"https://github.com/FluidInference/FluidAudio"
     },
     {

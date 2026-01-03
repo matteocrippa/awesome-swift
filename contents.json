@@ -1288,6 +1288,12 @@
       "homepage":"https://github.com/TheM4hd1/SwiftyInsta"
     },
     {
+      "title":"Vedika API",
+      "category":"api",
+      "description":"REST API for Vedic astrology calculations and AI chatbot for Swift/iOS apps. 108+ endpoints, 22 languages, 97% accuracy.",
+      "homepage":"https://vedika.io"
+    },
+    {
       "title":"Pure",
       "category":"dependency-injection",
       "description":"A way to do a dependency injection without a DI container.",

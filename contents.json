@@ -8553,6 +8553,13 @@
       "description": "Codable extensions using Swift macro.",
       "homepage": "https://github.com/reers/ReerCodable",
       "tags":["swift", "codable"]
+    },
+    {
+    		"title": "YouTubeKit",
+    		"category": "api",
+    		"description": "A way to interact with YouTube's API (without any API key!) ",
+    		"homepage": "https://github.com/b5i/YouTubeKit",
+    		"tags": ["youtube", "api", "swift"]
     }
   ]
 }

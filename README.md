@@ -311,6 +311,7 @@ In parternship with:
 
 * [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 * [DL4S](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
+* [MLXCode](https://github.com/kochj23/MLXCode) - Local LLM-powered coding assistant using Apple MLX framework.
 * [OpenAI](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 
 ### Algorithm
@@ -797,6 +798,7 @@ In parternship with:
 [back to top](#readme) 
 
 * [FDChessboardView](https://github.com/fulldecent/FDChessboardView) - A view controller for chess boards
+* [GTNW](https://github.com/kochj23/GTNW) - Global Thermonuclear War strategy simulation inspired by WarGames.
 * [Sage](https://github.com/nvzqz/Sage) :penguin: - A cross-platform chess library.
 
 ### Gesture
@@ -1046,6 +1048,7 @@ In parternship with:
 * [MultiPeer](https://github.com/dingwilson/MultiPeer) - A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.
 * [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, network debugging library.
 * [Netswift](https://github.com/MrSkwiggs/Netswift) - A type-safe, high-level networking solution.
+* [NMAPScanner](https://github.com/kochj23/NMAPScanner) - Network security scanner with HomeKit device discovery and vulnerability scanning.
 * [OAuth2](https://github.com/p2/OAuth2) - oauth2 auth lib.
 * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - OAuth library for iOS.
 * [Pitaya](https://github.com/johnlui/Pitaya) :penguin: - HTTP / HTTPS networking library just incidentally execute on machines.
@@ -1201,7 +1204,9 @@ In parternship with:
 
 * [BlueSignals](https://github.com/Kitura/BlueSignals) - IBM's Cross Platform OS signal handling library.
 * [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin-Legacy) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
+* [RsyncGUI](https://github.com/kochj23/RsyncGUI) - Professional rsync GUI with real-time progress visualization.
 * [SystemKit](https://github.com/beltex/SystemKit/) - OS X system library.
+* [TopGUI](https://github.com/kochj23/TopGUI) - LCARS-inspired system monitor with real-time CPU, memory, disk, and network visualization.
 
 ### Testing
 *A collection of testing frameworks.* [back to top](#readme) 

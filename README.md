@@ -1105,6 +1105,7 @@ In parternship with:
 * [Embassy](https://github.com/envoy/Embassy) :penguin: - Super lightweight async HTTP server library.
 * [Kitura](https://github.com/Kitura/Kitura) :penguin: - IBM's web framework and server for web services.
 * [Lightning](https://github.com/skylab-inc/Lightning) :penguin: - Multiplatform Single-threaded Non-blocking Web and Networking Framework.
+* [NFTRemix](https://github.com/CorvidLabs/NFTRemix) :penguin: - Collaborative generative NFT platform on Algorand built with Vapor, featuring community voting, ARC-19 minting, and IPFS storage.
 * [Noze.io](https://github.com/NozeIO/Noze.io) :penguin: - Evented I/O streams like Node.js.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) :penguin: - Server-side Swift. The Perfect library, application server, connectors and example apps.
 * [swifter](https://github.com/httpswift/swifter) :penguin: - Http server with routing handler.

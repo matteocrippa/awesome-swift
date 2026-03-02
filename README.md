@@ -280,6 +280,7 @@ In parternship with:
 *Miscellaneous Swift related projects* 
 * [Beak](https://github.com/yonaskolb/Beak) - A command line interface for your Swift scripts.
 * [BetterCodable](https://github.com/marksands/BetterCodable) - Level up your `Codable` structs through property wrappers. The goal of these property wrappers is to avoid implementing a custom `init(from decoder: Decoder)` throws and suffer through boilerplate.
+* [ClearDisk](https://github.com/bysiber/cleardisk) - A macOS menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM, Docker, pip, Cargo) and reclaim disk space.
 * [CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
 * [Forked](https://github.com/drewmccormack/Forked) - Generalized approach to managing shared data in Swift applications to support Local-first apps.
 * [Fugen](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.

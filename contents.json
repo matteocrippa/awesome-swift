@@ -8559,6 +8559,12 @@
       "category":"app-routing",
       "description":"A minimal and flexible router for SwiftUI apps.",
       "homepage":"https://github.com/gabriel/swiftui-routes"
+    },
+    {
+      "title":"VPN Bypass",
+      "category":"network",
+      "description":"A macOS menu bar app to bypass VPN for specific domains and services.",
+      "homepage":"https://github.com/GeiserX/VPN-Bypass"
     }
   ]
 }

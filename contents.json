@@ -1187,6 +1187,12 @@
       "homepage":"https://github.com/bizz84/SwiftyStoreKit"
     },
     {
+      "title":"Flare",
+      "category":"app-store",
+      "description":"A framework that simplifies working with in-app purchases on iOS, macOS, tvOS, and watchOS, with full support for both StoreKit 1 and StoreKit 2.",
+      "homepage":"https://github.com/space-code/flare"
+    },
+    {
       "title":"AudioKit",
       "category":"audio",
       "description":"Powerful audio synthesis, processing and analysis, without the steep learning curve.",
@@ -4641,6 +4647,12 @@
       "homepage":"https://github.com/typelift/Swiftz"
     },
     {
+      "title": "SyntaxKit",
+      "category": "utility",
+      "description": "Generate Swift code programmatically with a declarative syntax.",
+      "homepage": "https://github.com/brightdigit/SyntaxKit"
+    },
+    {
       "title":"Then",
       "category":"utility",
       "description":"Super sweet syntactic sugar for initializers.",
@@ -5495,6 +5507,12 @@
       "category":"textfield",
       "description":"Easy to use, very customisable pin entry.",
       "homepage":"https://github.com/Fawxy/CBPinEntryView"
+    },
+    {
+      "title":"GMarkdown",
+      "category":"text",
+      "description":"Markdown rendering library for iOS with support for tables, LaTeX, Mermaid, and code highlighting.",
+      "homepage":"https://github.com/GIKICoder/GMarkdown"
     },
     {
       "title":"MarkdownView",
@@ -6759,6 +6777,12 @@
       "category":"ui",
       "description":"Circular progress indicator for your macOS app.",
       "homepage":"https://github.com/sindresorhus/CircularProgress"
+    },
+    {
+      "title":"CircularRangeSlider",
+      "category":"ui",
+      "description":"A customizable SwiftUI component for selecting a range of values using a circular slider.",
+      "homepage":"https://github.com/diegotid/circular-range-slider"
     },
     {
       "title":"PersistenceKit",
@@ -8535,6 +8559,13 @@
       "tags":["swift", "game-engine", "bindings"]
     },
     {
+      "title": "Scout",
+      "category": "analytics",
+      "description": "Production-grade logging SDK for iOS apps using CloudKit as a backend.",
+      "homepage": "https://github.com/kasianov-mikhail/scout",
+      "tags": ["analytics", "swift", "iOS"]
+    },
+    {
       "title": "Swiftly",
       "category": "dependency-managers",
       "description": "Swift CLI toolchain installer to install different versions of Swift.",
@@ -8560,6 +8591,19 @@
       "description": "GitHub Action for building and testing Swift packages across all platforms.",
       "homepage": "https://github.com/brightdigit/swift-build",
       "tags":["swift", "github"]      
+    },
+    {
+      "title": "YouTubeKit",
+      "category": "api",
+      "description": "Interact with the YouTube API without an API key.",
+      "homepage": "https://github.com/b5i/YouTubeKit",
+      "tags": ["youtube", "api", "swift"]
+    },
+    {
+      "title":"SwiftUIRoutes",
+      "category":"app-routing",
+      "description":"A minimal and flexible router for SwiftUI apps.",
+      "homepage":"https://github.com/gabriel/swiftui-routes"
     }
   ]
 }

@@ -5499,7 +5499,7 @@
     {
       "title":"GMarkdown",
       "category":"text",
-      "description":"GMarkdown is a powerful, native Swift Markdown rendering library built on swift-markdown parser that provides seamless integration and high performance for iOS applications.",
+      "description":"Markdown rendering library for iOS with support for tables, LaTeX, Mermaid, and code highlighting.",
       "homepage":"https://github.com/GIKICoder/GMarkdown"
     },
     {

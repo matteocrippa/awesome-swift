@@ -445,6 +445,7 @@ In parternship with:
 * [Carlos](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 * [EVURLCache](https://github.com/evermeer/EVURLCache) - If you want to make your app still works when it's offline.
 * [MemoryCache](https://github.com/yysskk/MemoryCache) - Type-safe memory cache.
+* [Monstra](https://github.com/yangchenlarkin/Monstra) - High-performance memory cache with TTL, priority-based eviction, and avalanche protection.
 
 ### Chart
 [back to top](#readme) 

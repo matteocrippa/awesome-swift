@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1080 | July 31, 2025 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1085 | March 11, 2026 |
 
 In parternship with:
 
@@ -325,6 +325,7 @@ In parternship with:
 *Analytics related libraries to easily track your app usage* [back to top](#readme) 
 
 * [Aptabase](https://github.com/aptabase/aptabase) - Open Source, Privacy-First and Simple Analytics for Swift Apps.
+* [Scout](https://github.com/kasianov-mikhail/scout) - Production-grade logging SDK for iOS apps using CloudKit as a backend.
 * [Tracker Aggregator](https://github.com/kafejo/Tracker-Aggregator) - Versatile analytics abstraction layer.
 * [Umbrella](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
@@ -381,6 +382,7 @@ In parternship with:
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) - RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.
 * [SwiftCurrent](https://github.com/wwt/SwiftCurrent) - Manage complex workflows wherever Swift can be built. It comes with built-in support for UIKit, Storyboards, and SwiftUI.
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS.
+* [SwiftUIRoutes](https://github.com/gabriel/swiftui-routes) - A minimal and flexible router for SwiftUI apps.
 * [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing.
 
 ### App Store
@@ -388,6 +390,7 @@ In parternship with:
 
 * [Apphud](https://github.com/apphud/ApphudSDK) - Lightweight library to easily handle auto-renewable subscriptions with no backend required.
 * [AppReview](https://github.com/mezhevikin/AppReview) - A tiny library to request review on the AppStore via SKStoreReviewController.
+* [Flare](https://github.com/space-code/flare) - A framework that simplifies working with in-app purchases on iOS, macOS, tvOS, and watchOS, with full support for both StoreKit 1 and StoreKit 2.
 * [InAppPurchase](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 * [merchantkit](https://github.com/benjaminmayo/merchantkit) - A modern In-App Purchases management framework for iOS.
 * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases framework.
@@ -1240,6 +1243,7 @@ In parternship with:
 * [BonMot](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings for iOS.
 * [Croc](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
 * [edhita](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS.
+* [GMarkdown](https://github.com/GIKICoder/GMarkdown) - Markdown rendering library for iOS with support for tables, LaTeX, Mermaid, and code highlighting.
 * [MarkdownKit](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
 * [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
 * [MarkyMark](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
@@ -1289,6 +1293,7 @@ In parternship with:
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
 * [CapturePreventionKit](https://github.com/Jaesung-Jung/CapturePreventionKit) - Provides `Label` and `ImageView` for `screen capture prevention`.
 * [CircularProgress](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
+* [CircularRangeSlider](https://github.com/diegotid/circular-range-slider) - A customizable SwiftUI component for selecting a range of values using a circular slider.
 * [ClassicKit](https://github.com/Baddaboo/ClassicKit) - A collection of classic-style UI components.
 * [ContainerController](https://github.com/mrustaa/ContainerController) - UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks
 * [CountryPickerView](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.

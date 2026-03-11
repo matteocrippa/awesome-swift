@@ -8586,6 +8586,12 @@
       "tags":["swift", "codable"]
     },
     {
+      "title":"JWSETKit",
+      "category":"cryptography",
+      "description":"JOSE library with JWS, JWT, JWE, and JWK support.",
+      "homepage":"https://github.com/amosavian/JWSETKit"
+    },
+    {
       "title": "swift-build",
       "category": "utility",
       "description": "GitHub Action for building and testing Swift packages across all platforms.",

@@ -5503,6 +5503,12 @@
       "homepage":"https://github.com/Fawxy/CBPinEntryView"
     },
     {
+      "title":"GMarkdown",
+      "category":"text",
+      "description":"Markdown rendering library for iOS with support for tables, LaTeX, Mermaid, and code highlighting.",
+      "homepage":"https://github.com/GIKICoder/GMarkdown"
+    },
+    {
       "title":"MarkdownView",
       "category":"text",
       "description":"iOS Markdown view.",

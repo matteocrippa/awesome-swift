@@ -8580,6 +8580,13 @@
       "tags":["swift", "codable"]
     },
     {
+      "title": "YouTubeKit",
+      "category": "api",
+      "description": "Interact with the YouTube API without an API key.",
+      "homepage": "https://github.com/b5i/YouTubeKit",
+      "tags": ["youtube", "api", "swift"]
+    },
+    {
       "title":"SwiftUIRoutes",
       "category":"app-routing",
       "description":"A minimal and flexible router for SwiftUI apps.",

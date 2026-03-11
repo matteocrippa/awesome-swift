@@ -6773,6 +6773,12 @@
       "homepage":"https://github.com/sindresorhus/CircularProgress"
     },
     {
+      "title":"CircularRangeSlider",
+      "category":"ui",
+      "description":"A customizable SwiftUI component for selecting a range of values using a circular slider.",
+      "homepage":"https://github.com/diegotid/circular-range-slider"
+    },
+    {
       "title":"PersistenceKit",
       "category":"multi-database",
       "description":"Store and retrieve Codable objects to various persistence layers, in a couple lines of code!",

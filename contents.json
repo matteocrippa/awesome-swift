@@ -3189,7 +3189,7 @@
     {
       "title":"JOSESwift",
       "category":"cryptography",
-      "description":"A framework for the JOSE standards JWS, JWE, and JWK.",
+      "description":"JOSE library with JWS, JWT, JWE, and JWK support.",
       "homepage":"https://github.com/airsidemobile/JOSESwift"
     },
     {

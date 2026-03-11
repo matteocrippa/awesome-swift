@@ -8557,7 +8557,7 @@
     {
     		"title": "YouTubeKit",
     		"category": "api",
-    		"description": "A way to interact with YouTube's API (without any API key!) ",
+    		"description": "Interact with the YouTube API without an API key.",
     		"homepage": "https://github.com/b5i/YouTubeKit",
     		"tags": ["youtube", "api", "swift"]
     }

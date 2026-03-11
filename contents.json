@@ -8586,6 +8586,13 @@
       "tags":["swift", "codable"]
     },
     {
+      "title": "swift-build",
+      "category": "utility",
+      "description": "GitHub Action for building and testing Swift packages across all platforms.",
+      "homepage": "https://github.com/brightdigit/swift-build",
+      "tags":["swift", "github"]      
+    },
+    {
       "title": "YouTubeKit",
       "category": "api",
       "description": "Interact with the YouTube API without an API key.",

@@ -4647,6 +4647,12 @@
       "homepage":"https://github.com/typelift/Swiftz"
     },
     {
+      "title": "SyntaxKit",
+      "category": "utility",
+      "description": "Generate Swift code programmatically with a declarative syntax.",
+      "homepage": "https://github.com/brightdigit/SyntaxKit"
+    },
+    {
       "title":"Then",
       "category":"utility",
       "description":"Super sweet syntactic sugar for initializers.",

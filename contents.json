@@ -3189,7 +3189,7 @@
     {
       "title":"JOSESwift",
       "category":"cryptography",
-      "description":"JOSE library with JWS, JWT, JWE, and JWK support.",
+      "description":"A framework for the JOSE standards JWS, JWE, and JWK.",
       "homepage":"https://github.com/airsidemobile/JOSESwift"
     },
     {
@@ -8557,7 +8557,7 @@
     {
       "title":"JWSETKit",
       "category":"cryptography",
-      "description":"A full-featured Swift library for JOSE standards with first-class support for CryptoKit keys, providing JWS, JWT, and JWE with signing, encryption, and JWK key management.",
+      "description":"JOSE library with JWS, JWT, JWE, and JWK support.",
       "homepage":"https://github.com/amosavian/JWSETKit"
     }
   ]

@@ -7399,6 +7399,12 @@
       "homepage":"https://github.com/billp/TermiNetwork"
     },
     {
+      "title":"Tiercel",
+      "category":"network",
+      "description":"Background downloads, relaunch recovery, resumable transfers, and task management for iOS apps.",
+      "homepage":"https://github.com/Danie1s/Tiercel"
+    },
+    {
       "title":"SwiftCop",
       "category":"quality",
       "description":"A validation library which inspired by the clarity of Ruby On Rails Active Record validations.",

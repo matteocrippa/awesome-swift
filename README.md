@@ -488,6 +488,7 @@ In parternship with:
 *Create command line applications.* [back to top](#readme) 
 
 * [Ashen](https://github.com/colinta/Ashen) - A framework for writing terminal applications in Swift. Based on The Elm Architecture.
+* [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - LLM-native macOS terminal emulator with Metal GPU rendering, AI components, and voice input. Uses Swift for the UI layer and Rust for the core.
 * [Commander](https://github.com/kylef/Commander) :penguin: - Compose beautiful command line interfaces.
 * [Guaka](https://github.com/nsomar/Guaka) :penguin: - The smart and beautiful (POSIX compliant) command line framework.
 * [LineNoise](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.

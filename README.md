@@ -1034,6 +1034,7 @@ In parternship with:
 ### Network
 *A list of libs that allow you to decrease the amount of time spent dealing with http requests.* [back to top](#readme) 
 
+* [A2A](https://github.com/Victory-Apps/a2a-swift) - Swift SDK for the Agent-to-Agent (A2A) protocol with JSON-RPC, SSE streaming, and Vapor integration.
 * [Alamofire](https://github.com/Alamofire/Alamofire) :penguin: - Elegant networking.
 * [APIKit](https://github.com/ishkawa/APIKit) - Library for building type-safe web API client.
 * [Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS (Bonjour, Zeroconf).

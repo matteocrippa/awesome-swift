@@ -8325,6 +8325,12 @@
       "homepage":"https://github.com/peripheryapp/periphery"
     },
     {
+      "title":"PinTop",
+      "category":"utility",
+      "description":"A native macOS utility that pins any window as an always-on-top overlay with window snapping, opacity control, zoom, and mini PiP mode.",
+      "homepage":"https://soda3808.github.io/pintop-website/"
+    },
+    {
       "title":"xc",
       "category":"misc",
       "description":"A tool to open the Xcode project file by the specified version.",

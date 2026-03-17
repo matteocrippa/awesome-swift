@@ -1721,6 +1721,7 @@ In parternship with:
 * [OpenSourceController](https://github.com/floriangbh/OpenSourceController) - The simplest way to display the librarie's licences used in your application.
 * [Percentage](https://github.com/sindresorhus/Percentage) - Make percentages more readable and type-safe.
 * [Periphery](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
+* [PinTop](https://soda3808.github.io/pintop-website/) - A native macOS utility that pins any window as an always-on-top overlay with window snapping, opacity control, zoom, and mini PiP mode.
 * [Playbook](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically snapshots of them.
 * [PrivacyFlash Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
 * [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - ProtocolBuffers.

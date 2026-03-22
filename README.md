@@ -402,6 +402,7 @@ In parternship with:
 * [AudioKit](https://github.com/audiokit/AudioKit) - Powerful audio synthesis, processing and analysis, without the steep learning curve.
 * [AudioPlayer](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
 * [AudioPlayerSwift](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
+* [Azex Speech](https://github.com/azex-ai/speech) - Mac native voice input for Crypto & AI professionals with local ASR and 1800+ domain terms.
 * [Beethoven](https://github.com/vadymmarkov/Beethoven) - An audio processing library for pitch detection of musical signals.
 * [FDSoundActivatedRecorder](https://github.com/fulldecent/FDSoundActivatedRecorder) - Start recording when the user speaks.
 * [FDWaveformView](https://github.com/fulldecent/FDWaveformView) - An easy way to display an audio waveform in your app.

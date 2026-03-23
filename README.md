@@ -263,6 +263,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 * [MLKit](https://github.com/Somnibyte/MLKit) - A simple machine learning framework.
 * [Swift-AI](https://github.com/Swift-AI/Swift-AI) - The machine learning library.
+* [Espresso](https://github.com/christopherkarani/Espresso) - Compile transformers directly to Apple Neural Engine. 4.76x faster than CoreML. Pure Swift, zero dependencies.
 
 ### Algorithm
 [back to top](#readme) 

@@ -1017,6 +1017,7 @@ In parternship with:
 * [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
 * [GEOSwift](https://github.com/GEOSwift/GEOSwift) - Make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
 * [LocoKit](https://github.com/sobri909/LocoKit) - A location and activity recording framework for iOS.
+* [MapMetrics iOS](https://github.com/MapMetrics/MapMetrics-iOS) - A Mapbox GL-compatible iOS SDK for interactive vector maps with geocoding, routing, and search.
 
 ### Math
 [back to top](#readme) 

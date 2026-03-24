@@ -374,6 +374,7 @@ In parternship with:
 
 ### App Routing
 *Internal app routing systems.* [back to top](#readme) 
+- [DailyVox](https://getdailyvox.com) - AI voice diary using NaturalLanguage and Speech frameworks for on-device sentiment analysis and mood tracking. ([App Store](https://apps.apple.com/app/id6760454642))
 
 * [Appz](https://github.com/SwiftKitz/Appz) - Launch external apps and deeplink with ease.
 * [Crossroad](https://github.com/giginet/Crossroad) - :oncoming_bus: Crossroad is an URL router focused on handling Custom URL Schemes.

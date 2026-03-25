@@ -1482,6 +1482,17 @@
       ]
     },
     {
+      "title":"Mocker",
+      "category":"command-line",
+      "description":"Docker-compatible container CLI for macOS, built on Apple's Containerization framework.",
+      "homepage":"https://github.com/us/mocker",
+      "tags":[
+        "macOS",
+        "docker",
+        "containers"
+      ]
+    },
+    {
       "title":"nef",
       "category":"command-line",
       "description":"A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.",

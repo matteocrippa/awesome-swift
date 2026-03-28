@@ -25,9 +25,10 @@ Decision:
 - `NEEDS FIXES` if the project is acceptable but the PR needs small corrections.
 - `REJECT` if any main rule fails.
 - If only `README.md` was changed, use `REJECT` even if the project itself looks valid, and ask to resubmit with only `contents.json` updated. Do not mention regenerating `README.md`.
+- If the project has fewer than 15 GitHub stars, use `CLOSE`. Close the PR with a warm comment: thank the author, explain the project does not meet the minimum 15-star requirement yet, link to the contributing guidelines, and encourage them to open a new PR once the project reaches 15 stars.
 
 Reply format:
-Decision: OK | NEEDS FIXES | REJECT
+Decision: OK | NEEDS FIXES | REJECT | CLOSE
 Comment: 2-4 short, warm, polite sentences in simple English.
 
 Rules for comments:
@@ -36,5 +37,6 @@ Rules for comments:
 - Mention only specific blockers or fixes.
 - Do not invent facts.
 - If something cannot be verified, say so briefly.
-- For `NEEDS FIXES` and `REJECT`, always include:
+- For `NEEDS FIXES`, `REJECT`, and `CLOSE`, always include:
   https://github.com/matteocrippa/awesome-swift/blob/master/.github/CONTRIBUTING.md
+- For `CLOSE`, also tell the author they are welcome to open a new PR in the future once the project meets the requirements.

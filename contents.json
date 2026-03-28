@@ -3159,6 +3159,12 @@
       "homepage":"https://github.com/IBDecodable/IBLinter"
     },
     {
+      "title":"TouchBridge",
+      "category":"security",
+      "description":"Use your phone's fingerprint to authenticate on any Mac.",
+      "homepage":"https://github.com/HMAKT99/UnTouchID"
+    },
+    {
       "title":"BlueCryptor",
       "category":"cryptography",
       "description":"IBM's Cross Platform Crypto library.",

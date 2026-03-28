@@ -7050,6 +7050,12 @@
       ]
     },
     {
+      "title":"Monstra",
+      "category":"cache",
+      "description":"Memory cache framework with TTL, priority-based eviction, and avalanche protection.",
+      "homepage":"https://github.com/yangchenlarkin/Monstra"
+    },
+    {
       "title":"BadgeHub",
       "category":"ui",
       "description":"Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.",

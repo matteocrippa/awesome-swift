@@ -1157,6 +1157,7 @@ In parternship with:
 [back to top](#readme) 
 
 * [SecurePropertyStorage](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
+* [TouchBridge](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac. PAM module + BLE daemon with ECDSA P-256, ECDH, AES-256-GCM.
 
 #### Cryptography
 *Deal with cryptography method easily* [back to top](#readme) 

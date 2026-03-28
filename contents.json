@@ -3377,6 +3377,12 @@
       "homepage":"https://github.com/tnantoka/edhita"
     },
     {
+      "title":"MarkdownDisplayView",
+      "category":"text",
+      "description":"A Markdown rendering component built on TextKit 2, providing smooth performance, rich customization options, and support for streaming AI-driven conversational interactions.",
+      "homepage":"https://github.com/zjc19891106/MarkdownDisplayView"
+    },
+    {
       "title":"MarkdownKit",
       "category":"text",
       "description":"A simple and customizable Markdown Parser.",

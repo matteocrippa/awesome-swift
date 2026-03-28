@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1094 | March 28, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1095 | March 28, 2026 |
 
 In parternship with:
 
@@ -448,6 +448,7 @@ In parternship with:
 * [Carlos](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 * [EVURLCache](https://github.com/evermeer/EVURLCache) - If you want to make your app still works when it's offline.
 * [MemoryCache](https://github.com/yysskk/MemoryCache) - Type-safe memory cache.
+* [Monstra](https://github.com/yangchenlarkin/Monstra) - Memory cache framework with TTL, priority-based eviction, and avalanche protection.
 
 ### Chart
 [back to top](#readme) 

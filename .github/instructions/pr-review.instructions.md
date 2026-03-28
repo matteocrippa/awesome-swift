@@ -1,3 +1,7 @@
+---
+applyTo: "**"
+---
+
 Review pull requests for `matteocrippa/awesome-swift`.
 
 Use:
@@ -13,7 +17,7 @@ Check:
 - Project must have at least 15 GitHub stars.
 - Allowed licenses only: Apache 2.0, BSD 2-Clause, BSD 3-Clause, GPL, LGPL, MIT.
 - Description must be short, plain, start with a capital letter, and end with a period.
-- Reject hype, vague marketing, wrong category, missing verification, or “README-only” additions.
+- Reject hype, vague marketing, wrong category, missing verification, or "README-only" additions.
 
 Decision:
 - `OK` if all checks pass.

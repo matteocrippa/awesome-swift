@@ -1045,7 +1045,7 @@
     {
       "title":"Fazm",
       "category":"ai",
-      "description":"Open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.",
+      "description":"A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.",
       "homepage":"https://github.com/m13v/fazm",
       "tags":[
         "ai",

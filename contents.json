@@ -3365,10 +3365,10 @@
       "homepage":"https://github.com/tnantoka/edhita"
     },
     {
-        "title":"MarkdownDisplayView",
-        "category":"text",
-        "description":"A currently high-quality Markdown rendering library that outperforms those common 2k–3k-star Swift Markdown renderer libraries, loads documents of any length instantly, and supports streaming AI-driven conversational interaction.",
-        "homepage":"https://github.com/zjc19891106/MarkdownDisplayView"
+      "title":"MarkdownDisplayView",
+      "category":"text",
+      "description":"A Markdown rendering component built on TextKit 2, providing smooth performance, rich customization options, and support for streaming AI-driven conversational interactions.",
+      "homepage":"https://github.com/zjc19891106/MarkdownDisplayView"
     },
     {
       "title":"MarkdownKit",

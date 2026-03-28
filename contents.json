@@ -1276,6 +1276,12 @@
       "homepage":"https://github.com/sonsongithub/reddift"
     },
     {
+      "title":"SwiftDisc",
+      "category":"api",
+      "description":"Discord API library for bots and integrations.",
+      "homepage":"https://github.com/M1tsumi/SwiftDisc"
+    },
+    {
       "title":"Swifter Twitter",
       "category":"api",
       "description":"Twitter framework.",

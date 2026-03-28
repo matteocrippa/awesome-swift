@@ -825,7 +825,7 @@
       "title":"Swift & SwiftUI Tutorials",
       "category":"third-party-guides",
       "description":"SwiftUI learning with Ease.",
-      "homepage":"https://janeshswift.com"
+      "homepage":"http://ww1.janeshswift.com"
     },
     {
       "title":"30 Days of Swift",
@@ -855,7 +855,7 @@
       "title":"SwiftDoc",
       "category":"third-party-guides",
       "description":"Auto-generated documentation.",
-      "homepage":"https://swiftdoc.org/"
+      "homepage":"https://sosumi.ai/"
     },
     {
       "title":"SwiftGuide CN",
@@ -2344,7 +2344,7 @@
       "title":"SwiftWebImage",
       "category":"images",
       "description":"🚀SwiftUI Image downloader with performant LRU mem/disk cache.",
-      "homepage":"https://github.com/geekaurora/SwiftWebImage"
+      "homepage":"https://github.com/HotWordland/SwiftWebImage"
     },
     {
       "title":"Kingfisher",
@@ -6728,7 +6728,7 @@
       "title":"CleanArchitectureRxSwift",
       "category":"patterns",
       "description":"Example of Clean Architecture of iOS app using RxSwift.",
-      "homepage":"https://github.com/sergdort/CleanArchitectureRxSwift"
+      "homepage":"https://github.com/sergdort/ModernCleanArchitectureSwiftUI"
     },
     {
       "title":"LinkedInSignIn",
@@ -6746,7 +6746,7 @@
       "title":"HaishinKit",
       "category":"streaming",
       "description":"Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.",
-      "homepage":"https://github.com/shogo4405/HaishinKit.swift"
+      "homepage":"https://github.com/HaishinKit/HaishinKit.swift"
     },
     {
       "title":"XCTest",
@@ -7005,7 +7005,7 @@
       "title":"Real-time Chat with Firebase",
       "category":"chat",
       "description":"Functional real-time chat app with Firebase Firestore using MessageKit.",
-      "homepage":"https://github.com/instamobile/messenger-iOS-chat-swift-firestore"
+      "homepage":"https://github.com/dopebase/messenger-iOS-chat-swift-firestore"
     },
     {
       "title":"CollapsibleTableSectionViewController",
@@ -7955,7 +7955,7 @@
       "title":"TextBuilder",
       "category":"text",
       "description":"Like a SwiftUI ViewBuilder, but for Text.",
-      "homepage":"https://github.com/davdroman/TextBuilder"
+      "homepage":"https://github.com/davdroman/swiftui-text-builder"
     },
     {
       "title":"TPInAppReceipt",

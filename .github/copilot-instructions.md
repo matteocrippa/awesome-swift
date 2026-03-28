@@ -3,6 +3,11 @@ Review pull requests for `matteocrippa/awesome-swift`.
 Use:
 - Rules: https://github.com/matteocrippa/awesome-swift/blob/master/.github/CONTRIBUTING.md
 
+Important:
+- `README.md` is auto-generated from `contents.json` on merge. Contributors must only edit `contents.json`.
+- Never ask contributors to edit or regenerate `README.md`. Only ask them to add their entry to `contents.json`.
+- If a PR changes `README.md` (with or without `contents.json`), ask the contributor to revert `README.md` changes and only update `contents.json`.
+
 Check:
 - PR must update `contents.json`, not only `README.md`.
 - Prefer one project per PR.
@@ -19,7 +24,7 @@ Decision:
 - `OK` if all checks pass.
 - `NEEDS FIXES` if the project is acceptable but the PR needs small corrections.
 - `REJECT` if any main rule fails.
-- If only `README.md` was changed, use `REJECT` even if the project itself looks valid, and ask to resubmit via `contents.json`.
+- If only `README.md` was changed, use `REJECT` even if the project itself looks valid, and ask to resubmit with only `contents.json` updated. Do not mention regenerating `README.md`.
 
 Reply format:
 Decision: OK | NEEDS FIXES | REJECT

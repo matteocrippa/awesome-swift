@@ -7350,6 +7350,12 @@
       "homepage":"https://github.com/yonat/MultiSelectSegmentedControl"
     },
     {
+      "title":"MuscleMap",
+      "category":"ui",
+      "description":"Render interactive human body muscle maps with SwiftUI and UIKit.",
+      "homepage":"https://github.com/melihcolpan/MuscleMap"
+    },
+    {
       "title":"FlexibleHeader",
       "category":"ui",
       "description":"A container view that responds to scrolling of UIScrollView.",

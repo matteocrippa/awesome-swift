@@ -1043,6 +1043,12 @@
       ]
     },
     {
+      "title":"Espresso",
+      "category":"ai",
+      "description":"Compile transformers directly for Apple's Neural Engine.",
+      "homepage":"https://github.com/christopherkarani/Espresso"
+    },
+    {
       "title":"CenteredCollectionView",
       "category":"uicollectionview",
       "description":"A lightweight UICollectionViewLayout that pages and centers it's cells.",

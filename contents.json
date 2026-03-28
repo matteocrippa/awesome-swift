@@ -1043,6 +1043,19 @@
       ]
     },
     {
+      "title":"Fazm",
+      "category":"ai",
+      "description":"Open-source voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.",
+      "homepage":"https://github.com/m13v/fazm",
+      "tags":[
+        "ai",
+        "macos",
+        "voice",
+        "agent",
+        "swiftui"
+      ]
+    },
+    {
       "title":"Espresso",
       "category":"ai",
       "description":"Compile transformers directly for Apple's Neural Engine.",

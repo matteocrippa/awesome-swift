@@ -202,6 +202,7 @@ In parternship with:
 * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development.
 * [swift-tips](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
 * [SwiftDoc](https://sosumi.ai/) - Auto-generated documentation.
+* [Swift Student Challenge Resources](https://github.com/alyboii/swift-student-challenge-resources) - A curated resource library for Apple's Swift Student Challenge — tutorials, WWDC sessions, storytelling guides, and winner insights.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A Chinese written guide.
 * [SwiftTips](https://github.com/JohnSundell/SwiftTips) - A collection of useful tips by John Sundell.
 

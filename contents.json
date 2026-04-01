@@ -774,6 +774,12 @@
   ],
   "projects":[
     {
+      "title":"DailyVox",
+      "category":"audio",
+      "description":"An iOS voice diary app built with SwiftUI using Apple Speech and NaturalLanguage frameworks for transcription and sentiment analysis.",
+      "homepage":"https://github.com/intrepidkarthi/dailyvox"
+    },
+    {
       "title":"SwiftAudioPlayer",
       "category":"audio",
       "description":"Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.",

@@ -368,6 +368,7 @@ In parternship with:
 * [PXGoogleDirections](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
 * [RandomUserSwift](https://github.com/dingwilson/RandomUserSwift) - Framework to Generate Random Users - An Unofficial SDK for randomuser.me.
 * [reddift](https://github.com/sonsongithub/reddift) - reddit API wrapper.
+* [ShopSavvy](https://github.com/shopsavvy/sdk-swift) - Official SDK for the ShopSavvy product data and price comparison API.
 * [SwiftDisc](https://github.com/M1tsumi/SwiftDisc) - Discord API library for bots and integrations.
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Twitter framework.
 * [Swiftkube](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.

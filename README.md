@@ -311,6 +311,7 @@ In parternship with:
 
 * [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 * [DL4S](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
+* [DockWright](https://github.com/AdelElo13/DockWright-MacOS-Agent) - Native macOS AI assistant with screen awareness, voice control, and 30 system tools. Zero dependencies.
 * [Espresso](https://github.com/christopherkarani/Espresso) - Compile transformers directly for Apple's Neural Engine.
 * [Fazm](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [OpenAI](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.

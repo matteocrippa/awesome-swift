@@ -8676,6 +8676,12 @@
       "category":"app-routing",
       "description":"A minimal and flexible router for SwiftUI apps.",
       "homepage":"https://github.com/gabriel/swiftui-routes"
+    },
+    {
+      "title":"PureMac",
+      "category":"utility",
+      "description":"Free, open-source macOS cleaner with zero telemetry. Cleans system caches, Xcode junk, Homebrew cache, and finds large files. Includes scheduled auto-cleaning.",
+      "homepage":"https://github.com/momenbasel/PureMac"
     }
   ]
 }

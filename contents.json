@@ -1062,6 +1062,20 @@
       "homepage":"https://github.com/christopherkarani/Espresso"
     },
     {
+      "title":"EdgeRunner",
+      "category":"ai",
+      "description":"Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.",
+      "homepage":"https://github.com/christopherkarani/EdgeRunner",
+      "tags":[
+        "llm",
+        "inference",
+        "metal",
+        "gguf",
+        "apple-silicon",
+        "on-device-ai"
+      ]
+    },
+    {
       "title":"CenteredCollectionView",
       "category":"uicollectionview",
       "description":"A lightweight UICollectionViewLayout that pages and centers it's cells.",

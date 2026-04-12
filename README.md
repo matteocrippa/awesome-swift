@@ -252,6 +252,7 @@ In parternship with:
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 * [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=matteocrippa_awesome-swift) - Social feed for GitHub. Follow developers, discover trending repos, activity feeds.
 ## Dependency Managers
 *Dependency manager software for Swift.* 
 * [Accio](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.

@@ -8690,6 +8690,12 @@
       "category":"app-routing",
       "description":"A minimal and flexible router for SwiftUI apps.",
       "homepage":"https://github.com/gabriel/swiftui-routes"
+    },
+    {
+      "title":"Yotei",
+      "category":"calendar",
+      "description":"A highly modular, highly customizable calendar package for iOS. Built with SwiftUI and UIKit under the hood for the best performance and native feel.",
+      "homepage":"https://github.com/claustrofob/Yotei"
     }
   ]
 }

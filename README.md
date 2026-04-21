@@ -1136,6 +1136,7 @@ In parternship with:
 * [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator) - A simple Generator of PDF. Generate PDF from view(s) or image(s).
 * [SimplePDF](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
 * [UXMPDFKit](https://github.com/uxmstudio/UXMPDFKit) - A PDF viewer and annotator that can be embedded in iOS applications.
+- [Compress PDF – NoCodeVista](https://nocodevista.com/tools/compress-pdf) - Free browser-based PDF compressor — reduce file size up to 90%, no uploads, 100% private.
 
 ### Quality
 [back to top](#readme) 

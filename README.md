@@ -458,6 +458,7 @@ In parternship with:
 * [Charts](https://github.com/ChartsOrg/Charts) - Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).
 * [ChartView](https://github.com/AppPear/ChartView) - Swift package for displaying beautiful charts effortlessly
 * [FLCharts](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
+* [HeatmapKit](https://github.com/jacklv-coder/HeatmapKit) - A modern SwiftUI calendar heatmap and contribution graph component, supporting iOS / macOS / watchOS / tvOS / visionOS.
 * [ScrollableGraphView](https://github.com/philackm/ScrollableGraphView) - Adaptive scrollable graph view for iOS to visualise simple discrete datasets.
 * [SwiftChart](https://github.com/gpbl/SwiftChart) - A simple line and area charting library for iOS. Supports multiple series, partially filled series and touch events.
 * [SwiftCharts](https://github.com/ivnsch/SwiftCharts) - Highly customizable charts for iOS.

@@ -8459,6 +8459,18 @@
       ]
     },
     {
+      "title":"swiftui-messaging-ui",
+      "category":"chat",
+      "description":"Primitive SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.",
+      "homepage":"https://github.com/FluidGroup/swiftui-messaging-ui",
+      "tags":[
+        "swift",
+        "iOS",
+        "swiftui",
+        "chat"
+      ]
+    },
+    {
       "title":"SwiftLee",
       "category":"Newsletter",
       "description":"A weekly blog about Swift, iOS and Xcode Tips and Tricks.",

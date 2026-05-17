@@ -1641,7 +1641,7 @@ In parternship with:
 [back to top](#readme) 
 
 * [ASCollectionView](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
-* [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.
+* [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover within minutes.
 * [Blueprints](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - Collection view layout that makes your cells bounce.
 * [CardsLayout](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
@@ -1811,7 +1811,7 @@ In parternship with:
 * [PlayerView](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
 * [PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
 * [SwiftFFmpeg](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
-* [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - Easy to Use UIView subclass for implementating a video background.
+* [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - Easy to Use UIView subclass for implementing a video background.
 * [Swifty360Player](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
 * [YiVideoEditor](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
 

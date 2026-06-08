@@ -315,6 +315,7 @@ In parternship with:
 * [Espresso](https://github.com/christopherkarani/Espresso) - Compile transformers directly for Apple's Neural Engine.
 * [Fazm](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [OpenAI](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments.
 
 ### Algorithm
 [back to top](#readme) 

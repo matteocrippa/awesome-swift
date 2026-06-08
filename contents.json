@@ -1232,6 +1232,12 @@
       "homepage":"https://github.com/audiokit/AudioKit"
     },
     {
+      "title":"AudioLivenessDetection",
+      "category":"audio",
+      "description":"On-device PCM audio liveness detection — distinguish live microphone speech from recorded replay on iOS and macOS.",
+      "homepage":"https://github.com/mythkiven/AudioLivenessDetection"
+    },
+    {
       "title":"AudioPlayer",
       "category":"audio",
       "description":"A wrapper around AVPlayer with some cool features.",

@@ -8417,6 +8417,15 @@
       "homepage":"https://github.com/s2mr/L10nLint"
     },
     {
+      "title":"solid-like-a-rock",
+      "category":"quality",
+      "description":"Architecture linter that enforces Clean Architecture and TCA import rules using SwiftSyntax.",
+      "homepage":"https://github.com/nenadvulic/solid-like-a-rock",
+      "tags":[
+        "linux"
+      ]
+    },
+    {
       "title":"AnimatedTabBar",
       "category":"layout",
       "description":"A tabbar with a number of preset animations.",

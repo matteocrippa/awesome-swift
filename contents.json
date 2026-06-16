@@ -8728,14 +8728,14 @@
     {
       "title": "GitKit",
       "category": "api",
-      "description": "Pure Swift implementation of git functions",
+      "description": "Implementation of git functions",
       "homepage": "https://github.com/dnedrow/GitKit",
       "tags": ["git", "api", "swift"]
     },
     {
       "title":"sgit",
       "category":"command-line",
-      "description":"Swift git client using GitKit",
+      "description":"Git client using GitKit",
       "homepage":"https://github.com/dnedrow/sgit",
       "tags":["git", "swift"]
     }    

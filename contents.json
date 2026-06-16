@@ -8731,13 +8731,6 @@
       "description": "Implementation of git functions",
       "homepage": "https://github.com/dnedrow/GitKit",
       "tags": ["git", "api", "swift"]
-    },
-    {
-      "title":"sgit",
-      "category":"command-line",
-      "description":"Git client using GitKit",
-      "homepage":"https://github.com/dnedrow/sgit",
-      "tags":["git", "swift"]
-    }    
+    }
   ]
 }

@@ -8707,6 +8707,13 @@
       "tags": ["youtube", "api", "swift"]
     },
     {
+      "title": "MattermostSwift",
+      "category": "api",
+      "description": "Unofficial SDK for building Mattermost clients and tools.",
+      "homepage": "https://github.com/randomsnowflake/MattermostSwift",
+      "tags": ["mattermost", "api", "sdk"]
+    },
+    {
       "title":"SwiftUIRoutes",
       "category":"app-routing",
       "description":"A minimal and flexible router for SwiftUI apps.",

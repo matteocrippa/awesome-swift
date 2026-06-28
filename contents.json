@@ -8724,6 +8724,13 @@
       "description":"Open-source Agent SDK with full agent loop, 34 built-in tools, sub-agent orchestration, MCP integration, and multi-provider LLM support.",
       "homepage":"https://github.com/terryso/open-agent-sdk-swift",
       "tags":["agent","mcp","llm","sdk","automation"]
+    },
+    {
+      "title":"Dusty",
+      "category":"files",
+      "description":"Open-source macOS menu bar disk cleaner with an allowlist-only, unit-tested deletion engine.",
+      "homepage":"https://github.com/yagcioglutoprak/dusty",
+      "tags":["macos","menu-bar"]
     }
   ]
 }

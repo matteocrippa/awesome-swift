@@ -2940,6 +2940,13 @@
       "homepage":"https://github.com/netguru/ResponseDetective"
     },
     {
+      "title":"Rockxy",
+      "category":"network",
+      "description":"Native macOS debugging proxy for inspecting HTTP, HTTPS, WebSocket, and GraphQL traffic.",
+      "homepage":"https://github.com/RockxyApp/Rockxy",
+      "swift":5.9
+    },
+    {
       "title":"Siesta",
       "category":"network",
       "description":"Elegant abstraction for REST APIs that untangles stateful messes. An alternative to callback- and delegate-based networking.",

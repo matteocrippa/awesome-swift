@@ -1119,6 +1119,7 @@ In parternship with:
 * [Lightning](https://github.com/skylab-inc/Lightning) :penguin: - Multiplatform Single-threaded Non-blocking Web and Networking Framework.
 * [Noze.io](https://github.com/NozeIO/Noze.io) :penguin: - Evented I/O streams like Node.js.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) :penguin: - Server-side Swift. The Perfect library, application server, connectors and example apps.
+* [spikard](https://github.com/Goldziher/spikard) - Rust-powered polyglot HTTP framework with type-safe routing, tower middleware, and OpenAPI/GraphQL/JSON-RPC codegen (Swift binding over a Rust core).
 * [swifter](https://github.com/httpswift/swifter) :penguin: - Http server with routing handler.
 * [Vapor](https://github.com/vapor/vapor) :penguin: - Elegant web framework that works on iOS, OS X, and Ubuntu.
 * [Zewo](https://github.com/Zewo/Zewo) :penguin: - Server-Side Swift.

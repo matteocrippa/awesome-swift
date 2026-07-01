@@ -241,6 +241,7 @@ In parternship with:
 
 ## Converters
 
+* [html-to-markdown](https://github.com/xberg-io/html-to-markdown) - Fast, CommonMark-compliant HTML to Markdown converter (Swift binding over a Rust core).
 * [Swiftify](https://swiftify.com/#/converter/code/) - Objective-C to Swift online code converter and Xcode extension.
 * [Zolang](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
 
@@ -314,6 +315,7 @@ In parternship with:
 * [EdgeRunner](https://github.com/christopherkarani/EdgeRunner) - Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.
 * [Espresso](https://github.com/christopherkarani/Espresso) - Compile transformers directly for Apple's Neural Engine.
 * [Fazm](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
+* [liter-llm](https://github.com/xberg-io/liter-llm) - Universal LLM API client (Swift binding over a Rust core) with one unified interface across 142+ providers and streaming.
 * [Open Agent SDK](https://github.com/terryso/open-agent-sdk-swift) - Open-source Agent SDK with full agent loop, 34 built-in tools, sub-agent orchestration, MCP integration, and multi-provider LLM support.
 * [OpenAI](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 
@@ -1048,6 +1050,7 @@ In parternship with:
 * [CodyFire](https://github.com/CodyFlame/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
 * [Conduit](https://github.com/mindbody/Conduit) - Robust networking for web APIs.
 * [Connectivity](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
+* [crawlberg](https://github.com/xberg-io/crawlberg) - High-performance web crawling and scraping engine (Swift binding over a Rust core) with HTML-to-Markdown conversion and a headless-Chrome fallback.
 * [Dots](https://github.com/iAmrSalman/Dots) - Lightweight Concurrent Networking Framework.
 * [GoodNetworking](https://github.com/GoodRequest/GoodNetworking) - 📡 GoodNetworking simplifies HTTP networking.
 * [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
@@ -1138,6 +1141,7 @@ In parternship with:
 * [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator) - A simple Generator of PDF. Generate PDF from view(s) or image(s).
 * [SimplePDF](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
 * [UXMPDFKit](https://github.com/uxmstudio/UXMPDFKit) - A PDF viewer and annotator that can be embedded in iOS applications.
+* [xberg](https://github.com/xberg-io/xberg) - Document intelligence library (Swift binding over a Rust core) that extracts text, tables, and metadata from PDFs, Office documents, images, and 97+ formats, with optional OCR.
 
 ### Quality
 [back to top](#readme) 
@@ -1278,6 +1282,7 @@ In parternship with:
 * [Texstyle](https://github.com/rosberry/texstyle) - Texstyle allows you to format attributed strings easily.
 * [TextAttributes](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
 * [TextBuilder](https://github.com/davdroman/swiftui-text-builder) - Like a SwiftUI ViewBuilder, but for Text.
+* [tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) - Pre-built tree-sitter grammars for 300+ languages with a unified parser API (Swift binding over a Rust core).
 * [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full featured rich text editor for iOS applications.
 * [VEditorKit](https://github.com/GeekTree0101/VEditorKit) - Lightweight and Powerful Editor Kit.
 

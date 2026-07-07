@@ -1217,6 +1217,7 @@ In parternship with:
 * [BlueSignals](https://github.com/Kitura/BlueSignals) - IBM's Cross Platform OS signal handling library.
 * [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin-Legacy) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
 * [SystemKit](https://github.com/beltex/SystemKit/) - OS X system library.
+* [ContextWardenKit](https://github.com/noushadkabeer/ContextWardenKit) - Native Apple Silicon AI workload and unified memory monitor.
 
 ### Testing
 *A collection of testing frameworks.* [back to top](#readme) 

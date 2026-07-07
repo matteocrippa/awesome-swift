@@ -311,6 +311,7 @@ In parternship with:
 
 * [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 * [DL4S](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
+* [DProvenanceKit](https://github.com/Therealdk8890/DProvenanceKit) - Reasoning observability and regression testing for on-device AI; records each Foundation Models or agent run as a diffable trace and fails CI when the reasoning drifts from a golden baseline.
 * [EdgeRunner](https://github.com/christopherkarani/EdgeRunner) - Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.
 * [Espresso](https://github.com/christopherkarani/Espresso) - Compile transformers directly for Apple's Neural Engine.
 * [Fazm](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.

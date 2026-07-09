@@ -5909,6 +5909,12 @@
       "homepage":"https://github.com/attaswift/BigInt"
     },
     {
+      "title":"SwaTex",
+      "category":"math",
+      "description":"KaTeX-compatible LaTeX math rendering engine with no JavaScript, WebView, or DOM.",
+      "homepage":"https://github.com/PhraseHQ/SwaTex"
+    },
+    {
       "title":"KALoader",
       "category":"ui",
       "description":"Beautiful animated placeholders for showing loading of data.",

@@ -5728,6 +5728,12 @@
       "homepage":"https://github.com/sobri909/LocoKit"
     },
     {
+      "title":"ImmersiveMap",
+      "category":"maps",
+      "description":"A Metal-rendered vector-tile map engine for SwiftUI with a 3D globe, flat map and live avatar markers.",
+      "homepage":"https://github.com/artembobkin/ImmersiveMap"
+    },
+    {
       "title":"AwesomeSpotlightView",
       "category":"walkthrough",
       "description":"Create tutorial or coach tour.",

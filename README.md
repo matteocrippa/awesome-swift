@@ -198,7 +198,7 @@ In parternship with:
 * [Developing iOS Apps with Swift](https://podcasts.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780) - Stanford course by Paul Hegarty.
 * [Hacking With Swift](https://www.hackingwithswift.com) - Complete training course that teaches app development through 30 hands-on projects, for free.
 * [Ray Wenderlich Tutorials, Videos, Podcasts and books](https://www.kodeco.com) - High quality programming tutorials.
-* [Swift & SwiftUI Tutorials](http://ww1.janeshswift.com) - SwiftUI learning with Ease.
+* [Swift & SwiftUI Tutorials](https://ww1.janeshswift.com) - SwiftUI learning with Ease.
 * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development.
 * [swift-tips](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
 * [SwiftDoc](https://sosumi.ai/) - Auto-generated documentation.
@@ -213,7 +213,7 @@ In parternship with:
 
 ## REPL
 
-* [Online Swift Playground](http://online.swiftplayground.run) - Online Swift Playground.
+* [Online Swift Playground](https://online.swiftplayground.run) - Online Swift Playground.
 * [SwiftFiddle](https://swiftfiddle.com) - Playground for making, sharing, and embedding Swift code.
 
 ## Editor Support
@@ -1737,7 +1737,7 @@ In parternship with:
 * [Playbook](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically snapshots of them.
 * [PrivacyFlash Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
 * [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - ProtocolBuffers.
-* [Prototope](http://khan.github.io/Prototope/) - Library of lightweight interfaces for prototyping, bridged to JS.
+* [Prototope](https://khan.github.io/Prototope/) - Library of lightweight interfaces for prototyping, bridged to JS.
 * [R.swift](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
 * [RandomKit](https://github.com/nvzqz/RandomKit/) :penguin: - Random data generation.
 * [ReadabilityKit](https://github.com/exyte/ReadabilityKit) - Preview extractor for news, articles and full-texts.

@@ -4446,6 +4446,13 @@
       "homepage":"https://github.com/choefele/AlexaSkillsKit"
     },
     {
+      "title":"AmoreKit",
+      "category":"utility",
+      "description":"Sell and validate license keys in macOS apps distributed outside the App Store.",
+      "homepage":"https://github.com/AmoreComputer/AmoreKit",
+      "tags":["macos","licensing"]
+    },
+    {
       "title":"AwesomeCache",
       "category":"cache",
       "description":"Manage cache easy.",

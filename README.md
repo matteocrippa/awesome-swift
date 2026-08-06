@@ -1220,6 +1220,7 @@ In parternship with:
 * [BlueSignals](https://github.com/Kitura/BlueSignals) - IBM's Cross Platform OS signal handling library.
 * [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin-Legacy) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
 * [SystemKit](https://github.com/beltex/SystemKit/) - OS X system library.
+* [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) - Native macOS cleanup utility built with SwiftUI. Provides disk analysis, smart cleanup, and app uninstallation.
 
 ### Testing
 *A collection of testing frameworks.* [back to top](#readme) 

@@ -8750,6 +8750,13 @@
       "description":"A terminal coding agent with subagents and context compaction.",
       "homepage":"https://github.com/ivan-magda/swift-coding-agent",
       "tags":["agent","llm","cli"]
+    },
+    {
+      "title": "Axint",
+      "category": "misc",
+      "description": "Proof and repair tooling for Apple coding agents that validates Swift, runs Xcode evidence, repairs failures, and generates Apple-native capabilities.",
+      "homepage": "https://github.com/agenticempire/axint",
+      "tags": ["swift", "xcode", "ai", "app-intents", "swiftui"]
     }
   ]
 }

@@ -1168,6 +1168,7 @@ In parternship with:
 ### Security
 [back to top](#readme) 
 
+* [NetProof](https://github.com/rotazesoftware/netproof-ios-audit) - Privacy-first, deterministic network audit engine generating verifiable local reports.
 * [SecurePropertyStorage](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
 * [TouchBridge](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac.
 

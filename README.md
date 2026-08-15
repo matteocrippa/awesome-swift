@@ -171,6 +171,7 @@ In parternship with:
 [back to top](#readme) 
 
 * [Open Source Updates for Swift Projects](https://ossp-updates.beehiiv.com/) - A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.
+* [The iOS Weekly Brief](https://iosweeklybrief.com) - A weekly newsletter with Must/Quick Read picks, a Toolbox section, the iOS job market, and upcoming conferences, each with commentary on why it matters. Curated by Vlad Khambir.
 
 ### Official Guides
 [back to top](#readme) 

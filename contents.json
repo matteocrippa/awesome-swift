@@ -8027,6 +8027,12 @@
       "homepage":"https://github.com/Boris-Em/ColorKit"
     },
     {
+      "title":"PaletteKit",
+      "category":"colors",
+      "description":"Extracts dominant colors and renders adaptive SwiftUI and UIKit graphics from any image.",
+      "homepage":"https://github.com/2dubu/PaletteKit"
+    },
+    {
       "title":"TextBuilder",
       "category":"text",
       "description":"Like a SwiftUI ViewBuilder, but for Text.",

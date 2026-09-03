@@ -309,6 +309,7 @@ In parternship with:
 ### AI
 *Libs for AI based projects (Machine Learning, Neural Networks etc).* [back to top](#readme) 
 
+* [ane-embed-pipeline](https://github.com/Rezarys/ane-embed-pipeline) - Convert and quantize Hugging Face sentence-transformer models to Core ML packages tuned for the Apple Neural Engine, with a Swift package wrapper.
 * [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 * [DL4S](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
 * [EdgeRunner](https://github.com/christopherkarani/EdgeRunner) - Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.

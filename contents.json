@@ -816,6 +816,12 @@
       "homepage":"https://developer.apple.com/tutorials/swiftui"
     },
     {
+      "title":"Swift Learning Roadmap",
+      "category":"third-party-guides",
+      "description":"A learning path with Turkish resources covering Swift fundamentals and iOS development.",
+      "homepage":"https://github.com/asimcanyagiz/Swift-Roadmap"
+    },
+    {
       "title":"Swift Education",
       "category":"third-party-guides",
       "description":"A community of educators sharing materials for teaching Swift and app development.",

@@ -475,6 +475,7 @@ In parternship with:
 * [MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
 * [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces.
 * [Real-time Chat with Firebase](https://github.com/dopebase/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+* [swift-chat](https://github.com/unionst/swift-chat) - iMessage-faithful chat UI for SwiftUI: bubble tails, typing indicators, read receipts, attachments and keyboard handling in one view.
 * [swiftui-messaging-ui](https://github.com/FluidGroup/swiftui-messaging-ui) - Primitive SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.
 
 ### Colors

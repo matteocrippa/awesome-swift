@@ -8134,6 +8134,21 @@
       ]
     },
     {
+      "title":"SceneView",
+      "category":"augmented-reality",
+      "description":"Cross-platform 3D and AR SDK for SwiftUI, built on RealityKit, loading USDZ and glTF models at real-world scale.",
+      "homepage":"https://github.com/sceneview/sceneview",
+      "tags":[
+        "augmented reality",
+        "swiftui",
+        "realitykit",
+        "3d",
+        "usdz",
+        "gltf",
+        "visionOS"
+      ]
+    },
+    {
       "title":"Rugby",
       "category":"utility",
       "description":"🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.",

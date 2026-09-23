@@ -1076,6 +1076,18 @@
       ]
     },
     {
+      "title":"NobodyWho",
+      "category":"ai",
+      "description":"On-device LLM inference for apps and games across iOS, macOS, visionOS, and watchOS, powered by llama.cpp.",
+      "homepage":"https://github.com/nobodywho-ooo/nobodywho",
+      "tags":[
+        "llm",
+        "inference",
+        "on-device-ai",
+        "llama-cpp"
+      ]
+    },
+    {
       "title":"CenteredCollectionView",
       "category":"uicollectionview",
       "description":"A lightweight UICollectionViewLayout that pages and centers it's cells.",

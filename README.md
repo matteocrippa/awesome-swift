@@ -1168,6 +1168,7 @@ In parternship with:
 ### Security
 [back to top](#readme) 
 
+* [SecureBankKit](https://github.com/DeepakPal25/SecureBankKit) - Security toolkit for banking-style iOS apps: biometric auth, keychain, session management, jailbreak detection, and secure logging.
 * [SecurePropertyStorage](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
 * [TouchBridge](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac.
 

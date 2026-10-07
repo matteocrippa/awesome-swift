@@ -8750,6 +8750,13 @@
       "description":"A terminal coding agent with subagents and context compaction.",
       "homepage":"https://github.com/ivan-magda/swift-coding-agent",
       "tags":["agent","llm","cli"]
+    },
+    {
+      "title":"BerryDB Desktop",
+      "category":"multi-database",
+      "description":"Native macOS database management client for PostgreSQL, MySQL, SQLite, Redis, and MongoDB with local AI query assistance.",
+      "homepage":"https://github.com/berry-apps/berrydb-desktop",
+      "tags":["macos","appkit","database","sql","nosql","redis"]
     }
   ]
 }

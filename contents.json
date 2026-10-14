@@ -8750,6 +8750,13 @@
       "description":"A terminal coding agent with subagents and context compaction.",
       "homepage":"https://github.com/ivan-magda/swift-coding-agent",
       "tags":["agent","llm","cli"]
+    },
+    {
+      "title":"swift-sourcery-templates",
+      "category":"mock",
+      "description":"Sourcery templates that generate protocol mocks with call counts, captured arguments and handlers, type erasures and dependency-forwarding classes, with zero diagnostics under strict concurrency.",
+      "homepage":"https://github.com/modaal-agent/swift-sourcery-templates",
+      "tags":["sourcery","mock","codegen"]
     }
   ]
 }

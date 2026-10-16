@@ -8750,6 +8750,13 @@
       "description":"A terminal coding agent with subagents and context compaction.",
       "homepage":"https://github.com/ivan-magda/swift-coding-agent",
       "tags":["agent","llm","cli"]
+    },
+    {
+      "title":"Device Hub Pro",
+      "category":"misc",
+      "description":"A SwiftUI Mac app that mirrors and controls Android emulators, Android phones and iOS simulators side by side.",
+      "homepage":"https://github.com/gitemre/device-hub-pro",
+      "tags":["swiftui","macos","android","ios-simulator"]
     }
   ]
 }

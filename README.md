@@ -1168,6 +1168,7 @@ In parternship with:
 ### Security
 [back to top](#readme) 
 
+* [FaceLock](https://github.com/MaxSphinx/FaceLock) - Native biometric application shield with sub-second neural camera check and intruder photo capture.
 * [SecurePropertyStorage](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
 * [TouchBridge](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac.
 

@@ -3433,6 +3433,13 @@
       "homepage":"https://github.com/zjc19891106/MarkdownDisplayView"
     },
     {
+      "title":"MarkdownEngine",
+      "category":"text",
+      "description":"A native AppKit Markdown editor for macOS with live styling, wiki-style links, and LaTeX rendering, built on TextKit 2.",
+      "homepage":"https://github.com/nodes-app/swift-markdown-engine",
+      "tags":["macos"]
+    },
+    {
       "title":"MarkdownKit",
       "category":"text",
       "description":"A simple and customizable Markdown Parser.",

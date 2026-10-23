@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1112 | October 23, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1115 | October 23, 2026 |
 
 In parternship with:
 
@@ -281,6 +281,7 @@ In parternship with:
 ## Misc
 *Miscellaneous Swift related projects* 
 * [Beak](https://github.com/yonaskolb/Beak) - A command line interface for your Swift scripts.
+* [BerryDB Desktop](https://github.com/berry-apps/berrydb-desktop) - Native macOS database client for SQL and NoSQL databases with an optional AI assistant.
 * [BetterCodable](https://github.com/marksands/BetterCodable) - Level up your `Codable` structs through property wrappers. The goal of these property wrappers is to avoid implementing a custom `init(from decoder: Decoder)` throws and suffer through boilerplate.
 * [CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
 * [Forked](https://github.com/drewmccormack/Forked) - Generalized approach to managing shared data in Swift applications to support Local-first apps.

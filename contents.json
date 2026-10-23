@@ -8753,8 +8753,8 @@
     },
     {
       "title":"BerryDB Desktop",
-      "category":"multi-database",
-      "description":"Native macOS database management client for PostgreSQL, MySQL, SQLite, Redis, and MongoDB with local AI query assistance.",
+      "category":"misc",
+      "description":"Native macOS database client for SQL and NoSQL databases with an optional AI assistant.",
       "homepage":"https://github.com/berry-apps/berrydb-desktop",
       "tags":["macos","appkit","database","sql","nosql","redis"]
     }

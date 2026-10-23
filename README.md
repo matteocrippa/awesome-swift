@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1108 | October 23, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1109 | October 23, 2026 |
 
 In parternship with:
 
@@ -198,7 +198,7 @@ In parternship with:
 * [Developing iOS Apps with Swift](https://podcasts.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780) - Stanford course by Paul Hegarty.
 * [Hacking With Swift](https://www.hackingwithswift.com) - Complete training course that teaches app development through 30 hands-on projects, for free.
 * [Ray Wenderlich Tutorials, Videos, Podcasts and books](https://www.kodeco.com) - High quality programming tutorials.
-* [Swift & SwiftUI Tutorials](http://ww1.janeshswift.com) - SwiftUI learning with Ease.
+* [Swift & SwiftUI Tutorials](https://janeshsutharios.github.io/TechBlogs/) - SwiftUI learning with Ease.
 * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development.
 * [swift-tips](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
 * [SwiftDoc](https://sosumi.ai/) - Auto-generated documentation.
@@ -233,7 +233,7 @@ In parternship with:
 [back to top](#readme) 
 
 * [swift-vim](https://github.com/keith/swift.vim) - Vim runtime files.
-* [vim-polyglot](https://github.com/sheerun/vim-polyglot) - Language pack for vim that includes vim-swift.
+* [vim-polyglot](https://github.com/vim-polyglot/vim-polyglot) - Language pack for vim that includes vim-swift.
 
 ## Benchmark
 
@@ -313,7 +313,7 @@ In parternship with:
 * [DL4S](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
 * [EdgeRunner](https://github.com/christopherkarani/EdgeRunner) - Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.
 * [Espresso](https://github.com/christopherkarani/Espresso) - Compile transformers directly for Apple's Neural Engine.
-* [Fazm](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
+* [Fazm](https://github.com/mediar-ai/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [Open Agent SDK](https://github.com/terryso/open-agent-sdk-swift) - Open-source Agent SDK with full agent loop, 34 built-in tools, sub-agent orchestration, MCP integration, and multi-provider LLM support.
 * [OpenAI](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 * [swift-coding-agent](https://github.com/ivan-magda/swift-coding-agent) - A terminal coding agent with subagents and context compaction.
@@ -485,6 +485,7 @@ In parternship with:
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - An extension to manipulate colors easily.
 * [Gradients](https://github.com/Gradients/Gradients) - A curated collection of splendid 180+ gradients.
 * [Hue](https://github.com/zenangst/Hue) - Hue is the all-in-one coloring utility that you'll ever need.
+* [PaletteKit](https://github.com/2dubu/PaletteKit) - Extracts dominant colors and renders adaptive SwiftUI and UIKit graphics from any image.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.
 * [SheetyColors](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
 * [SwiftGen-Colors](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate `enums` for your `UIColor` constants.
@@ -874,7 +875,7 @@ In parternship with:
 * [Agrume](https://github.com/JanGorman/Agrume) - A lemony fresh iOS image viewer.
 * [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - AlamofireImage is an image component library for Alamofire.
 * [APNGKit](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
-* [ATGMediaBrowser](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
+* [ATGMediaBrowser](https://github.com/ounass-tech/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
 * [AXPhotoViewer](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
 * [BlockiesSwift](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator.
 * [Brightroom](https://github.com/FluidGroup/Brightroom) - An image editor and engine using CoreImage.
@@ -1512,12 +1513,12 @@ In parternship with:
 
 * [AKSwiftSlideMenu](https://github.com/ashishkakkad8/AKSwiftSlideMenu) - Slide Menu (Drawer).
 * [CircleMenu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant UI menu with a circular layout and material design animations.
-* [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - Sliding side menu.
+* [ENSwiftSideMenu](https://github.com/devgenios/ENSwiftSideMenu) - Sliding side menu.
 * [FanMenu](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
 * [FlowingMenu](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Guillotine style menu.
 * [HHFloatingView](https://github.com/hemangshah/HHFloatingView) - An easy to use and setup floating view for your app.
-* [InteractiveSideMenu](https://github.com/handsomecode/InteractiveSideMenu) - Customizable iOS Interactive Side Menu.
+* [InteractiveSideMenu](https://github.com/raw-materials/InteractiveSideMenu) - Customizable iOS Interactive Side Menu.
 * [KWDrawerController](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 * [Pagemenu](https://github.com/PageMenu/PageMenu) - Pagination enabled view controller.

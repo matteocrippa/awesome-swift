@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1110 | October 23, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1112 | October 23, 2026 |
 
 In parternship with:
 
@@ -286,6 +286,7 @@ In parternship with:
 * [Fugen](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.
 * [MemberwiseInit](https://github.com/gohanlon/swift-memberwise-init-macro) - `@MemberwiseInit` is a Swift Macro that can more often provide your intended `init`, while following the same safe-by-default semantics of Swift’s memberwise initializers.
 * [Model2App](https://github.com/Q-Mobile/Model2App) - Turn your data model into a working CRUD app.
+* [Oh My Android](https://github.com/ateymoori/oh-my-android) - A macOS control panel for the Android Emulator with one-click toggles and a built-in MCP server for AI agents.
 * [Surmagic](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.
 * [SwagGen](https://github.com/yonaskolb/SwagGen) :penguin: - A command line tool for generating a REST API from a Swagger spec based off Stencil templates.
 * [Swiftbrew](https://github.com/swiftbrew/Swiftbrew) - Homebrew for Swift packages.
@@ -464,6 +465,7 @@ In parternship with:
 * [ScrollableGraphView](https://github.com/philackm/ScrollableGraphView) - Adaptive scrollable graph view for iOS to visualise simple discrete datasets.
 * [SwiftChart](https://github.com/gpbl/SwiftChart) - A simple line and area charting library for iOS. Supports multiple series, partially filled series and touch events.
 * [SwiftCharts](https://github.com/ivnsch/SwiftCharts) - Highly customizable charts for iOS.
+* [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram) - SwiftUI library to render sunburst diagrams (multilevel pie / ring charts) from a tree of objects.
 * [SwiftUICharts](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
 * [TKRadarChart](https://github.com/TBXark/TKRadarChart) - A customizable radar chart.
 

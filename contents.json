@@ -8797,6 +8797,13 @@
       "tags":["agent","llm","cli"]
     },
     {
+      "title":"Grux",
+      "category":"ai",
+      "description":"A local-first AI agent app for macOS with mail, calendar, meeting tools, and support for Ollama or your own API key.",
+      "homepage":"https://github.com/dotcomjack/grux",
+      "tags":["agent","llm","macos","swiftui","ollama"]
+    },
+    {
       "title":"Device Hub Pro",
       "category":"misc",
       "description":"A SwiftUI Mac app that mirrors and controls Android emulators, Android phones and iOS simulators side by side.",

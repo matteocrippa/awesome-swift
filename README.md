@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1109 | October 23, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1110 | October 23, 2026 |
 
 In parternship with:
 
@@ -171,6 +171,7 @@ In parternship with:
 [back to top](#readme) 
 
 * [Open Source Updates for Swift Projects](https://ossp-updates.beehiiv.com/) - A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.
+* [The iOS Weekly Brief](https://iosweeklybrief.com) - A weekly newsletter with Must/Quick Read picks, a Toolbox section, the iOS job market, and upcoming conferences, each with commentary on why it matters.
 
 ### Official Guides
 [back to top](#readme) 

@@ -2684,7 +2684,7 @@
       "title":"StringSwitch",
       "category":"localization",
       "description":"Easily convert iOS .strings files to Android strings.xml format and vice versa.",
-      "homepage":"https://stringswitch.com"
+      "homepage":"https://fabdurso.com/en/stringswitch/"
     },
     {
       "title":"SwiftGen-L10n",
@@ -5926,7 +5926,7 @@
       "title":"Closures",
       "category":"utility",
       "description":"Swifty closures for UIKit and Foundation.",
-      "homepage":"https://github.com/vhesener/Closures"
+      "homepage":"https://github.com/dusty-commits/Closures"
     },
     {
       "title":"Corridor",
@@ -6969,7 +6969,7 @@
       "title":"OverlayContainer",
       "category":"ui",
       "description":"OverlayContainer makes it easier to develop overlay based interfaces, such as the one presented in the Apple Maps or Stocks apps.",
-      "homepage":"https://github.com/applidium/OverlayContainer"
+      "homepage":"https://github.com/gaetanzanella/OverlayContainer"
     },
     {
       "title":"ApplyStyleKit",
@@ -7220,7 +7220,7 @@
       "title":"ATGValidator",
       "category":"validation",
       "description":"Rule based validation framework with form and card validation support for iOS.",
-      "homepage":"https://github.com/altayer-digital/ATGValidator"
+      "homepage":"https://github.com/ounass-tech/ATGValidator"
     },
     {
       "title":"SPStorkController",

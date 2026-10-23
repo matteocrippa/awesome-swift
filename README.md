@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1107 | August 03, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1108 | October 23, 2026 |
 
 In parternship with:
 
@@ -1261,6 +1261,7 @@ In parternship with:
 * [edhita](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS.
 * [GMarkdown](https://github.com/GIKICoder/GMarkdown) - Markdown rendering library for iOS with support for tables, LaTeX, Mermaid, and code highlighting.
 * [MarkdownDisplayView](https://github.com/zjc19891106/MarkdownDisplayView) - A Markdown rendering component built on TextKit 2, providing smooth performance, rich customization options, and support for streaming AI-driven conversational interactions.
+* [MarkdownEngine](https://github.com/nodes-app/swift-markdown-engine) - A native AppKit Markdown editor for macOS with live styling, wiki-style links, and LaTeX rendering, built on TextKit 2.
 * [MarkdownKit](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
 * [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
 * [MarkyMark](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.

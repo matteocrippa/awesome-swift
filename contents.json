@@ -8750,6 +8750,13 @@
       "description":"A terminal coding agent with subagents and context compaction.",
       "homepage":"https://github.com/ivan-magda/swift-coding-agent",
       "tags":["agent","llm","cli"]
+    },
+    {
+      "title":"Grux",
+      "category":"ai",
+      "description":"A local-first AI agent app for macOS with mail, calendar, meetings and a shell whose commands can be undone, running on a local Ollama model or your own API key.",
+      "homepage":"https://github.com/dotcomjack/grux",
+      "tags":["agent","llm","macos","swiftui","ollama"]
     }
   ]
 }

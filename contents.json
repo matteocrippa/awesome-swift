@@ -8797,6 +8797,13 @@
       "tags":["agent","llm","cli"]
     },
     {
+      "title":"swift-sourcery-templates",
+      "category":"mock",
+      "description":"Sourcery templates for generating protocol mocks, type erasures, and dependency-forwarding classes.",
+      "homepage":"https://github.com/modaal-agent/swift-sourcery-templates",
+      "tags":["sourcery","mock","codegen"]
+    },
+    {
       "title":"BerryDB Desktop",
       "category":"misc",
       "description":"Native macOS database client for SQL and NoSQL databases with an optional AI assistant.",

@@ -6635,25 +6635,6 @@
       ]
     },
     {
-      "title":"EtherWalletKit",
-      "category":"utility",
-      "description":"Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.",
-      "homepage":"https://github.com/SteadyAction/EtherWalletKit",
-      "tags":[
-        "ethereum",
-        "wallet",
-        "ethereum-wallet",
-        "swift",
-        "ios",
-        "blockchain",
-        "coin",
-        "token",
-        "crypto",
-        "cryptocurrency",
-        "cryptowallet"
-      ]
-    },
-    {
       "title":"Cabbage",
       "category":"video",
       "description":"A video composition framework build on top of AVFoundation.",

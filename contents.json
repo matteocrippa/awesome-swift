@@ -7002,6 +7002,13 @@
       "homepage":"https://github.com/Q-Mobile/Model2App"
     },
     {
+      "title":"Oh My Android",
+      "category":"misc",
+      "description":"A macOS control panel for the Android Emulator with one-click toggles and a built-in MCP server for AI agents.",
+      "homepage":"https://github.com/ateymoori/oh-my-android",
+      "tags":["macos","android","emulator","mcp"]
+    },
+    {
       "title":"SwiftFFmpeg",
       "category":"video",
       "description":"A wrapper for the FFmpeg C API.",

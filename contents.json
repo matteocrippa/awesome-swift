@@ -2,7 +2,6 @@
   "title":"Awesome Swift",
   "header":"# Awesome Swift\n \n<!-- \n\nPLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)\n\n -->\n\n",
   "header_contributing":"Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!!",
-  "ios_app_link":"https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427",
   "categories":[
     {
       "title":"Guides",
@@ -6255,17 +6254,6 @@
       "homepage":"https://github.com/NextLevel/NextLevelSessionExporter"
     },
     {
-      "title":"Online Swift Playground",
-      "category":"repl",
-      "description":"Online Swift Playground.",
-      "homepage":"http://online.swiftplayground.run",
-      "tags":[
-        "swift",
-        "repl",
-        "playground"
-      ]
-    },
-    {
       "title":"ARVideoKit",
       "category":"augmented-reality",
       "description":"Capture & record ARKit videos, photos, Live Photos, and GIFs.",
@@ -6632,25 +6620,6 @@
       "homepage":"https://github.com/MihaelIsaev/FluentQuery",
       "tags":[
         "linux"
-      ]
-    },
-    {
-      "title":"EtherWalletKit",
-      "category":"utility",
-      "description":"Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.",
-      "homepage":"https://github.com/SteadyAction/EtherWalletKit",
-      "tags":[
-        "ethereum",
-        "wallet",
-        "ethereum-wallet",
-        "swift",
-        "ios",
-        "blockchain",
-        "coin",
-        "token",
-        "crypto",
-        "cryptocurrency",
-        "cryptowallet"
       ]
     },
     {

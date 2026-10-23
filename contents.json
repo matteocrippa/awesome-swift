@@ -6255,17 +6255,6 @@
       "homepage":"https://github.com/NextLevel/NextLevelSessionExporter"
     },
     {
-      "title":"Online Swift Playground",
-      "category":"repl",
-      "description":"Online Swift Playground.",
-      "homepage":"http://online.swiftplayground.run",
-      "tags":[
-        "swift",
-        "repl",
-        "playground"
-      ]
-    },
-    {
       "title":"ARVideoKit",
       "category":"augmented-reality",
       "description":"Capture & record ARKit videos, photos, Live Photos, and GIFs.",

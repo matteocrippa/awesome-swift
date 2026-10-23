@@ -8365,6 +8365,12 @@
       "homepage":"https://ossp-updates.beehiiv.com/"
     },
     {
+      "title":"The iOS Weekly Brief",
+      "category":"newsletter",
+      "description":"A weekly newsletter with Must/Quick Read picks, a Toolbox section, the iOS job market, and upcoming conferences, each with commentary on why it matters.",
+      "homepage":"https://iosweeklybrief.com"
+    },
+    {
       "title":"Popovers",
       "category":"ui",
       "description":"A library to present popovers. Simple, modern, and highly customizable. Not boring!",

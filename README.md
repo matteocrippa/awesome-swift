@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1117 | October 23, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1118 | October 23, 2026 |
 
 In parternship with:
 
@@ -319,6 +319,7 @@ In parternship with:
 * [EdgeRunner](https://github.com/christopherkarani/EdgeRunner) - Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.
 * [Espresso](https://github.com/christopherkarani/Espresso) - Compile transformers directly for Apple's Neural Engine.
 * [Fazm](https://github.com/mediar-ai/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
+* [Grux](https://github.com/dotcomjack/grux) - A local-first AI agent app for macOS with mail, calendar, meeting tools, and support for Ollama or your own API key.
 * [Open Agent SDK](https://github.com/terryso/open-agent-sdk-swift) - Open-source Agent SDK with full agent loop, 34 built-in tools, sub-agent orchestration, MCP integration, and multi-provider LLM support.
 * [OpenAI](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 * [swift-coding-agent](https://github.com/ivan-magda/swift-coding-agent) - A terminal coding agent with subagents and context compaction.

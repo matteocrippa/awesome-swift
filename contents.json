@@ -8754,7 +8754,7 @@
     {
       "title":"swift-sourcery-templates",
       "category":"mock",
-      "description":"Sourcery templates that generate protocol mocks with call counts, captured arguments and handlers, type erasures and dependency-forwarding classes, with zero diagnostics under strict concurrency.",
+      "description":"Sourcery templates for generating protocol mocks, type erasures, and dependency-forwarding classes.",
       "homepage":"https://github.com/modaal-agent/swift-sourcery-templates",
       "tags":["sourcery","mock","codegen"]
     }

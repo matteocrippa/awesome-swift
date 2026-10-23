@@ -997,7 +997,7 @@ In parternship with:
 * [Localize](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [Locheck](https://github.com/Asana/locheck) - Validate .strings and .stringsdict files for errors
-* [StringSwitch](https://stringswitch.com) - Easily convert iOS .strings files to Android strings.xml format and vice versa.
+* [StringSwitch](https://fabdurso.com/en/stringswitch/) - Easily convert iOS .strings files to Android strings.xml format and vice versa.
 * [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - A tool to auto-generate `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`).
 * [Translatio](https://github.com/andrealufino/Translatio) - Super lightweight library that helps you to localize strings, even directly in storyboards.
 
@@ -1374,7 +1374,7 @@ In parternship with:
 * [NeumorphismKit](https://github.com/y-okudera/NeumorphismKit) - Neumorphism framework for UIKit.
 * [NextGrowingTextView](https://github.com/FluidGroup/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
-* [OverlayContainer](https://github.com/applidium/OverlayContainer) - OverlayContainer makes it easier to develop overlay based interfaces, such as the one presented in the Apple Maps or Stocks apps.
+* [OverlayContainer](https://github.com/gaetanzanella/OverlayContainer) - OverlayContainer makes it easier to develop overlay based interfaces, such as the one presented in the Apple Maps or Stocks apps.
 * [Partition Kit](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content.
 * [Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 * [Preferences](https://github.com/sindresorhus/Settings) - Add a preferences window to your macOS app in minutes.
@@ -1726,7 +1726,7 @@ In parternship with:
 * [Basis](https://github.com/typelift/Basis) - Pure Declarative Programming.
 * [Bow](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
 * [CallbackURLKit](https://github.com/phimage/CallbackURLKit) - Implementation of x-callback-url (Inter app communication).
-* [Closures](https://github.com/vhesener/Closures) - Swifty closures for UIKit and Foundation.
+* [Closures](https://github.com/dusty-commits/Closures) - Swifty closures for UIKit and Foundation.
 * [Codextended](https://github.com/JohnSundell/Codextended) - Extensions giving Codable API type inference super powers.
 * [Curry](https://github.com/thoughtbot/Curry) - Function currying.
 * [Delegated](https://github.com/dreymonde/Delegated) - Closure-based delegation without memory leaks.
@@ -1792,7 +1792,7 @@ In parternship with:
 ### Validation
 *A collection of validation libs.* [back to top](#readme) 
 
-* [ATGValidator](https://github.com/altayer-digital/ATGValidator) - Rule based validation framework with form and card validation support for iOS.
+* [ATGValidator](https://github.com/ounass-tech/ATGValidator) - Rule based validation framework with form and card validation support for iOS.
 * [FormValidatorSwift](https://github.com/ustwo/formvalidator-swift) - Allows you to validate inputs of text fields and text views in a convenient way.
 * [Input Mask](https://github.com/RedMadRobot/input-mask-ios) - Pattern-based user input formatter, parser and validator for iOS.
 * [RxValidator](https://github.com/vbmania/RxValidator) - Simple, Extensible, Flexible Validation Checker.

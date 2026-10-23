@@ -825,7 +825,7 @@
       "title":"Swift & SwiftUI Tutorials",
       "category":"third-party-guides",
       "description":"SwiftUI learning with Ease.",
-      "homepage":"http://ww1.janeshswift.com"
+      "homepage":"https://janeshsutharios.github.io/TechBlogs/"
     },
     {
       "title":"30 Days of Swift",
@@ -909,7 +909,7 @@
       "title":"vim-polyglot",
       "category":"vim",
       "description":"Language pack for vim that includes vim-swift.",
-      "homepage":"https://github.com/sheerun/vim-polyglot"
+      "homepage":"https://github.com/vim-polyglot/vim-polyglot"
     },
     {
       "title":"open-source-ios-apps",
@@ -1046,7 +1046,7 @@
       "title":"Fazm",
       "category":"ai",
       "description":"A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.",
-      "homepage":"https://github.com/m13v/fazm",
+      "homepage":"https://github.com/mediar-ai/fazm",
       "tags":[
         "ai",
         "macos",
@@ -2310,7 +2310,7 @@
       "title":"ATGMediaBrowser",
       "category":"images",
       "description":"Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.",
-      "homepage":"https://github.com/altayer-digital/ATGMediaBrowser"
+      "homepage":"https://github.com/ounass-tech/ATGMediaBrowser"
     },
     {
       "title":"FacebookImagePicker",
@@ -4215,7 +4215,7 @@
       "title":"ENSwiftSideMenu",
       "category":"menu",
       "description":"Sliding side menu.",
-      "homepage":"https://github.com/evnaz/ENSwiftSideMenu"
+      "homepage":"https://github.com/devgenios/ENSwiftSideMenu"
     },
     {
       "title":"GuillotineMenu",
@@ -4227,7 +4227,7 @@
       "title":"InteractiveSideMenu",
       "category":"menu",
       "description":"Customizable iOS Interactive Side Menu.",
-      "homepage":"https://github.com/handsomecode/InteractiveSideMenu"
+      "homepage":"https://github.com/raw-materials/InteractiveSideMenu"
     },
     {
       "title":"Pagemenu",
@@ -8032,6 +8032,12 @@
       "category":"colors",
       "description":"Advanced color manipulation for iOS.",
       "homepage":"https://github.com/Boris-Em/ColorKit"
+    },
+    {
+      "title":"PaletteKit",
+      "category":"colors",
+      "description":"Extracts dominant colors and renders adaptive SwiftUI and UIKit graphics from any image.",
+      "homepage":"https://github.com/2dubu/PaletteKit"
     },
     {
       "title":"TextBuilder",

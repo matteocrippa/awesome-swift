@@ -816,6 +816,12 @@
       "homepage":"https://developer.apple.com/tutorials/swiftui"
     },
     {
+      "title":"Swift Learning Roadmap",
+      "category":"third-party-guides",
+      "description":"A learning path with Turkish resources covering Swift fundamentals and iOS development.",
+      "homepage":"https://github.com/asimcanyagiz/Swift-Roadmap"
+    },
+    {
       "title":"Swift Education",
       "category":"third-party-guides",
       "description":"A community of educators sharing materials for teaching Swift and app development.",
@@ -825,7 +831,7 @@
       "title":"Swift & SwiftUI Tutorials",
       "category":"third-party-guides",
       "description":"SwiftUI learning with Ease.",
-      "homepage":"http://ww1.janeshswift.com"
+      "homepage":"https://janeshsutharios.github.io/TechBlogs/"
     },
     {
       "title":"30 Days of Swift",
@@ -909,7 +915,7 @@
       "title":"vim-polyglot",
       "category":"vim",
       "description":"Language pack for vim that includes vim-swift.",
-      "homepage":"https://github.com/sheerun/vim-polyglot"
+      "homepage":"https://github.com/vim-polyglot/vim-polyglot"
     },
     {
       "title":"open-source-ios-apps",
@@ -1046,7 +1052,7 @@
       "title":"Fazm",
       "category":"ai",
       "description":"A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.",
-      "homepage":"https://github.com/m13v/fazm",
+      "homepage":"https://github.com/mediar-ai/fazm",
       "tags":[
         "ai",
         "macos",
@@ -2310,7 +2316,7 @@
       "title":"ATGMediaBrowser",
       "category":"images",
       "description":"Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.",
-      "homepage":"https://github.com/altayer-digital/ATGMediaBrowser"
+      "homepage":"https://github.com/ounass-tech/ATGMediaBrowser"
     },
     {
       "title":"FacebookImagePicker",
@@ -3433,6 +3439,13 @@
       "homepage":"https://github.com/zjc19891106/MarkdownDisplayView"
     },
     {
+      "title":"MarkdownEngine",
+      "category":"text",
+      "description":"A native AppKit Markdown editor for macOS with live styling, wiki-style links, and LaTeX rendering, built on TextKit 2.",
+      "homepage":"https://github.com/nodes-app/swift-markdown-engine",
+      "tags":["macos"]
+    },
+    {
       "title":"MarkdownKit",
       "category":"text",
       "description":"A simple and customizable Markdown Parser.",
@@ -4208,7 +4221,7 @@
       "title":"ENSwiftSideMenu",
       "category":"menu",
       "description":"Sliding side menu.",
-      "homepage":"https://github.com/evnaz/ENSwiftSideMenu"
+      "homepage":"https://github.com/devgenios/ENSwiftSideMenu"
     },
     {
       "title":"GuillotineMenu",
@@ -4220,7 +4233,7 @@
       "title":"InteractiveSideMenu",
       "category":"menu",
       "description":"Customizable iOS Interactive Side Menu.",
-      "homepage":"https://github.com/handsomecode/InteractiveSideMenu"
+      "homepage":"https://github.com/raw-materials/InteractiveSideMenu"
     },
     {
       "title":"Pagemenu",
@@ -8027,6 +8040,12 @@
       "homepage":"https://github.com/Boris-Em/ColorKit"
     },
     {
+      "title":"PaletteKit",
+      "category":"colors",
+      "description":"Extracts dominant colors and renders adaptive SwiftUI and UIKit graphics from any image.",
+      "homepage":"https://github.com/2dubu/PaletteKit"
+    },
+    {
       "title":"TextBuilder",
       "category":"text",
       "description":"Like a SwiftUI ViewBuilder, but for Text.",
@@ -8350,6 +8369,12 @@
       "category":"newsletter",
       "description":"A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.",
       "homepage":"https://ossp-updates.beehiiv.com/"
+    },
+    {
+      "title":"The iOS Weekly Brief",
+      "category":"newsletter",
+      "description":"A weekly newsletter with Must/Quick Read picks, a Toolbox section, the iOS job market, and upcoming conferences, each with commentary on why it matters.",
+      "homepage":"https://iosweeklybrief.com"
     },
     {
       "title":"Popovers",
@@ -8757,6 +8782,13 @@
       "description":"Native macOS database client for SQL and NoSQL databases with an optional AI assistant.",
       "homepage":"https://github.com/berry-apps/berrydb-desktop",
       "tags":["macos","appkit","database","sql","nosql","redis"]
+    },
+    {
+      "title":"PaintKit",
+      "category":"images",
+      "description":"Raster drawing engine with no UI and no dependencies.",
+      "homepage":"https://github.com/joshlin2201/itspaint",
+      "tags":["macos"]
     }
   ]
 }

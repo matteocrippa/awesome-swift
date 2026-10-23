@@ -8797,6 +8797,13 @@
       "tags":["agent","llm","cli"]
     },
     {
+      "title":"Device Hub Pro",
+      "category":"misc",
+      "description":"A SwiftUI Mac app that mirrors and controls Android emulators, Android phones and iOS simulators side by side.",
+      "homepage":"https://github.com/gitemre/device-hub-pro",
+      "tags":["swiftui","macos","android","ios-simulator"]
+    },
+    {
       "title":"swift-sourcery-templates",
       "category":"mock",
       "description":"Sourcery templates for generating protocol mocks, type erasures, and dependency-forwarding classes.",

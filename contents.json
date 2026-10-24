@@ -8672,6 +8672,16 @@
       ]
     },
     {
+      "title":"suiss/ui",
+      "category":"ui",
+      "description":"Accessible, token-driven SwiftUI components with a clean, minimal design.",
+      "homepage":"https://github.com/e-suiss/ui",
+      "tags":[
+        "swiftui",
+        "design-system"
+      ]
+    },
+    {
       "title": "FlagAndCountryCode",
       "category": "utility",
       "description": "FlagAndCountryCode provides phone codes and flags for every country. Works on UIKit and SwiftUI",

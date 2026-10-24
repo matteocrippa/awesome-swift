@@ -8799,6 +8799,18 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"AppDuo",
+      "category":"misc",
+      "description":"Native macOS app cloner with separate data directories and custom names and icons.",
+      "homepage":"https://github.com/tamia6/AppDuo",
+      "tags":[
+        "macos",
+        "swiftui",
+        "app-cloner",
+        "multi-account"
+      ]
     }
   ]
 }

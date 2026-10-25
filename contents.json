@@ -6538,6 +6538,13 @@
       "homepage":"https://github.com/jogendra/example-ios-apps"
     },
     {
+      "title":"MotionBook",
+      "category":"other-awesome-lists",
+      "description":"Catalog of open-source iOS motion, transition and UI libraries with live demos in a free App Store app, a machine-readable catalog.json and llms.txt, refreshed weekly.",
+      "homepage":"https://github.com/younatics/MotionBook",
+      "tags":["animation", "catalog", "llms.txt"]
+    },
+    {
       "title":"Crossroad",
       "category":"app-routing",
       "description":":oncoming_bus: Crossroad is an URL router focused on handling Custom URL Schemes.",

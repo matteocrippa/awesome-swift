@@ -8806,6 +8806,17 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"Swift95",
+      "category":"ui",
+      "description":"A Windows 95-inspired SwiftUI component library for building nostalgic apps.",
+      "homepage":"https://github.com/DimaMishchenko/swift95",
+      "tags":[
+        "swiftui",
+        "ios",
+        "macos"
+      ]
     }
   ]
 }

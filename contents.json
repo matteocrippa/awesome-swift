@@ -8806,6 +8806,13 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"WishKit",
+      "category":"app-store",
+      "description":"In-app feature request and feedback board where users submit and vote on features.",
+      "homepage":"https://github.com/wishkit/wishkit-ios",
+      "tags":["swiftui","ios","macos","visionos"]
     }
   ]
 }

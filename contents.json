@@ -8806,6 +8806,12 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"ClayGlobe",
+      "category":"maps",
+      "description":"A claymorphic 3D globe that plants a waving flag on every country you visit.",
+      "homepage":"https://github.com/haplollc/ClayGlobe"
     }
   ]
 }

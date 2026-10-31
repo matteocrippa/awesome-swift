@@ -8806,6 +8806,13 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"Rime",
+      "category":"pdf",
+      "description":"Native macOS PDF reader where everything outside the active page freezes into frosted ice.",
+      "homepage":"https://github.com/Yvsleyen00941/Rime",
+      "tags":["macos", "appkit", "pdfkit"]
     }
   ]
 }

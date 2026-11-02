@@ -8451,6 +8451,13 @@
       "homepage":"https://github.com/MacPaw/OpenAI"
     },
     {
+      "title":"swift-language-models",
+      "category":"ai",
+      "description":"One Foundation Models API for every provider's language models, starting with OpenRouter's, with typed model catalogs, tools, guided generation, streaming and reasoning.",
+      "homepage":"https://github.com/dioKaratzas/swift-language-models",
+      "tags":["llm", "foundation-models", "openrouter", "ai"]
+    },
+    {
       "title":"L10nLint",
       "category":"quality",
       "description":"A linter tool for Localizable.strings.",

@@ -8806,6 +8806,13 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"JSONDrivenUI",
+      "category":"ui",
+      "description":"Build native SwiftUI views from JSON, or convert SwiftUI code back to JSON.",
+      "homepage":"https://github.com/EnesKaraosman/JSONDrivenUI",
+      "tags":["swiftui","server-driven-ui","json","ios","macos"]
     }
   ]
 }

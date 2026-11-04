@@ -7998,6 +7998,12 @@
       "homepage":"https://github.com/apple/swift-argument-parser"
     },
     {
+      "title":"hark",
+      "category":"command-line",
+      "description":"Capture microphone, system or per-app audio on macOS via Core Audio process taps and transcribe it on-device.",
+      "homepage":"https://github.com/PhantomYdn/hark"
+    },
+    {
       "title":"Puppy",
       "category":"logging",
       "description":"A flexible logging library that supports multiple transports and platforms.",

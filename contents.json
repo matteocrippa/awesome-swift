@@ -2738,6 +2738,12 @@
       ]
     },
     {
+      "title":"Shipbook",
+      "category":"logging",
+      "description":"Remote logging that uploads app logs session by session to a cloud console with grouped errors and alerts.",
+      "homepage":"https://github.com/ShipBook/ShipBookSDK-iOS"
+    },
+    {
       "title":"SwiftyBeaver",
       "category":"logging",
       "description":"Multi-platform logging during development & release.",

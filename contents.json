@@ -8433,10 +8433,10 @@
       "homepage":"https://github.com/marksands/BetterCodable"
     },
     {
-      "title":"Periphery",
+      "title":"outskirts",
       "category":"utility",
-      "description":"A tool to identify unused code in Swift projects.",
-      "homepage":"https://github.com/peripheryapp/periphery"
+      "description":"Find unused code in Swift projects. Maintained successor of the archived Periphery.",
+      "homepage":"https://github.com/tiny-earth-moon/outskirts"
     },
     {
       "title":"xc",

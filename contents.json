@@ -8806,6 +8806,13 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"Loam",
+      "category":"text",
+      "description":"Native macOS Markdown notebook where every feature is a plugin, with notes kept as plain files on disk.",
+      "homepage":"https://github.com/Azilone/Loam.md",
+      "tags":["macos","appkit","swiftui","markdown","notes"]
     }
   ]
 }

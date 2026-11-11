@@ -284,6 +284,7 @@ In parternship with:
 * [BerryDB Desktop](https://github.com/berry-apps/berrydb-desktop) - Native macOS database client for SQL and NoSQL databases with an optional AI assistant.
 * [BetterCodable](https://github.com/marksands/BetterCodable) - Level up your `Codable` structs through property wrappers. The goal of these property wrappers is to avoid implementing a custom `init(from decoder: Decoder)` throws and suffer through boilerplate.
 * [CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
+* [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Unified daily productivity dashboard and tactile HUD for macOS and iOS.
 * [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - A SwiftUI Mac app that mirrors and controls Android emulators, Android phones and iOS simulators side by side.
 * [Forked](https://github.com/drewmccormack/Forked) - Generalized approach to managing shared data in Swift applications to support Local-first apps.
 * [Fugen](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.

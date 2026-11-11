@@ -985,7 +985,7 @@
     {
       "title":"Tuist",
       "category":"misc",
-      "description":"An open source command line tool to create, maintain and interact with your Xcode projects at scale.",
+      "description":"Build infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents.",
       "homepage":"https://github.com/tuist/tuist"
     },
     {

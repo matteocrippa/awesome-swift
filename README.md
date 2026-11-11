@@ -409,6 +409,7 @@ In parternship with:
 * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases framework.
 
 ### Audio
+- [Needle](https://github.com/Yvsleyen00941/Needle) - What's playing on macOS in the empty corner beside the Dock. (SwiftUI & AppKit)
 *Libs to work with audio* [back to top](#readme) 
 
 * [AudioKit](https://github.com/audiokit/AudioKit) - Powerful audio synthesis, processing and analysis, without the steep learning curve.

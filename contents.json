@@ -8806,6 +8806,13 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"LayoutKeeper",
+      "category":"misc",
+      "description":"Menu bar app that remembers window layouts per external monitor and restores position, size, and Space on reconnect.",
+      "homepage":"https://github.com/tumingke0/LayoutKeeper",
+      "tags":["macos","swiftui","appkit","window-manager"]
     }
   ]
 }

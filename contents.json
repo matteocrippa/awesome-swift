@@ -8806,6 +8806,13 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"SwiftyChat",
+      "category":"chat",
+      "description":"Lightweight SwiftUI chat UI with 11 built-in message types, 8 themes, and iOS/macOS support.",
+      "homepage":"https://github.com/EnesKaraosman/SwiftyChat",
+      "tags":["swiftui","chat","ios","macos"]
     }
   ]
 }

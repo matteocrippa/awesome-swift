@@ -253,6 +253,7 @@ In parternship with:
 * [MotionBook](https://github.com/younatics/MotionBook) - Catalog of open-source iOS motion, transition and UI libraries with live demos in a free App Store app, a machine-readable catalog.json and llms.txt, refreshed weekly.
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 * [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
+* [No Stairs Please](https://nostairsplease.com/) - Live-music venue directory and MCP server (`https://nostairsplease.com/mcp`) for touring musicians.
 
 ## Dependency Managers
 *Dependency manager software for Swift.* 

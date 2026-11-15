@@ -296,6 +296,7 @@ In parternship with:
 * [SwiftGen](https://github.com/SwiftGen/SwiftGen) - A suite of tools to auto-generate code for various assets of your project.
 * [SwiftKit](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework 📦.
 * [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform framework projects from the command line.
+* [Tape](https://github.com/Yvsleyen00941/Tape) - Stock ticker for macOS in the empty corner beside the Dock: one listing at a time, in its logo's colour.
 * [Toybox](https://github.com/giginet/Toybox) - Xcode Playground management made easy.
 * [Tuist](https://github.com/tuist/tuist) - Build infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents.
 * [xc](https://github.com/s2mr/xc) - A tool to open the Xcode project file by the specified version.

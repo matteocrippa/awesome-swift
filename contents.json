@@ -8806,6 +8806,13 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"Mooziac",
+      "category":"audio",
+      "description":"Native macOS menu bar and 4K YouTube player for YouTube Music with SponsorBlock and trackpad gestures.",
+      "homepage":"https://github.com/shirkeharsh/mooziac",
+      "tags":["macos","appkit","swift","youtube-music","youtube","audio-player"]
     }
   ]
 }

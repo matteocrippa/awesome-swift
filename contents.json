@@ -8806,6 +8806,12 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"MuscleMapKit",
+      "category":"ui-3d",
+      "description":"Interactive 3D muscle map. Shade muscles by how hard they were worked, spin the body, tap a group.",
+      "homepage":"https://github.com/haplollc/MuscleMapKit"
     }
   ]
 }

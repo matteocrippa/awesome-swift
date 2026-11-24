@@ -8806,6 +8806,13 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"MacroSIP",
+      "category":"misc",
+      "description":"Native macOS SIP softphone in the spirit of MicroSIP, built with SwiftUI and PJSIP.",
+      "homepage":"https://github.com/HSMM/MacroSIP",
+      "tags":["macos","swiftui","sip","voip","pjsip"]
     }
   ]
 }

@@ -8806,6 +8806,12 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"Mirage",
+      "category":"ai",
+      "description":"On-device diffusion image generation behind a tight API, supporting SD, SDXL, SD3, Flux, Chroma, Qwen-Image and more.",
+      "homepage":"https://github.com/haplollc/Mirage"
     }
   ]
 }

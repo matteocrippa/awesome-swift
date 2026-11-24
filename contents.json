@@ -8806,6 +8806,12 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"Minted",
+      "category":"svg",
+      "description":"Turn any SVG into a physically-lit 3D gold medallion.",
+      "homepage":"https://github.com/haplollc/Minted"
     }
   ]
 }

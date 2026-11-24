@@ -8806,6 +8806,12 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"Gepetto",
+      "category":"ai",
+      "description":"A browser agent that drives a real WKWebView from one sentence, with small on-device models, and lets a person pause and take over at any time.",
+      "homepage":"https://github.com/haplollc/Gepetto"
     }
   ]
 }

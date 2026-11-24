@@ -8806,6 +8806,12 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"SiriGlass",
+      "category":"animation",
+      "description":"Liquid Glass that pours out of the Dynamic Island and lights up with voice, in one modifier.",
+      "homepage":"https://github.com/haplollc/SiriGlass"
     }
   ]
 }

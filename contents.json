@@ -8806,6 +8806,12 @@
       "description":"Raster drawing engine with no UI and no dependencies.",
       "homepage":"https://github.com/joshlin2201/itspaint",
       "tags":["macos"]
+    },
+    {
+      "title":"ProcessingField",
+      "category":"animation",
+      "description":"A progress field: a grid of marks whose sizes describe one soft shape that drifts, folds and breathes while the app is busy.",
+      "homepage":"https://github.com/haplollc/ProcessingField"
     }
   ]
 }
